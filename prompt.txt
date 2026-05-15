@@ -1,0 +1,285 @@
+Bạn là senior full-stack developer. Hãy tạo một project web xem phim cá nhân theo yêu cầu sau.
+
+MỤC TIÊU
+- Web xem phim cá nhân, miễn phí, đơn giản, nhanh gọn.
+- Không dùng database.
+- Dữ liệu phim được build thành JSON tĩnh trong public/data.
+- Có trang admin nhẹ để xem thống kê, danh sách phim theo thể loại và bấm cập nhật thủ công.
+- Có GitHub Actions để cập nhật tự động mỗi tuần 1 lần hoặc chạy thủ công.
+- Deploy được lên Cloudflare Pages bằng static export.
+
+CÔNG NGHỆ
+- Next.js App Router
+- TypeScript
+- Tailwind CSS
+- Không dùng database
+- Không cần Supabase
+- Không cần backend server chạy 24/7
+- Static export: next.config.js cần output: "export"
+- Player: ưu tiên iframe trước; nếu có m3u8 thì tạo component hỗ trợ hls.js nhưng có thể để fallback.
+- Package manager: npm
+
+CÁC API NGUỒN
+Tạo adapter cho các nguồn sau, nhưng có thể implement mock/fallback nếu endpoint thực tế chưa chắc chắn:
+- API_PHIMAPI="https://phimapi.com"
+- API_NGUONC="https://phim.nguonc.com"
+- API_OPHIM1="https://ophim1.com"
+- API_ANIMAPPER="https://api.animapper.net/api/v1"
+
+YÊU CẦU KIẾN TRÚC
+Project cần có cấu trúc đại khái:
+
+movie-personal/
+  app/
+    page.tsx
+    phim/[id]/page.tsx
+    xem/[id]/page.tsx
+    tim-kiem/page.tsx
+    admin/page.tsx
+    admin/categories/page.tsx
+    admin/categories/[slug]/page.tsx
+    admin/movies/page.tsx
+  components/
+    Header.tsx
+    MovieCard.tsx
+    MovieGrid.tsx
+    Player.tsx
+    EpisodeList.tsx
+    SourceSelector.tsx
+    AdminStatCard.tsx
+  lib/
+    data.ts
+    normalize.ts
+    storage.ts
+    types.ts
+    sources.ts
+    search.ts
+  scripts/
+    sync-movies.ts
+  public/
+    data/
+      manifest.json
+      stats.json
+      latest.json
+      search-index.json
+      categories.json
+      category/
+        sample/
+          page-1.json
+      movies/
+        sample-movie.json
+  .github/
+    workflows/
+      sync-movies.yml
+  next.config.js
+  package.json
+  tailwind.config.ts
+  tsconfig.json
+  README.md
+
+DỮ LIỆU CHUẨN HÓA
+Tạo types:
+
+type MovieSource = "ophim" | "phimapi" | "nguonc" | "animapper";
+
+type MovieListItem = {
+  id: string;
+  source: MovieSource;
+  slug: string;
+  name: string;
+  originName?: string;
+  posterUrl?: string;
+  thumbUrl?: string;
+  year?: number;
+  type?: "single" | "series" | "anime" | "tvshow";
+  status?: "ongoing" | "completed" | "unknown";
+  episodeCurrent?: string;
+  categories: { name: string; slug: string }[];
+  countries?: { name: string; slug: string }[];
+};
+
+type Episode = {
+  name: string;
+  slug?: string;
+  serverName: string;
+  embedUrl?: string;
+  m3u8Url?: string;
+};
+
+type MovieDetail = MovieListItem & {
+  description?: string;
+  quality?: string;
+  lang?: string;
+  episodes: Episode[];
+  sources?: {
+    source: MovieSource;
+    slug: string;
+    episodeCount?: number;
+    priority?: number;
+  }[];
+};
+
+type Stats = {
+  updatedAt: string;
+  totalMovies: number;
+  bySource: Record<string, number>;
+  byType: Record<string, number>;
+  byStatus: Record<string, number>;
+  byCategory: {
+    slug: string;
+    name: string;
+    count: number;
+  }[];
+};
+
+CÁC FILE JSON CẦN SINH RA
+- public/data/manifest.json
+- public/data/stats.json
+- public/data/latest.json
+- public/data/search-index.json
+- public/data/categories.json
+- public/data/category/{categorySlug}/page-1.json, page-2.json...
+- public/data/movies/{movieId}.json
+
+YÊU CẦU SYNC SCRIPT
+Tạo scripts/sync-movies.ts chạy bằng:
+npm run sync
+npm run sync -- --mode=latest
+npm run sync -- --mode=full
+
+Script cần:
+1. Đọc config nguồn API từ lib/sources.ts hoặc biến môi trường.
+2. Gọi các nguồn enabled.
+3. Lấy danh sách phim mới cập nhật.
+4. Lấy chi tiết phim nếu có thể.
+5. Chuẩn hóa dữ liệu về MovieListItem/MovieDetail.
+6. Gộp phim trùng đơn giản bằng globalKey:
+   - ưu tiên originName + year
+   - nếu không có originName thì dùng name + year
+   - normalize tiếng Việt, bỏ dấu, lowercase, thay ký tự đặc biệt bằng "-"
+7. Nếu trùng thì chỉ giữ 1 phim chính, lưu các source vào sources[].
+8. Tạo latest.json.
+9. Tạo search-index.json.
+10. Tạo stats.json.
+11. Tạo category/{slug}/page-n.json, mỗi page 24 phim.
+12. Tạo movies/{id}.json.
+13. Nếu API lỗi thì không crash toàn bộ script; ghi log ra console và tiếp tục nguồn khác.
+14. Nếu không lấy được API thật, sinh dữ liệu sample để app vẫn chạy được.
+
+YÊU CẦU ADMIN
+Không cần đăng nhập ở bản đầu, nhưng tạo biến NEXT_PUBLIC_ADMIN_PASSWORD tùy chọn:
+- Nếu biến này tồn tại, admin page cần có màn nhập mật khẩu đơn giản.
+- Lưu trạng thái đăng nhập admin bằng sessionStorage.
+- Nếu biến không tồn tại, cho vào admin bình thường.
+
+Admin có các trang:
+1. /admin
+   - Hiển thị dashboard:
+     - Tổng số phim
+     - Lần cập nhật gần nhất
+     - Số phim theo nguồn
+     - Số phim theo loại
+     - Số phim theo trạng thái
+     - Top thể loại có nhiều phim
+   - Có nút hướng dẫn “Cập nhật thủ công bằng GitHub Actions”
+   - Có nút copy command: npm run sync
+
+2. /admin/categories
+   - Đọc stats.json
+   - Hiển thị danh sách thể loại và số phim.
+   - Bấm vào thể loại sang /admin/categories/[slug].
+
+3. /admin/categories/[slug]
+   - Đọc public/data/category/{slug}/page-1.json.
+   - Hiển thị danh sách phim theo thể loại.
+   - Có phân trang nếu có nhiều page.
+
+4. /admin/movies
+   - Đọc search-index.json.
+   - Có ô tìm kiếm client-side.
+   - Có filter theo nguồn, thể loại, năm, trạng thái nếu dữ liệu có.
+   - Hiển thị danh sách phim.
+
+YÊU CẦU WEB CHÍNH
+1. Trang chủ /
+   - Đọc latest.json.
+   - Hiển thị phim mới cập nhật.
+   - Có link đến tìm kiếm, admin, thể loại.
+   - Responsive mobile.
+
+2. /phim/[id]
+   - Đọc public/data/movies/{id}.json.
+   - Hiển thị chi tiết phim.
+   - Danh sách tập.
+   - Nút xem phim.
+   - Nút yêu thích lưu localStorage.
+
+3. /xem/[id]
+   - Đọc movie detail.
+   - Hiển thị player.
+   - Cho chọn tập.
+   - Cho chọn server/source nếu có.
+   - Lưu lịch sử xem vào localStorage.
+
+4. /tim-kiem
+   - Đọc search-index.json.
+   - Tìm kiếm client-side theo name/originName.
+   - Hiển thị kết quả.
+
+LOCALSTORAGE
+Tạo lib/storage.ts:
+- getFavorites()
+- toggleFavorite(movie)
+- isFavorite(id)
+- getWatchHistory()
+- addWatchHistory(movie, episode)
+
+GIAO DIỆN
+- Dark theme mặc định.
+- Tailwind CSS.
+- Giao diện đơn giản, đẹp, dễ xem trên điện thoại.
+- Movie card có poster, tên, năm, tập hiện tại.
+- Admin dùng card và bảng đơn giản.
+
+GITHUB ACTIONS
+Tạo .github/workflows/sync-movies.yml:
+- Chạy mỗi Chủ nhật.
+- Cho phép chạy thủ công bằng workflow_dispatch.
+- Setup Node 20.
+- npm install.
+- npm run sync -- --mode=${{ github.event.inputs.mode || 'latest' }}
+- git add public/data
+- commit nếu có thay đổi
+- push lại repo.
+
+README
+Viết README bằng tiếng Việt, hướng dẫn:
+1. Cài local:
+   npm install
+   npm run dev
+2. Chạy sync:
+   npm run sync
+3. Build static:
+   npm run build
+4. Deploy Cloudflare Pages:
+   - Build command: npm run build
+   - Output folder: out
+5. Cập nhật thủ công:
+   - Vào GitHub Actions
+   - Chọn Sync Movies
+   - Run workflow
+6. Cập nhật tự động:
+   - Mặc định mỗi Chủ nhật
+7. Cấu hình nguồn API trong lib/sources.ts hoặc .env:
+   API_PHIMAPI
+   API_NGUONC
+   API_OPHIM1
+   API_ANIMAPPER
+
+LƯU Ý QUAN TRỌNG
+- Không dùng API Routes của Next.js vì cần static export.
+- Mọi dữ liệu web chính/admin phải đọc từ JSON tĩnh trong public/data.
+- Admin bản đầu không cần gọi server để sync, chỉ hướng dẫn hoặc mở link GitHub Actions.
+- Code phải chạy được ngay cả khi API lỗi bằng sample data.
+- Ưu tiên code rõ ràng, dễ sửa, không over-engineer.
+- Tạo đầy đủ file cần thiết, không chỉ pseudo-code.
