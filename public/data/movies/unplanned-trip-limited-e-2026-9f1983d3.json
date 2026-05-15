@@ -1,0 +1,55 @@
+{
+  "id": "unplanned-trip-limited-e-2026-9f1983d3",
+  "source": "ophim",
+  "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+  "name": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+  "originName": "Unplanned Trip: Limited Edition",
+  "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-di-ngau-hung-ban-gioi-han-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-di-ngau-hung-ban-gioi-han-thumb.jpg",
+  "year": 2026,
+  "type": "tvshow",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Vài năm sau khi Jung Yu Mi, Park Seo Jun và Choi Woo Shik trở thành những ông chủ nhà hàng thành đạt trong một bộ phim khác, họ tái hợp để tận hưởng thời gian nghỉ ngơi khỏi công việc thường nhật. Bộ ba sẽ đi du lịch khắp Hàn Quốc, nhưng có một điều bất ngờ: họ không biết chính xác mình sẽ đi đâu hay bằng cách nào, và mỗi ngày họ phải đến một thành phố mới. Được sự dẫn dắt không chính thức của nhà sản xuất truyền hình huyền thoại Na Yeong Seok, người được gọi thân mật là \"Na PD\", các diễn viên sẽ có một hành trình khó quên khi họ buộc phải đưa ra những lựa chọn khó khăn nhưng cũng rất thú vị trên đường đi</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b303e3e45397755f4e15eaa2a662ec02",
+      "m3u8Url": "https://vip.opstream10.com/20260505/33565_b303e3e4/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/8ffdcade0d19115e2b5bedb1d94dc878",
+      "m3u8Url": "https://vip.opstream10.com/20260515/33693_8ffdcade/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

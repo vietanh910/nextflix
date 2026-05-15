@@ -1,0 +1,780 @@
+{
+  "slug": "hinh-su",
+  "name": "Hình Sự",
+  "page": 13,
+  "totalPages": 60,
+  "items": [
+    {
+      "id": "mobland-2025",
+      "source": "ophim",
+      "slug": "lanh-dia-tu-chien",
+      "name": "Lãnh Địa Tử Chiến",
+      "originName": "MobLand",
+      "posterUrl": "https://img.ophim.live/uploads/movies/lanh-dia-tu-chien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/lanh-dia-tu-chien-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "bleed-for-past-2025",
+      "source": "ophim",
+      "slug": "lao-cau",
+      "name": "Lão Cẩu",
+      "originName": "Bleed for Past",
+      "posterUrl": "https://img.ophim.live/uploads/movies/lao-cau-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/lao-cau-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "unmasked-2025",
+      "source": "ophim",
+      "slug": "lat-tay-toi-ac",
+      "name": "Lật Tẩy Tội Ác",
+      "originName": "Unmasked",
+      "posterUrl": "https://img.ophim.live/uploads/movies/lat-tay-toi-ac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/lat-tay-toi-ac-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "laws-of-man-2025",
+      "source": "ophim",
+      "slug": "laws-of-man",
+      "name": "Laws of Man",
+      "originName": "Laws of Man",
+      "posterUrl": "https://img.ophim.live/uploads/movies/laws-of-man-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/laws-of-man-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "harlan-coben-s-lazarus-2025",
+      "source": "ophim",
+      "slug": "harlan-cobens-lazarus",
+      "name": "Lazarus: Bóng Ma Quá Khứ",
+      "originName": "Harlan Coben's Lazarus",
+      "posterUrl": "https://img.ophim.live/uploads/movies/harlan-cobens-lazarus-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/harlan-cobens-lazarus-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
+      "categories": [
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "lillys-verschwinden-season-1-2025",
+      "source": "ophim",
+      "slug": "lilly-mat-tich-phan-1",
+      "name": "Lilly Mất Tích (Phần 1)",
+      "originName": "Lillys Verschwinden (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/lilly-mat-tich-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/lilly-mat-tich-phan-1-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "lilly-s-disappearance-season-2-2025",
+      "source": "ophim",
+      "slug": "lilly-mat-tich-phan-2",
+      "name": "Lilly Mất Tích (Phần 2)",
+      "originName": "Lilly's Disappearance (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/lilly-mat-tich-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/lilly-mat-tich-phan-2-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "the-rookie-season-7-2025",
+      "source": "ophim",
+      "slug": "linh-moi-phan-7",
+      "name": "Lính Mới (Phần 7)",
+      "originName": "The Rookie (Season 7)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/linh-moi-phan-7-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/linh-moi-phan-7-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (18/18)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "the-recruit-season-2-2025",
+      "source": "ophim",
+      "slug": "luat-su-cia-phan-2",
+      "name": "Luật sư CIA (Phần 2)",
+      "originName": "The Recruit (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luat-su-cia-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luat-su-cia-phan-2-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "idol-i-2025",
+      "source": "ophim",
+      "slug": "luat-su-cua-than-tuong",
+      "name": "Luật Sư Của Thần Tượng",
+      "originName": "Idol I",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luat-su-cua-than-tuong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luat-su-cua-than-tuong-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "night-always-comes-2025",
+      "source": "ophim",
+      "slug": "man-dem-luon-toi",
+      "name": "Màn đêm luôn tới",
+      "originName": "Night Always Comes",
+      "posterUrl": "https://img.ophim.live/uploads/movies/man-dem-luon-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/man-dem-luon-toi-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "mandala-murders-2025",
+      "source": "ophim",
+      "slug": "mandala-chet-choc",
+      "name": "Mandala Chết Chóc",
+      "originName": "Mandala Murders",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mandala-chet-choc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mandala-chet-choc-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "alarum-2025",
+      "source": "ophim",
+      "slug": "mang-luoi-alarum",
+      "name": "Mạng Lưới Alarum",
+      "originName": "Alarum",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mang-luoi-alarum-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mang-luoi-alarum-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-accountant-2025",
+      "source": "ophim",
+      "slug": "mat-danh-ke-toan-2",
+      "name": "Mật Danh: Kế Toán 2",
+      "originName": "The Accountant²",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mat-danh-ke-toan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-danh-ke-toan-2-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "code-of-silence-2025",
+      "source": "ophim",
+      "slug": "mat-ma-cam-lang",
+      "name": "Mật Mã Câm Lặng",
+      "originName": "Code of Silence",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mat-ma-cam-lang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-ma-cam-lang-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "serial-homicide-2025",
+      "source": "ophim",
+      "slug": "mat-ma-hon-loan",
+      "name": "Mật Mã Hỗn Loạn",
+      "originName": "Serial Homicide",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mat-ma-hon-loan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-ma-hon-loan-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "missing-dead-or-alive-season-2-2025",
+      "source": "ophim",
+      "slug": "mat-tich-da-chet-hay-con-song-phan-2",
+      "name": "Mất Tích: Đã Chết Hay Còn Sống? (Phần 2)",
+      "originName": "Missing: Dead or Alive? (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mat-tich-da-chet-hay-con-song-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-tich-da-chet-hay-con-song-phan-2-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (4/4)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "wildcat-2025",
+      "source": "ophim",
+      "slug": "meo-rung-2025",
+      "name": "Mèo Rừng",
+      "originName": "Wildcat",
+      "posterUrl": "https://img.ophim.live/uploads/movies/meo-rung-2025-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/meo-rung-2025-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "lurker-2025",
+      "source": "ophim",
+      "slug": "meo-von-chuot",
+      "name": "Mèo Vờn Chuột",
+      "originName": "Lurker",
+      "posterUrl": "https://img.ophim.live/uploads/movies/meo-von-chuot-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/meo-von-chuot-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "missing-you-2025",
+      "source": "ophim",
+      "slug": "missing-you-2025",
+      "name": "Missing You",
+      "originName": "Missing You",
+      "posterUrl": "https://img.ophim.live/uploads/movies/missing-you-2025-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/missing-you-2025-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (5/5)",
+      "categories": [
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "all-her-fault-2025",
+      "source": "ophim",
+      "slug": "moi-thu-la-loi-co-ay",
+      "name": "Mọi Thứ Là Lỗi Cô Ấy",
+      "originName": "All Her Fault",
+      "posterUrl": "https://img.ophim.live/uploads/movies/moi-thu-la-loi-co-ay-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/moi-thu-la-loi-co-ay-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "the-many-deaths-of-nora-dalmasso-2025",
+      "source": "ophim",
+      "slug": "mot-ngan-cai-chet-cua-nora-dalmasso",
+      "name": "Một Ngàn Cái Chết Của Nora Dalmasso",
+      "originName": "The Many Deaths of Nora Dalmasso",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mot-ngan-cai-chet-cua-nora-dalmasso-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-ngan-cai-chet-cua-nora-dalmasso-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (3/3)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "one-wacky-summer-2025",
+      "source": "ophim",
+      "slug": "mua-he-ky-quac",
+      "name": "Mùa Hè Kỳ Quặc",
+      "originName": "One Wacky Summer",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mua-he-ky-quac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mua-he-ky-quac-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "guns-moses-2025",
+      "source": "ophim",
+      "slug": "mui-sung-and-duc-tin",
+      "name": "Mũi Súng & Đức Tin",
+      "originName": "Guns & Moses",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mui-sung-and-duc-tin-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mui-sung-and-duc-tin-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    }
+  ]
+}

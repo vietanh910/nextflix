@@ -1,0 +1,800 @@
+{
+  "slug": "gia-dinh",
+  "name": "Gia Đình",
+  "page": 28,
+  "totalPages": 35,
+  "items": [
+    {
+      "id": "postman-pat-the-movie-2014",
+      "source": "phimapi",
+      "slug": "huyen-thoai-dua-thu",
+      "name": "Huyền Thoại Đưa Thư",
+      "originName": "Postman Pat: The Movie",
+      "posterUrl": "https://phimimg.com/upload/vod/20260502-1/d76669b523e322bc1a98376e3a3dc13d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260502-1/afab86653d928f6e1fdc2857cae86c5d.jpg",
+      "year": 2014,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "legendary-witches-2014",
+      "source": "phimapi",
+      "slug": "nguoi-vo-dung-cam",
+      "name": "Người Vợ Dũng Cảm",
+      "originName": "Legendary Witches",
+      "posterUrl": "https://phimimg.com/upload/vod/20260327-1/b8c8984ed3ef978091de833f0f359e49.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260327-1/a165cfa4b5640d86681907a96447e69d.jpg",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (80/80)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "henry-danger-2014",
+      "source": "phimapi",
+      "slug": "sieu-anh-hung-henry",
+      "name": "Siêu Anh Hùng Henry",
+      "originName": "Henry Danger",
+      "posterUrl": "https://phimimg.com/upload/vod/20260114-1/a30fbb0651149f624f8ff14e529aa3a0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260114-1/264e3558124bf5856c0729498f6563f3.jpg",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (26/26)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "get-santa-2014",
+      "source": "phimapi",
+      "slug": "truy-duoi-ong-gia-noel",
+      "name": "Truy Đuổi Ông Già Noel",
+      "originName": "Get Santa",
+      "posterUrl": "https://phimimg.com/upload/vod/20251122-1/afa1b72a15b5a9601081d6cc85b58aef.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251122-1/445e7ef94d23092cc27b2645af28bd07.jpg",
+      "year": 2014,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Ba Lan",
+          "slug": "ba-lan"
+        }
+      ]
+    },
+    {
+      "id": "the-croods-2013",
+      "source": "ophim",
+      "slug": "cuoc-phieu-luu-cua-nha-croods",
+      "name": "Cuoc Phieu Luu Cua Nha Croods",
+      "originName": "The Croods",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-phieu-luu-cua-nha-croods-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-phieu-luu-cua-nha-croods-thumb.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "percy-jackson-sea-of-monsters-2013",
+      "source": "ophim",
+      "slug": "percy-jackson-bien-quai-vat",
+      "name": "Percy Jackson: Biển Quái Vật",
+      "originName": "Percy Jackson: Sea of Monsters",
+      "posterUrl": "https://img.ophim.live/uploads/movies/percy-jackson-bien-quai-vat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/percy-jackson-bien-quai-vat-thumb.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "oz-the-great-and-powerful-2013",
+      "source": "phimapi",
+      "slug": "lac-vao-xu-oz-vi-dai-va-quyen-nang",
+      "name": "Lạc Vào Xứ Oz Vĩ Đại và Quyền Năng",
+      "originName": "Oz The Great And Powerful",
+      "posterUrl": "https://phimimg.com/upload/vod/20260511-1/5ce1619ac3143e2483640b061f5f0f8f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260511-1/9e50396f4cc354e4704692e3484441d2.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "monsters-university-2013",
+      "source": "phimapi",
+      "slug": "lo-dao-tao-quai-vat",
+      "name": "Lò Đào Tạo Quái Vật",
+      "originName": "Monsters University",
+      "posterUrl": "https://phimimg.com/upload/vod/20250327-1/825f227bb0a3cd8a94f7e78d4be22684.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250327-1/35133f045f3cf2541866c708819b9f86.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "frozen-2013",
+      "source": "phimapi",
+      "slug": "nu-hoang-bang-gia",
+      "name": "Nữ Hoàng Băng Giá",
+      "originName": "Frozen",
+      "posterUrl": "https://phimimg.com/upload/vod/20260107-1/30161af90dc9057474b4c1f3974393ee.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260107-1/c23c5e7fd66cea62f04e50620750a654.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "love-now-2012",
+      "source": "ophim",
+      "slug": "goi-ten-tinh-yeu",
+      "name": "Gọi Tên Tình Yêu",
+      "originName": "Love, Now",
+      "posterUrl": "https://img.ophim.live/uploads/movies/goi-ten-tinh-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/goi-ten-tinh-yeu-thumb.jpg",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (72/72)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "home-alone-the-holiday-heist-2012",
+      "source": "ophim",
+      "slug": "home-alone-the-holiday-heist",
+      "name": "Home Alone: The Holiday Heist",
+      "originName": "Home Alone: The Holiday Heist",
+      "posterUrl": "https://img.ophim.live/uploads/movies/home-alone-the-holiday-heist-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/home-alone-the-holiday-heist-thumb.jpg",
+      "year": 2012,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ice-age-continental-drift-2012",
+      "source": "ophim",
+      "slug": "ky-bang-ha-4-luc-dia-troi-dat",
+      "name": "Kỷ Băng Hà 4: Lục Địa Trôi Dạt",
+      "originName": "Ice Age: Continental Drift",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ky-bang-ha-4-luc-dia-troi-dat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ky-bang-ha-4-luc-dia-troi-dat-thumb.jpg",
+      "year": 2012,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "divas-in-distress-2012",
+      "source": "ophim",
+      "slug": "sui-gia-nan-giai",
+      "name": "Sui Gia Nan Giải",
+      "originName": "Divas in Distress",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sui-gia-nan-giai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sui-gia-nan-giai-thumb.jpg",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(22/22)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "english-vinglish-2012",
+      "source": "ophim",
+      "slug": "tieng-anh-la-chuyen-nho-2012",
+      "name": "Tiếng Anh Là Chuyện Nhỏ",
+      "originName": "English Vinglish",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tieng-anh-la-chuyen-nho-2012-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tieng-anh-la-chuyen-nho-2012-thumb.jpg",
+      "year": 2012,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "ultraman-saga-2012",
+      "source": "ophim",
+      "slug": "ultraman-saga",
+      "name": "Ultraman Saga",
+      "originName": "Ultraman Saga",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ultraman-saga-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ultraman-saga-thumb.jpg",
+      "year": 2012,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "barbie-life-in-the-dreamhouse-2012",
+      "source": "phimapi",
+      "slug": "barbie-va-ngoi-nha-trong-mo",
+      "name": "Barbie Và Ngôi Nhà Trong Mơ",
+      "originName": "Barbie: Life In The Dreamhouse",
+      "posterUrl": "https://phimimg.com/upload/vod/20260125-1/9738e9525ae39183b2c9b75fab5b9294.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260125-1/e3ca1d1c652b4a2e2a22c55822e64c84.jpg",
+      "year": 2012,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-lorax-2012",
+      "source": "phimapi",
+      "slug": "than-lorax",
+      "name": "Thần Lorax",
+      "originName": "The Lorax",
+      "posterUrl": "https://phimimg.com/upload/vod/20251114-1/e5e9d48a92702d79bfaaf541144ed983.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251114-1/facd45674acabb55d58bf9a7d605d92b.jpg",
+      "year": 2012,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "larva-season-1-2011",
+      "source": "ophim",
+      "slug": "au-trung-tinh-nghich-phan-1",
+      "name": "Ấu Trùng Tinh Nghịch (Phần 1)",
+      "originName": "Larva (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/au-trung-tinh-nghich-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/au-trung-tinh-nghich-phan-1-thumb.jpg",
+      "year": 2011,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (104/104)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "rio-2011",
+      "source": "ophim",
+      "slug": "chu-vet-rio",
+      "name": "Chú Vẹt Rio",
+      "originName": "Rio",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chu-vet-rio-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chu-vet-rio-thumb.jpg",
+      "year": 2011,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "dreamworks-how-to-train-your-dragon-legends-2011",
+      "source": "ophim",
+      "slug": "dreamworks-huyen-thoai-bi-kip-luyen-rong",
+      "name": "DreamWorks: Huyền thoại bí kíp luyện rồng",
+      "originName": "DreamWorks How to Train Your Dragon Legends",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dreamworks-huyen-thoai-bi-kip-luyen-rong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dreamworks-huyen-thoai-bi-kip-luyen-rong-thumb.jpg",
+      "year": 2011,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (3/3)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "lemonade-mouth-2011",
+      "source": "ophim",
+      "slug": "lemonade-mouth",
+      "name": "Lemonade Mouth",
+      "originName": "Lemonade Mouth",
+      "posterUrl": "https://img.ophim.live/uploads/movies/lemonade-mouth-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/lemonade-mouth-thumb.jpg",
+      "year": 2011,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "monte-carlo-2011",
+      "source": "ophim",
+      "slug": "tieu-thu-lo-lem",
+      "name": "Tiểu Thư Lọ Lem",
+      "originName": "Monte Carlo",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tieu-thu-lo-lem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tieu-thu-lo-lem-thumb.jpg",
+      "year": 2011,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Nga",
+          "slug": "nga"
+        }
+      ]
+    },
+    {
+      "id": "til-love-do-us-lie-2011",
+      "source": "ophim",
+      "slug": "til-love-do-us-lie",
+      "name": "Til Love Do Us Lie",
+      "originName": "Til Love Do Us Lie",
+      "posterUrl": "https://img.ophim.live/uploads/movies/til-love-do-us-lie-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/til-love-do-us-lie-thumb.jpg",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(136/136)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "cars-2-2011",
+      "source": "ophim",
+      "slug": "vuong-quoc-xe-hoi-2",
+      "name": "Vương Quốc Xe Hơi 2",
+      "originName": "Cars 2",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vuong-quoc-xe-hoi-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vuong-quoc-xe-hoi-2-thumb.jpg",
+      "year": 2011,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    }
+  ]
+}

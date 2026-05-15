@@ -1,0 +1,63 @@
+{
+  "id": "six-singles-under-one-ro-2026-9808c065",
+  "source": "ophim",
+  "slug": "6-nguoi-e-o-chung-nha",
+  "name": "6 Người Ế Ở Chung Nhà",
+  "originName": "Six Singles Under One Roof",
+  "posterUrl": "https://img.ophim.live/uploads/movies/6-nguoi-e-o-chung-nha-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/6-nguoi-e-o-chung-nha-thumb.jpg",
+  "year": 2026,
+  "type": "tvshow",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Một chương trình truyền hình thực tế chân thực, không hề chỉnh sửa, nơi những người độc thân cùng độ tuổi với cá tính mạnh mẽ, khác biệt—những người đã sống một mình trong thời gian dài—cùng nhau chia sẻ một ngôi nhà và hỗ trợ lối sống tuyệt vời của nhau.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/14d203158e5c5fd54555ecd1bd9ed8e3",
+      "m3u8Url": "https://vip.opstream10.com/20260429/33513_14d20315/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/40a82d2bc17d9aa6c8ba7f0067d83a83",
+      "m3u8Url": "https://vip.opstream10.com/20260505/33566_40a82d2b/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/82deedbd02182db7aea66208a6a7e414",
+      "m3u8Url": "https://vip.opstream10.com/20260515/33691_82deedbd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "6-nguoi-e-o-chung-nha",
+      "episodeCount": 3,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

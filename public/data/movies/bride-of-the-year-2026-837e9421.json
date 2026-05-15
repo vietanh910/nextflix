@@ -1,0 +1,47 @@
+{
+  "id": "bride-of-the-year-2026-837e9421",
+  "source": "ophim",
+  "slug": "co-dau-cua-nam",
+  "name": "Cô Dâu Của Năm",
+  "originName": "Bride of the Year",
+  "posterUrl": "https://img.ophim.live/uploads/movies/co-dau-cua-nam-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/co-dau-cua-nam-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Quốc Gia Khác",
+      "slug": "quoc-gia-khac"
+    }
+  ],
+  "description": "<p>Khi giấc mơ xây dựng gia đình riêng của Lienkie tan vỡ, cô vạch ra một kế hoạch đầy toan tính để giành danh hiệu \"Cô dâu của Năm\" và trả đũa người yêu cũ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a7d3154ed40d4dbebf306630991b11a7",
+      "m3u8Url": "https://vip.opstream90.com/20260515/31810_a7d3154e/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "co-dau-cua-nam",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

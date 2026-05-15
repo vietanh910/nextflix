@@ -1,0 +1,828 @@
+{
+  "slug": "hanh-dong",
+  "name": "Hành Động",
+  "page": 123,
+  "totalPages": 124,
+  "items": [
+    {
+      "id": "first-blood-1982",
+      "source": "ophim",
+      "slug": "rambo-do-mau",
+      "name": "Rambo: Đổ Máu",
+      "originName": "First Blood",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rambo-do-mau-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rambo-do-mau-thumb.jpg",
+      "year": 1982,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-secret-of-nimh-1982",
+      "source": "ophim",
+      "slug": "the-secret-of-nimh",
+      "name": "The Secret of NIMH",
+      "originName": "The Secret of NIMH",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-secret-of-nimh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-secret-of-nimh-thumb.jpg",
+      "year": 1982,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "knight-rider-season-1-1982",
+      "source": "phimapi",
+      "slug": "hiep-si-xe-den-phan-1",
+      "name": "Hiệp Sĩ Xe Đen (Phần 1)",
+      "originName": "Knight Rider (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251208-1/99915dcc5d5d2a10753eec0614d175c7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251208-1/20788f5dace02a5eabc52f264bc8e87f.jpg",
+      "year": 1982,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "dreadnaught-1981",
+      "source": "ophim",
+      "slug": "cam-na-thu",
+      "name": "Cầm Nã Thủ",
+      "originName": "Dreadnaught",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cam-na-thu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cam-na-thu-thumb.jpg",
+      "year": 1981,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "legendary-fok-1981",
+      "source": "ophim",
+      "slug": "nhat-dai-ton-su-hoac-nguyen-giap",
+      "name": "Nhất Đại Tôn Sư Hoắc Nguyên Giáp",
+      "originName": "Legendary Fok",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhat-dai-ton-su-hoac-nguyen-giap-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhat-dai-ton-su-hoac-nguyen-giap-thumb.jpg",
+      "year": 1981,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(20/20)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "spooky-encounters-1980",
+      "source": "ophim",
+      "slug": "cuoc-gap-go-ma-quai",
+      "name": "Cuộc gặp gỡ ma quái",
+      "originName": "Spooky Encounters",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-gap-go-ma-quai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-gap-go-ma-quai-thumb.jpg",
+      "year": 1980,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "dynasty-1980",
+      "source": "ophim",
+      "slug": "dai-noi-quan-anh",
+      "name": "Đại Nội Quần Anh",
+      "originName": "Dynasty",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dai-noi-quan-anh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dai-noi-quan-anh-thumb.jpg",
+      "year": 1980,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(57/57)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "flash-gordon-1980",
+      "source": "ophim",
+      "slug": "flash-gordon",
+      "name": "Flash Gordon",
+      "originName": "Flash Gordon",
+      "posterUrl": "https://img.ophim.live/uploads/movies/flash-gordon-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/flash-gordon-thumb.jpg",
+      "year": 1980,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Hà Lan",
+          "slug": "ha-lan"
+        },
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "on-the-waterfront-1980",
+      "source": "ophim",
+      "slug": "ho-hai-tranh-ba-luc",
+      "name": "Hồ Hải Tranh Bá Lục",
+      "originName": "On The Waterfront",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ho-hai-tranh-ba-luc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ho-hai-tranh-ba-luc-thumb.jpg",
+      "year": 1980,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 0",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "two-champions-of-shaolin-1980",
+      "source": "ophim",
+      "slug": "thieu-lam-va-vo-dang",
+      "name": "Thiếu Lâm Và Võ Đang",
+      "originName": "Two Champions of Shaolin",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thieu-lam-va-vo-dang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thieu-lam-va-vo-dang-thumb.jpg",
+      "year": 1980,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "dragon-fist-1979",
+      "source": "ophim",
+      "slug": "long-quyen",
+      "name": "Long Quyền",
+      "originName": "Dragon Fist",
+      "posterUrl": "https://img.ophim.live/uploads/movies/long-quyen-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/long-quyen-thumb.jpg",
+      "year": 1979,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "reincarnated-1979",
+      "source": "ophim",
+      "slug": "thien-tam-bien",
+      "name": "Thiên tằm biến",
+      "originName": "Reincarnated",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thien-tam-bien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thien-tam-bien-thumb.jpg",
+      "year": 1979,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (60/60)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "reincarnated-ii-1979",
+      "source": "phimapi",
+      "slug": "thien-tam-ky-bien-phan-2",
+      "name": "Thiên Tầm Kỳ Biến (Phần 2)",
+      "originName": "Reincarnated II",
+      "posterUrl": "https://phimimg.com/upload/vod/20251204-1/de0b51eec9f3951cb4aa8c894b5ed12a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251204-1/b3d8f4a0c87f7a7a9cf9dd96ae16e3ac.jpg",
+      "year": 1979,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (31/31)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "women-in-cellblock-9-1978",
+      "source": "ophim",
+      "slug": "women-in-cellblock-9",
+      "name": "Women in Cellblock 9",
+      "originName": "Women in Cellblock 9",
+      "posterUrl": "https://img.ophim.live/uploads/movies/women-in-cellblock-9-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/women-in-cellblock-9-thumb.jpg",
+      "year": 1978,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thụy Sĩ",
+          "slug": "thuy-si"
+        }
+      ]
+    },
+    {
+      "id": "decapitation-of-an-evil-woman-1977",
+      "source": "ophim",
+      "slug": "chat-dau-mot-nguoi-phu-nu-doc-ac",
+      "name": "Chặt đầu một người phụ nữ độc ác",
+      "originName": "Decapitation of an Evil Woman",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chat-dau-mot-nguoi-phu-nu-doc-ac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chat-dau-mot-nguoi-phu-nu-doc-ac-thumb.jpg",
+      "year": 1977,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "street-people-1976",
+      "source": "ophim",
+      "slug": "nguoi-duong-pho",
+      "name": "người đường phố",
+      "originName": "Street People",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-duong-pho-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-duong-pho-thumb.jpg",
+      "year": 1976,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "ilsa-harem-keeper-of-the-oil-sheiks-1976",
+      "source": "ophim",
+      "slug": "quan-ly-hau-cung",
+      "name": "Quản lý hậu cung",
+      "originName": "Ilsa: Harem Keeper of the Oil Sheiks",
+      "posterUrl": "https://img.ophim.live/uploads/movies/quan-ly-hau-cung-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/quan-ly-hau-cung-thumb.jpg",
+      "year": 1976,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "shaolin-wooden-men-1976",
+      "source": "ophim",
+      "slug": "thieu-lam-moc-nhan-hang",
+      "name": "Thiếu Lâm Mộc Nhân Hạng",
+      "originName": "Shaolin Wooden Men",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thieu-lam-moc-nhan-hang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thieu-lam-moc-nhan-hang-thumb.jpg",
+      "year": 1976,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "swallowed-star-1976",
+      "source": "phimapi",
+      "slug": "thon-phe-tinh-khong",
+      "name": "Thôn Phệ Tinh Không",
+      "originName": "Swallowed Star",
+      "posterUrl": "https://phimimg.com/upload/vod/20240821-1/a651652396e9f53c09cd88d28700d5c4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240821-1/22c49ba9590b0e5f3d126696c0bfbecf.jpg",
+      "year": 1976,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 223",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "bite-the-bullet-1975",
+      "source": "ophim",
+      "slug": "can-dan",
+      "name": "Cắn đạn",
+      "originName": "Bite the Bullet",
+      "posterUrl": "https://img.ophim.live/uploads/movies/can-dan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/can-dan-thumb.jpg",
+      "year": 1975,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "french-connection-ii-1975",
+      "source": "ophim",
+      "slug": "ke-dau-moi-phap",
+      "name": "Kẻ Đầu Mối Pháp 2",
+      "originName": "French Connection II",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-dau-moi-phap-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-dau-moi-phap-thumb.jpg",
+      "year": 1975,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "freebie-and-the-bean-1974",
+      "source": "ophim",
+      "slug": "freebie-va-hat-dau",
+      "name": "Freebie và hạt đậu",
+      "originName": "Freebie and the Bean",
+      "posterUrl": "https://img.ophim.live/uploads/movies/freebie-va-hat-dau-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/freebie-va-hat-dau-thumb.jpg",
+      "year": 1974,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "shaolin-kung-fu-1974",
+      "source": "ophim",
+      "slug": "kungfu-thieu-lam",
+      "name": "Kungfu Thiếu Lâm",
+      "originName": "Shaolin Kung Fu",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kungfu-thieu-lam-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kungfu-thieu-lam-thumb.jpg",
+      "year": 1974,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "sex-and-fury-1973",
+      "source": "ophim",
+      "slug": "cuong-no-ai-tinh",
+      "name": "Cuồng Nộ Ái Tình",
+      "originName": "Sex and Fury",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuong-no-ai-tinh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuong-no-ai-tinh-thumb.jpg",
+      "year": 1973,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    }
+  ]
+}

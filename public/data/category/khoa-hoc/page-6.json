@@ -1,0 +1,980 @@
+{
+  "slug": "khoa-hoc",
+  "name": "Khoa Học",
+  "page": 6,
+  "totalPages": 59,
+  "items": [
+    {
+      "id": "mao-2026",
+      "source": "phimapi",
+      "slug": "mao",
+      "name": "MAO",
+      "originName": "MAO",
+      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/8bfc211dbf6e0ad5ae4c0c4be2109b47.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/e848f6fcf159dd1ba4b6865bbc46616b.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-dresden-sun-2026",
+      "source": "phimapi",
+      "slug": "mat-troi-dresden",
+      "name": "Mặt trời Dresden",
+      "originName": "The Dresden Sun",
+      "posterUrl": "https://phimimg.com/upload/vod/20260318-1/ffba0de68c8e815349fc4f163ec55282.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260318-1/1bad79c07cb0eecc0c090c9bdd03f242.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "flower-boy-2026",
+      "source": "phimapi",
+      "slug": "me-dam-huong-hoa",
+      "name": "Mê Đắm Hương Hoa",
+      "originName": "Flower Boy",
+      "posterUrl": "https://phimimg.com/upload/vod/20260504-1/df6530e9163f9226f764dd2460e8fa31.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260504-1/b3e770ec6fb4dab0b174eadd467f5e2d.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "mike-nick-nick-alice-2026",
+      "source": "phimapi",
+      "slug": "mike-nick-nick-alice",
+      "name": "Mike & Nick & Nick & Alice",
+      "originName": "Mike & Nick & Nick & Alice",
+      "posterUrl": "https://phimimg.com/upload/vod/20260409-1/a8195d14e89e86c81b0fd02b1e667eab.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260409-1/623e08a74d35a76703ea842012cc209d.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "wu-2026",
+      "source": "phimapi",
+      "slug": "nam-phu-thuy",
+      "name": "Nam Phù Thủy",
+      "originName": "WU",
+      "posterUrl": "https://phimimg.com/upload/vod/20260506-1/94c1e5ae93ccfd42ab8c76af91416256.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260506-1/07bbce9a6b0e8f159f13ef2e42cf3252.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional-2026",
+      "source": "phimapi",
+      "slug": "nghe-nghiep-manh-nhat-duong-nhu-khong-phai-la-anh-hung-hay-hien-triet-ma-la-nguoi-tham-dinh-tam-thoi",
+      "name": "Nghề Nghiệp Mạnh Nhất Dường Như Không Phải Là Anh Hùng Hay Hiền Triết, Mà Là Người Thẩm Định (Tạm Thời)!",
+      "originName": "The Strongest Job Is Apparently Not A Hero Or A Sage, But An Appraiser (Provisional)!",
+      "posterUrl": "https://phimimg.com/upload/vod/20260406-1/7564edb929b791e1581d3607418d4ede.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260406-1/7ac9d5a344918ce0643ce7f7c5558d4c.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-beauty-2026",
+      "source": "phimapi",
+      "slug": "nguoi-dep-dai-dich-sac-dep",
+      "name": "Người Đẹp (Đại Dịch Sắc Đẹp)",
+      "originName": "The Beauty",
+      "posterUrl": "https://phimimg.com/upload/vod/20260123-1/d0eef30f089c0af41a90e4b9b4edd5c3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260123-1/4396ea303a257496819163ee35fd6066.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-invisible-man-and-his-soon-to-be-wife-2026",
+      "source": "phimapi",
+      "slug": "nguoi-vo-hinh-va-vo-tuong-lai-cua-anh-ta",
+      "name": "Người Vô Hình Và Vợ Tương Lai Của Anh Ta",
+      "originName": "The Invisible Man And His Soon-to-Be Wife",
+      "posterUrl": "https://phimimg.com/upload/vod/20260109-1/7cc35028e620e60c87a0ae04a88627b7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260109-1/9c7f266aacd9b091b3e84ea1349cc9bc.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "observation-records-of-my-fiancee-the-misadventures-of-a-self-proclaimed-villainess-an-observation-log-of-my-fiancee-who-calls-herself-a-villainess-2026",
+      "source": "phimapi",
+      "slug": "nhat-ky-theo-doi-vi-hon-the-tu-nhan-minh-la-nu-phu-phan-dien",
+      "name": "Nhật Ký Theo Dõi Vị Hôn Thê Tự Nhận Mình Là Nữ Phụ Phản Diện",
+      "originName": "Observation Records of My Fiancée: The Misadventures of a Self-Proclaimed Villainess (An Observation Log Of My Fiancée Who Calls Herself A Villainess)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260404-1/1dd2fc07faf2ab024f86f2dbc750c5a3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/4c819f22455d19963d8514c9852163fd.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-outcast-season-6-hitori-no-shita-2026",
+      "source": "phimapi",
+      "slug": "nhat-nhan-chi-ha-phan-6-nguoi-tren-van-nguoi",
+      "name": "Nhất Nhân Chi Hạ (Phần 6) (Người Trên Vạn Người)",
+      "originName": "The Outcast (Season 6) (Hitori No Shita)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260110-1/a38472e5429e9d6645ed16ef2c47935e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260110-1/1c5432188e44458e51aa2119a8ac3aab.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 20",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "isekai-office-worker-the-other-world-s-books-depend-on-the-bean-counter-2026",
+      "source": "phimapi",
+      "slug": "no-le-cong-so-dinh-doat-chuyen-di-gioi-isekai-no-sata-wa-shachiku-shidai",
+      "name": "Nô Lệ Công Sở Định Đoạt Chuyện Dị Giới (Isekai no Sata wa Shachiku Shidai)",
+      "originName": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+      "posterUrl": "https://phimimg.com/upload/vod/20260121-1/62f45f94b50ce0aa5407117bfbee31fe.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260121-1/3228ed594c442139b26f62d67512f287.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "chained-soldier-season-2-2026",
+      "source": "phimapi",
+      "slug": "no-le-cua-ma-do-tinh-binh-phan-2",
+      "name": "Nô Lệ Của Ma Đô Tinh Binh (Phần 2)",
+      "originName": "Chained Soldier (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260110-1/6afc2a9035c96502a69aafdc937868f9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260110-1/19f2d88ca8a30cbead7ebfd4d05017fe.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "mistress-kanan-is-devilishly-easy-2026",
+      "source": "phimapi",
+      "slug": "nu-chu-kanan-thuc-ra-rat-de-du",
+      "name": "Nữ Chủ Kanan Thực Ra Rất Dễ Dụ",
+      "originName": "Mistress Kanan Is Devilishly Easy",
+      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/034f4b9f33bc51c1275bf2f8fc08a869.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/a603d7fced9cca9ab0c455c1b70433d8.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "kunon-the-sorcerer-can-see-2026",
+      "source": "phimapi",
+      "slug": "phap-su-kunon-co-the-nhin-thay-majutsushi-kunon-wa-mieteiru",
+      "name": "Pháp Sư Kunon Có Thể Nhìn Thấy (Majutsushi Kunon wa Mieteiru)",
+      "originName": "Kunon The Sorcerer Can See",
+      "posterUrl": "https://phimimg.com/upload/vod/20260112-1/d952ca11041fd1fa4838da93e8c2ef5f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260112-1/9a5105f378ecaea87a5aa7336727bb38.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "mark-rober-s-crunchlabs-season-3-2026",
+      "source": "phimapi",
+      "slug": "phong-thi-nghiem-crunch-phan-3",
+      "name": "Phòng Thí Nghiệm Crunch (Phần 3)",
+      "originName": "Mark Rober's CrunchLabs (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260327-1/bd8873c5088c4a133a24dc99539d5a97.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260327-1/7c75425fb11b1693f29e326a980ed987.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (9/9)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "champignon-witch-2026",
+      "source": "phimapi",
+      "slug": "phu-thuy-nam-champignon-no-majo",
+      "name": "Phù Thủy Nấm (Champignon no Majo)",
+      "originName": "Champignon Witch",
+      "posterUrl": "https://phimimg.com/upload/vod/20260117-1/1e90ea0a2629971e53fb6ed54c9d4036.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260117-1/d8e65cfa5002b4a3acfe497554fdcd9c.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "rezero-starting-life-in-another-world-season-4-2026",
+      "source": "phimapi",
+      "slug": "rezero-bat-dau-lai-o-the-gioi-khac-phan-4",
+      "name": "ReZERO - Bắt Đầu Lại Ở Thế Giới Khác (Phần 4)",
+      "originName": "ReZERO - Starting Life In Another World (Season 4)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/ffd6a732d5b223183fdcde2169e43b61.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/b2ee47fa752ddfa5793c46ae57537dde.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-boys-season-5-2026",
+      "source": "phimapi",
+      "slug": "sieu-anh-hung-pha-hoai-phan-5",
+      "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
+      "originName": "The Boys (Season 5)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260408-1/4c8735b0b4d97204847815710e357bed.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "super-space-sheriff-gavan-infinity-2026",
+      "source": "phimapi",
+      "slug": "sieu-canh-sat-vu-tru-gavan-infinity",
+      "name": "Siêu Cảnh Sát Vũ Trụ Gavan Infinity",
+      "originName": "Super Space Sheriff Gavan Infinity",
+      "posterUrl": "https://phimimg.com/upload/vod/20260228-1/880269004d7c97f22c21b9073695eae9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260228-1/5b3b0a72ea5e8d9f8bc9d0d276bca3b3.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 13",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "star-trek-starfleet-academy-2026",
+      "source": "phimapi",
+      "slug": "star-trek-hoc-vien-starfleet",
+      "name": "Star Trek: Học Viện Starfleet",
+      "originName": "Star Trek: Starfleet Academy",
+      "posterUrl": "https://phimimg.com/upload/vod/20260119-1/5ffee980632703524a03b01c90de335d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260119-1/292df9e9974ad38af0445daced13ae6b.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "agents-of-the-four-seasons-dance-of-spring-2026",
+      "source": "phimapi",
+      "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
+      "name": "Sứ Giả Bốn Mùa: Vũ Điệu Mùa Xuân",
+      "originName": "Agents Of The Four Seasons: Dance Of Spring",
+      "posterUrl": "https://phimimg.com/upload/vod/20260403-1/a095ce2e1bf08a7fe7af81c0f26bfb53.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260403-1/f74b91913b26df1bc3c22176c7a57f18.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "undertone-2026",
+      "source": "phimapi",
+      "slug": "tan-so-ngam",
+      "name": "tần số ngầm",
+      "originName": "undertone",
+      "posterUrl": "https://phimimg.com/upload/vod/20260416-1/55237a39087e4a44cc9cbc5c44a25ab2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260416-1/b3f8c3248fd102cac5ddfa1ee5d13745.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "to-my-beloved-thief-2026",
+      "source": "phimapi",
+      "slug": "ten-trom-dau-yeu",
+      "name": "Tên Trộm Dấu Yêu",
+      "originName": "To My Beloved Thief",
+      "posterUrl": "https://phimimg.com/upload/vod/20260105-1/0adea2e823ede3d6a2bca22d1f0ac286.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260105-1/b06c35ac98344554a8a5031bf75c53d5.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "greenland-2-migration-2026",
+      "source": "phimapi",
+      "slug": "tham-hoa-thien-thach-di-tan",
+      "name": "Thảm Họa Thiên Thạch: Di Tản",
+      "originName": "Greenland 2: Migration",
+      "posterUrl": "https://phimimg.com/upload/vod/20260128-1/227d553ec342486d0cbdc34b0b1fc31d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260128-1/25fb996f3d29169b4db6cbf8fea2c032.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    }
+  ]
+}

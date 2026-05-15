@@ -1,0 +1,788 @@
+{
+  "slug": "hai-huoc",
+  "name": "Hài Hước",
+  "page": 128,
+  "totalPages": 130,
+  "items": [
+    {
+      "id": "the-romancing-star-1987",
+      "source": "ophim",
+      "slug": "nghe-thuat-cua-dao",
+      "name": "Nghệ thuật cua đào",
+      "originName": "The Romancing Star",
+      "posterUrl": "https://img.ophim.live/uploads/movies/data:image/jpeg;base64,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",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nghe-thuat-cua-dao-thumb.jpg",
+      "year": 1987,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "bagdad-cafe-1987",
+      "source": "ophim",
+      "slug": "out-of-rosenheim",
+      "name": "Out of Rosenheim",
+      "originName": "Bagdad Cafe",
+      "posterUrl": "https://img.ophim.live/uploads/movies/out-of-rosenheim-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/out-of-rosenheim-thumb.jpg",
+      "year": 1987,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "strawman-1987",
+      "source": "phimapi",
+      "slug": "bu-nhin-rom",
+      "name": "Bù Nhìn Rơm",
+      "originName": "Strawman",
+      "posterUrl": "https://phimimg.com/upload/vod/20251014-1/42c1f4aaea07a64eb6d53ddc00d7beac.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251014-1/e85e8310468497ef37e7302b7eb3a705.jpg",
+      "year": 1987,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
+        }
+      ]
+    },
+    {
+      "id": "lethal-weapon-1987",
+      "source": "phimapi",
+      "slug": "vu-khi-toi-thuong",
+      "name": "Vũ Khí Tối Thượng",
+      "originName": "Lethal Weapon",
+      "posterUrl": "https://phimimg.com/upload/vod/20251028-1/c47ae55af4b237d32b2b2278ee69dc74.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251028-1/61d10d75f923f42b20647a7014ed4781.jpg",
+      "year": 1987,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "a-taste-of-bachelorhood-1986",
+      "source": "ophim",
+      "slug": "anh-chang-doc-than",
+      "name": "Anh Chàng Độc Thân",
+      "originName": "A Taste of Bachelorhood",
+      "posterUrl": "https://img.ophim.live/uploads/movies/anh-chang-doc-than-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/anh-chang-doc-than-thumb.jpg",
+      "year": 1986,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "exploits-of-a-young-don-juan-1986",
+      "source": "ophim",
+      "slug": "exploits-of-a-young-don-juan",
+      "name": "Exploits of a Young Don Juan",
+      "originName": "Exploits of a Young Don Juan",
+      "posterUrl": "https://img.ophim.live/uploads/movies/exploits-of-a-young-don-juan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/exploits-of-a-young-don-juan-thumb.jpg",
+      "year": 1986,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "the-decline-of-the-american-empire-1986",
+      "source": "ophim",
+      "slug": "le-declin-cua-de-che-my",
+      "name": "Le Déclin của đế chế Mỹ",
+      "originName": "The Decline of the American Empire",
+      "posterUrl": "https://img.ophim.live/uploads/movies/le-declin-cua-de-che-my-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/le-declin-cua-de-che-my-thumb.jpg",
+      "year": 1986,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "millionaires-express-1986",
+      "source": "ophim",
+      "slug": "phu-quy-hoa-xa",
+      "name": "Phú Quý Hỏa Xa",
+      "originName": "Millionaires' Express",
+      "posterUrl": "https://img.ophim.live/uploads/movies/phu-quy-hoa-xa-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/phu-quy-hoa-xa-thumb.jpg",
+      "year": 1986,
+      "type": "single",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 0",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "a-quiet-little-town-1986",
+      "source": "ophim",
+      "slug": "thi-tran-yen-tinh",
+      "name": "Thị Trấn Yên Tĩnh",
+      "originName": "A Quiet Little Town",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thi-tran-yen-tinh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thi-tran-yen-tinh-thumb.jpg",
+      "year": 1986,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "jean-de-florette-1986",
+      "source": "ophim",
+      "slug": "trang-trai",
+      "name": "Trang Trại",
+      "originName": "Jean de Florette",
+      "posterUrl": "https://img.ophim.live/uploads/movies/trang-trai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/trang-trai-thumb.jpg",
+      "year": 1986,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "armour-of-god-1986",
+      "source": "phimapi",
+      "slug": "ao-giap-thuong-de-long-huynh-ho-de",
+      "name": "Áo Giáp Thượng Đế (Long Huynh Hổ Đệ)",
+      "originName": "Armour Of God",
+      "posterUrl": "https://phimimg.com/upload/vod/20260218-1/1ae51debb57366c6d684e87884880d35.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260218-1/e045dfe58580cdca6bd7a8d811c46a96.jpg",
+      "year": 1986,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "the-jewel-of-the-nile-1985",
+      "source": "ophim",
+      "slug": "bau-vat-song-nile",
+      "name": "Báu Vật Sông Nile",
+      "originName": "The Jewel of the Nile",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-vat-song-nile-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-vat-song-nile-thumb.jpg",
+      "year": 1985,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "happy-spirit-1985",
+      "source": "ophim",
+      "slug": "ma-nu-si-tinh-1985",
+      "name": "Ma Nữ Si Tình",
+      "originName": "Happy Spirit",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ma-nu-si-tinh-1985-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ma-nu-si-tinh-1985-thumb.jpg",
+      "year": 1985,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "yes-madam-1985",
+      "source": "ophim",
+      "slug": "tieu-diet-nhan-chung-2-hoang-gia-su-ty",
+      "name": "Tiêu Diệt Nhân Chứng 2: Hoàng Gia Sư Tỷ",
+      "originName": "Yes, Madam!",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tieu-diet-nhan-chung-2-hoang-gia-su-ty-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tieu-diet-nhan-chung-2-hoang-gia-su-ty-thumb.jpg",
+      "year": 1985,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "police-story-1985",
+      "source": "phimapi",
+      "slug": "cau-chuyen-canh-sat",
+      "name": "Câu Chuyện Cảnh Sát",
+      "originName": "Police Story",
+      "posterUrl": "https://phimimg.com/upload/vod/20251222-1/4ee4f8ffc8c7c0153ec60119ac835e8c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251222-1/a9ead2119182811f108768ce19eaa84a.jpg",
+      "year": 1985,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "the-seven-angels-1985",
+      "source": "phimapi",
+      "slug": "thien-than-bao-thu",
+      "name": "Thiên Thần Báo Thù",
+      "originName": "The Seven Angels",
+      "posterUrl": "https://phimimg.com/upload/vod/20260308-1/469ac539b78ce5033c52133740f7c510.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260308-1/885cd256f1349ce128198a28a6cf16d8.jpg",
+      "year": 1985,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "abnormal-family-1984",
+      "source": "ophim",
+      "slug": "gia-dinh-bat-thuong",
+      "name": "Gia đình bất thường",
+      "originName": "Abnormal Family",
+      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-bat-thuong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-bat-thuong-thumb.jpg",
+      "year": 1984,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "police-academy-1984",
+      "source": "ophim",
+      "slug": "police-academy",
+      "name": "Police Academy",
+      "originName": "Police Academy",
+      "posterUrl": "https://img.ophim.live/uploads/movies/police-academy-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/police-academy-thumb.jpg",
+      "year": 1984,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "top-secret-1984",
+      "source": "ophim",
+      "slug": "top-secret",
+      "name": "Top Secret!",
+      "originName": "Top Secret!",
+      "posterUrl": "https://img.ophim.live/uploads/movies/top-secret-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/top-secret-thumb.jpg",
+      "year": 1984,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "shanghai-blues-1984",
+      "source": "phimapi",
+      "slug": "thuong-hai-chi-da",
+      "name": "Thượng Hải Chi Dạ",
+      "originName": "Shanghai Blues",
+      "posterUrl": "https://phimimg.com/upload/vod/20250913-1/79d396be6d6c85f74106c90508f7e7f4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250913-1/feb46c7e97c95ffb523f7c0a6961da84.jpg",
+      "year": 1984,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "ghost-on-the-loose-1983",
+      "source": "ophim",
+      "slug": "ghost-on-the-loose",
+      "name": "Ghost On The Loose",
+      "originName": "Ghost On The Loose",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ghost-on-the-loose-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ghost-on-the-loose-thumb.jpg",
+      "year": 1983,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(20/20)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "losin-it-1983",
+      "source": "ophim",
+      "slug": "mat-no",
+      "name": "Mất nó",
+      "originName": "Losin' It",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mat-no-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-no-thumb.jpg",
+      "year": 1983,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "superman-iii-1983",
+      "source": "ophim",
+      "slug": "sieu-nhan-3",
+      "name": "Siêu Nhân 3",
+      "originName": "Superman III",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sieu-nhan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-nhan-3-thumb.jpg",
+      "year": 1983,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-meaning-of-life-1983",
+      "source": "ophim",
+      "slug": "the-meaning-of-life",
+      "name": "The Meaning of Life",
+      "originName": "The Meaning of Life",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-meaning-of-life-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-meaning-of-life-thumb.jpg",
+      "year": 1983,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    }
+  ]
+}

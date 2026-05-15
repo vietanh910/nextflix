@@ -1,0 +1,55 @@
+{
+  "id": "good-boys-go-to-heaven-2026-5624311b",
+  "source": "ophim",
+  "slug": "good-boys-go-to-heaven",
+  "name": "Good Boys Go to Heaven",
+  "originName": "Good Boys Go to Heaven",
+  "posterUrl": "https://img.ophim.live/uploads/movies/good-boys-go-to-heaven-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/good-boys-go-to-heaven-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Malaysia",
+      "slug": "malaysia"
+    }
+  ],
+  "description": "<p>Khi con trai bị sát hại tại Kuala Makar yên bình, người cha không có bằng chứng ngoại phạm thành nghi phạm chính. Ông quyết tự tìm hung thủ thật sự để minh oan.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a7ccec2053fd3f95bade291c40ae428c",
+      "m3u8Url": "https://vip.opstream90.com/20260515/31811_a7ccec20/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3c476de2d92f9444b4f1859f43a4a48d",
+      "m3u8Url": "https://vip.opstream90.com/20260515/31812_3c476de2/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "good-boys-go-to-heaven",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

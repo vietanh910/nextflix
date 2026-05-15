@@ -1,0 +1,944 @@
+{
+  "slug": "khoa-hoc",
+  "name": "Khoa Học",
+  "page": 40,
+  "totalPages": 59,
+  "items": [
+    {
+      "id": "mad-spider-sea-2020",
+      "source": "phimapi",
+      "slug": "no-hai-cuong-chu",
+      "name": "Nộ Hải Cuồng Chu",
+      "originName": "Mad Spider Sea",
+      "posterUrl": "https://phimimg.com/upload/vod/20231111-1/3ca64830af928294b6cf696ca7e2394c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231111-1/1e7d7455d56cec71709e71a3839a56df.jpg",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
+        }
+      ]
+    },
+    {
+      "id": "ragnarok-season-1-2020",
+      "source": "phimapi",
+      "slug": "ragnarok-hoang-hon-cua-chu-than-phan-1",
+      "name": "Ragnarok: Hoàng Hôn Của Chư Thần (Phần 1)",
+      "originName": "Ragnarok (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260511-1/6b049f853f47d834388463347a8506a7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260511-1/f3a44aa200387a3796eb344f88c64f14.jpg",
+      "year": 2020,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đan Mạch",
+          "slug": "dan-mach"
+        },
+        {
+          "name": "Na Uy",
+          "slug": "na-uy"
+        }
+      ]
+    },
+    {
+      "id": "variation-hydra-2020",
+      "source": "phimapi",
+      "slug": "ran-chin-dau-dot-bien",
+      "name": "Rắn Chín Đầu Đột Biến",
+      "originName": "Variation Hydra",
+      "posterUrl": "https://phimimg.com/upload/vod/20260425-1/23b909f69bb8405fb77f6ff796c5f471.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260425-1/d537e55f16c1702d92b1248ea13e315c.jpg",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-boys-season-2-2020",
+      "source": "phimapi",
+      "slug": "sieu-anh-hung-pha-hoai-phan-2",
+      "name": "Siêu Anh Hùng Phá Hoại (Phần 2)",
+      "originName": "The Boys (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260408-1/f88aa17b56b68838b5af7ca7f2f9d64a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260408-1/c40c91dcc901af02d6e7bd38de9aa653.jpg",
+      "year": 2020,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "alien-monster-2020",
+      "source": "phimapi",
+      "slug": "sinh-ton-hoang-da-quai-thu-ngoai-hanh-tinh",
+      "name": "Sinh Tồn Hoang Dã: Quái Thú Ngoài Hành Tinh",
+      "originName": "Alien Monster",
+      "posterUrl": "https://phimimg.com/upload/vod/20260502-1/15968be340fbc6f54cf54bb7e25b5360.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260502-1/a4c8486c9b39daaadc68b372acdf75b8.jpg",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "alive-2020",
+      "source": "phimapi",
+      "slug": "song-sot-2020",
+      "name": "Sống Sót (Tôi còn sống)",
+      "originName": "#Alive",
+      "posterUrl": "https://phimimg.com/upload/vod/20260112-1/dae5bcc7870273f3ddb6ac228e2f7497.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260112-1/6ce48ae4886bf201ba26211b6df4545a.jpg",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-hollow-season-2-2020",
+      "source": "phimapi",
+      "slug": "trong-rong-phan-2",
+      "name": "Trống Rỗng (Phần 2)",
+      "originName": "The Hollow (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260327-1/79d47c5a89eabe446beda2ca8bc2860f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260327-1/30c4da831d05ddf9608e9647a0a2c394.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "boss-level-2020",
+      "source": "phimapi",
+      "slug": "trum-cuoi-sieu-dang",
+      "name": "Trùm Cuối Siêu Đẳng",
+      "originName": "Boss Level",
+      "posterUrl": "https://phimimg.com/upload/vod/20260413-1/f10597913d8873437da74aa3f8374fa7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260413-1/b4b2b4fcb0a8cf4d101684945d50c1d1.jpg",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-big-explosion-2020",
+      "source": "phimapi",
+      "slug": "vu-no-lon-thien-khai",
+      "name": "Vụ Nổ Lớn Thiên Khải",
+      "originName": "The Big Explosion",
+      "posterUrl": "https://phimimg.com/upload/vod/20251122-1/5d20647c0afcf898205b83d41d1e4cf3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251122-1/129ccfe5c34ae81e508b60496202036a.jpg",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "alice-2020",
+      "source": "phimapi",
+      "slug": "xu-so-alice",
+      "name": "Xứ Sở Alice",
+      "originName": "Alice",
+      "posterUrl": "https://phimimg.com/upload/vod/20260122-1/dea25724c584ed0d1c47f5c5da40ce4a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260122-1/78889c99fc15cbc40b7dd456b046d76d.jpg",
+      "year": 2020,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "alita-battle-angel-2019",
+      "source": "ophim",
+      "slug": "alita-thien-than-chien-binh",
+      "name": "Alita: Thiên Thần Chiến Binh",
+      "originName": "Alita: Battle Angel",
+      "posterUrl": "https://img.ophim.live/uploads/movies/alita-thien-than-chien-binh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/alita-thien-than-chien-binh-thumb.jpg",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "aniara-2019",
+      "source": "ophim",
+      "slug": "aniara",
+      "name": "Aniara",
+      "originName": "Aniara",
+      "posterUrl": "https://img.ophim.live/uploads/movies/aniara-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/aniara-thumb.jpg",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thụy Điển",
+          "slug": "thuy-dien"
+        },
+        {
+          "name": "Đan Mạch",
+          "slug": "dan-mach"
+        }
+      ]
+    },
+    {
+      "id": "my-absolute-boyfriend-2019",
+      "source": "ophim",
+      "slug": "ban-trai-dich-thuc-cua-toi",
+      "name": "Bạn trai đích thực của tôi",
+      "originName": "My Absolute Boyfriend",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ban-trai-dich-thuc-cua-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ban-trai-dich-thuc-cua-toi-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "future-man-season-2-2019",
+      "source": "ophim",
+      "slug": "cao-thu-tuong-lai-phan-2",
+      "name": "Cao thủ tương lai (Phần 2)",
+      "originName": "Future Man (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cao-thu-tuong-lai-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cao-thu-tuong-lai-phan-2-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "stranger-things-season-3-2019",
+      "source": "ophim",
+      "slug": "cau-be-mat-tich-phan-3",
+      "name": "Cậu Bé Mất Tích (Phần 3)",
+      "originName": "Stranger Things (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-phan-3-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "vivarium-2019",
+      "source": "ophim",
+      "slug": "cho-song",
+      "name": "Chỗ Sống",
+      "originName": "Vivarium",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cho-song-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cho-song-thumb.jpg",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Đan Mạch",
+          "slug": "dan-mach"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
+        }
+      ]
+    },
+    {
+      "id": "a-shaun-the-sheep-movie-farmageddon-2019",
+      "source": "ophim",
+      "slug": "cuu-que-ra-pho-nguoi-ban-ngoai-hanh-tinh",
+      "name": "Cừu Quê Ra Phố: Người Bạn Ngoài Hành Tinh",
+      "originName": "A Shaun the Sheep Movie: Farmageddon",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuu-que-ra-pho-nguoi-ban-ngoai-hanh-tinh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuu-que-ra-pho-nguoi-ban-ngoai-hanh-tinh-thumb.jpg",
+      "year": 2019,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "the-vast-of-night-2019",
+      "source": "ophim",
+      "slug": "dem-dinh-menh",
+      "name": "Đêm Định Mệnh",
+      "originName": "The Vast of Night",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dem-dinh-menh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dem-dinh-menh-thumb.jpg",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "love-death-robots-season-1-2019",
+      "source": "ophim",
+      "slug": "love-death-robots-phan-1",
+      "name": "Love, Death & Robots (Phần 1)",
+      "originName": "Love, Death & Robots (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/love-death-robots-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/love-death-robots-phan-1-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (18/18)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "dreaming-back-to-the-qing-dynasty-2019",
+      "source": "ophim",
+      "slug": "mong-hoi",
+      "name": "Mộng Hồi",
+      "originName": "Dreaming Back to the Qing Dynasty",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mong-hoi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mong-hoi-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (40/40)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "reversal-dimension-the-rise-of-ai-2019",
+      "source": "ophim",
+      "slug": "nghich-chuyen-thu-nguyen-ai-quat-khoi",
+      "name": "Nghịch Chuyển Thứ Nguyên AI Quật Khởi",
+      "originName": "Reversal Dimension: The Rise of AI",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nghich-chuyen-thu-nguyen-ai-quat-khoi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nghich-chuyen-thu-nguyen-ai-quat-khoi-thumb.jpg",
+      "year": 2019,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-plough-department-of-song-dynasty-2019",
+      "source": "ophim",
+      "slug": "nha-mon-bi-an",
+      "name": "Nha Môn Bí Ẩn",
+      "originName": "The Plough Department of Song Dynasty",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nha-mon-bi-an-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nha-mon-bi-an-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(36/36)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "watchmen-2019",
+      "source": "ophim",
+      "slug": "nhung-nguoi-canh-giu",
+      "name": "Những Người Canh Giữ",
+      "originName": "Watchmen",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-nguoi-canh-giu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-nguoi-canh-giu-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "nos4a2-2019",
+      "source": "ophim",
+      "slug": "nos4a2",
+      "name": "NOS4A2",
+      "originName": "NOS4A2",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nos4a2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nos4a2-thumb.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    }
+  ]
+}

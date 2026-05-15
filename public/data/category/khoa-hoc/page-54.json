@@ -1,0 +1,960 @@
+{
+  "slug": "khoa-hoc",
+  "name": "Khoa Học",
+  "page": 54,
+  "totalPages": 59,
+  "items": [
+    {
+      "id": "spider-man-3-2007",
+      "source": "phimapi",
+      "slug": "nguoi-nhen-3",
+      "name": "Người Nhện 3",
+      "originName": "Spider-Man 3",
+      "posterUrl": "https://phimimg.com/upload/vod/20250828-1/db24338194c1b2ec0ec3a77f20429d88.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250828-1/2b65f5542958b51e8ebe6a753c0037cb.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "timecrimes-2007",
+      "source": "phimapi",
+      "slug": "toi-ac-xoay-vong",
+      "name": "Tội Ác Xoay Vòng",
+      "originName": "Timecrimes",
+      "posterUrl": "https://phimimg.com/upload/vod/20260120-1/18adf9292b35e9fdc4af14eeb474da71.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260120-1/3c7f0357647f448f8102866f39ab51d1.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
+      "id": "transformers-2007",
+      "source": "phimapi",
+      "slug": "transformers-robot-dai-chien",
+      "name": "Transformers: Robot Đại Chiến",
+      "originName": "Transformers",
+      "posterUrl": "https://phimimg.com/upload/vod/20260225-1/a7fc6cb106b43aef09115a882e7b5099.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260225-1/f2ce63e34341b14512fd7f0f208544b2.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "gogo-sentai-boukenger-2006",
+      "source": "ophim",
+      "slug": "chien-doi-phieu-luu-boukenger",
+      "name": "Chiến Đội Phiêu Lưu Boukenger",
+      "originName": "GoGo Sentai Boukenger",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chien-doi-phieu-luu-boukenger-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chien-doi-phieu-luu-boukenger-thumb.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(49/49)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "children-of-men-2006",
+      "source": "ophim",
+      "slug": "children-of-men",
+      "name": "Children of Men",
+      "originName": "Children of Men",
+      "posterUrl": "https://img.ophim.live/uploads/movies/children-of-men-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/children-of-men-thumb.jpg",
+      "year": 2006,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "one-piece-karakuri-shiro-no-mecha-kyohei-2006",
+      "source": "ophim",
+      "slug": "one-piece-karakuri-shiro-no-mecha-kyohei",
+      "name": "One piece: Karakuri shiro no Mecha Kyohei",
+      "originName": "One piece: Karakuri shiro no Mecha Kyohei",
+      "posterUrl": "https://img.ophim.live/uploads/movies/one-piece-karakuri-shiro-no-mecha-kyohei-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/one-piece-karakuri-shiro-no-mecha-kyohei-thumb.jpg",
+      "year": 2006,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "pucca-season-1-2006",
+      "source": "ophim",
+      "slug": "pucca-phan-1",
+      "name": "Pucca (Phần 1)",
+      "originName": "Pucca (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/pucca-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/pucca-phan-1-thumb.jpg",
+      "year": 2006,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (78/78)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "kamen-rider-kabuto-2006",
+      "source": "ophim",
+      "slug": "sieu-nhan-bo-hung",
+      "name": "Siêu nhân Bọ Hung",
+      "originName": "Kamen Rider Kabuto",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sieu-nhan-bo-hung-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-nhan-bo-hung-thumb.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (49/49)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "stargate-sg-1-season-10-2006",
+      "source": "ophim",
+      "slug": "stargate-sg-1-phan-10",
+      "name": "Stargate SG-1 (Phần 10)",
+      "originName": "Stargate SG-1 (Season 10)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/stargate-sg-1-phan-10-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/stargate-sg-1-phan-10-thumb.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (20/20)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "teen-titans-season-4-2005",
+      "source": "ophim",
+      "slug": "biet-doi-thieu-nien-titan-phan-4",
+      "name": "Biệt Đội Thiếu Niên Titan (Phần 4)",
+      "originName": "Teen Titans (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/biet-doi-thieu-nien-titan-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/biet-doi-thieu-nien-titan-phan-4-thumb.jpg",
+      "year": 2005,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "stargate-sg-1-season-9-2005",
+      "source": "ophim",
+      "slug": "stargate-sg-1-phan-9",
+      "name": "Stargate SG-1 (Phần 9)",
+      "originName": "Stargate SG-1 (Season 9)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/stargate-sg-1-phan-9-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/stargate-sg-1-phan-9-thumb.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (20/20)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "sky-high-2005",
+      "source": "ophim",
+      "slug": "truong-hoc-sieu-nhan",
+      "name": "Trường Học Siêu Nhân",
+      "originName": "Sky High",
+      "posterUrl": "https://img.ophim.live/uploads/movies/truong-hoc-sieu-nhan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/truong-hoc-sieu-nhan-thumb.jpg",
+      "year": 2005,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-island-2005",
+      "source": "phimapi",
+      "slug": "dao-vo-hinh",
+      "name": "Đảo Vô Hình",
+      "originName": "The Island",
+      "posterUrl": "https://phimimg.com/upload/vod/20251023-1/f31636fd62262b310880a812ee4975eb.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251023-1/5a03aff9aff730caaca32575aba0a0e3.jpg",
+      "year": 2005,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "charmed-season-8-2005",
+      "source": "phimapi",
+      "slug": "phep-thuat-phan-8",
+      "name": "Phép Thuật (Phần 8)",
+      "originName": "Charmed (Season 8)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250915-1/edc19366ec0bf194b72b534fa2a24494.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250915-1/c9c157785195a43aea308785665b86b3.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "teen-titans-season-2-2004",
+      "source": "ophim",
+      "slug": "biet-doi-thieu-nien-titan-phan-2",
+      "name": "Biệt Đội Thiếu Niên Titan (Phần 2)",
+      "originName": "Teen Titans (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/biet-doi-thieu-nien-titan-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/biet-doi-thieu-nien-titan-phan-2-thumb.jpg",
+      "year": 2004,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (26/26)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "blade-trinity-2004",
+      "source": "ophim",
+      "slug": "blade-trinity",
+      "name": "Blade: Trinity",
+      "originName": "Blade: Trinity",
+      "posterUrl": "https://img.ophim.live/uploads/movies/blade-trinity-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/blade-trinity-thumb.jpg",
+      "year": 2004,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "tokusou-sentai-dekaranger-2004",
+      "source": "ophim",
+      "slug": "chien-doi-dac-nhiem-dekaranger",
+      "name": "Chiến Đội Đặc Nhiệm Dekaranger",
+      "originName": "Tokusou Sentai Dekaranger",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chien-doi-dac-nhiem-dekaranger-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chien-doi-dac-nhiem-dekaranger-thumb.jpg",
+      "year": 2004,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (38/38)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "godzilla-final-wars-2004",
+      "source": "ophim",
+      "slug": "godzilla-final-wars",
+      "name": "Godzilla: Final Wars",
+      "originName": "Godzilla: Final Wars",
+      "posterUrl": "https://img.ophim.live/uploads/movies/godzilla-final-wars-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/godzilla-final-wars-thumb.jpg",
+      "year": 2004,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "crashbox-season-2-2004",
+      "source": "ophim",
+      "slug": "hop-va-cham-phan-2",
+      "name": "Hộp Va Chạm (Phần 2)",
+      "originName": "Crashbox (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hop-va-cham-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hop-va-cham-phan-2-thumb.jpg",
+      "year": 2004,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "kamen-rider-blade-2004",
+      "source": "ophim",
+      "slug": "sieu-nhan-the-bai",
+      "name": "Siêu nhân Thẻ Bài",
+      "originName": "Kamen Rider Blade",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sieu-nhan-the-bai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-nhan-the-bai-thumb.jpg",
+      "year": 2004,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (49/49)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "stargate-sg-1-season-8-2004",
+      "source": "ophim",
+      "slug": "stargate-sg-1-phan-8",
+      "name": "Stargate SG-1 (Phần 8)",
+      "originName": "Stargate SG-1 (Season 8)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/stargate-sg-1-phan-8-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/stargate-sg-1-phan-8-thumb.jpg",
+      "year": 2004,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (20/20)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "the-butterfly-effect-2004",
+      "source": "ophim",
+      "slug": "the-butterfly-effect",
+      "name": "The Butterfly Effect",
+      "originName": "The Butterfly Effect",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-butterfly-effect-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-butterfly-effect-thumb.jpg",
+      "year": 2004,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "i-robot-2004",
+      "source": "ophim",
+      "slug": "toi-nguoi-may",
+      "name": "Toi, nguoi may",
+      "originName": "I, Robot",
+      "posterUrl": "https://img.ophim.live/uploads/movies/toi-nguoi-may-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/toi-nguoi-may-thumb.jpg",
+      "year": 2004,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "to-get-unstuck-in-time-2004",
+      "source": "ophim",
+      "slug": "vu-an-ky-bi",
+      "name": "Vụ Án Kỳ Bí",
+      "originName": "To Get Unstuck in Time",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vu-an-ky-bi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vu-an-ky-bi-thumb.jpg",
+      "year": 2004,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    }
+  ]
+}

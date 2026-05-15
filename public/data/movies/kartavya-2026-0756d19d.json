@@ -1,0 +1,51 @@
+{
+  "id": "kartavya-2026-0756d19d",
+  "source": "ophim",
+  "slug": "nghia-vu",
+  "name": "Nghĩa Vụ",
+  "originName": "Kartavya",
+  "posterUrl": "https://img.ophim.live/uploads/movies/nghia-vu-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/nghia-vu-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Khi gia đình bị đẩy vào nguy hiểm và những mối đe dọa đáng sợ đang cận kề, một sĩ quan cảnh sát buộc phải quyết định anh sẵn sàng đi đến đâu để giữ trọn bổn phận.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/73618455b2f727ad8fe055241b6b06bd",
+      "m3u8Url": "https://vip.opstream90.com/20260515/31813_73618455/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "nghia-vu",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

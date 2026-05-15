@@ -1,0 +1,111 @@
+{
+  "id": "cia-2026-a7dd09e8",
+  "source": "ophim",
+  "slug": "cia-phan-1",
+  "name": "CIA (Phần 1)",
+  "originName": "CIA",
+  "posterUrl": "https://img.ophim.live/uploads/movies/cia-phan-1-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/cia-phan-1-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 8",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Phim theo chân hai đặc vụ đến từ hai thế giới hoàn toàn khác biệt đầy mâu thuẫn những không kém phần thú vị. Colin Glass (Tom Ellis), đặc vụ CIA chân ướt chân ráo được điều động đến New York, nhưng là người đầy kinh nghiệm, phóng khoáng và hành động theo bản năng, bất chấp quy tắc và luật lệ. Bill Goodman (Nick Gehlfuss), đặc vụ nội địa FBI New York chính gốc, là người sống và làm việc theo đúng quy trình, tuân thủ nghiêm ngặt các quy tắc. Sự khác biệt ấy vừa là xung đột, vừa là điểm mạnh cùng với những tình huống dở khóc dở cười đã giúp họ trở thành bộ đôi hiệu quả khi “bất đắc dĩ” phải cùng nhau tham gia vào một lực lượng đặc nhiệm bí mật chuyên ngăn chặn các mối đe dọa khủng bố trên nước Mỹ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/2913779eaaea51ea2ca2d21953d845c4",
+      "m3u8Url": "https://vip.opstream10.com/20260428/33509_2913779e/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/86a2cd9c81622bc127010daa5acce587",
+      "m3u8Url": "https://vip.opstream10.com/20260430/33516_86a2cd9c/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/685677a17902e2dbc239ca05391544e1",
+      "m3u8Url": "https://vip.opstream10.com/20260501/33524_685677a1/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/3e184e77033653ed680e6a72159e7d69",
+      "m3u8Url": "https://vip.opstream10.com/20260506/33567_3e184e77/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/2d676aeab38fa3680f4369dbbd4f3e52",
+      "m3u8Url": "https://vip.opstream10.com/20260507/33585_2d676aea/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/6c058e622c101b83d9920e94235dfaa6",
+      "m3u8Url": "https://vip.opstream10.com/20260509/33621_6c058e62/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/51cb4d36ac390e5bd8d30919a78e336e",
+      "m3u8Url": "https://vip.opstream10.com/20260512/33683_51cb4d36/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/302626eb160bcd2ff5b9e4a0578e021b",
+      "m3u8Url": "https://vip.opstream10.com/20260514/33689_302626eb/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "cia-phan-1",
+      "episodeCount": 8,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

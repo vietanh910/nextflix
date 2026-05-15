@@ -1,0 +1,880 @@
+{
+  "slug": "hai-huoc",
+  "name": "Hài Hước",
+  "page": 32,
+  "totalPages": 130,
+  "items": [
+    {
+      "id": "stumble-2025",
+      "source": "phimapi",
+      "slug": "cu-truot-2025",
+      "name": "Cú Trượt",
+      "originName": "Stumble",
+      "posterUrl": "https://phimimg.com/upload/vod/20251119-1/99fb4206378d23b3eb5fa03bb29a7117.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251119-1/ddc447bde315b56bfbb6bf61ce5816bc.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "let-s-play-2025",
+      "source": "phimapi",
+      "slug": "cung-choi-nao",
+      "name": "Cùng Chơi Nào",
+      "originName": "Let's Play",
+      "posterUrl": "https://phimimg.com/upload/vod/20251003-1/07df84c741b6d2084ee1a90aeea1c8db.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251003-1/a768856f50ca4858a75d07472a3b1553.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-downstream-battle-2025",
+      "source": "phimapi",
+      "slug": "cuoc-chien-ha-luu",
+      "name": "Cuộc Chiến Hạ Lưu",
+      "originName": "The Downstream Battle",
+      "posterUrl": "https://phimimg.com/upload/vod/20251026-1/00e0857c0d04b656e384bdff161b3bb4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251026-1/389337010790b7bcdba7cad5e3e6d697.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "k-idol-invasion-2025",
+      "source": "phimapi",
+      "slug": "cuoc-do-bo-cua-idol-kpop",
+      "name": "Cuộc Đổ Bộ Của Idol K-pop",
+      "originName": "K-Idol Invasion",
+      "posterUrl": "https://phimimg.com/upload/vod/20250922-1/dff63cd9ab67f704c0c257f1140cd598.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250922-1/91fa028ad467f08e877ac9859ccbfd6a.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (53/53)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "in-your-dreams-2025",
+      "source": "phimapi",
+      "slug": "cuoc-phieu-luu-trong-giac-mong",
+      "name": "Cuộc Phiêu Lưu Trong Giấc Mộng",
+      "originName": "In Your Dreams",
+      "posterUrl": "https://phimimg.com/upload/vod/20251115-1/ddb60475b3a525d8f486b8338c7cf1f6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251115-1/4303b04b80bef55e576ec80353b80426.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "happy-kanako-s-killer-life-2025",
+      "source": "phimapi",
+      "slug": "cuoc-song-sat-thu-cua-kanako-hanh-phuc-shiawase-kanako-no-koroshiya-seikatsu",
+      "name": "Cuộc Sống Sát Thủ Của Kanako Hạnh Phúc (Shiawase Kanako no Koroshiya Seikatsu)",
+      "originName": "Happy Kanako's Killer Life",
+      "posterUrl": "https://phimimg.com/upload/vod/20251129-1/ab5dd50a62987a8b949dcb545f29902d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251129-1/dfabb645eaa7ca6a0bc345613d7ee6b9.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-dream-life-of-mr-kim-2025",
+      "source": "phimapi",
+      "slug": "cuoc-song-trong-mo-cua-ong-kim",
+      "name": "Cuộc Sống Trong Mơ Của Ông Kim",
+      "originName": "The Dream Life Of Mr. Kim",
+      "posterUrl": "https://phimimg.com/upload/vod/20251026-1/043471199080589b7f41288758a36b14.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251026-1/9517134fd5b31de053da66201f3e7d53.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-red-envelope-2025",
+      "source": "phimapi",
+      "slug": "cuoi-ma-giai-han",
+      "name": "Cưới Ma Giải Hạn",
+      "originName": "The Red Envelope",
+      "posterUrl": "https://phimimg.com/upload/vod/20250715-1/a1e9b5f731466f11bdb3d291e7da904b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250715-1/98448dc29316cce893f575566f795a80.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "will-trent-season-3-2025",
+      "source": "phimapi",
+      "slug": "dac-vu-will-trent-phan-3",
+      "name": "Đặc Vụ Will Trent (Phần 3)",
+      "originName": "Will Trent (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260201-1/5ff574acad1d6f436e818ba2bc707f4d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260201-1/9b9569b3f6a99b1ad5c694bb42d05bfe.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (18/18)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "fast-racing-jazz-2025",
+      "source": "phimapi",
+      "slug": "dai-ca-di-tu",
+      "name": "Đại Ca Đi Tu",
+      "originName": "Fast Racing Jazz",
+      "posterUrl": "https://phimimg.com/upload/vod/20250920-1/76cad636fd5a37ddb2d27dc641970969.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250920-1/3bf72604573baf1c630fb6d21ca79906.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "the-haoge-of-erlonghu-no-rogues-under-heaven-2025",
+      "source": "phimapi",
+      "slug": "dai-ca-nhi-long-ho-vo-lai-thien-ha",
+      "name": "Đại Ca Nhị Long Hồ: Vô Lại Thiên Hạ",
+      "originName": "The Haoge Of Erlonghu: No Rogues Under Heaven",
+      "posterUrl": "https://phimimg.com/upload/vod/20251130-1/3d0f125cd20691a5c137fb817b81ce94.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251130-1/3fb058aaad5e43bf6d0ef67750fb10d5.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "dan-da-dan-season-2-2025",
+      "source": "phimapi",
+      "slug": "dan-da-dan-phan-2",
+      "name": "Dan Da Dan (Phần 2)",
+      "originName": "Dan Da Dan (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250704-1/7b759d5356cd982a45eb812ddfbeec2b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250704-1/69a3b7a6f3369a96b99930ba0be0bedd.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "running-point-season-1-2025",
+      "source": "phimapi",
+      "slug": "di-dau-phan-1",
+      "name": "Đi Đầu (Phần 1)",
+      "originName": "Running Point (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250228-1/7fc8c3305d043c62dfffcc6770fd6b9c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250228-1/dc80f0907d814102d85d3c153eea4603.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "nyaight-of-the-living-cat-2025",
+      "source": "phimapi",
+      "slug": "di-dem-lam-co-ngay-gap-meo",
+      "name": "Đi Đêm Lắm Có Ngày Gặp Mèo",
+      "originName": "Nyaight Of The Living Cat",
+      "posterUrl": "https://phimimg.com/upload/vod/20250708-1/b9a350aaaa58b10dcf164c57d66660ad.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250708-1/0e062518b4ebb5d7c96425e9ebc5ed7d.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "undercover-high-school-2025",
+      "source": "phimapi",
+      "slug": "diep-vu-thanh-xuan",
+      "name": "Điệp Vụ Thanh Xuân",
+      "originName": "Undercover High School",
+      "posterUrl": "https://phimimg.com/upload/vod/20250222-1/766117a9a994b533eb515dc7b84f92d7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250222-1/ee63b21e3a29e7a64a2b50e7fb00824b.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "thai-sweet-2025",
+      "source": "phimapi",
+      "slug": "do-ngot-thai-lan",
+      "name": "Đồ Ngọt Thái Lan",
+      "originName": "Thai Sweet",
+      "posterUrl": "https://phimimg.com/upload/vod/20251224-1/7b3ba99bca062a5ad178a7ae97220a91.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251224-1/48ba759a7ff3970c7149c60a57a3dd08.jpg",
+      "year": 2025,
+      "type": "tvshow",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "caught-stealing-2025",
+      "source": "phimapi",
+      "slug": "dong-pham-bat-dac-di",
+      "name": "Đồng Phạm Bất Đắc Dĩ",
+      "originName": "Caught Stealing",
+      "posterUrl": "https://phimimg.com/upload/vod/20250930-1/361b5537898edefed3d1f624c32497cc.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250930-1/029b6a741851fcd7f673130d5745ee40.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "anyway-i-m-falling-in-love-with-you-season-1-2025",
+      "source": "phimapi",
+      "slug": "du-sao-anh-van-yeu-em-phan-1",
+      "name": "Dù Sao Anh Vẫn Yêu Em (Phần 1)",
+      "originName": "Anyway I'm Falling In Love With You (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260109-1/76ba2bc329d2078344ce5cbe1c3d3f25.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260109-1/23e4008563065f159a41838b563a0255.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "anaconda-2025",
+      "source": "phimapi",
+      "slug": "dung-do-sieu-tran",
+      "name": "Đụng Độ Siêu Trăn",
+      "originName": "Anaconda",
+      "posterUrl": "https://phimimg.com/upload/vod/20260127-1/77dcf424f5036b99140a47e16c23989a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260127-1/d323f98664ff74e5230d4568f40231d5.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "earthquake-joke-telling-business-2025",
+      "source": "phimapi",
+      "slug": "earthquake-cong-viec-ke-chuyen-cuoi",
+      "name": "Earthquake: Công Việc Kể Chuyện Cười",
+      "originName": "Earthquake: Joke Telling Business",
+      "posterUrl": "https://phimimg.com/upload/vod/20251003-1/e11a52b43ca659cd880a2e05c1dcdd0d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251003-1/845695bc7a4f7931c2b2af583e4f08b4.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "a-mangaka-s-weirdly-wonderful-workplace-2025",
+      "source": "phimapi",
+      "slug": "egao-no-taenai-shokuba-desu",
+      "name": "Egao no Taenai Shokuba desu.",
+      "originName": "A Mangaka's Weirdly Wonderful Workplace",
+      "posterUrl": "https://phimimg.com/upload/vod/20251023-1/cf4798bc05f603dfdc9aa55abf163829.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251023-1/6399ce40093c6789648341357062b48b.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "my-friend-s-little-sister-has-it-in-for-me-2025",
+      "source": "phimapi",
+      "slug": "em-gai-cua-ban-toi-dang-choc-tuc-toi",
+      "name": "Em Gái Của Bạn Tôi Đang Chọc Tức Tôi!",
+      "originName": "My Friend's Little Sister Has It In For Me!",
+      "posterUrl": "https://phimimg.com/upload/vod/20251005-1/46556f2a07eac735db12e88f1d01e76c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251005-1/0c32ca94926b4a394c394a11cf742c3a.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "pretty-crazy-2025",
+      "source": "phimapi",
+      "slug": "em-xinh-tinh-quai",
+      "name": "Em Xinh Tinh Quái",
+      "originName": "Pretty Crazy",
+      "posterUrl": "https://phimimg.com/upload/vod/20250919-1/41084afc0b52fd447a989fdab5d54817.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250919-1/a411be29d10f55b5a12d4bcbf536f4a8.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "rental-family-2025",
+      "source": "phimapi",
+      "slug": "gia-dinh-cho-thue",
+      "name": "Gia Đình Cho Thuê",
+      "originName": "Rental Family",
+      "posterUrl": "https://phimimg.com/upload/vod/20260116-1/e856b6873fe19c760dff7748085d724e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260116-1/cd8d526293ef7708216c07f4dea18292.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    }
+  ]
+}

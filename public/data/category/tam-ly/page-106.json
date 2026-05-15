@@ -1,0 +1,928 @@
+{
+  "slug": "tam-ly",
+  "name": "Tâm Lý",
+  "page": 106,
+  "totalPages": 126,
+  "items": [
+    {
+      "id": "ip-man-2013",
+      "source": "phimapi",
+      "slug": "diep-van",
+      "name": "Diệp Vấn",
+      "originName": "Ip Man",
+      "posterUrl": "https://phimimg.com/upload/vod/20251201-1/7559ddf77de1f487623f4aed300373c6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251201-1/19273fddb7402dcfea093f0e0ef8ba81.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (50/50)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-agents-of-s-h-i-e-l-d-season-1-2013",
+      "source": "phimapi",
+      "slug": "doi-dac-nhiem-shield-phan-1",
+      "name": "Đội Đặc Nhiệm SHIELD (Phần 1)",
+      "originName": "Marvel's Agents Of S.H.I.E.L.D. (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260119-1/2fd727db702095b3d48c9d0976625e96.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260119-1/5187c53856e1d51465665ceba84539b4.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "very-good-girls-2013",
+      "source": "phimapi",
+      "slug": "gai-ngoan",
+      "name": "Gái Ngoan",
+      "originName": "Very Good Girls",
+      "posterUrl": "https://phimimg.com/upload/vod/20250919-1/de2c025185952fa3dc5b8c5983bd6b09.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250919-1/a80d69d9ec3f71c84334859eb569b94a.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "bones-season-9-2013",
+      "source": "phimapi",
+      "slug": "hai-cot-phan-9",
+      "name": "Hài Cốt (Phần 9)",
+      "originName": "Bones (Season 9)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260222-1/d4f0be723010723a7eaf99fdff4c5595.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260222-1/8c7ff221b7982be823222113a9e9854e.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "orphan-black-season-1-2013",
+      "source": "phimapi",
+      "slug": "hoan-vi-phan-1",
+      "name": "Hoán Vị (Phần 1)",
+      "originName": "Orphan Black (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260506-1/edfb9e701fccf60a22e518997cd3e775.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260506-1/a54e14638472230a54fab95859a943cc.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "hunter-x-hunter-phantom-rouge-2013",
+      "source": "phimapi",
+      "slug": "hunter-x-hunter-duong-dau-bang-nhen-nhen-bong-ma-do-tham",
+      "name": "Hunter x Hunter: Đương Đầu Băng Nhền Nhện (Bóng Ma Đỏ Thẫm)",
+      "originName": "Hunter x Hunter: Phantom Rouge",
+      "posterUrl": "https://phimimg.com/upload/vod/20251030-1/9e6c225d980c0e1c7d3788044ccfa778.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251030-1/8a88fa5a1a0d490184db04926d0e78eb.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "stoker-2013",
+      "source": "phimapi",
+      "slug": "ke-dot-lo-ke-sat-nhan",
+      "name": "Kẻ Đốt Lò (Kẻ Sát Nhân)",
+      "originName": "Stoker",
+      "posterUrl": "https://phimimg.com/upload/vod/20250926-1/868daf22a12a91f1cc16a02f9f70bf25.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250926-1/aaf8389b5a8b5d9306d18898bcce9287.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "berserk-the-golden-age-arc-iii-the-advent-2013",
+      "source": "phimapi",
+      "slug": "ky-si-den-chan-menh-de-vuong",
+      "name": "Kỵ Sĩ Đen: Chân Mệnh Đế Vương",
+      "originName": "Berserk: The Golden Age Arc III - The Advent",
+      "posterUrl": "https://phimimg.com/upload/vod/20250923-1/206488358a09fbb7e0eebad1b128cdb9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250923-1/ec813279f5e2c6d350d940fe6a90d550.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "oz-the-great-and-powerful-2013",
+      "source": "phimapi",
+      "slug": "lac-vao-xu-oz-vi-dai-va-quyen-nang",
+      "name": "Lạc Vào Xứ Oz Vĩ Đại và Quyền Năng",
+      "originName": "Oz The Great And Powerful",
+      "posterUrl": "https://phimimg.com/upload/vod/20260511-1/5ce1619ac3143e2483640b061f5f0f8f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260511-1/9e50396f4cc354e4704692e3484441d2.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-originals-season-1-2013",
+      "source": "phimapi",
+      "slug": "ma-ca-rong-nguyen-thuy-phan-1",
+      "name": "Ma Cà Rồng Nguyên Thủy (Phần 1)",
+      "originName": "The Originals (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251102-1/b1fd59fb4c6384ff924d2012ff250e75.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251102-1/1297b833c990b03fec3ea52d3400d890.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "bygone-love-2013",
+      "source": "phimapi",
+      "slug": "ngoc-boi-uyen-uong",
+      "name": "Ngọc Bội Uyên Ương",
+      "originName": "Bygone Love",
+      "posterUrl": "https://phimimg.com/upload/vod/20251118-1/899cf4de1b62ce16e8ab54b5102d9a45.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251118-1/40b01fe152020aa4356630d4ba1d46ec.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (36/36)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "teen-wolf-season-3-2013",
+      "source": "phimapi",
+      "slug": "nguoi-soi-tuoi-teen-phan-3",
+      "name": "Người Sói Tuổi Teen (Phần 3)",
+      "originName": "Teen Wolf (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251214-1/12d2d4fb9fd2d678ef90709dcca148e0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251214-1/0f229711c494ef4f574e8001e6a971c5.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "pleasure-or-pain-2013",
+      "source": "phimapi",
+      "slug": "noi-dau-ngot-ngao",
+      "name": "Nỗi Đau Ngọt Ngào",
+      "originName": "Pleasure or Pain",
+      "posterUrl": "https://phimimg.com/upload/vod/20260511-1/95fc0220cd6433578f9135421bb8792a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260511-1/823ebf95de7687a99ca03135ded85871.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phim 18+",
+          "slug": "phim-18"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "now-you-see-me-2013",
+      "source": "phimapi",
+      "slug": "phi-vu-the-ky",
+      "name": "Phi Vụ Thế Kỷ",
+      "originName": "Now You See Me",
+      "posterUrl": "https://phimimg.com/upload/vod/20251130-1/ac099f5652e6e0da64316fdfb85e7dd6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251130-1/74147344a9e18207c23027c50e0cea6c.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "fast-furious-6-2013",
+      "source": "phimapi",
+      "slug": "qua-nhanh-qua-nguy-hiem-6",
+      "name": "Quá Nhanh Quá Nguy Hiểm 6",
+      "originName": "Fast & Furious 6",
+      "posterUrl": "https://phimimg.com/upload/vod/20260219-1/545bde5d673a9a47692eb426817eb81b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260219-1/0539db43e27bd4a55eb27a1a5a6cee33.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-frozen-ground-2013",
+      "source": "phimapi",
+      "slug": "sat-nhan-nui-tuyet",
+      "name": "Sát Nhân Núi Tuyết",
+      "originName": "The Frozen Ground",
+      "posterUrl": "https://phimimg.com/upload/vod/20260108-1/968586dd6b670cdb92060b9fa16d6b85.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260108-1/ce38c78db7c95c9ce6a600f1c328e00a.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-mentalist-season-6-2013",
+      "source": "phimapi",
+      "slug": "tham-tu-dai-tai-phan-6",
+      "name": "Thám Tử Đại Tài (Phần 6)",
+      "originName": "The Mentalist (Season 6)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260118-1/f05a30e50af5e733d2c9d33f3928feeb.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260118-1/f73c58914555085bd7b9e25261d9ad99.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "thor-the-dark-world-2013",
+      "source": "phimapi",
+      "slug": "than-sam-ii-the-gioi-bong-toi",
+      "name": "Thần Sấm II: Thế Giới Bóng Tối",
+      "originName": "Thor: The Dark World",
+      "posterUrl": "https://phimimg.com/upload/vod/20250923-1/59eb1a450d1c31635548241d4ff3031b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250923-1/e4ba7b6bbd53ecef3e7740405648310b.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "hunter-x-hunter-the-last-mission-2013",
+      "source": "phimapi",
+      "slug": "tho-san-ti-hon-movie-nhiem-vu-cuoi-cung",
+      "name": "Thợ Săn Tí Hon Movie: Nhiệm Vụ Cuối Cùng",
+      "originName": "Hunter x Hunter: The Last Mission",
+      "posterUrl": "https://phimimg.com/upload/vod/20251030-1/b10d984bc4c669206745d1e72fe2b19b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251030-1/f5a8815bfa7c1cb5e35ced0125a407f4.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "american-horror-story-season-3-2013",
+      "source": "phimapi",
+      "slug": "truyen-kinh-di-my-phan-3-coven",
+      "name": "Truyện Kinh Dị Mỹ (Phần 3) (Coven)",
+      "originName": "American Horror Story (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260118-1/ecfc939a66baf0d64cf6834fc233aad1.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260118-1/ab6e4702bff15289f7408f87a70a02c4.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "legend-of-the-purple-hairpin-2013",
+      "source": "phimapi",
+      "slug": "tu-thoa-ky-duyen",
+      "name": "Tử Thoa Kỳ Duyên",
+      "originName": "Legend Of The Purple Hairpin",
+      "posterUrl": "https://phimimg.com/upload/vod/20251224-1/2486c1a00ec3009f3cb76e47fb2dc198.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251224-1/15dceb1b071bea55e2f408ce3d7fbb33.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (43/43)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "magi-season-2-the-kingdom-of-magic-2013",
+      "source": "phimapi",
+      "slug": "vuong-quoc-ma-thuat-phan-2",
+      "name": "Vương Quốc Ma Thuật (Phần 2)",
+      "originName": "Magi (Season 2) (The Kingdom Of Magic)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260111-1/227f938f194029f46c03654af6c6aa92.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/5b3698cbbc2f4d0772de95b6c8b08c50.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-walking-dead-season-4-2013",
+      "source": "phimapi",
+      "slug": "xac-song-phan-4",
+      "name": "Xác Sống (Phần 4)",
+      "originName": "The Walking Dead (Season 4)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250917-1/5974f1e09fc02d300591579b60ecb56e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250917-1/296299d56a0af04fc9e50eb5084f4bc4.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "vehicle-19-2013",
+      "source": "phimapi",
+      "slug": "xe-so-19",
+      "name": "Xe Số 19",
+      "originName": "Vehicle 19",
+      "posterUrl": "https://phimimg.com/upload/vod/20250918-1/f47fd1f58b3145ffae56d40b072764e4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250918-1/bd1c695bc1f4b28cbbda38b53bb9d5fc.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nam Phi",
+          "slug": "nam-phi"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    }
+  ]
+}

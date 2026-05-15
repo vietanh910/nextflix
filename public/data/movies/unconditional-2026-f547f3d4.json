@@ -1,0 +1,63 @@
+{
+  "id": "unconditional-2026-f547f3d4",
+  "source": "ophim",
+  "slug": "ban-nang-nguoi-me-2026",
+  "name": "Bản Năng Người Mẹ",
+  "originName": "Unconditional",
+  "posterUrl": "https://img.ophim.live/uploads/movies/ban-nang-nguoi-me-2026-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/ban-nang-nguoi-me-2026-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Quốc Gia Khác",
+      "slug": "quoc-gia-khac"
+    }
+  ],
+  "description": "<p>A mother-daughter trip goes off the rails when the daughter is arrested for drug trafficking at the airport. Her mom will do anything to get her back.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7d1fb6b4eec12bee96b88020c7afadb8",
+      "m3u8Url": "https://vip.opstream90.com/20260513/31688_7d1fb6b4/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4538579b59251aec5bda1a4dce588ba4",
+      "m3u8Url": "https://vip.opstream90.com/20260513/31689_4538579b/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ba085ba9ace538a0e831ccfffb1265e6",
+      "m3u8Url": "https://vip.opstream90.com/20260515/31788_ba085ba9/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ban-nang-nguoi-me-2026",
+      "episodeCount": 3,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

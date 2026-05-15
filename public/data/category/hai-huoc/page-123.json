@@ -1,0 +1,768 @@
+{
+  "slug": "hai-huoc",
+  "name": "Hài Hước",
+  "page": 123,
+  "totalPages": 130,
+  "items": [
+    {
+      "id": "patch-adams-1998",
+      "source": "phimapi",
+      "slug": "bac-si-patch-adams",
+      "name": "Bác Sĩ Patch Adams",
+      "originName": "Patch Adams",
+      "posterUrl": "https://phimimg.com/upload/vod/20260122-1/e4c5f38e4283b20f97b43774f450cac7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260122-1/05eb1f696d2e2b7d4b1e82d693786f4d.jpg",
+      "year": 1998,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-demon-s-baby-1998",
+      "source": "phimapi",
+      "slug": "bao-thai-quy-quai",
+      "name": "Bào Thai Quỷ Quái",
+      "originName": "The Demon's Baby",
+      "posterUrl": "https://phimimg.com/upload/vod/20260505-1/6ea64b8874e35175b9db14000b97145e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260505-1/6ce036eaff7d10ab3c2d9d4598f0b48d.jpg",
+      "year": 1998,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "my-fair-princess-season-1-1998",
+      "source": "phimapi",
+      "slug": "hoan-chau-cach-cach-phan-1",
+      "name": "Hoàn Châu Cách Cách (Phần 1)",
+      "originName": "My Fair Princess (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260224-1/186685387d9f81e3ceeb10e30487c156.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260224-1/e2c9e235da98fdb31ffb07388ad27e40.jpg",
+      "year": 1998,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
+        }
+      ]
+    },
+    {
+      "id": "charmed-season-1-1998",
+      "source": "phimapi",
+      "slug": "phep-thuat-phan-1",
+      "name": "Phép Thuật (Phần 1)",
+      "originName": "Charmed (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250915-1/a33a5f275eb49c74e99b589e387a947f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250915-1/a362cfca096c23f6169098adabfd0a5b.jpg",
+      "year": 1998,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "lethal-weapon-4-1998",
+      "source": "phimapi",
+      "slug": "vu-khi-toi-thuong-4",
+      "name": "Vũ Khí Tối Thượng 4",
+      "originName": "Lethal Weapon 4",
+      "posterUrl": "https://phimimg.com/upload/vod/20251028-1/7cf29bdbdd746da8574ce0993ef3574f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251028-1/2e9f261f2a5deae249cc0b07bd555f29.jpg",
+      "year": 1998,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "austin-powers-international-man-of-mystery-1997",
+      "source": "ophim",
+      "slug": "diep-vien-ngoc-nghech",
+      "name": "Điệp Viên Ngốc Nghếch",
+      "originName": "Austin Powers: International Man of Mystery",
+      "posterUrl": "https://img.ophim.live/uploads/movies/diep-vien-ngoc-nghech-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/diep-vien-ngoc-nghech-thumb.jpg",
+      "year": 1997,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "corner-the-con-man-1997",
+      "source": "ophim",
+      "slug": "luc-luong-chong-lua-dao",
+      "name": "Lực Lượng Chống Lừa Đảo",
+      "originName": "Corner the Con Man",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luc-luong-chong-lua-dao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-luong-chong-lua-dao-thumb.jpg",
+      "year": 1997,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "a-recipe-for-the-heart-1997",
+      "source": "ophim",
+      "slug": "my-vi-thien-vuong",
+      "name": "Mỹ Vị Thiên Vương",
+      "originName": "A Recipe for the Heart",
+      "posterUrl": "https://img.ophim.live/uploads/movies/my-vi-thien-vuong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/my-vi-thien-vuong-thumb.jpg",
+      "year": 1997,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (29/29)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-1997",
+      "source": "ophim",
+      "slug": "nguoi-vo-hinh-1",
+      "name": "Người Vô Hình",
+      "originName": "The Disappearance",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-vo-hinh-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-vo-hinh-1-thumb.jpg",
+      "year": 1997,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "mousehunt-1997",
+      "source": "ophim",
+      "slug": "san-chuot",
+      "name": "Săn Chuột",
+      "originName": "MouseHunt",
+      "posterUrl": "https://img.ophim.live/uploads/movies/san-chuot-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/san-chuot-thumb.jpg",
+      "year": 1997,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "show-time-blues-1997",
+      "source": "ophim",
+      "slug": "movie",
+      "name": "Sân Khấu Muôn Màu",
+      "originName": "Show Time Blues",
+      "posterUrl": "https://img.ophim.live/uploads/movies/樂壇插班生-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/樂壇插班生-thumb.jpg",
+      "year": 1997,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "legend-of-master-chai-1997",
+      "source": "ophim",
+      "slug": "te-cong-1997",
+      "name": "Tế Công 1997",
+      "originName": "Legend Of Master Chai",
+      "posterUrl": "https://img.ophim.live/uploads/movies/te-cong-1997-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/te-cong-1997-thumb.jpg",
+      "year": 1997,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "drunken-angels-1997",
+      "source": "ophim",
+      "slug": "the-vo-lap-nghiep",
+      "name": "Thế Võ Lập Nghiệp",
+      "originName": "Drunken Angels",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-vo-lap-nghiep-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-vo-lap-nghiep-thumb.jpg",
+      "year": 1997,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(20/20)",
+      "categories": [
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "cooking-master-boy-1997",
+      "source": "ophim",
+      "slug": "tieu-dau-bep-cung-dinh",
+      "name": "Tiểu Đầu Bếp Cung Đình",
+      "originName": "Cooking Master Boy",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tieu-dau-bep-cung-dinh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tieu-dau-bep-cung-dinh-thumb.jpg",
+      "year": 1997,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(52/52)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "troublesome-night-1997",
+      "source": "phimapi",
+      "slug": "am-duong-lo-1997",
+      "name": "Âm Dương Lộ",
+      "originName": "Troublesome Night",
+      "posterUrl": "https://phimimg.com/upload/vod/20250930-1/6919ab63e089685f10ea2a61b89ecb96.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250930-1/8cd429be801371779d96c0c8c3fe0bb4.jpg",
+      "year": 1997,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "life-is-beautiful-1997",
+      "source": "phimapi",
+      "slug": "cuoc-song-tuoi-dep-1997",
+      "name": "Cuộc Sống Tươi Đẹp",
+      "originName": "Life Is Beautiful",
+      "posterUrl": "https://phimimg.com/upload/vod/20260118-1/eff85b8ceeb54652f5af4bf8797efdcb.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260118-1/7c7ce67c2aca4aeabbea58ce9df0cb16.jpg",
+      "year": 1997,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "liar-liar-1997",
+      "source": "phimapi",
+      "slug": "dung-noi-doi-bo-oi",
+      "name": "Đừng Nói Dối, Bố Ơi",
+      "originName": "Liar Liar",
+      "posterUrl": "https://phimimg.com/upload/vod/20260116-1/b7edeb3950e2bbfd8efaeccc23cf2328.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260116-1/81409e374d6fe587c8903c0e9abf3da1.jpg",
+      "year": 1997,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "bean-1997",
+      "source": "phimapi",
+      "slug": "ngai-bean",
+      "name": "Ngài Bean",
+      "originName": "Bean",
+      "posterUrl": "https://phimimg.com/upload/vod/20251008-1/32f1b492140345307232bbc82d010826.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251008-1/88abe31c5ef53c9a05a6fc81324aba6d.jpg",
+      "year": 1997,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "101-dalmatians-1996",
+      "source": "ophim",
+      "slug": "101-chu-cho-dom",
+      "name": "101 Chú Chó Đốm",
+      "originName": "101 Dalmatians",
+      "posterUrl": "https://img.ophim.live/uploads/movies/101-chu-cho-dom-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/101-chu-cho-dom-thumb.jpg",
+      "year": 1996,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "bambola-1996",
+      "source": "ophim",
+      "slug": "bup-be",
+      "name": "Búp bê",
+      "originName": "Bambola",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bup-be-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bup-be-thumb.jpg",
+      "year": 1996,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        },
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "the-mirror-has-two-faces-1996",
+      "source": "ophim",
+      "slug": "chiec-guong-co-hai-mat",
+      "name": "Chiếc gương có hai mặt",
+      "originName": "The Mirror Has Two Faces",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chiec-guong-co-hai-mat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chiec-guong-co-hai-mat-thumb.jpg",
+      "year": 1996,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "happy-gilmore-1996",
+      "source": "ophim",
+      "slug": "gilmore-tay-golf-cu-khoi",
+      "name": "Gilmore, Tay Golf Cừ Khôi",
+      "originName": "Happy Gilmore",
+      "posterUrl": "https://img.ophim.live/uploads/movies/gilmore-tay-golf-cu-khoi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/gilmore-tay-golf-cu-khoi-thumb.jpg",
+      "year": 1996,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "jerry-maguire-1996",
+      "source": "ophim",
+      "slug": "jerry-maguire",
+      "name": "Jerry Maguire",
+      "originName": "Jerry Maguire",
+      "posterUrl": "https://img.ophim.live/uploads/movies/jerry-maguire-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/jerry-maguire-thumb.jpg",
+      "year": 1996,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Thể Thao",
+          "slug": "the-thao"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "vampire-expert-ii-1996",
+      "source": "ophim",
+      "slug": "ma-dao-tranh-ba-phan-2",
+      "name": "Ma Đạo Tranh Bá (Phần 2)",
+      "originName": "Vampire Expert II",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ma-dao-tranh-ba-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ma-dao-tranh-ba-phan-2-thumb.jpg",
+      "year": 1996,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(50/50)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    }
+  ]
+}

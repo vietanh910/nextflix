@@ -1,0 +1,119 @@
+{
+  "slug": "kinh-dien",
+  "name": "Kinh Điển",
+  "page": 1,
+  "totalPages": 1,
+  "items": [
+    {
+      "id": "scary-stories-to-tell-in-the-dark-2019",
+      "source": "ophim",
+      "slug": "chuyen-kinh-di-luc-nua-dem",
+      "name": "Chuyện Kinh Dị Lúc Nửa Đêm",
+      "originName": "Scary Stories to Tell in the Dark",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-kinh-di-luc-nua-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-kinh-di-luc-nua-dem-thumb.jpg",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Kinh Điển",
+          "slug": "kinh-dien"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Mexico",
+          "slug": "mexico"
+        }
+      ]
+    },
+    {
+      "id": "darkest-hour-2017",
+      "source": "phimapi",
+      "slug": "thoi-khac-den-toi",
+      "name": "Thời Khắc Đen Tối",
+      "originName": "Darkest Hour",
+      "posterUrl": "https://phimimg.com/upload/vod/20260109-1/635815968455e5b4e5ce8fc15ad2e07c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260109-1/bd0a920e2ebd056ec8da0d8172ce7641.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Kinh Điển",
+          "slug": "kinh-dien"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-killer-1989",
+      "source": "ophim",
+      "slug": "diep-huyet-song-hung",
+      "name": "Điệp huyết song hùng",
+      "originName": "The Killer",
+      "posterUrl": "https://img.ophim.live/uploads/movies/diep-huyet-song-hung-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/diep-huyet-song-hung-thumb.jpg",
+      "year": 1989,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Điển",
+          "slug": "kinh-dien"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    }
+  ]
+}

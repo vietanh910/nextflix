@@ -1,0 +1,78 @@
+{
+  "slug": "gia-tuong",
+  "name": "Giả Tượng",
+  "page": 1,
+  "totalPages": 1,
+  "items": [
+    {
+      "id": "the-story-of-yuan-tiangang-2024",
+      "source": "phimapi",
+      "slug": "hoa-giang-ho-bat-luong-soai",
+      "name": "Họa Giang Hồ: Bất Lương Soái",
+      "originName": "The Story of Yuan Tiangang",
+      "posterUrl": "https://phimimg.com/upload/vod/20240303-1/3f0ad5593121872a1d337b30afe8f59a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240303-1/276dd2f6d942e4c8d3e28e0a4d2c48a7.jpg",
+      "year": 2024,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Giả Tượng",
+          "slug": "gia-tuong"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "desert-monster-2022",
+      "source": "phimapi",
+      "slug": "quai-thu-sa-mac",
+      "name": "Quái Thú Sa Mạc",
+      "originName": "Desert Monster",
+      "posterUrl": "https://phimimg.com/upload/vod/20231101-1/a4a688926c82f1f77e920a6eda04a048.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231101-1/1e914b8104b386b3ee97e8bdeee073f0.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Giả Tượng",
+          "slug": "gia-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    }
+  ]
+}

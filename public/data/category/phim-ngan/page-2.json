@@ -1,0 +1,82 @@
+{
+  "slug": "phim-ngan",
+  "name": "Phim Ngắn",
+  "page": 2,
+  "totalPages": 2,
+  "items": [
+    {
+      "id": "raising-a-hikikomori-heiress-2024",
+      "source": "phimapi",
+      "slug": "ke-hoach-hoi-sinh-tieu-thu-tai-phiet",
+      "name": "Kế Hoạch Hồi Sinh Tiểu Thư Tài Phiệt",
+      "originName": "Raising A Hikikomori Heiress",
+      "posterUrl": "https://phimimg.com/upload/vod/20251014-1/57dc6d029a4d991126d643c1b0568405.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251014-1/fa763688c6ecc650f44bfa43d94661f4.jpg",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (40/40)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phim Ngắn",
+          "slug": "phim-ngan"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "unlimited-love-2024",
+      "source": "phimapi",
+      "slug": "le-tien-sinh-sung-the-vo-han",
+      "name": "Lệ Tiên Sinh Sủng Thê Vô Hạn",
+      "originName": "Unlimited Love",
+      "posterUrl": "https://phimimg.com/upload/vod/20251013-1/5aee0e6bf2807a27ef98b0c7e9d67076.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251013-1/03cc1f5b5231ae468d541024ad625a05.jpg",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (85/85)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phim Ngắn",
+          "slug": "phim-ngan"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    }
+  ]
+}

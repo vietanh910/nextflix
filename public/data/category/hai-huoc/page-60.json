@@ -1,0 +1,696 @@
+{
+  "slug": "hai-huoc",
+  "name": "Hài Hước",
+  "page": 60,
+  "totalPages": 130,
+  "items": [
+    {
+      "id": "1up-2022",
+      "source": "ophim",
+      "slug": "1up",
+      "name": "1Up",
+      "originName": "1Up",
+      "posterUrl": "https://img.ophim.live/uploads/movies/1up-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/1up-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-big-4-2022",
+      "source": "ophim",
+      "slug": "4-sat-thu",
+      "name": "4 sát thủ",
+      "originName": "The Big 4",
+      "posterUrl": "https://img.ophim.live/uploads/movies/4-sat-thu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/4-sat-thu-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Indonesia",
+          "slug": "indonesia"
+        }
+      ]
+    },
+    {
+      "id": "four-people-and-their-respective-lies-2022",
+      "source": "ophim",
+      "slug": "4-nin-wa-sorezore-uso-wo-tsuku",
+      "name": "4-nin wa Sorezore Uso wo Tsuku",
+      "originName": "Four People and Their Respective Lies",
+      "posterUrl": "https://img.ophim.live/uploads/movies/4-nin-wa-sorezore-uso-wo-tsuku-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/4-nin-wa-sorezore-uso-wo-tsuku-thumb.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Học Đường",
+          "slug": "hoc-duong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "7-women-and-a-murder-2022",
+      "source": "ophim",
+      "slug": "7-phu-nu-va-mot-an-mang",
+      "name": "7 phụ nữ và một án mạng",
+      "originName": "7 Women and a Murder",
+      "posterUrl": "https://img.ophim.live/uploads/movies/7-phu-nu-va-mot-an-mang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/7-phu-nu-va-mot-an-mang-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "a-year-without-a-job-2022",
+      "source": "ophim",
+      "slug": "a-year-without-a-job",
+      "name": "A Year Without a Job",
+      "originName": "A Year Without a Job",
+      "posterUrl": "https://img.ophim.live/uploads/movies/a-year-without-a-job-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/a-year-without-a-job-thumb.jpg",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất(28/28)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "about-fate-2022",
+      "source": "ophim",
+      "slug": "about-fate",
+      "name": "About Fate",
+      "originName": "About Fate",
+      "posterUrl": "https://img.ophim.live/uploads/movies/about-fate-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/about-fate-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "action-pack-2022",
+      "source": "ophim",
+      "slug": "action-pack-sieu-nhan-nhi-hanh-dong",
+      "name": "Action Pack: Siêu nhân nhí hành động",
+      "originName": "Action Pack",
+      "posterUrl": "https://img.ophim.live/uploads/movies/action-pack-sieu-nhan-nhi-hanh-dong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/action-pack-sieu-nhan-nhi-hanh-dong-thumb.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "who-stole-my-kiss-2022",
+      "source": "ophim",
+      "slug": "ai-da-danh-cap-nu-hon-cua-toi",
+      "name": "Ai Đã Đánh Cắp Nụ Hôn Của Tôi",
+      "originName": "Who Stole My Kiss",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ai-da-danh-cap-nu-hon-cua-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ai-da-danh-cap-nu-hon-cua-toi-thumb.jpg",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "somebody-somewhere-season-1-2022",
+      "source": "ophim",
+      "slug": "ai-do-o-dau-do-phan-1",
+      "name": "Ai Đó Ở Đâu Đó (Phần 1)",
+      "originName": "Somebody Somewhere (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ai-do-o-dau-do-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ai-do-o-dau-do-phan-1-thumb.jpg",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "who-s-a-good-boy-2022",
+      "source": "ophim",
+      "slug": "ai-la-trai-ngoan",
+      "name": "Ai là trai ngoan?",
+      "originName": "Who's a Good Boy?",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ai-la-trai-ngoan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ai-la-trai-ngoan-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mexico",
+          "slug": "mexico"
+        }
+      ]
+    },
+    {
+      "id": "love-flops-2022",
+      "source": "ophim",
+      "slug": "ai-tinh-flops",
+      "name": "Ái Tình Flops",
+      "originName": "Love Flops",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ai-tinh-flops-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ai-tinh-flops-thumb.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Học Đường",
+          "slug": "hoc-duong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "always-amore-2022",
+      "source": "ophim",
+      "slug": "always-amore",
+      "name": "Always Amore",
+      "originName": "Always Amore",
+      "posterUrl": "https://img.ophim.live/uploads/movies/always-amore-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/always-amore-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "amsterdam-2022",
+      "source": "ophim",
+      "slug": "amsterdam-vu-an-mang-ky-bi",
+      "name": "Amsterdam: Vụ Án Mạng Kỳ Bí",
+      "originName": "Amsterdam",
+      "posterUrl": "https://img.ophim.live/uploads/movies/amsterdam-vu-an-mang-ky-bi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/amsterdam-vu-an-mang-ky-bi-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "shotgun-wedding-2022",
+      "source": "ophim",
+      "slug": "an-cuoi-gap-an-cuop",
+      "name": "Ăn Cưới Gặp Ăn Cướp",
+      "originName": "Shotgun Wedding",
+      "posterUrl": "https://img.ophim.live/uploads/movies/an-cuoi-gap-an-cuop-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/an-cuoi-gap-an-cuop-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "angry-birds-summer-madness-2022",
+      "source": "ophim",
+      "slug": "angry-birds-quay-tung-mua-he",
+      "name": "Angry Birds: Quậy tưng mùa hè",
+      "originName": "Angry Birds: Summer Madness",
+      "posterUrl": "https://img.ophim.live/uploads/movies/angry-birds-quay-tung-mua-he-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/angry-birds-quay-tung-mua-he-thumb.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "angry-birds-summer-madness-season-2-2022",
+      "source": "ophim",
+      "slug": "angry-birds-quay-tung-mua-he-phan-2",
+      "name": "Angry Birds: Quậy tưng mùa hè (Phần 2)",
+      "originName": "Angry Birds: Summer Madness (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/angry-birds-quay-tung-mua-he-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/angry-birds-quay-tung-mua-he-phan-2-thumb.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ah-nerede-ah-where-2022",
+      "source": "ophim",
+      "slug": "anh-dang-noi-dau",
+      "name": "Anh Đang Nơi Đâu",
+      "originName": "Ah Nerede (Ah Where)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/anh-dang-noi-dau-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/anh-dang-noi-dau-thumb.jpg",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "the-cuphead-show-2022",
+      "source": "ophim",
+      "slug": "anh-em-cuphead",
+      "name": "Anh em Cuphead",
+      "originName": "The Cuphead Show!",
+      "posterUrl": "https://img.ophim.live/uploads/movies/anh-em-cuphead-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/anh-em-cuphead-thumb.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Quốc Gia Khác",
+          "slug": "quoc-gia-khac"
+        }
+      ]
+    },
+    {
+      "id": "atsuko-okatsuka-the-intruder-2022",
+      "source": "ophim",
+      "slug": "atsuko-okatsuka-ke-dot-nhap",
+      "name": "Atsuko Okatsuka: Kẻ Đột Nhập",
+      "originName": "Atsuko Okatsuka: The Intruder",
+      "posterUrl": "https://img.ophim.live/uploads/movies/atsuko-okatsuka-ke-dot-nhap-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/atsuko-okatsuka-ke-dot-nhap-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "honest-candidate-2-2022",
+      "source": "ophim",
+      "slug": "ba-hoang-luon-leo",
+      "name": "Bà Hoàng Lươn Lẹo",
+      "originName": "Honest Candidate 2",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ba-hoang-luon-leo-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ba-hoang-luon-leo-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "three-times-nothing-2022",
+      "source": "ophim",
+      "slug": "ba-lan-trang-tay",
+      "name": "Ba Lần Trắng Tay",
+      "originName": "Three Times Nothing",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ba-lan-trang-tay-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ba-lan-trang-tay-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "a-world-worth-protecting-2022",
+      "source": "ophim",
+      "slug": "ba-tac-nhan-gian",
+      "name": "Ba Tấc Nhân Gian",
+      "originName": "A World Worth Protecting",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ba-tac-nhan-gian-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ba-tac-nhan-gian-thumb.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "private-lesson-2022",
+      "source": "ophim",
+      "slug": "bai-hoc-rieng-tu",
+      "name": "Bài học riêng tư",
+      "originName": "Private Lesson",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bai-hoc-rieng-tu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bai-hoc-rieng-tu-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "all-my-friends-hate-me-2022",
+      "source": "ophim",
+      "slug": "ban-be-deu-ghet-toi",
+      "name": "Bạn Bè Đều Ghét Tôi",
+      "originName": "All My Friends Hate Me",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ban-be-deu-ghet-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ban-be-deu-ghet-toi-thumb.jpg",
+      "year": 2022,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    }
+  ]
+}

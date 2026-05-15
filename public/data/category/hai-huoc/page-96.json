@@ -1,0 +1,892 @@
+{
+  "slug": "hai-huoc",
+  "name": "Hài Hước",
+  "page": 96,
+  "totalPages": 130,
+  "items": [
+    {
+      "id": "the-secret-life-of-pets-2016",
+      "source": "phimapi",
+      "slug": "dang-cap-thu-cung",
+      "name": "Đẳng Cấp Thú Cưng",
+      "originName": "The Secret Life of Pets",
+      "posterUrl": "https://phimimg.com/upload/vod/20260105-1/6b32d4053a8a0a137db1acef9eb3ee4e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260105-1/dda9a3c7610b413221453102b0013d0b.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "central-intelligence-2016",
+      "source": "phimapi",
+      "slug": "diep-vien-khong-hoan-hao",
+      "name": "Điệp Viên Không Hoàn Hảo",
+      "originName": "Central Intelligence",
+      "posterUrl": "https://phimimg.com/upload/vod/20260109-1/920777df16365175e73477f9c92a3c62.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260109-1/9fcf7025683ac3e5113ad254718f20b6.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "project-mc2-season-2-2016",
+      "source": "phimapi",
+      "slug": "du-an-mc2-phan-2",
+      "name": "Dự Án Mc2 (Phần 2)",
+      "originName": "Project Mc2 (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260130-1/04125026ff668109dde43e8763a13be2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260130-1/d60924026d7c2f6330f02488b08154a9.jpg",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "project-mc2-season-3-2016",
+      "source": "phimapi",
+      "slug": "du-an-mc2-phan-3",
+      "name": "Dự Án Mc2 (Phần 3)",
+      "originName": "Project Mc2 (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260130-1/109fe9134e49ef1acc27d02583248f35.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260130-1/f117ca38a141bec5a6fc8dbb21c2a63f.jpg",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "fuller-house-season-1-2016",
+      "source": "phimapi",
+      "slug": "gia-dinh-fuller-phan-1",
+      "name": "Gia Đình Fuller (Phần 1)",
+      "originName": "Fuller House (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251220-1/d0b7c9dc7a4f6f114ec4a5144dda06c3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251220-1/7a4fee89bf14c5059edde439d3924368.jpg",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "fuller-house-season-2-2016",
+      "source": "phimapi",
+      "slug": "gia-dinh-fuller-phan-2",
+      "name": "Gia Đình Fuller (Phần 2)",
+      "originName": "Fuller House (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251220-1/189fc2c7dd23dc138d00b206dd5b1377.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251220-1/c8627292f0cd2e35805e5978ef7e14ff.jpg",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "grizzy-and-the-lemmings-season-1-2016",
+      "source": "phimapi",
+      "slug": "grizzy-va-hoi-lemmut-phan-1",
+      "name": "Grizzy Và Hội Lemmut (Phần 1)",
+      "originName": "Grizzy And The Lemmings (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260123-1/9ded0402abe0551a960c9aeb49c8b38b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260123-1/8d8e23f7cd65541b8810f9cc8ff1944f.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (78/78)",
+      "categories": [
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "neighbors-2-sorority-rising-2016",
+      "source": "phimapi",
+      "slug": "hang-xom-on-dich-2-hoi-nu-sinh-noi-day",
+      "name": "Hàng Xóm Ôn Dịch 2: Hội Nữ Sinh Nổi Dậy",
+      "originName": "Neighbors 2: Sorority Rising",
+      "posterUrl": "https://phimimg.com/upload/vod/20260108-1/8ea63c5d15bb6dc9339ad1001bd5585f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260108-1/34f2e1d6ab2ad02326f60aa0a430e588.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "trash-fire-2016",
+      "source": "phimapi",
+      "slug": "hoa-tam-dia",
+      "name": "Hỏa Tâm Địa",
+      "originName": "Trash Fire",
+      "posterUrl": "https://phimimg.com/upload/vod/20251114-1/78d441356a53d7254b32e0fde9f8ebf6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251114-1/694e4b2cd464abaee5f271989f0871d0.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "super-star-academy-2016",
+      "source": "phimapi",
+      "slug": "hoc-vien-sieu-sao-2016",
+      "name": "Học Viện Siêu Sao",
+      "originName": "Super Star Academy",
+      "posterUrl": "https://phimimg.com/upload/vod/20251203-1/5ff2c6c2df40150c9dc352f1717e4001.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251203-1/11be5f8de62d8b382f89122341b5b329.jpg",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (30/30)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-country-doctor-medecin-de-campagne-irreplaceable-2016",
+      "source": "phimapi",
+      "slug": "khong-the-thay-the",
+      "name": "Không Thể Thay Thế",
+      "originName": "The Country Doctor / Médecin de campagne / Irreplaceable",
+      "posterUrl": "https://phimimg.com/upload/vod/20260311-1/da1813048b70c68fc9e771c403df7608.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260311-1/9f3aa6040f65729ca397c5f8a6e2f415.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "unbreakable-kimmy-schmidt-season-2-2016",
+      "source": "phimapi",
+      "slug": "kimmy-bat-bai-phan-2",
+      "name": "Kimmy Bất Bại (Phần 2)",
+      "originName": "Unbreakable Kimmy Schmidt (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251220-1/48754ef49f46303d56702d2479c3f6de.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251220-1/b16df1b42ecefa4ab974d27afbcfa5c2.jpg",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-do-over-2016",
+      "source": "phimapi",
+      "slug": "lam-lai-cuoc-doi-2016",
+      "name": "Làm lại cuộc đời",
+      "originName": "The Do-Over",
+      "posterUrl": "https://phimimg.com/upload/vod/20260420-1/81e0cb2c8be964e352ce31e9e0bfe510.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/024a748d494fc3537ff4bffbbd362014.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "ongoing",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "making-family-2016",
+      "source": "phimapi",
+      "slug": "me-oi-bo-dau-roi",
+      "name": "Mẹ Ơi Bố Đâu Rồi!",
+      "originName": "Making Family",
+      "posterUrl": "https://phimimg.com/upload/vod/20251222-1/da80238daf91fdb75c352857effc890c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251222-1/a1bcc767e61711d93c3c849c1701adb0.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "teen-wolf-season-6-2016",
+      "source": "phimapi",
+      "slug": "nguoi-soi-tuoi-teen-phan-6",
+      "name": "Người Sói Tuổi Teen (Phần 6)",
+      "originName": "Teen Wolf (Season 6)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251214-1/9e591501011ae1c65616a8d59e5e489b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251214-1/b1e27877b047639b562d757101e36629.jpg",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-outcast-season-1-hitori-no-shita-2016",
+      "source": "phimapi",
+      "slug": "nhat-nhan-chi-ha-phan-1-nguoi-tren-van-nguoi",
+      "name": "Nhất Nhân Chi Hạ (Phần 1) (Người Trên Vạn Người)",
+      "originName": "The Outcast (Season 1) (Hitori No Shita)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260110-1/42db96de9d807ddb192d33a572c52765.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260110-1/132f923b22814a54d5e5e3827a860b4c.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "konosuba-god-s-blessing-on-this-wonderful-world-season-1-2016",
+      "source": "phimapi",
+      "slug": "phuc-lanh-cho-the-gioi-tuyet-voi-nay-phan-1",
+      "name": "Phúc Lành Cho Thế Giới Tuyệt Vời Này (Phần 1)",
+      "originName": "KonoSuba God's Blessing On This Wonderful World! (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250925-1/4c14d14685f8d136cee012ff5a11803b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250925-1/f6454c0aca897f683a72062d12b13950.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (11/11)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "trolls-2016",
+      "source": "phimapi",
+      "slug": "quy-lun-tinh-nghich",
+      "name": "Quỷ Lùn Tinh Nghịch",
+      "originName": "Trolls",
+      "posterUrl": "https://phimimg.com/upload/vod/20260105-1/3f43c93e05f616b82a039f5c0b80f557.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260105-1/f0988d734b635d3cfd7307cf7e3959d6.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "trollhunters-tales-of-arcadia-season-1-2016",
+      "source": "phimapi",
+      "slug": "tho-san-yeu-tinh-truyen-thuyet-arcadia-phan-1",
+      "name": "Thợ Săn Yêu Tinh: Truyền Thuyết Arcadia (Phần 1)",
+      "originName": "Trollhunters: Tales Of Arcadia (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260429-1/f2dcc68cef65e1be5c62407f17c66965.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260429-1/6f2c5616aaa7abe6983d22356c0a1bdc.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (26/26)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "rules-don-t-apply-2016",
+      "source": "phimapi",
+      "slug": "tinh-truong-khoi-lua",
+      "name": "Tình Trường Khói Lửa",
+      "originName": "Rules Don't Apply",
+      "posterUrl": "https://phimimg.com/upload/vod/20250727-1/81777ceb4102d3603a67637b672c9127.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250727-1/1b5fbdcd4a15b79696622c5f1dfbd486.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "upin-ipin-season-10-2016",
+      "source": "phimapi",
+      "slug": "upin-ipin-phan-10",
+      "name": "Upin & Ipin (Phần 10)",
+      "originName": "Upin & Ipin (Season 10)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251022-1/c2366a3cb4e4bb598f1dd5755a9c7325.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251022-1/98cf53be99988df67c0401fd2411f40f.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (14/14)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
+        }
+      ]
+    },
+    {
+      "id": "younger-season-2-2016",
+      "source": "phimapi",
+      "slug": "younger-phan-2",
+      "name": "Younger (Phần 2)",
+      "originName": "Younger (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251217-1/27eafa5f5dccd29cd01c4cf65fa89d5b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251217-1/67570fe700db183b69321763916f195c.jpg",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "younger-season-3-2016",
+      "source": "phimapi",
+      "slug": "younger-phan-3",
+      "name": "Younger (Phần 3)",
+      "originName": "Younger (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251217-1/93348844c3a07ba59f4506d910037b86.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251217-1/1bc49b80cd825b1f78db13ba7a8d2d8d.jpg",
+      "year": 2016,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "12-gifts-of-christmas-2015",
+      "source": "ophim",
+      "slug": "12-mon-qua-giang-sinh",
+      "name": "12 Món Quà Giáng Sinh",
+      "originName": "12 Gifts of Christmas",
+      "posterUrl": "https://img.ophim.live/uploads/movies/12-mon-qua-giang-sinh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/12-mon-qua-giang-sinh-thumb.jpg",
+      "year": 2015,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    }
+  ]
+}
