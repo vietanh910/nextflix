@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "sync": "tsx scripts/sync-movies.ts"
+    "sync": "tsx scripts/sync-movies.ts --mode=full",
+    "sync:latest": "tsx scripts/sync-movies.ts --mode=latest"
   },
   "dependencies": {
     "dotenv": "^17.4.2",
