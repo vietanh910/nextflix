@@ -2,10 +2,10 @@
   "slug": "gia-dinh",
   "name": "Gia Đình",
   "page": 1,
-  "totalPages": 35,
+  "totalPages": 2,
   "items": [
     {
-      "id": "my-brother-the-minotaur-2026",
+      "id": "my-brother-the-minotaur-2026-069b340c",
       "source": "ophim",
       "slug": "anh-trai-cua-toi-la-nhan-nguu",
       "name": "Anh Trai Của Tôi Là Nhân Ngưu",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "id": "the-pout-pout-fish-2026",
+      "id": "the-pout-pout-fish-2026-d2befe3c",
       "source": "ophim",
       "slug": "ca-con-cau-co",
       "name": "Cá Con Cau Có",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "id": "the-last-whale-singer-2026",
+      "id": "the-last-whale-singer-2026-8855be0b",
       "source": "ophim",
       "slug": "ca-voi-nho-chu-du-dai-duong",
       "name": "Cá Voi Nhỏ Chu Du Đại Dương",
@@ -108,57 +108,7 @@
       ]
     },
     {
-      "id": "a-little-dream-of-me-2026",
-      "source": "ophim",
-      "slug": "cam-on-nguoi-da-thuc-cung-toi",
-      "name": "Cảm Ơn Người Đã Thức Cùng Tôi",
-      "originName": "A Little Dream of Me",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cam-on-nguoi-da-thuc-cung-toi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cam-on-nguoi-da-thuc-cung-toi-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "cha-s-family-2026",
-      "source": "ophim",
-      "slug": "chuyen-nha-cha",
-      "name": "Chuyện Nhà Cha",
-      "originName": "Cha's Family",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-nha-cha-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-nha-cha-thumb.jpg",
-      "year": 2026,
-      "type": "tvshow",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (9/9)",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "recipe-for-love-2026",
+      "id": "recipe-for-love-2026-fae87879",
       "source": "ophim",
       "slug": "cong-thuc-tinh-yeu",
       "name": "Công Thức Tình Yêu",
@@ -191,7 +141,77 @@
       ]
     },
     {
-      "id": "the-sheep-detectives-2026",
+      "id": "swapped-2026-b501cd5e",
+      "source": "ophim",
+      "slug": "cuoc-phieu-luu-bien-hoa",
+      "name": "Cuộc phiêu lưu biến hóa",
+      "originName": "Swapped",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-phieu-luu-bien-hoa-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-phieu-luu-bien-hoa-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
+      "id": "cabbage-your-life-2026-1ccc8fdc",
+      "source": "ophim",
+      "slug": "doi-cai-thao",
+      "name": "Đời Cải Thảo",
+      "originName": "Cabbage Your Life",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-sheep-detectives-2026-c85ebf83",
       "source": "ophim",
       "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
       "name": "Đội Thám Tử Cừu: Án Mạng Lúc Nửa Đêm",
@@ -232,36 +252,7 @@
       ]
     },
     {
-      "id": "dolphin-summer-2026",
-      "source": "ophim",
-      "slug": "dolphin-summer",
-      "name": "Dolphin Summer",
-      "originName": "Dolphin Summer",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dolphin-summer-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dolphin-summer-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "doraemon-the-movie-new-nobita-and-the-castle-of-the-undersea-devil-2026",
+      "id": "doraemon-the-movie-new-n-2026-c51b52ee",
       "source": "ophim",
       "slug": "doraemon-phien-ban-moi-nobita-va-lau-dai-duoi-day-bien",
       "name": "Doraemon: Phiên bản mới - Nobita Và Lâu Đài Dưới Đáy Biển",
@@ -290,69 +281,7 @@
       ]
     },
     {
-      "id": "the-adorable-family-2026",
-      "source": "ophim",
-      "slug": "gia-dinh-dang-yeu",
-      "name": "Gia Đình Đáng Yêu",
-      "originName": "The Adorable Family",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-dang-yeu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-dang-yeu-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (21/21)",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-upshaws-season-7-2026",
-      "source": "ophim",
-      "slug": "gia-dinh-upshaw-phan-7",
-      "name": "Gia Đình Upshaw (Phần 7)",
-      "originName": "The Upshaws (Season 7)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-upshaw-phan-7-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-upshaw-phan-7-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "fresh-off-the-sea-season-3-2026",
+      "id": "fresh-off-the-sea-season-2026-4ffb2f07",
       "source": "ophim",
       "slug": "huong-vi-cua-bien-phan-3",
       "name": "Hương Vị Của Biển (Phần 3)",
@@ -361,8 +290,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/huong-vi-cua-bien-phan-3-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (5/5)",
       "categories": [
         {
           "name": "Tài Liệu",
@@ -381,66 +310,50 @@
       ]
     },
     {
-      "id": "the-pendragon-cycle-rise-of-the-merlin-2026",
+      "id": "avatar-aang-the-last-air-2026-ba984d35",
       "source": "ophim",
-      "slug": "huyen-su-pendragon-truyen-thuyet-merlin",
-      "name": "Huyền Sử Pendragon: Truyền Thuyết Merlin",
-      "originName": "The Pendragon Cycle: Rise of the Merlin",
-      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-su-pendragon-truyen-thuyet-merlin-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-su-pendragon-truyen-thuyet-merlin-thumb.jpg",
+      "slug": "huyen-thoai-aang-tiet-khi-su-cuoi-cung",
+      "name": "Huyền Thoại Aang: Tiết Khí Sư Cuối Cùng",
+      "originName": "Avatar: Aang, The Last Airbender",
+      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-aang-tiet-khi-su-cuoi-cung-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-aang-tiet-khi-su-cuoi-cung-thumb.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
           "name": "Gia Đình",
           "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        },
-        {
-          "name": "Nga",
-          "slug": "nga"
         }
       ]
     },
     {
-      "id": "wonderful-times-2026",
+      "id": "the-epoch-of-miyu-2026-7c7423c2",
       "source": "ophim",
-      "slug": "khoang-thoi-gian-tuyet-voi",
-      "name": "Khoảng Thời Gian Tuyệt Vời",
-      "originName": "Wonderful Times",
-      "posterUrl": "https://img.ophim.live/uploads/movies/khoang-thoi-gian-tuyet-voi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/khoang-thoi-gian-tuyet-voi-thumb.jpg",
+      "slug": "mat-ngu-ky",
+      "name": "Mật Ngữ Kỷ",
+      "originName": "The Epoch of Miyu",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mat-ngu-ky-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-ngu-ky-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (30/30)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 38",
       "categories": [
         {
           "name": "Gia Đình",
@@ -459,81 +372,7 @@
       ]
     },
     {
-      "id": "mama-go-2026",
-      "source": "ophim",
-      "slug": "me-toi-la-hoa-khoi",
-      "name": "Mẹ Tôi Là Hoa Khôi",
-      "originName": "Mama Go!",
-      "posterUrl": "https://img.ophim.live/uploads/movies/me-toi-la-hoa-khoi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/me-toi-la-hoa-khoi-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "mui-pho-2026",
-      "source": "ophim",
-      "slug": "mui-pho",
-      "name": "Mùi Phở",
-      "originName": "Mùi Phở",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mui-pho-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mui-pho-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "when-mumbo-jumbo-grew-giant-2026",
+      "id": "when-mumbo-jumbo-grew-gi-2026-c7469321",
       "source": "ophim",
       "slug": "mumbo-giai-cuu-be-bu",
       "name": "Mumbo: Giải Cứu Bé Bự",
@@ -558,36 +397,7 @@
       ]
     },
     {
-      "id": "nha-ba-toi-mot-phong-2026",
-      "source": "ophim",
-      "slug": "nha-ba-toi-mot-phong",
-      "name": "Nhà Ba Tôi Một Phòng",
-      "originName": "Nhà Ba Tôi Một Phòng",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nha-ba-toi-mot-phong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nha-ba-toi-mot-phong-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "tripping-with-my-family-2026",
+      "id": "tripping-with-my-family-2026-d008d0f8",
       "source": "ophim",
       "slug": "nha-minh-di-thoi",
       "name": "Nhà Mình Đi Thôi",
@@ -616,7 +426,7 @@
       ]
     },
     {
-      "id": "our-happy-days-2026",
+      "id": "our-happy-days-2026-90db6740",
       "source": "ophim",
       "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
       "name": "Những Ngày Hạnh Phúc Của Chúng Ta",
@@ -645,7 +455,7 @@
       ]
     },
     {
-      "id": "orangutan-2026",
+      "id": "orangutan-2026-185c73c2",
       "source": "ophim",
       "slug": "orangutan",
       "name": "Orangutan",
@@ -674,7 +484,7 @@
       ]
     },
     {
-      "id": "the-super-mario-galaxy-movie-2026",
+      "id": "the-super-mario-galaxy-m-2026-28b935ae",
       "source": "ophim",
       "slug": "phim-super-mario-thien-ha",
       "name": "Phim Super Mario Thiên Hà",
@@ -711,7 +521,7 @@
       ]
     },
     {
-      "id": "the-water-2026",
+      "id": "the-water-2026-94dacf51",
       "source": "ophim",
       "slug": "the-water-4-elements-dong-song-muu-meo",
       "name": "The Water 4 Elements: Dòng Sông Mưu Mẹo",
@@ -744,32 +554,160 @@
       ]
     },
     {
-      "id": "positively-yours-2026",
+      "id": "fresh-off-the-sea-season-2026-2631430d",
       "source": "phimapi",
-      "slug": "baby-den-roi",
-      "name": "Baby Đến Rồi!",
-      "originName": "Positively Yours",
-      "posterUrl": "https://phimimg.com/upload/vod/20260119-1/d86e4511a783ac1a47f1514cc5e1b7c6.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260119-1/97353760bbeaf11746aec8cf43222132.jpg",
+      "slug": "huong-vi-cua-bien-mua-3-huong-vi-cua-bien-o-calape",
+      "name": "Hương Vị Của Biển (Mùa 3) (Hương Vị Của Biển Ở Calape)",
+      "originName": "Fresh Off The Sea (Season 3) (In Calape)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260420-1/66246a718fc118958826694276d74afd.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/e3eaa4b0416041de5503e84fe7adeeaf.jpg",
       "year": 2026,
-      "type": "series",
+      "type": "tvshow",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
+      "episodeCurrent": "Hoàn Tất (5/5)",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
         },
         {
-          "name": "Chính Kịch",
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "psoty-2026-f1e4e85d",
+      "source": "phimapi",
+      "slug": "psoty",
+      "name": "Psoty",
+      "originName": "Psoty",
+      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/a0ca534ab6c86dbdc8f5c7fed55e9b61.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/psoty-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ba Lan",
+          "slug": "ba-lan"
+        }
+      ]
+    },
+    {
+      "id": "light-of-the-world-2025-49575c53",
+      "source": "ophim",
+      "slug": "anh-sang-cua-the-gioi",
+      "name": "Ánh sáng của thế giới",
+      "originName": "Light of the World",
+      "posterUrl": "https://img.ophim.live/uploads/movies/anh-sang-cua-the-gioi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/anh-sang-cua-the-gioi-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "buen-camino-2025-6402b5ab",
+      "source": "ophim",
+      "slug": "con-duong-dung-dan",
+      "name": "Con đường đúng đắn",
+      "originName": "Buen Camino",
+      "posterUrl": "https://img.ophim.live/uploads/movies/con-duong-dung-dan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/con-duong-dung-dan-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "first-man-2025-d376fa18",
+      "source": "ophim",
+      "slug": "nguoi-dan-ong-dau-tien",
+      "name": "Người Đàn Ông Đầu Tiên",
+      "originName": "First Man",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-dau-tien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-dau-tien-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 96",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
           "slug": "chinh-kich"
         }
       ],
@@ -777,6 +715,68 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "bound-by-fate-2025-e3eec953",
+      "source": "ophim",
+      "slug": "ranh-gioi-dinh-menh",
+      "name": "Ranh Giới Định Mệnh",
+      "originName": "Bound by Fate",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ranh-gioi-dinh-menh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ranh-gioi-dinh-menh-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 34",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "rufus-the-sea-serpent-wh-2025-64f20887",
+      "source": "ophim",
+      "slug": "rufus-thuy-quai-hoc-boi",
+      "name": "Rufus: Thủy Quái Học Bơi",
+      "originName": "Rufus: The Sea Serpent Who Couldn't Swim",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rufus-thuy-quai-hoc-boi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rufus-thuy-quai-hoc-boi-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
+        {
+          "name": "Na Uy",
+          "slug": "na-uy"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
         }
       ]
     }

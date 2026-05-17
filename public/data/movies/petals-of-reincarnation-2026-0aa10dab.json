@@ -1,0 +1,111 @@
+{
+  "id": "petals-of-reincarnation-2026-0aa10dab",
+  "source": "phimapi",
+  "slug": "canh-hoa-luan-hoi",
+  "name": "Cánh Hoa Luân Hồi",
+  "originName": "Petals Of Reincarnation",
+  "posterUrl": "https://phimimg.com/upload/vod/20260404-1/55f3192300e6d5d2168e3f4de7d1a048.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/fcf47b00f03e8c0c4b609351c7e80d21.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 7",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Petals Of Reincarnation mở ra thế giới kỳ lạ, nơi một vật được gọi là Nhánh Luân Hồi, có thể đánh thức tài năng từ kiếp trước, nhưng phải trả giá bằng nỗi đau. Toya Senji là một nam sinh luôn tự ti, khao khát có được siêu năng lực để khẳng định bản thân. Cuộc đời cậu thay đổi khi gặp Haito Luo Buffett - người sở hữu sức mạnh của kiếm sĩ Miyamoto Musashi. Từ đó, Toya bước vào thế giới của những con người có thể triệu hồi tài năng tiền kiếp bằng cách sử dụng Cành Luân Hồi. Bị cuốn vào những trận chiến nguy hiểm, cậu buộc phải đối mặt với quá khứ và tìm ra giá trị thật của mình.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260404/DGMCilve/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260404/DGMCilve/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260411/uAFwwLoR/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260411/uAFwwLoR/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260418/LBNekim7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260418/LBNekim7/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260424/zFmDZSl4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260424/zFmDZSl4/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260501/S1lhXAs8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260501/S1lhXAs8/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260508/0xVzSpWo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260508/0xVzSpWo/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/yOIFdIeR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/yOIFdIeR/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "canh-hoa-luan-hoi",
+      "episodeCount": 7,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,42 @@
+{
+  "id": "seasons-c5757c3c",
+  "source": "nguonc",
+  "slug": "nhung-mua-yeu",
+  "name": "Những mùa yêu",
+  "originName": "Seasons",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/nhung-mua-yeu-poster.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/nhung-mua-yeu-thumb.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Sau một loạt mối quan hệ thất bại, đôi bạn thân nọ quyết định chấp nhận rủi ro và tìm kiếm tình yêu một lần nữa. Nhưng có thể đó sẽ là tình yêu giữa cả hai.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=83af6f104cf0ede11ff4b1d619912b01",
+      "m3u8Url": "https://sing.phimmoi.net/83af6f104cf0ede11ff4b1d619912b01/hls.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "tap-full",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=d0f8ae898985de51da646fad53a879bf",
+      "m3u8Url": "https://sing.phimmoi.net/d0f8ae898985de51da646fad53a879bf/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "nhung-mua-yeu",
+      "episodeCount": 2,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

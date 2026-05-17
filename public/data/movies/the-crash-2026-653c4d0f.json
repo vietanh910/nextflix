@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/vu-dung-xe-tham-khoc-thumb.jpg",
   "year": 2026,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Hình Sự",
@@ -31,9 +31,20 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "Full",
+      "slug": "full",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e8792705b5cea2f03388f86885f645a3",
+      "m3u8Url": "https://vip.opstream90.com/20260517/32089_e8792705/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/JEqdJCyV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/JEqdJCyV/index.m3u8"
     }
   ],
   "sources": [
@@ -42,6 +53,12 @@
       "slug": "vu-dung-xe-tham-khoc",
       "episodeCount": 1,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "vu-dung-xe-tham-khoc",
+      "episodeCount": 1,
+      "priority": 1
     }
   ],
   "_priority": 0

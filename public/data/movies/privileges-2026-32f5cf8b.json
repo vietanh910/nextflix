@@ -1,0 +1,75 @@
+{
+  "id": "privileges-2026-32f5cf8b",
+  "source": "ophim",
+  "slug": "privileges",
+  "name": "Privilèges",
+  "originName": "Privileges",
+  "posterUrl": "https://img.ophim.live/uploads/movies/privileges-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/privileges-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "<p>Với hy vọng tìm được cơ hội chuộc lỗi cuối cùng, một tù nhân trẻ nhận việc tại một khách sạn sang trọng ở Paris, nơi đầy rẫy tham vọng tàn nhẫn và sự phản bội.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d57c3910d36def0f811078b484fd8530",
+      "m3u8Url": "https://vip.opstream90.com/20260410/29204_d57c3910/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7fdd7ef9cc9679238a70fe1a03c3d4b5",
+      "m3u8Url": "https://vip.opstream90.com/20260417/29655_7fdd7ef9/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/89cb339a11bdbd43d54b1307129474f8",
+      "m3u8Url": "https://vip.opstream90.com/20260417/29656_89cb339a/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/df3533caf8f1bedde6a6633d90819e82",
+      "m3u8Url": "https://vip.opstream90.com/20260428/30402_df3533ca/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "privileges",
+      "episodeCount": 4,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

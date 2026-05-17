@@ -1,0 +1,47 @@
+{
+  "id": "roommates-2026-beae4f89",
+  "source": "ophim",
+  "slug": "ban-cung-phong-2026",
+  "name": "Bạn Cùng Phòng",
+  "originName": "Roommates",
+  "posterUrl": "https://img.ophim.live/uploads/movies/ban-cung-phong-2026-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/ban-cung-phong-2026-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Tân sinh viên vụng về kết bạn với cô bạn cùng phòng sành điệu, để rồi nhận ra cô ta vừa lôi cuốn vừa đầy thủ đoạn trong phim hài đầy kịch tính về tình bạn biến thành \"tình thù\".</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3a7666b08689f8259f0f1671eaac81cd",
+      "m3u8Url": "https://vip.opstream90.com/20260418/29689_3a7666b0/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ban-cung-phong-2026",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -79,6 +79,38 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260514/FNfMmDnf/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/2bKgtKxc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/2bKgtKxc/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/m7aYm0LY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/m7aYm0LY/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/LxOGmXrV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/LxOGmXrV/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/wIC55Kce/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/wIC55Kce/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -119,6 +151,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260515/FefWb438/index.m3u8"
     },
     {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/GnBJo5x9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/GnBJo5x9/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/nyIiLrsA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/nyIiLrsA/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -157,19 +205,51 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/738d7deb467d69ea5d6c8aacb9613245",
       "m3u8Url": "https://vip.opstream90.com/20260515/31793_738d7deb/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/36686212b9b05b73736f0d77f98377bb",
+      "m3u8Url": "https://vip.opstream90.com/20260516/31911_36686212/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e26af35311d1e3eb0873d862e83aa1d4",
+      "m3u8Url": "https://vip.opstream90.com/20260516/31912_e26af353/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/18a24c035870fcbdbcda39e4ecf71401",
+      "m3u8Url": "https://vip.opstream90.com/20260516/31913_18a24c03/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7909706a139205d2861549e24ac45dda",
+      "m3u8Url": "https://vip.opstream90.com/20260516/31987_7909706a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vu-lam-linh",
-      "episodeCount": 5,
+      "episodeCount": 9,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "vu-lam-linh",
-      "episodeCount": 10,
+      "episodeCount": 16,
       "priority": 1
     }
   ],

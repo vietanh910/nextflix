@@ -1,0 +1,55 @@
+{
+  "id": "bite-the-bullet-1975-9d859214",
+  "source": "phimapi",
+  "slug": "can-dan",
+  "name": "Cắn đạn",
+  "originName": "Bite The Bullet",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/d7ad3b8995afadb6f735d5d35ccdce77.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/7c16ae8ecf6ef30658c831acf14adda2.jpg",
+  "year": 1975,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Năm 1908, một cặp cựu thành viên đội kỵ binh Rough Riders, một cựu gái mại dâm, một tay súng, một cao bồi già và một quý ông người Anh tham gia cuộc đua ngựa dài 700 dặm xuyên qua sa mạc Tây Nam.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/k5VsBHXd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/k5VsBHXd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "can-dan",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

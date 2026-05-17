@@ -1,0 +1,67 @@
+{
+  "id": "karna-the-guardian-2026-78abba60",
+  "source": "phimapi",
+  "slug": "karna-nguoi-bao-ve",
+  "name": "Karna Người Bảo Vệ",
+  "originName": "Karna The Guardian",
+  "posterUrl": "https://phimimg.com/upload/vod/20260511-1/3e284a552dddd758be8c10f0c649d84c.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260511-1/33fc057ce771e24a58e4b333c4c1431b.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "Karna vốn sống như một cậu bé bình thường cho đến khi ác quỷ cổ xưa Kalimba thoát khỏi phong ấn và gieo rắc sự hỗn loạn khắp thế giới. Khi bóng tối xâm chiếm chính người mẹ của mình, sức mạnh trong Karna bừng tỉnh, hé lộ thân phận thực sự: Người Cân Bằng – một Hộ vệ được sinh ra để khôi phục lại sự hài hòa cho thế giới. Để cứu mẹ và ngăn chặn sự tàn phá của Kalimba, Karna phải rèn luyện để làm chủ nguồn sức mạnh tiềm ẩn, bằng không cậu sẽ mất đi tất cả những gì mình yêu thương.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260509/DM3Y73o3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260509/DM3Y73o3/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/sMGqgwrt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/sMGqgwrt/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "karna-nguoi-bao-ve",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,51 @@
+{
+  "id": "pass-and-goal-2025-7c3f4818",
+  "source": "ophim",
+  "slug": "pass-and-goal",
+  "name": "Pass and Goal",
+  "originName": "Pass and Goal",
+  "posterUrl": "https://img.ophim.live/uploads/movies/pass-and-goal-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/pass-and-goal-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "<p>Từng là một cố vấn tài chính thành đạt, Hay Man mất tất cả và phải chuyển từ biệt thự xa hoa ở Deep Water Bay đến căn nhà khiêm tốn của người em họ ở \"Deep Water Bo\". Với hy vọng khôi phục lại vận may, cô đồng ý huấn luyện một đội bóng đá U12 non nớt do người em họ Ying dẫn dắt cùng các em nhỏ trong khu phố tham gia một giải đấu do một người thừa kế giàu có thiếu kinh nghiệm tổ chức. Điều bắt đầu như một nhiệm vụ bất đắc dĩ nhanh chóng biến thành tình cảm hướng dẫn thực sự, khi Hay Man giúp các em nhỏ đối mặt với khó khăn và tìm lại được mục đích sống của chính mình. Khi đội bóng yếu thế lọt vào chung kết, cô phải lựa chọn giữa cuộc sống xa hoa trong quá khứ và bản sắc mới tìm được.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/234c7ac2c77173bbfe2e1495dc47c363",
+      "m3u8Url": "https://vip.opstream12.com/20260513/32694_234c7ac2/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "pass-and-goal",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

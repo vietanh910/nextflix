@@ -1,0 +1,82 @@
+{
+  "id": "dream-stage-355de784",
+  "source": "nguonc",
+  "slug": "san-khau-uoc-mo",
+  "name": "Sân Khấu Ước Mơ",
+  "originName": "Dream Stage",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/8/san-khau-uoc-mo.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/san-khau-uoc-mo-1.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 7",
+  "categories": [],
+  "countries": [],
+  "description": "Phim kể về mối liên kết bền chặt giữa một nam nhà sản xuất âm nhạc người Nhật từng rất tài năng nhưng bị đuổi khỏi ngành sau khi gây ra rắc rối trong quá khứ, và bảy thực tập sinh “đội sổ” của một công ty giải trí nhỏ ở Hàn Quốc. Họ cùng nhau vượt qua khác biệt về thế hệ, quốc tịch và những thất bại cá nhân để theo đuổi giấc mơ tỏa sáng trong ngành công nghiệp K-pop đầy cạnh tranh.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=c79002ceb06af7330195762bc84c3802",
+      "m3u8Url": "https://sing.phimmoi.net/c79002ceb06af7330195762bc84c3802/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=b7201baa6fed3ce44c0c7e5267b926ed",
+      "m3u8Url": "https://sing.phimmoi.net/b7201baa6fed3ce44c0c7e5267b926ed/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=287e477ea61356e842574b2960e7cab2",
+      "m3u8Url": "https://sing.phimmoi.net/287e477ea61356e842574b2960e7cab2/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=9c98d1368c5ed0448fffb5fdf4a02430",
+      "m3u8Url": "https://sing.phimmoi.net/9c98d1368c5ed0448fffb5fdf4a02430/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=ab4b242417cd46fce5c30109fc59dcc5",
+      "m3u8Url": "https://sing.phimmoi.net/ab4b242417cd46fce5c30109fc59dcc5/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=1aa4a9a4f5bd16e884df21c16487f0bf",
+      "m3u8Url": "https://sing.phimmoi.net/1aa4a9a4f5bd16e884df21c16487f0bf/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=e219291abc6c3f996f288a5be361b71e",
+      "m3u8Url": "https://sing.phimmoi.net/e219291abc6c3f996f288a5be361b71e/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "san-khau-uoc-mo",
+      "episodeCount": 7,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

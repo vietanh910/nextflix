@@ -1,0 +1,47 @@
+{
+  "id": "pizza-movie-2026-ec703335",
+  "source": "ophim",
+  "slug": "pizza-phe-pha",
+  "name": "Pizza Phê Pha",
+  "originName": "Pizza Movie",
+  "posterUrl": "https://img.ophim.live/uploads/movies/pizza-phe-pha-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/pizza-phe-pha-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một đêm bình thường trong ký túc xá bỗng biến thành chuyến phiêu lưu kỳ quái nhất đời sinh viên. Năm đứa bạn — những gương mặt trẻ như Gaten Matarazzo, Sean Giambrone, Lulu Wilson, Jack Martin và Peyton Elizabeth Lee — chỉ định xuống sảnh lấy chiếc pizza vừa giao. Nghe đơn giản, nhưng vấn đề là cả nhóm đang phê ngất ngưởng vì thứ “thuốc” tự chế trong phòng.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f4a5d99730ab736c45838ef0ed2fcd37",
+      "m3u8Url": "https://vip.opstream90.com/20260503/30876_f4a5d997/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "pizza-phe-pha",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mulan-light-a-fire-2d1c04f0",
+  "source": "nguonc",
+  "slug": "moc-lan-huyet-nhan",
+  "name": "Mộc Lan: Huyết Nhẫn",
+  "originName": "Mulan: Light A fire",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/kwPN5eeCEcEh347j7aW8BudNVF4.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/9n0KWXmbnf2yJ3rPQLC1xuK52pk.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Sau khi xuất ngũ, Mộc Lan trở về quê hương và phát hiện cha mẹ bị sát hại, còn em trai mất tích. Trong quá trình điều tra, cô vạch trần đường dây đúc tiền giả cùng âm mưu tham nhũng của các quan lại quyền thế, nhưng lại bị hãm hại và mất đi người thân trong bi kịch. Chứng kiến nỗi khổ của dân chúng, Mộc Lan một lần nữa khoác lên mình áo giáp để dẫn dắt cuộc phản kháng chống lại kẻ áp bức và giành lại công lý cho bá tánh.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=c888633cb7f7d9cf66056515993d860e",
+      "m3u8Url": "https://sing.phimmoi.net/c888633cb7f7d9cf66056515993d860e/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "moc-lan-huyet-nhan",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

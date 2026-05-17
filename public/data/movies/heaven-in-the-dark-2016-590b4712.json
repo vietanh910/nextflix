@@ -1,0 +1,51 @@
+{
+  "id": "heaven-in-the-dark-2016-590b4712",
+  "source": "ophim",
+  "slug": "thien-duong-trong-bong-toi",
+  "name": "Thiên đường trong bóng tối",
+  "originName": "Heaven in the Dark",
+  "posterUrl": "https://img.ophim.live/uploads/movies/thien-duong-trong-bong-toi-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/thien-duong-trong-bong-toi-thumb.jpg",
+  "year": 2016,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "<p>Michelle và Marco Tol, một cựu mục sư, gặp nhau tại một bữa tiệc. Họ thảo luận về những gì đã xảy ra cách đây 5 năm, khi một vụ bê bối liên quan đến cả hai người nổ ra và khiến Tol mất danh dự.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/36bb86abc354a875892de1a197002f5f",
+      "m3u8Url": "https://vip.opstream12.com/20260511/32689_36bb86ab/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "thien-duong-trong-bong-toi",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

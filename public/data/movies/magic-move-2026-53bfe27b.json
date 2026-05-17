@@ -1,0 +1,75 @@
+{
+  "id": "magic-move-2026-53bfe27b",
+  "source": "ophim",
+  "slug": "magic-move-tien-tri-tinh-yeu",
+  "name": "Magic Move: Tiên Tri Tình Yêu",
+  "originName": "Magic Move",
+  "posterUrl": "https://img.ophim.live/uploads/movies/magic-move-tien-tri-tinh-yeu-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/magic-move-tien-tri-tinh-yeu-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Architecture student Rit becomes a famous fortune teller at a bar, leading him into a chaotic romance with Itt that changes his life.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/55b9d07f95df2d8a391673726bf4ef3d",
+      "m3u8Url": "https://vip.opstream90.com/20260422/29949_55b9d07f/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/cc5fa5d3ae683cca46d75d9066d3d0d9",
+      "m3u8Url": "https://vip.opstream90.com/20260429/30427_cc5fa5d3/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2bed3c1ab71f19f8456e4366203e5562",
+      "m3u8Url": "https://vip.opstream90.com/20260506/31112_2bed3c1a/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9436535c0d2f5b452cf260f63ca8157c",
+      "m3u8Url": "https://vip.opstream90.com/20260513/31620_9436535c/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "magic-move-tien-tri-tinh-yeu",
+      "episodeCount": 4,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

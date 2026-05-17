@@ -1,0 +1,74 @@
+{
+  "id": "gold-land-ccf83eb3",
+  "source": "nguonc",
+  "slug": "vung-dat-vang",
+  "name": "Vùng Đất Vàng",
+  "originName": "Gold Land",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/2/vung-dat-vang-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/2/vung-dat-vang.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 6",
+  "categories": [],
+  "countries": [],
+  "description": "Sau khi tình cờ phát hiện ra một kho vàng khổng lồ, Heejoo phải đối mặt với lòng tham, sự phản bội và cuộc chiến sinh tồn.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=4e7aae1ef43de8343ad69a9e77517401",
+      "m3u8Url": "https://sing.phimmoi.net/4e7aae1ef43de8343ad69a9e77517401/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=30080b7dfde196cb21dffa04e302df0f",
+      "m3u8Url": "https://sing.phimmoi.net/30080b7dfde196cb21dffa04e302df0f/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=3c1e7cebe1cc59ebc1a21e8fb907d40f",
+      "m3u8Url": "https://sing.phimmoi.net/3c1e7cebe1cc59ebc1a21e8fb907d40f/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=60e7796af222b06eeb81198f3ae1e1bc",
+      "m3u8Url": "https://sing.phimmoi.net/60e7796af222b06eeb81198f3ae1e1bc/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=b9ef6a77fb6cca78b59707713e6ee7bc",
+      "m3u8Url": "https://sing.phimmoi.net/b9ef6a77fb6cca78b59707713e6ee7bc/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=e594670c64a2d1bed616b1eb544fce06",
+      "m3u8Url": "https://sing.phimmoi.net/e594670c64a2d1bed616b1eb544fce06/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "vung-dat-vang",
+      "episodeCount": 6,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

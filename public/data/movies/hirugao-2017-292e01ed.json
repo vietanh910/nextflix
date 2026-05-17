@@ -1,0 +1,47 @@
+{
+  "id": "hirugao-2017-292e01ed",
+  "source": "ophim",
+  "slug": "hirugao",
+  "name": "Hirugao",
+  "originName": "Hirugao",
+  "posterUrl": "https://img.ophim.live/uploads/movies/hirugao-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/hirugao-thumb.jpg",
+  "year": 2017,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Câu chuyện diễn ra 3 năm sau loạt phim truyền hình. Kitano Yuichiro đến thuyết giảng tại thị trấn nơi người phụ nữ đã ly hôn Sasamoto Sawa đang sống một cuộc sống yên bình. Hai người gặp lại nhau và câu chuyện tình yêu của họ tiếp tục.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/bc2ba20c4af583beaa5af3e1905773db",
+      "m3u8Url": "https://vip.opstream12.com/20260513/32696_bc2ba20c/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "hirugao",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

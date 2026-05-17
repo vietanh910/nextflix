@@ -1,0 +1,99 @@
+{
+  "id": "legends-2026-589261e1",
+  "source": "ophim",
+  "slug": "legends",
+  "name": "Legends",
+  "originName": "Legends",
+  "posterUrl": "https://img.ophim.live/uploads/movies/legends-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/legends-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (6/6)",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Một điều tra viên kỳ cựu (Steve Coogan) chỉ dẫn một nhân viên hải quan sống khép kín (Tom Burke) khi anh và một đội tân binh thâm nhập các băng đảng ma túy tàn bạo của Anh.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/398fe2ec0161a64eb0ce33ece464fc06",
+      "m3u8Url": "https://vip.opstream90.com/20260507/31220_398fe2ec/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a6101db109c4529f60805430ce177318",
+      "m3u8Url": "https://vip.opstream90.com/20260507/31221_a6101db1/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d66e6fd222e1c0f49746452faa415c1c",
+      "m3u8Url": "https://vip.opstream90.com/20260507/31222_d66e6fd2/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3e1e19f4445b3d8bf303f4771e6973e6",
+      "m3u8Url": "https://vip.opstream90.com/20260507/31223_3e1e19f4/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1b4a70ea8ec6487a12030c6dbde8e3d3",
+      "m3u8Url": "https://vip.opstream90.com/20260507/31224_1b4a70ea/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/42abbf1997bbf1bea463690de3451e39",
+      "m3u8Url": "https://vip.opstream90.com/20260507/31225_42abbf19/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "legends",
+      "episodeCount": 6,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

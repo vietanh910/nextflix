@@ -1,0 +1,55 @@
+{
+  "id": "rise-of-the-conqueror-2026-1f02d364",
+  "source": "ophim",
+  "slug": "rise-of-the-conqueror",
+  "name": "Rise of the Conqueror",
+  "originName": "Rise of the Conqueror",
+  "posterUrl": "https://img.ophim.live/uploads/movies/rise-of-the-conqueror-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/rise-of-the-conqueror-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Vào thế kỷ 14, khi Con đường Tơ lụa sụp đổ và các phe phái đối địch xé nát vùng đất, chiến binh dũng mãnh Timur nổi lên từ nơi lưu đày. Bị tước đoạt mọi thứ, ông chiến đấu để thống nhất các vương quốc tan vỡ, sử dụng chiến lược và ý chí kiên cường để tạo dựng một đế chế từ hỗn loạn. Bất bại trong chiến trận và được coi là một trong những nhà lãnh đạo và chiến thuật gia quân sự vĩ đại nhất trong lịch sử, chưa kể đến là một trong những người tàn bạo nhất, Timur đã thành lập Đế chế Timurid, cai trị Afghanistan, Iran và Trung Á ngày nay.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/d5a1930d166cd2bc2ca54b3405e641d0",
+      "m3u8Url": "https://vip.opstream12.com/20260509/32685_d5a1930d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "rise-of-the-conqueror",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

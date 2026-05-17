@@ -1,0 +1,47 @@
+{
+  "id": "wind-bell-2022-c9159919",
+  "source": "phimapi",
+  "slug": "chuong-gio",
+  "name": "Chuông Gió",
+  "originName": "Wind Bell",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/7e7ac075052497bf61e1c728671c37e0.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/80ac5cc663ce11e18f6246aaec57a74d.jpg",
+  "year": 2022,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "Vào một ngày hè nóng nực, Jeongwoo, một sinh viên đại học, trở về quê hương cũ Buan. Ngôi nhà cũ của anh ngày càng đổ nát, và những ký ức ùa về trong tâm trí Jeongwoo. Khi anh gặp lại người cộng sự cũ Donga, liệu quá khứ có một lần nữa trở về hiện tại?",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/UNw1Rx0B/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/UNw1Rx0B/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chuong-gio",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

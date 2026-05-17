@@ -1,0 +1,99 @@
+{
+  "id": "yowayowa-sensei-2026-e3646489",
+  "source": "phimapi",
+  "slug": "co-giao-mong-manh",
+  "name": "Cô Giáo Mong Manh",
+  "originName": "Yowayowa Sensei",
+  "posterUrl": "https://phimimg.com/upload/vod/20260412-1/19bcb2fe9fffcffac5b8aaa39d70bb49.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260412-1/6628eba132a80e128aa310548de1db89.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "Hiyori Hiwamura được mệnh danh là &quot;Cô giáo đáng sợ&quot;, và nếu bạn lỡ đắc tội với cô, cô sẽ giáng một lời nguyền lên người bạn! Ít nhất đó là những gì mọi người vẫn hằng tin tưởng. Nhưng thực chất, cô lại là một người cực kỳ mềm lòng và bị hiểu lầm sâu sắc. Một khi bạn nhìn thấy khía cạnh ngọt ngào ẩn giấu bên trong, cô ấy sẽ khiến bạn phải chịu một loại &quot;phép thuật&quot; hoàn toàn khác — đó chính là sự rung động khó cưỡng.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260412/DL5RjHza/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260412/DL5RjHza/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260419/cnlETFgu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260419/cnlETFgu/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260426/DWWb2qQa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260426/DWWb2qQa/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260503/G8xby84v/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260503/G8xby84v/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260509/U26Qnz87/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260509/U26Qnz87/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/xrmKBl4u/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/xrmKBl4u/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "co-giao-mong-manh",
+      "episodeCount": 6,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bebefinn-season-2-2023-64a0fed2",
+  "source": "ophim",
+  "slug": "bebefinn-phan-2",
+  "name": "Bebefinn (Phần 2)",
+  "originName": "Bebefinn (Season 2)",
+  "posterUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-2-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-2-thumb.jpg",
+  "year": 2023,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (3/3)",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "<p>Hãy cùng bé Finn và gia đình tham gia vào những cuộc phiêu lưu đầy thú vị và học hỏi những điều mới mẻ mỗi lần. Chuẩn bị hát và nhảy múa nào!</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a35c2cf55c09b79ef3d5b359f0a2cb91",
+      "m3u8Url": "https://vip.opstream90.com/20260501/30680_a35c2cf5/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0ec14948e088cd74e70ad82de1128b3b",
+      "m3u8Url": "https://vip.opstream90.com/20260501/30681_0ec14948/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/740c87068ac89f325b63a9dbeed2885b",
+      "m3u8Url": "https://vip.opstream90.com/20260501/30682_740c8706/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "bebefinn-phan-2",
+      "episodeCount": 3,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,58 @@
+{
+  "id": "fulfill-1341296b",
+  "source": "nguonc",
+  "slug": "tinh-yeu-du-day",
+  "name": "Tình Yêu Đủ Đầy",
+  "originName": "Fulfill",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/5/tinh-yeu-du-day-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/tinh-yeu-du-day.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 4",
+  "categories": [],
+  "countries": [],
+  "description": "Cặp đôi từ thời đại học Pafun và Aioon từng nghĩ tình yêu là tất cả, nhưng cuộc sống hôn nhân mang đến nỗi đau, sự mất mát và hy vọng, thử thách sự gắn bó mà họ dành cho nhau.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=6c1b4b772bf3e4c6bdd67c3c11a45ebf",
+      "m3u8Url": "https://sing.phimmoi.net/6c1b4b772bf3e4c6bdd67c3c11a45ebf/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=ab488da566684c54e2e1bb3f9d89abec",
+      "m3u8Url": "https://sing.phimmoi.net/ab488da566684c54e2e1bb3f9d89abec/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=6c54f5122e9880c7a7d594574ac962b1",
+      "m3u8Url": "https://sing.phimmoi.net/6c54f5122e9880c7a7d594574ac962b1/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=e8332de0fc7376b5ed46eba0c291f1fc",
+      "m3u8Url": "https://sing.phimmoi.net/e8332de0fc7376b5ed46eba0c291f1fc/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "tinh-yeu-du-day",
+      "episodeCount": 4,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

@@ -1,0 +1,44 @@
+{
+  "id": "passenger-2026-840f128b",
+  "source": "ophim",
+  "slug": "khach",
+  "name": "Khách",
+  "originName": "Passenger",
+  "posterUrl": "https://img.ophim.live/uploads/movies/khach-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/khach-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Vài tuần sau khi bắt đầu hành trình sống trên xe van, một cặp đôi trẻ chứng kiến một vụ tai nạn kinh hoàng khiến người tài xế thiệt mạng. Không lâu sau, họ bị một thực thể quỷ dị bám theo ráo riết — thứ không thể bị cắt đuôi và luôn lần ra họ dù họ chạy đến bất cứ đâu.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "khach",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

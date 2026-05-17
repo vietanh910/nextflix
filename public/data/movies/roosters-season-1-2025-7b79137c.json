@@ -1,0 +1,95 @@
+{
+  "id": "roosters-season-1-2025-7b79137c",
+  "source": "phimapi",
+  "slug": "ga-trong-haantjes-phan-1",
+  "name": "Gà Trống (Haantjes) (Phần 1)",
+  "originName": "Roosters (Season 1)",
+  "posterUrl": "https://phimimg.com/upload/vod/20260516-1/805f96eff21a2b7465f2a77fbd5143d4.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260516-1/481517903ec97a0723655cd4756e3275.jpg",
+  "year": 2025,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hà Lan",
+      "slug": "ha-lan"
+    }
+  ],
+  "description": "Đối mặt với cuộc khủng hoảng về nam tính, bốn người bạn cố gắng giữ vững bản thân giữa một thế giới không ngừng thay đổi trong khi gìn giữ các mối quan hệ và sự nghiệp.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20250301/QMkrgcKA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20250301/QMkrgcKA/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20250301/RfOXk3ox/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20250301/RfOXk3ox/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20250301/YEsQno9M/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20250301/YEsQno9M/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20250301/krLLAIZF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20250301/krLLAIZF/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20250301/VXktAScZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20250301/VXktAScZ/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20250301/EFdBR666/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20250301/EFdBR666/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ga-trong-haantjes-phan-1",
+      "episodeCount": 6,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

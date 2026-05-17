@@ -1,0 +1,109 @@
+{
+  "id": "rak-rak-sense-of-love-2026-41d37f02",
+  "source": "ophim",
+  "slug": "bat-song-tinh-duyen",
+  "name": "Bắt Sóng Tình Duyên",
+  "originName": "Rak Rak - Sense of Love",
+  "posterUrl": "https://img.ophim.live/uploads/movies/bat-song-tinh-duyen-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/bat-song-tinh-duyen-thumb.jpg",
+  "year": 2026,
+  "type": "tvshow",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Bắt Sóng Tình Duyên (Rak Rak – Sense of Love) là show hẹn hò thực tế khám phá sự kết nối qua giác quan, không dựa vào ngoại hình hay ngôn ngữ. Tại Thái Lan, 10 người trẻ từ nhiều quốc gia bước vào hành trình tìm kiếm tình yêu từ cảm nhận bản năng—trước khi nhìn, nghe hay hiểu nhau.</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1ba11d583c8cec68cddb9d103387ffbe",
+      "m3u8Url": "https://vip.opstream90.com/20260503/30875_1ba11d58/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/cc8e477e2930e6c7676fcc685ec2b32a",
+      "m3u8Url": "https://vip.opstream90.com/20260503/30890_cc8e477e/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4a00ec743cd160ce59b375e9d7e4696a",
+      "m3u8Url": "https://vip.opstream90.com/20260511/31550_4a00ec74/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2ab5569b4274a31c7f2b7c67cd9ba9e2",
+      "m3u8Url": "https://vip.opstream90.com/20260514/31741_2ab5569b/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260430/pBtP2Jbm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260430/pBtP2Jbm/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260430/QS15XqdN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260430/QS15XqdN/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260507/B76vcSrp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260507/B76vcSrp/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/u9sSQDbL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/u9sSQDbL/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "bat-song-tinh-duyen",
+      "episodeCount": 4,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "rak-rak-truc-giac-tinh-yeu",
+      "episodeCount": 4,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

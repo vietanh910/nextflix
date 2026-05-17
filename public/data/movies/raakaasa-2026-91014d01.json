@@ -1,0 +1,47 @@
+{
+  "id": "raakaasa-2026-91014d01",
+  "source": "ophim",
+  "slug": "raakaasa",
+  "name": "Raakaasa",
+  "originName": "Raakaasa",
+  "posterUrl": "https://img.ophim.live/uploads/movies/raakaasa-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/raakaasa-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Trở về quê hương sau một thập kỷ, một người Ấn Độ sống ở nước ngoài tìm kiếm tình yêu vô tình đánh thức một thế lực bóng tối cổ xưa mà dân làng anh vẫn luôn khiếp sợ. Khi mối đe dọa ngày càng gia tăng, tình yêu trở nên chết người và tính mạng bị đe dọa.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/2c12328aab48072aee9c07cf4442b238",
+      "m3u8Url": "https://vip.opstream12.com/20260513/32695_2c12328a/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "raakaasa",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

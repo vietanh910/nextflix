@@ -1,0 +1,34 @@
+{
+  "id": "family-of-two-a-mother-a-48a2b505",
+  "source": "nguonc",
+  "slug": "gia-dinh-hai-nguoi-cau-chuyen-me-va-con-trai",
+  "name": "Gia đình hai người (Câu chuyện mẹ và con trai)",
+  "originName": "Family of Two (A Mother and Son Story)",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/3cmWbLadQBuLVDOZuNu9WQF4kVN.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/s2GQ2b87FPtxsxPKWzDuWpwMqYe.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Chàng trai nọ muốn có khởi đầu mới ở nước ngoài. Nhưng anh sẽ không rời đi cho đến khi tìm được nửa kia phù hợp với người mẹ góa bụa không còn ai khác ngoài anh.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=5982303d64a02149013e0890bcf4727a",
+      "m3u8Url": "https://sing.phimmoi.net/5982303d64a02149013e0890bcf4727a/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "gia-dinh-hai-nguoi-cau-chuyen-me-va-con-trai",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

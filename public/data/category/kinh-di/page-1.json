@@ -2,8 +2,215 @@
   "slug": "kinh-di",
   "name": "Kinh Dị",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 2,
   "items": [
+    {
+      "id": "hokum-2026-0c5d755d",
+      "source": "ophim",
+      "slug": "ba-tron",
+      "name": "Ba Trợn",
+      "originName": "Hokum",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ba-tron-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ba-tron-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "bus-the-last-drive-2026-0ea0a94d",
+      "source": "ophim",
+      "slug": "bus-chuyen-xe-mot-chieu",
+      "name": "Bus: Chuyến Xe Một Chiều",
+      "originName": "Bus: The Last Drive",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bus-chuyen-xe-mot-chieu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bus-chuyen-xe-mot-chieu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "they-will-kill-you-2026-32dcb576",
+      "source": "ophim",
+      "slug": "chung-se-doat-mang",
+      "name": "Chúng Sẽ Đoạt Mạng",
+      "originName": "They Will Kill You",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chung-se-doat-mang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chung-se-doat-mang-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Nam Phi",
+          "slug": "nam-phi"
+        }
+      ]
+    },
+    {
+      "id": "hell-trotter-2026-5659861e",
+      "source": "ophim",
+      "slug": "heo-nam-mong",
+      "name": "Heo Năm Móng",
+      "originName": "Hell Trotter",
+      "posterUrl": "https://img.ophim.live/uploads/movies/heo-nam-mong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/heo-nam-mong-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "the-whistler-2026-91813643",
+      "source": "ophim",
+      "slug": "ke-huyt-sao",
+      "name": "Kẻ Huýt Sáo",
+      "originName": "The Whistler",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-huyt-sao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-huyt-sao-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Colombia",
+          "slug": "colombia"
+        }
+      ]
+    },
+    {
+      "id": "passenger-2026-840f128b",
+      "source": "ophim",
+      "slug": "khach",
+      "name": "Khách",
+      "originName": "Passenger",
+      "posterUrl": "https://img.ophim.live/uploads/movies/khach-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/khach-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "mavka-the-true-myth-2026-63a87f1e",
+      "source": "ophim",
+      "slug": "mavka-the-true-myth",
+      "name": "Mavka. The True Myth",
+      "originName": "Mavka. The True Myth",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mavka-the-true-myth-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mavka-the-true-myth-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ukraina",
+          "slug": "ukraina"
+        }
+      ]
+    },
     {
       "id": "faces-of-death-2026-c7d124d4",
       "source": "ophim",
@@ -26,6 +233,225 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "bodycam-2026-5aa54dd5",
+      "source": "ophim",
+      "slug": "ong-kinh-ma-quai",
+      "name": "Ống Kính Ma Quái",
+      "originName": "Bodycam",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ong-kinh-ma-quai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ong-kinh-ma-quai-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "the-strangers-chapter-3-2026-c8dca204",
+      "source": "ophim",
+      "slug": "sat-nhan-giau-mat-chuong-3",
+      "name": "Sát Nhân Giấu Mặt: Chương 3",
+      "originName": "The Strangers: Chapter 3",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sat-nhan-giau-mat-chuong-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sat-nhan-giau-mat-chuong-3-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "slanted-2026-ed012c05",
+      "source": "ophim",
+      "slug": "slanted",
+      "name": "Slanted",
+      "originName": "Slanted",
+      "posterUrl": "https://img.ophim.live/uploads/movies/slanted-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/slanted-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-yeti-2026-e66cbb94",
+      "source": "ophim",
+      "slug": "the-yeti",
+      "name": "The Yeti",
+      "originName": "The Yeti",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-yeti-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-yeti-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "forbidden-fruits-2026-c5e60ce7",
+      "source": "ophim",
+      "slug": "trai-cam",
+      "name": "Trái Cấm",
+      "originName": "Forbidden Fruits",
+      "posterUrl": "https://img.ophim.live/uploads/movies/trai-cam-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/trai-cam-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "lee-cronin-s-the-mummy-2026-3e65d257",
+      "source": "ophim",
+      "slug": "xac-uopp",
+      "name": "Xác Ướp",
+      "originName": "Lee Cronin's The Mummy",
+      "posterUrl": "https://img.ophim.live/uploads/movies/xac-uopp-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/xac-uopp-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "alpha-2025-70ad049f",
+      "source": "ophim",
+      "slug": "alpha",
+      "name": "Alpha",
+      "originName": "Alpha",
+      "posterUrl": "https://img.ophim.live/uploads/movies/alpha-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/alpha-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
         }
       ]
     },
@@ -59,17 +485,17 @@
       ]
     },
     {
-      "id": "the-crucifix-blood-of-th-2025-00f22fc1",
+      "id": "eye-for-an-eye-2025-a2acd11e",
       "source": "ophim",
-      "slug": "thanh-gia-mau-cua-ke-tru-ta",
-      "name": "Thánh Giá: Máu của Kẻ Trừ Tà",
-      "originName": "The Crucifix: Blood of the Exorcist",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thanh-gia-mau-cua-ke-tru-ta-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thanh-gia-mau-cua-ke-tru-ta-thumb.jpg",
+      "slug": "eye-for-an-eye",
+      "name": "Eye for an Eye",
+      "originName": "Eye for an Eye",
+      "posterUrl": "https://img.ophim.live/uploads/movies/eye-for-an-eye-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/eye-for-an-eye-thumb.jpg",
       "year": 2025,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Kinh Dị",
@@ -78,35 +504,93 @@
       ],
       "countries": [
         {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
           "name": "Anh",
           "slug": "anh"
         }
       ]
     },
     {
-      "id": "wormtown-2025-9c1fb119",
+      "id": "descendent-2025-9627b6d1",
       "source": "ophim",
-      "slug": "thi-tran-giun-dat",
-      "name": "Thị trấn giun đất",
-      "originName": "Wormtown",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thi-tran-giun-dat-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thi-tran-giun-dat-thumb.jpg",
+      "slug": "hau-due-2026",
+      "name": "Hậu Duệ",
+      "originName": "Descendent",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hau-due-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hau-due-2026-thumb.jpg",
       "year": 2025,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-favor-2025-a957335e",
+      "source": "ophim",
+      "slug": "ke-cuu-roi",
+      "name": "Kẻ Cứu Rỗi",
+      "originName": "The Favor",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-cuu-roi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-cuu-roi-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "marriage-bites-2025-72b920c4",
+      "source": "ophim",
+      "slug": "marriage-bites",
+      "name": "Marriage Bites",
+      "originName": "Marriage Bites",
+      "posterUrl": "https://img.ophim.live/uploads/movies/marriage-bites-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/marriage-bites-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Kinh Dị",
@@ -117,6 +601,122 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "close-the-eye-to-see-2025-9f6e17ed",
+      "source": "ophim",
+      "slug": "mat-nham-mat-mo",
+      "name": "Mắt Nhắm Mắt Mở",
+      "originName": "Close The Eye To See",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mat-nham-mat-mo-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-nham-mat-mo-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "a-breed-apart-2025-f09f5177",
+      "source": "ophim",
+      "slug": "mot-giong-ngoai",
+      "name": "Một giống ngoài",
+      "originName": "A Breed Apart",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mot-giong-ngoai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-giong-ngoai-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-red-book-ritual-gate-2025-5ef51381",
+      "source": "ophim",
+      "slug": "nghi-le-sach-do-cong-dia-nguc",
+      "name": "Nghi lễ Sách Đỏ: Cổng Địa ngục",
+      "originName": "The Red Book Ritual: Gates of Hell",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nghi-le-sach-do-cong-dia-nguc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nghi-le-sach-do-cong-dia-nguc-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "qifarah-2025-ca2a6407",
+      "source": "ophim",
+      "slug": "qifarah",
+      "name": "Qifarah",
+      "originName": "Qifarah",
+      "posterUrl": "https://img.ophim.live/uploads/movies/qifarah-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/qifarah-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
         }
       ]
     }

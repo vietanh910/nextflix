@@ -1,0 +1,51 @@
+{
+  "id": "tripping-with-my-family-2026-d008d0f8",
+  "source": "ophim",
+  "slug": "nha-minh-di-thoi",
+  "name": "Nhà Mình Đi Thôi",
+  "originName": "Tripping With My Family",
+  "posterUrl": "https://img.ophim.live/uploads/movies/nha-minh-di-thoi-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/nha-minh-di-thoi-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "<p>Phương, an ambitious young startup founder, is forced to stage a picture-perfect vacation for her fractured family in order to secure funding for her venture. Can she overcome the challenge, mend family ties, and seize her chance at success?</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/da58e2e4f4f6251d74b3a3fa11339e21",
+      "m3u8Url": "https://vip.opstream90.com/20260502/30774_da58e2e4/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "nha-minh-di-thoi",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "id": "lavi-2-scores-again-vyse-2025-2cd115a6",
+  "source": "phimapi",
+  "slug": "lavi-2-scores-again",
+  "name": "Lavi 2: Scores Again",
+  "originName": "Lavi 2: Scores Again / Vyšehrad Dvje",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/4de8bb9c15bfc51516ad4c86ddc37957.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/bb33495141f1ca1db76b36b72946aaf0.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Phim chưa có nội dung.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/SCAS5HBv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/SCAS5HBv/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "lavi-2-scores-again",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

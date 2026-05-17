@@ -1,0 +1,47 @@
+{
+  "id": "floating-lives-2010-d7a318e6",
+  "source": "phimapi",
+  "slug": "canh-dong-bat-tan",
+  "name": "Cánh Đồng Bất Tận",
+  "originName": "Floating Lives",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/a676c06b9d30cacc6788f6cba8e1f71e.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/5a65a8263244e77888355d58d3ad4ee7.jpg",
+  "year": 2010,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "Lấy bối cảnh ở đồng bằng sông Cửu Long của Việt Nam, bộ phim kể về câu chuyện của ông Võ và những người con của ông. Vô cùng tức giận vì sự không chung thủy của vợ, anh đã đốt nhà và tất cả những kỷ niệm của anh trong quá khứ.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/pX9z0bAE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/pX9z0bAE/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "canh-dong-bat-tan",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

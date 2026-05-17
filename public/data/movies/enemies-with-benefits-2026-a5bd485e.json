@@ -1,0 +1,67 @@
+{
+  "id": "enemies-with-benefits-2026-a5bd485e",
+  "source": "phimapi",
+  "slug": "tinh-dich-co-loi",
+  "name": "Tình Địch Có Lợi",
+  "originName": "Enemies With Benefits",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/85e124c4895b56bad4a2a5d7bcecd386.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/88f5d663a2f75fdffdbe76425234407b.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "Lal, Trưởng phòng Kinh doanh, luôn quyết tâm phải giành chiến thắng trước Wine – Trưởng phòng Kế toán. Wine vốn là thái cực hoàn toàn trái ngược với Lal và nổi tiếng là người không biết khoan nhượng. Tuy nhiên, sau một đêm quá chén, mối quan hệ giữa họ bất ngờ chuyển biến thành &quot;bạn giường&quot; (friends with benefits). Cả hai tìm mọi cách để giữ kín bí mật này bằng cách giả vờ làm kẻ thù của nhau tại công ty để không một ai nghi ngờ. Thế nhưng, trong quá trình diễn kịch, sự gần gũi mới mẻ này đã dần biến thành tình yêu mà chính họ cũng không hề hay biết.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260511/hFkFhWFk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260511/hFkFhWFk/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/TXi450NX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/TXi450NX/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tinh-dich-co-loi",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

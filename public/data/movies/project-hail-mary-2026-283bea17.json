@@ -1,0 +1,59 @@
+{
+  "id": "project-hail-mary-2026-283bea17",
+  "source": "ophim",
+  "slug": "thoat-khoi-tan-the",
+  "name": "Thoát Khỏi Tận Thế",
+  "originName": "Project Hail Mary",
+  "posterUrl": "https://img.ophim.live/uploads/movies/thoat-khoi-tan-the-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/thoat-khoi-tan-the-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Mất trí nhớ và lạc lõng trên một con tàu vũ trụ, một phi hành gia khám phá ra rằng anh là hy vọng duy nhất của nhân loại trước bờ vực tuyệt chủng. Một liên minh bất ngờ được hình thành, nắm giữ vận mệnh của tất cả.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b276f01d37dac0090b04042539a2aaab",
+      "m3u8Url": "https://vip.opstream90.com/20260425/30238_b276f01d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "thoat-khoi-tan-the",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

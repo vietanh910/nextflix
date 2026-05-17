@@ -1,0 +1,47 @@
+{
+  "id": "the-yeti-2026-e66cbb94",
+  "source": "ophim",
+  "slug": "the-yeti",
+  "name": "The Yeti",
+  "originName": "The Yeti",
+  "posterUrl": "https://img.ophim.live/uploads/movies/the-yeti-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/the-yeti-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Khi một ông trùm dầu mỏ và một nhà thám hiểm nổi tiếng biến mất trong mùa đông khắc nghiệt ở vùng Alaska xa xôi phía bắc, một đội cứu hộ được lựa chọn kỹ lưỡng đã nỗ lực đưa họ trở về. Điều họ không biết là họ đang xâm phạm lãnh thổ của Người Tuyết Yeti, và thiên nhiên khắc nghiệt chỉ là mối lo nhỏ nhất của họ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/7acf9a6623c2769fa83a79e5340ab394",
+      "m3u8Url": "https://vip.opstream12.com/20260416/32659_7acf9a66/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "the-yeti",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

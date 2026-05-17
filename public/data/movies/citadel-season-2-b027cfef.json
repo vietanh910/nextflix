@@ -1,0 +1,66 @@
+{
+  "id": "citadel-season-2-b027cfef",
+  "source": "nguonc",
+  "slug": "gian-diep-toan-cau-phan-2",
+  "name": "Gián Điệp Toàn Cầu (Phần 2)",
+  "originName": "Citadel (Season 2)",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/5/gian-diep-toan-cau-phan-2-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/gian-diep-toan-cau-phan-2.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 5",
+  "categories": [],
+  "countries": [],
+  "description": "Sau các sự kiện mùa đầu, Nadia và Mason tiếp tục chiến đấu với tổ chức Manticore khi một mối đe dọa mới xuất hiện. Mùa này mở rộng thế giới Citadel với nhiều điệp viên mới, các nhiệm vụ toàn cầu và nhiều plot twist hơn.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=a5a668a9c69dbc8e4936d19041dee632",
+      "m3u8Url": "https://sing.phimmoi.net/a5a668a9c69dbc8e4936d19041dee632/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=8683077c90fa07fdada9a4b5d7069527",
+      "m3u8Url": "https://sing.phimmoi.net/8683077c90fa07fdada9a4b5d7069527/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=03af8d9e845f0d836ec739d666b528d8",
+      "m3u8Url": "https://sing.phimmoi.net/03af8d9e845f0d836ec739d666b528d8/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=cddaa7038d0f9d7826ebca5b2788a32f",
+      "m3u8Url": "https://sing.phimmoi.net/cddaa7038d0f9d7826ebca5b2788a32f/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=5db6ba3621feaa89060d539bcbadcf94",
+      "m3u8Url": "https://sing.phimmoi.net/5db6ba3621feaa89060d539bcbadcf94/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "gian-diep-toan-cau-phan-2",
+      "episodeCount": 5,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

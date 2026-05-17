@@ -1,0 +1,47 @@
+{
+  "id": "the-stroll-2023-dd874edd",
+  "source": "phimapi",
+  "slug": "pho-vay",
+  "name": "Phố Vẫy",
+  "originName": "The Stroll",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/dcf5612c42f6a7102b8046b659b93fc7.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/ea525e1807760737f3b0450e44b5ff86.jpg",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Lịch sử của Khu Meatpacking ở New York, được kể lại từ góc nhìn của những người chuyển giới hành nghề mại dâm từng sống và làm việc tại đây. Nhà làm phim Kristen Lovell, người đã đi bộ dọc con đường The Stroll trong một thập kỷ, đã đoàn tụ cộng đồng của mình để kể lại những năm tháng bạo lực, cảnh sát, tình trạng vô gia cư và sự đô thị hóa mà họ đã vượt qua để xây dựng một phong trào đấu tranh cho quyền của người chuyển giới.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/NBzjsCRr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/NBzjsCRr/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "pho-vay",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

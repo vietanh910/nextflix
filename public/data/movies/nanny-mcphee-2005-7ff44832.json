@@ -1,0 +1,59 @@
+{
+  "id": "nanny-mcphee-2005-7ff44832",
+  "source": "ophim",
+  "slug": "bao-mau-phu-thuy",
+  "name": "Bảo Mẫu Phù Thủy",
+  "originName": "Nanny McPhee",
+  "posterUrl": "https://img.ophim.live/uploads/movies/bao-mau-phu-thuy-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/bao-mau-phu-thuy-thumb.jpg",
+  "year": 2005,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "<p>Nanny McPhee là một bảo mẫu kỳ lạ sở hữu phép thuật đặc biệt, được thuê để chăm sóc bầy trẻ nghịch ngợm trong gia đình một ông bố góa vợ. Ban đầu, lũ trẻ tìm mọi cách đuổi cô đi vì ngoại hình khác thường và tính cách nghiêm khắc. Thế nhưng, qua những bài học bất ngờ, chúng dần học được kỷ luật, yêu thương và trách nhiệm. Khi bọn trẻ thay đổi, diện mạo của Nanny McPhee cũng dần trở nên hiền hòa và ấm áp hơn.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d2ea23fe739a898865a5f348bb4e818d",
+      "m3u8Url": "https://vip.opstream90.com/20260504/30958_d2ea23fe/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "bao-mau-phu-thuy",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

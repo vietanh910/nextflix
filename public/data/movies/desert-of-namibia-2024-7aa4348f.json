@@ -1,0 +1,47 @@
+{
+  "id": "desert-of-namibia-2024-7aa4348f",
+  "source": "ophim",
+  "slug": "desert-of-namibia",
+  "name": "Desert of Namibia",
+  "originName": "Desert of Namibia",
+  "posterUrl": "https://img.ophim.live/uploads/movies/desert-of-namibia-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/desert-of-namibia-thumb.jpg",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Một cô gái trẻ đẹp đến từ Tokyo trải qua nhiều mối tình khác nhau trong khi luôn bị ám ảnh bởi những suy nghĩ chưa được bộc lộ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/110e71dd8e23f87f715956349fdd0fd7",
+      "m3u8Url": "https://vip.opstream12.com/20260511/32688_110e71dd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "desert-of-namibia",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

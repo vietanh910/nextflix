@@ -1,0 +1,91 @@
+{
+  "id": "reverse-2026-da0ab72d",
+  "source": "ophim",
+  "slug": "ke-thu-chung-giuong",
+  "name": "Kẻ Thù Chung Giường",
+  "originName": "Reverse",
+  "posterUrl": "https://img.ophim.live/uploads/movies/ke-thu-chung-giuong-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/ke-thu-chung-giuong-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Sau 15 năm bị ám ảnh bởi lòng thù hận, một người phụ nữ đột nhiên mất hết ký ức trong một tai nạn, và trong quá trình tìm kiếm quá khứ, cô vô tình phát hiện ra một sự thật nguy hiểm mà cô không bao giờ ngờ tới.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c40d81efdade5f24d4d1181392064079",
+      "m3u8Url": "https://vip.opstream90.com/20260417/29623_c40d81ef/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0fec42125d40c0f55a10393582501d42",
+      "m3u8Url": "https://vip.opstream90.com/20260417/29624_0fec4212/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b056f5d60446a5d5ca7fba949cae3cfa",
+      "m3u8Url": "https://vip.opstream90.com/20260424/30142_b056f5d6/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f9ae0edbbb69c65b4ba6a4df582eb206",
+      "m3u8Url": "https://vip.opstream90.com/20260424/30143_f9ae0edb/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/874121fee1d3bebea38815d169d47848",
+      "m3u8Url": "https://vip.opstream90.com/20260501/30694_874121fe/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5ed9dcf3d3d3dd8712866e81ddeaa03d",
+      "m3u8Url": "https://vip.opstream90.com/20260501/30695_5ed9dcf3/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ke-thu-chung-giuong",
+      "episodeCount": 6,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

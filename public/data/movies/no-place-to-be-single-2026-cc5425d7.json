@@ -30,6 +30,11 @@
       "name": "",
       "serverName": "Vietsub #1",
       "source": "ophim"
+    },
+    {
+      "name": "",
+      "serverName": "#Hà Nội",
+      "source": "phimapi"
     }
   ],
   "sources": [
@@ -38,6 +43,12 @@
       "slug": "khong-co-noi-nao-de-o-mot-minh",
       "episodeCount": 1,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "khong-co-noi-nao-de-o-mot-minh",
+      "episodeCount": 1,
+      "priority": 1
     }
   ],
   "_priority": 0

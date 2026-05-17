@@ -1,0 +1,47 @@
+{
+  "id": "barquero-1970-36ef8320",
+  "source": "phimapi",
+  "slug": "nguoi-cheo-thuyen",
+  "name": "Người Chèo Thuyền",
+  "originName": "Barquero",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/d634caf79166bb63ee8b784b7ef52530.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/29d4c2692091c50c894f26b6d1070990.jpg",
+  "year": 1970,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Jake Remy cầm đầu một băng nhóm tội phạm khét tiếng đang tìm cách trốn sang Mexico sau một vụ cướp thành công. Trên đường đi của chúng có một con sông – chỉ có thể vượt qua bằng phà. Người lái phà, Travis, từ chối bị ép buộc vận chuyển băng nhóm và trốn thoát qua sông cùng phần lớn dân làng – bỏ lại Remy và băng nhóm của hắn, tuyệt vọng tìm cách sang bờ bên kia. Một cuộc đối đầu căng thẳng nổ ra giữa băng nhóm và dân làng, cả hai bên đều có người bị mắc kẹt ở phía bên kia sông.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/yq1es3pg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/yq1es3pg/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nguoi-cheo-thuyen",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

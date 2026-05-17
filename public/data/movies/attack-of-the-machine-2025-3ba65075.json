@@ -1,0 +1,55 @@
+{
+  "id": "attack-of-the-machine-2025-3ba65075",
+  "source": "ophim",
+  "slug": "attack-of-the-machine",
+  "name": "Attack Of The Machine",
+  "originName": "Attack Of The Machine",
+  "posterUrl": "https://img.ophim.live/uploads/movies/attack-of-the-machine-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/attack-of-the-machine-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Số phận của nhân loại nằm trong tay một số ít nhà thám hiểm vũ trụ dũng cảm được chọn lọc, những người đang thực hiện một nhiệm vụ quan trọng là đối đầu với Cỗ máy.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/c8f5889dc0e48bc380bef39264f7fbb8",
+      "m3u8Url": "https://vip.opstream12.com/20260425/32669_c8f5889d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "attack-of-the-machine",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

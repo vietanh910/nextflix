@@ -1,0 +1,51 @@
+{
+  "id": "hell-hath-no-fury-2021-489a8064",
+  "source": "phimapi",
+  "slug": "ban-tay-dia-nguc-khong-gian-du",
+  "name": "Bàn Tay địa Ngục Không Giận Dữ",
+  "originName": "Hell Hath No Fury",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/cce57227f1df715daed7586567d353e6.jpg",
+  "thumbUrl": "",
+  "year": 2021,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Cuộc tìm kiếm người vợ mất tích của một cặp vợ chồng mới cưới bỗng chốc biến thành địa ngục trần gian khi Spencer (Joseph Pascone) rơi vào tay một kẻ theo dõi tâm thần, tàn bạo, sẵn sàng làm mọi thứ để chiếm đoạt anh ta.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/0IRL9Qml/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/0IRL9Qml/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ban-tay-dia-nguc-khong-gian-du",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,95 @@
+{
+  "id": "a-hundred-scenes-of-awaj-2026-68b667ba",
+  "source": "phimapi",
+  "slug": "mot-tram-canh-dep-cua-awajima",
+  "name": "Một Trăm Cảnh Đẹp Của Awajima",
+  "originName": "A Hundred Scenes Of Awajima",
+  "posterUrl": "https://phimimg.com/upload/vod/20260411-1/63291633fd188b99785ff7b61666d2df.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260411-1/975dedaeba72e2d1371c9ce5a4c80444.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "Tại Trường Opera Awajima, những cô gái từ khắp nơi trên Nhật Bản luôn nỗ lực để giành được một vị trí trên sân khấu. Wakana tiến bước nhờ tình yêu mãnh liệt dành cho nhạc kịch, trong khi Kinue theo đuổi việc học với sự kỷ luật thầm lặng. Emi, một học sinh nhận học bổng, thu hút sự chú ý của tất cả mọi người — nhưng đặc biệt là từ Keiko, người luôn phải vật lộn giữa lòng ngưỡng mộ và sự so bì. Thông qua những góc nhìn thay đổi luân phiên, những ngày tháng đan xen của họ khám phá về tham vọng, tình bạn và hành trình tự khám phá bản thân.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260411/jiGpsrCv/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260411/jiGpsrCv/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260418/02V9Lr7x/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260418/02V9Lr7x/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260424/qudgn1qy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260424/qudgn1qy/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260501/ZX4yMQo0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260501/ZX4yMQo0/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260508/FGTB6xeP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260508/FGTB6xeP/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/F0HVpEh4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/F0HVpEh4/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "mot-tram-canh-dep-cua-awajima",
+      "episodeCount": 6,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

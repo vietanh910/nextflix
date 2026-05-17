@@ -5,6 +5,80 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "royal-upstart-2-2026-71b87271",
+      "source": "phimapi",
+      "slug": "chang-re-ngoc-2",
+      "name": "Chàng Rể Ngốc 2",
+      "originName": "Royal Upstart 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20260429-1/c7639e32d3f8da6d3dc10dc119cf9837.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260429-1/856f215159a653fe603fdb7f87e30d31.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (28/28)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "no-doubt-in-us-2026-2f1dd711",
+      "source": "phimapi",
+      "slug": "luong-tam-bat-nghi",
+      "name": "Lưỡng Tâm Bất Nghi",
+      "originName": "No Doubt In Us",
+      "posterUrl": "https://phimimg.com/upload/vod/20260509-1/c76078fd5407de645dd41285a36e0336.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260509-1/6d9a6a62ba90a8bce713634cb748e54e.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 23",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "a-splendid-match-2026-b65e09ce",
       "source": "phimapi",
       "slug": "luong-tran-my-cam",
@@ -52,7 +126,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -65,6 +139,80 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "fights-break-sphere-s5-2023-1c4a1aff",
+      "source": "ophim",
+      "slug": "dau-pha-thuong-khung-ngoai-truyen",
+      "name": "Đấu Phá Thương Khung Ngoại Truyện",
+      "originName": "Fights Break Sphere S5",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dau-pha-thuong-khung-ngoai-truyen-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dau-pha-thuong-khung-ngoai-truyen-thumb.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 199",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "perfect-world-2021-c17c5a35",
+      "source": "ophim",
+      "slug": "the-gioi-hoan-my",
+      "name": "Thế Giới Hoàn Mỹ",
+      "originName": "Perfect World",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-gioi-hoan-my-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-gioi-hoan-my-thumb.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 268",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
         },
         {
           "name": "Phiêu Lưu",

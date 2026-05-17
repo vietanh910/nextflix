@@ -1,0 +1,51 @@
+{
+  "id": "bluebird-2014-06044138",
+  "source": "ophim",
+  "slug": "bluebird",
+  "name": "Chim Xanh",
+  "originName": "Bluebird",
+  "posterUrl": "https://img.ophim.live/uploads/movies/bluebird-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/bluebird-thumb.jpg",
+  "year": 2014,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Thụy Điển",
+      "slug": "thuy-dien"
+    }
+  ],
+  "description": "<p>Vào một buổi tối tháng Giêng giá rét, cô Lesley, người lái xe buýt trường học, hoàn thành tuyến đường của mình, nhưng việc kiểm tra cuối cùng đột ngột kết thúc khi một con chim xanh xuất hiện. Điều xảy ra tiếp theo làm rung chuyển thị trấn khai thác gỗ nhỏ bé của cô ở Maine, chứng minh rằng ngay cả những hành động nhỏ nhất cũng có thể gây ra hậu quả to lớn.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9f16563436a5d946e37538eb164ee775",
+      "m3u8Url": "https://vip.opstream90.com/20260429/30435_9f165634/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "bluebird",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

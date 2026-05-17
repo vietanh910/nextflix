@@ -1,0 +1,55 @@
+{
+  "id": "the-saratov-approach-2013-84d7a277",
+  "source": "phimapi",
+  "slug": "the-saratov-approach",
+  "name": "The Saratov Approach",
+  "originName": "The Saratov Approach",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/48a707eace345022c6269d70aa97b67d.jpg",
+  "thumbUrl": "",
+  "year": 2013,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Phim chưa có nội dung.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/3KNHdr9f/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/3KNHdr9f/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "the-saratov-approach",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

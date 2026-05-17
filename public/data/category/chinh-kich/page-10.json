@@ -2,57 +2,32 @@
   "slug": "chinh-kich",
   "name": "Chính kịch",
   "page": 10,
-  "totalPages": 260,
+  "totalPages": 14,
   "items": [
     {
-      "id": "ascent-of-an-empress-2026",
+      "id": "first-man-2025-d376fa18",
       "source": "ophim",
-      "slug": "nu-de",
-      "name": "Nữ Đế",
-      "originName": "Ascent of an Empress",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nu-de-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-de-thumb.jpg",
-      "year": 2026,
+      "slug": "nguoi-dan-ong-dau-tien",
+      "name": "Người Đàn Ông Đầu Tiên",
+      "originName": "First Man",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-dau-tien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-dau-tien-thumb.jpg",
+      "year": 2025,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "siren-s-kiss-2026",
-      "source": "ophim",
-      "slug": "nu-hon-siren",
-      "name": "Nụ Hôn Siren",
-      "originName": "Siren's Kiss",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nu-hon-siren-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-hon-siren-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 96",
       "categories": [
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
         },
         {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -63,93 +38,43 @@
       ]
     },
     {
-      "id": "the-law-according-to-lidia-poet-season-3-2026",
+      "id": "pass-and-goal-2025-7c3f4818",
       "source": "ophim",
-      "slug": "nu-luat-su-lidia-poet-phan-3",
-      "name": "Nữ Luật Sư Lidia Poët (Phần 3)",
-      "originName": "The Law According to Lidia Poët (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nu-luat-su-lidia-poet-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-luat-su-lidia-poet-phan-3-thumb.jpg",
-      "year": 2026,
-      "type": "series",
+      "slug": "pass-and-goal",
+      "name": "Pass and Goal",
+      "originName": "Pass and Goal",
+      "posterUrl": "https://img.ophim.live/uploads/movies/pass-and-goal-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/pass-and-goal-thumb.jpg",
+      "year": 2025,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ý",
-          "slug": "y"
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     },
     {
-      "id": "the-inner-eye-2026",
+      "id": "the-last-shot-2025-625d508a",
       "source": "ophim",
-      "slug": "nu-than-bang-thuong-nhan",
-      "name": "Nữ Thần Bàng Thượng Nhãn",
-      "originName": "The Inner Eye",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nu-than-bang-thuong-nhan-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-than-bang-thuong-nhan-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (30/30)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "half-awake-2026",
-      "source": "ophim",
-      "slug": "nua-tinh-nua-me",
-      "name": "Nửa Tỉnh Nửa Mê",
-      "originName": "Half Awake",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nua-tinh-nua-me-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nua-tinh-nua-me-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "o-romeo-2026",
-      "source": "ophim",
-      "slug": "o-romeo",
-      "name": "O' Romeo",
-      "originName": "O' Romeo",
-      "posterUrl": "https://img.ophim.live/uploads/movies/o-romeo-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/o-romeo-thumb.jpg",
-      "year": 2026,
+      "slug": "phi-vu-cuoi-cungg",
+      "name": "Phi Vụ Cuối Cùng",
+      "originName": "The Last Shot",
+      "posterUrl": "https://img.ophim.live/uploads/movies/phi-vu-cuoi-cungg-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/phi-vu-cuoi-cungg-thumb.jpg",
+      "year": 2025,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -159,105 +84,9 @@
           "slug": "hanh-dong"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
-        }
-      ]
-    },
-    {
-      "id": "shrimp-encounter-2026",
-      "source": "ophim",
-      "slug": "oan-gia-duong-tom",
-      "name": "Oan Gia Đường Tôm",
-      "originName": "Shrimp Encounter",
-      "posterUrl": "https://img.ophim.live/uploads/movies/oan-gia-duong-tom-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/oan-gia-duong-tom-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (18/18)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "othello-2026",
-      "source": "ophim",
-      "slug": "othello",
-      "name": "Othello",
-      "originName": "Othello",
-      "posterUrl": "https://img.ophim.live/uploads/movies/othello-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/othello-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "pavane-2026",
-      "source": "ophim",
-      "slug": "pavane",
-      "name": "Pavane",
-      "originName": "Pavane",
-      "posterUrl": "https://img.ophim.live/uploads/movies/pavane-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/pavane-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "peach-lover-2026",
-      "source": "ophim",
-      "slug": "peach-lover-nem-huong-dao-mong",
-      "name": "Peach Lover: Nếm Hương Đào Mọng",
-      "originName": "Peach Lover",
-      "posterUrl": "https://img.ophim.live/uploads/movies/peach-lover-nem-huong-dao-mong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/peach-lover-nem-huong-dao-mong-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -271,17 +100,46 @@
       ]
     },
     {
-      "id": "eight-hundred-2026",
+      "id": "bound-by-fate-2025-e3eec953",
       "source": "ophim",
-      "slug": "pham-vi-800m",
-      "name": "Phạm Vi 800m",
-      "originName": "Eight Hundred",
-      "posterUrl": "https://img.ophim.live/uploads/movies/pham-vi-800m-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/pham-vi-800m-thumb.jpg",
-      "year": 2026,
+      "slug": "ranh-gioi-dinh-menh",
+      "name": "Ranh Giới Định Mệnh",
+      "originName": "Bound by Fate",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ranh-gioi-dinh-menh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ranh-gioi-dinh-menh-thumb.jpg",
+      "year": 2025,
       "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 34",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "someone-like-me-2025-8bc4c86a",
+      "source": "ophim",
+      "slug": "someone-like-me",
+      "name": "Someone Like Me",
+      "originName": "Someone Like Me",
+      "posterUrl": "https://img.ophim.live/uploads/movies/someone-like-me-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/someone-like-me-thumb.jpg",
+      "year": 2025,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (20/20)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính kịch",
@@ -292,21 +150,25 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     },
     {
-      "id": "industry-season-4-2026",
+      "id": "the-world-of-love-2025-d20eb5dd",
       "source": "ophim",
-      "slug": "phan-dau-phan-4",
-      "name": "Phấn Đấu (Phần 4)",
-      "originName": "Industry (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phan-dau-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phan-dau-phan-4-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
+      "slug": "the-gioi-cua-tinh-yeu",
+      "name": "Thế giới của tình yêu",
+      "originName": "The World of Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-gioi-cua-tinh-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-gioi-cua-tinh-yeu-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Chính kịch",
@@ -315,27 +177,52 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
     {
-      "id": "fireworks-2026",
+      "id": "the-last-beergin-2025-1ed24d9b",
       "source": "ophim",
-      "slug": "phao-hoa",
-      "name": "Pháo Hoa",
-      "originName": "Fireworks",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phao-hoa-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phao-hoa-thumb.jpg",
-      "year": 2026,
-      "type": "series",
+      "slug": "the-last-beergin",
+      "name": "The Last Beergin",
+      "originName": "The Last Beergin",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-last-beergin-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-last-beergin-thumb.jpg",
+      "year": 2025,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Philippines",
+          "slug": "philippines"
+        }
+      ]
+    },
+    {
+      "id": "resurrection-2025-0dea41cf",
+      "source": "ophim",
+      "slug": "thoi-dai-cuong-da",
+      "name": "Thời Đại Cuồng Dã",
+      "originName": "Resurrection",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thoi-dai-cuong-da-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thoi-dai-cuong-da-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -354,22 +241,67 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     },
     {
-      "id": "love-against-destiny-2026",
+      "id": "unreachable-2025-afca1e8f",
       "source": "ophim",
-      "slug": "phong-vu",
-      "name": "Phong Vũ",
-      "originName": "Love Against Destiny",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phong-vu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phong-vu-thumb.jpg",
-      "year": 2026,
-      "type": "series",
+      "slug": "unreachable",
+      "name": "Unreachable",
+      "originName": "Unreachable",
+      "posterUrl": "https://img.ophim.live/uploads/movies/unreachable-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/unreachable-thumb.jpg",
+      "year": 2025,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "immortality-season-5-2025-d142f9ff",
+      "source": "ophim",
+      "slug": "vinh-sinh-phan-5",
+      "name": "Vĩnh Sinh (Phần 5)",
+      "originName": "Immortality (Season 5)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vinh-sinh-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vinh-sinh-phan-5-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 20",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -383,26 +315,171 @@
       ]
     },
     {
-      "id": "radioactive-emergency-2026",
+      "id": "all-the-blue-in-the-sky-2025-fccc9c31",
       "source": "ophim",
-      "slug": "phong-xa-nguy-cap",
-      "name": "Phóng Xạ Nguy Cấp",
-      "originName": "Radioactive Emergency",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phong-xa-nguy-cap-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phong-xa-nguy-cap-thumb.jpg",
-      "year": 2026,
+      "slug": "xanh-ngat-bau-troi",
+      "name": "Xanh Ngắt Bầu Trời",
+      "originName": "All the Blue in the Sky",
+      "posterUrl": "https://img.ophim.live/uploads/movies/xanh-ngat-bau-troi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/xanh-ngat-bau-troi-thumb.jpg",
+      "year": 2025,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (5/5)",
+      "episodeCurrent": "Hoàn tất (1/1)",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Bỉ",
+          "slug": "bi"
+        }
+      ]
+    },
+    {
+      "id": "roosters-season-1-2025-7b79137c",
+      "source": "phimapi",
+      "slug": "ga-trong-haantjes-phan-1",
+      "name": "Gà Trống (Haantjes) (Phần 1)",
+      "originName": "Roosters (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260516-1/805f96eff21a2b7465f2a77fbd5143d4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260516-1/481517903ec97a0723655cd4756e3275.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hà Lan",
+          "slug": "ha-lan"
+        }
+      ]
+    },
+    {
+      "id": "dear-x-2025-b3b1398c",
+      "source": "phimapi",
+      "slug": "x-than-men",
+      "name": "X Thân Mến!",
+      "originName": "Dear X",
+      "posterUrl": "https://phimimg.com/upload/vod/20251107-1/86f6beabeb5685400c1e903c2293fb3a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251107-1/a7198c1100b4ab5d1ed096ceb594a8e8.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "under-the-bridge-2024-f07b99b3",
+      "source": "ophim",
+      "slug": "bi-kich-duoi-chan-cau",
+      "name": "Bi Kịch Dưới Chân Cầu",
+      "originName": "Under the Bridge",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bi-kich-duoi-chan-cau-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bi-kich-duoi-chan-cau-thumb.jpg",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "desert-of-namibia-2024-7aa4348f",
+      "source": "ophim",
+      "slug": "desert-of-namibia",
+      "name": "Desert of Namibia",
+      "originName": "Desert of Namibia",
+      "posterUrl": "https://img.ophim.live/uploads/movies/desert-of-namibia-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/desert-of-namibia-thumb.jpg",
+      "year": 2024,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "waterdrop-2024-240a61b6",
+      "source": "ophim",
+      "slug": "khat-vong-tinh-than",
+      "name": "Khát Vọng Tình Thân",
+      "originName": "Waterdrop",
+      "posterUrl": "https://img.ophim.live/uploads/movies/khat-vong-tinh-than-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/khat-vong-tinh-than-thumb.jpg",
+      "year": 2024,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -414,28 +491,24 @@
       ],
       "countries": [
         {
-          "name": "Brazil",
-          "slug": "brazil"
+          "name": "Ý",
+          "slug": "y"
         }
       ]
     },
     {
-      "id": "the-calling-witch-2026",
+      "id": "love-beyond-dreams-2024-b511a964",
       "source": "ophim",
-      "slug": "phu-thuy-keu-goi",
-      "name": "Phù thủy kêu gọi",
-      "originName": "The Calling Witch",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phu-thuy-keu-goi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phu-thuy-keu-goi-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "slug": "lan-nua-den-ben-em",
+      "name": "Lần Nữa Đến Bên Em",
+      "originName": "Love Beyond Dreams",
+      "posterUrl": "https://img.ophim.live/uploads/movies/lan-nua-den-ben-em-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/lan-nua-den-ben-em-thumb.jpg",
+      "year": 2024,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
       "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -449,17 +522,17 @@
       ]
     },
     {
-      "id": "bloom-in-turmoil-2026",
+      "id": "the-stranded-2024-c377f4f6",
       "source": "ophim",
-      "slug": "phuong-hoa-ly",
-      "name": "Phương Hoa Lý",
-      "originName": "Bloom in Turmoil",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phuong-hoa-ly-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phuong-hoa-ly-thumb.jpg",
-      "year": 2026,
+      "slug": "nhung-manh-doi-vo-dinh",
+      "name": "Những Mảnh Đời Vô Định",
+      "originName": "The Stranded",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-manh-doi-vo-dinh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-manh-doi-vo-dinh-thumb.jpg",
+      "year": 2024,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
+      "episodeCurrent": "Tập 51",
       "categories": [
         {
           "name": "Chính kịch",
@@ -468,27 +541,31 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
         }
       ]
     },
     {
-      "id": "method-acting-2026",
+      "id": "nina-the-starry-bride-2024-b2359391",
       "source": "ophim",
-      "slug": "phuong-phap-dien-xuat",
-      "name": "Phương pháp diễn xuất",
-      "originName": "Method Acting",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phuong-phap-dien-xuat-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phuong-phap-dien-xuat-thumb.jpg",
-      "year": 2026,
-      "type": "single",
+      "slug": "nina-cua-dat-nuoc-ngan-sao",
+      "name": "Nina Của Đất Nước Ngàn Sao",
+      "originName": "Nina the Starry Bride",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nina-cua-dat-nuoc-ngan-sao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nina-cua-dat-nuoc-ngan-sao-thumb.jpg",
+      "year": 2024,
+      "type": "anime",
       "status": "unknown",
       "episodeCurrent": "Trailer",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         },
         {
           "name": "Chính kịch",
@@ -497,139 +574,85 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
     {
-      "id": "pinanong-2026",
-      "source": "ophim",
-      "slug": "pinanong",
-      "name": "Pinanong",
-      "originName": "Pinanong",
-      "posterUrl": "https://img.ophim.live/uploads/movies/pinanong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/pinanong-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "play-park-2026",
-      "source": "ophim",
-      "slug": "play-park",
-      "name": "Play Park",
-      "originName": "Play Park",
-      "posterUrl": "https://img.ophim.live/uploads/movies/play-park-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/play-park-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "project-y-2026",
-      "source": "ophim",
-      "slug": "project-y-gai-ngoan-doi-doi",
-      "name": "Project Y: Gái Ngoan Đổi Đời",
-      "originName": "Project Y",
-      "posterUrl": "https://img.ophim.live/uploads/movies/project-y-gai-ngoan-doi-doi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/project-y-gai-ngoan-doi-doi-thumb.jpg",
-      "year": 2026,
+      "id": "let-me-hear-your-voice-2024-6bf7bcf6",
+      "source": "phimapi",
+      "slug": "hay-de-toi-nghe-giong-noi-cua-ban",
+      "name": "Hãy để Tôi Nghe Giọng Nói Của Bạn",
+      "originName": "Let Me Hear Your Voice",
+      "posterUrl": "https://phimimg.com/upload/vod/20260513-1/f4f70504683cb4e9c10bdfcdb0afd3cc.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/fffb8379d860ba57013da14d5cb0f407.jpg",
+      "year": 2024,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
     {
-      "id": "king-keaw-2026",
-      "source": "ophim",
-      "slug": "quy-du-tu-luyen-nguc",
-      "name": "Quỷ Dữ Từ Luyện Ngục",
-      "originName": "King Keaw",
-      "posterUrl": "https://img.ophim.live/uploads/movies/quy-du-tu-luyen-nguc-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/quy-du-tu-luyen-nguc-thumb.jpg",
-      "year": 2026,
+      "id": "see-you-2024-7ed33ead",
+      "source": "phimapi",
+      "slug": "thay-ban",
+      "name": "Thấy Bạn",
+      "originName": "See You",
+      "posterUrl": "https://phimimg.com/upload/vod/20260513-1/36c6dbb4c8ce0d57b701e01af4bd9172.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/25f2dd04ced9927fa5259a384fb7a628.jpg",
+      "year": 2024,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính kịch",
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
+          "name": "Đài Loan",
+          "slug": "dai-loan"
         }
       ]
     },
     {
-      "id": "margo-s-got-money-troubles-2026",
+      "id": "citadel-2023-6da81287",
       "source": "ophim",
-      "slug": "rac-roi-tien-bac-cua-margo",
-      "name": "Rắc Rối Tiền Bạc Của Margo",
-      "originName": "Margo's Got Money Troubles",
-      "posterUrl": "https://img.ophim.live/uploads/movies/rac-roi-tien-bac-cua-margo-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/rac-roi-tien-bac-cua-margo-thumb.jpg",
-      "year": 2026,
+      "slug": "citadel",
+      "name": "Citadel (Phần 1)",
+      "originName": "Citadel",
+      "posterUrl": "https://img.ophim.live/uploads/movies/citadel-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/citadel-thumb.jpg",
+      "year": 2023,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Chính kịch",
@@ -644,17 +667,17 @@
       ]
     },
     {
-      "id": "royal-upstart-season-2-2026",
+      "id": "punch-drunk-love-2023-118d5550",
       "source": "ophim",
-      "slug": "re-hien-phan-2",
-      "name": "Rể Hiền (Phần 2)",
-      "originName": "Royal Upstart (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/re-hien-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/re-hien-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 27",
+      "slug": "mot-chuyen-tinh-noi-cong-xuong",
+      "name": "Một Chuyện Tình Nơi Công Xưởng",
+      "originName": "Punch-Drunk Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mot-chuyen-tinh-noi-cong-xuong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-chuyen-tinh-noi-cong-xuong-thumb.jpg",
+      "year": 2023,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Chính kịch",
@@ -663,8 +686,37 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "die-unscharferelation-de-2023-b9608ee0",
+      "source": "ophim",
+      "slug": "niem-vui-vo-hinh-cua-tinh-yeu",
+      "name": "Niềm Vui Vô Hình Của Tình Yêu",
+      "originName": "Die Unschärferelation der Liebe",
+      "posterUrl": "",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/niem-vui-vo-hinh-cua-tinh-yeu-thumb.jpg",
+      "year": 2023,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
         }
       ]
     }

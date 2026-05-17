@@ -1,0 +1,51 @@
+{
+  "id": "victim-2022-4ebdcbce",
+  "source": "ophim",
+  "slug": "nan-nhann",
+  "name": "Nạn Nhân",
+  "originName": "Victim",
+  "posterUrl": "https://img.ophim.live/uploads/movies/nan-nhann-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/nan-nhann-thumb.jpg",
+  "year": 2022,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Úc",
+      "slug": "uc"
+    }
+  ],
+  "description": "<p>Tình yêu thương của người mẹ dành cho con trai bị thử thách bởi hành vi ngày càng đáng báo động của cậu bé.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a45045acdffeec7b92ea019675da48fc",
+      "m3u8Url": "https://vip.opstream90.com/20260425/30225_a45045ac/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "nan-nhann",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

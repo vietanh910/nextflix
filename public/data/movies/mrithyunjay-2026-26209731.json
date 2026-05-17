@@ -1,0 +1,51 @@
+{
+  "id": "mrithyunjay-2026-26209731",
+  "source": "ophim",
+  "slug": "mrithyunjay",
+  "name": "Mrithyunjay",
+  "originName": "Mrithyunjay",
+  "posterUrl": "https://img.ophim.live/uploads/movies/mrithyunjay-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/mrithyunjay-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Một cuộc điều tra án mạng căng thẳng diễn ra khi một người đàn ông từ chối chấp nhận cái chết mà cảnh sát cho là do nguyên nhân tự nhiên. Khi anh ta đào sâu hơn, điều bắt đầu bằng sự nghi ngờ dần biến thành một cuộc truy tìm sự thật không ngừng nghỉ, hé lộ những lớp dối trá và nguy hiểm.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/8e7e22dad3557b815916a9cb97707f07",
+      "m3u8Url": "https://vip.opstream12.com/20260416/32658_8e7e22da/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "mrithyunjay",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

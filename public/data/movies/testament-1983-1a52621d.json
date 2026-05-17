@@ -1,0 +1,55 @@
+{
+  "id": "testament-1983-1a52621d",
+  "source": "ophim",
+  "slug": "chuc-thu",
+  "name": "Chúc thư",
+  "originName": "Testament",
+  "posterUrl": "https://img.ophim.live/uploads/movies/chuc-thu-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/chuc-thu-thumb.jpg",
+  "year": 1983,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Đó chỉ là một ngày bình thường khác ở thị trấn nhỏ Hamlin cho đến khi một thảm họa xảy ra. Bất ngờ, tin tức lan truyền rằng một loạt đầu đạn hạt nhân đã được thả xuống dọc theo bờ biển phía Đông và, cụ thể hơn, ở California. Khi người dân bắt đầu đối phó với hậu quả tàn khốc của các cuộc tấn công — nhiều người bị nhiễm độc phóng xạ — gia đình Wetherly cố gắng sống sót.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4f0130868fe171b5c2bf66d416a06ce2",
+      "m3u8Url": "https://vip.opstream90.com/20260505/31034_4f013086/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "chuc-thu",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

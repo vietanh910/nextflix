@@ -1,0 +1,55 @@
+{
+  "id": "distant-drums-1951-a10cd1a2",
+  "source": "phimapi",
+  "slug": "tieng-trong-xa-xam",
+  "name": "Tiếng Trống Xa Xăm",
+  "originName": "Distant Drums",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/4622dc45db01ff95e34a4213805e7bc2.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/f6a1a9a7ee0feb5e4a161147ca0bcc06.jpg",
+  "year": 1951,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Sau khi phá hủy một pháo đài của người Seminole, binh lính Mỹ và những người bạn được giải cứu phải đối mặt với vùng đầm lầy Everglades nguy hiểm và những bộ lạc thổ dân thù địch để đến được nơi an toàn.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/yPjzBDmp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/yPjzBDmp/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tieng-trong-xa-xam",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,50 @@
+{
+  "id": "griya-cabb3b86",
+  "source": "nguonc",
+  "slug": "griya",
+  "name": "Griya",
+  "originName": "Griya",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/9/griya-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/9/griya.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 3",
+  "categories": [],
+  "countries": [],
+  "description": "Nữ thanh tra nọ hợp tác cùng một nữ luật sư để điều tra một nghệ sĩ đầy cuốn hút – đồng thời là nghi phạm chính trong vụ mất tích bí ẩn của hai người vợ của anh ta.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=ba9413126b904365c9c9bccffc8bad11",
+      "m3u8Url": "https://sing.phimmoi.net/ba9413126b904365c9c9bccffc8bad11/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=6f374aec0499d327728e0f21176526c2",
+      "m3u8Url": "https://sing.phimmoi.net/6f374aec0499d327728e0f21176526c2/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=b95a8c5b12b2369ab9626ad23b53fafa",
+      "m3u8Url": "https://sing.phimmoi.net/b95a8c5b12b2369ab9626ad23b53fafa/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "griya",
+      "episodeCount": 3,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

@@ -1,0 +1,51 @@
+{
+  "id": "donyale-luna-supermodel-2023-ba6778b7",
+  "source": "phimapi",
+  "slug": "donyale-luna-sieu-mau",
+  "name": "Donyale Luna: Siêu Mẫu",
+  "originName": "Donyale Luna: Supermodel",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/68edf5317af5d0a07407ea152daa8bf6.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/8933300d966fe16c060c13501f29e11e.jpg",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "Bộ phim tài liệu về người mẫu Donyale Luna, một người mẫu da màu thành danh từ rất sớm trên đất châu u, sau khi cô rời bỏ nước Mỹ đang trong giai đoạn kì thị chủng tộc nặng nề.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/ATFvPQfw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/ATFvPQfw/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "donyale-luna-sieu-mau",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

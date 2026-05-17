@@ -1,0 +1,74 @@
+{
+  "id": "whisper-of-desire-f96ec758",
+  "source": "nguonc",
+  "slug": "duc-vong-tham-kin",
+  "name": "Dục Vọng Thầm Kín",
+  "originName": "Whisper of Desire",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/10/duc-vong-tham-kin-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/10/duc-vong-tham-kin.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 6",
+  "categories": [],
+  "countries": [],
+  "description": "Shen, con gái của một gia đình thương gia giàu có, bị ép gả cho Phoem – một người đàn ông mang nặng toan tính làm ăn. Hôm sau, Phoem bỏ Shen lại để sang Penang công tác ba tháng. Khi Phoem trở về, anh trở nên xa cách và không còn đụng chạm đến vợ. Cuộc sống của Shen hoàn toàn sụp đổ. Liệu cô có thể chạy trốn để bắt đầu lại, hay sẽ mãi bị trói buộc bởi thù hận và định mệnh?",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=90b98f5a24c031b204bd691caa89dcbd",
+      "m3u8Url": "https://sing.phimmoi.net/90b98f5a24c031b204bd691caa89dcbd/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=f8f41c00782d188ba3f3beb7a5366adf",
+      "m3u8Url": "https://sing.phimmoi.net/f8f41c00782d188ba3f3beb7a5366adf/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=c98046d463e70ae9733318ee4aebf774",
+      "m3u8Url": "https://sing.phimmoi.net/c98046d463e70ae9733318ee4aebf774/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=b22e56de8d162fc843f9df031d9fb867",
+      "m3u8Url": "https://sing.phimmoi.net/b22e56de8d162fc843f9df031d9fb867/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=c2517ab75f712eb68fbf0e1f54fa2ff3",
+      "m3u8Url": "https://sing.phimmoi.net/c2517ab75f712eb68fbf0e1f54fa2ff3/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=e92907d1230223f0ed721c5b8ff02e96",
+      "m3u8Url": "https://sing.phimmoi.net/e92907d1230223f0ed721c5b8ff02e96/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "duc-vong-tham-kin",
+      "episodeCount": 6,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

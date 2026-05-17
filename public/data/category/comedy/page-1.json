@@ -2,27 +2,27 @@
   "slug": "comedy",
   "name": "Comedy",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 3,
   "items": [
     {
-      "id": "assassination-classroom-2015-78e3777a",
+      "id": "bungo-stray-dogs-2-walki-2017-ca41b6ff",
       "source": "animapper",
-      "slug": "20755",
-      "name": "Ansatsu Kyoushitsu",
-      "originName": "Assassination Classroom",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20755-D4ipww9U8YkC.jpg",
-      "year": 2015,
+      "slug": "21791",
+      "name": "Bungou Stray Dogs: Hitori Ayumu",
+      "originName": "Bungo Stray Dogs 2: Walking Alone",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21791-OIFsu8KC77Da.jpg",
+      "year": 2017,
       "type": "anime",
       "status": "unknown",
       "categories": [
         {
-          "name": "Drama",
-          "slug": "drama"
-        },
-        {
           "name": "Comedy",
           "slug": "comedy"
+        },
+        {
+          "name": "Mystery",
+          "slug": "mystery"
         },
         {
           "name": "Action",
@@ -36,21 +36,217 @@
       "countries": []
     },
     {
-      "id": "date-a-live-mayuri-judge-2015-a58d464e",
+      "id": "rainy-cocoa-in-hawaii-2016-228c6fc6",
       "source": "animapper",
-      "slug": "20741",
-      "name": "Date A Live Movie: Mayuri Judgement",
-      "originName": "Date A Live Mayuri Judgement",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20741-WdThAhseSo1y.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20741-HYmNMUQfT0JM.jpg",
-      "year": 2015,
+      "slug": "21797",
+      "name": "Ameiro Cocoa in Hawaii",
+      "originName": "Rainy Cocoa in Hawaii",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21797-Uyzr7GQeUaup.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21797-Uyzr7GQeUaup.jpg",
+      "year": 2016,
       "type": "anime",
       "status": "unknown",
       "categories": [
         {
-          "name": "Mecha",
-          "slug": "mecha"
+          "name": "Comedy",
+          "slug": "comedy"
         },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "anne-happy-2016-c90fce44",
+      "source": "animapper",
+      "slug": "21238",
+      "name": "Anne Happy♪",
+      "originName": "Anne-Happy",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21238-FDqKbjcdtWzx.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21238-0YiT4CJXOGGp.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "the-highschool-life-of-a-2016-9cbaae9e",
+      "source": "animapper",
+      "slug": "21782",
+      "name": "Fudanshi Koukou Seikatsu",
+      "originName": "The Highschool Life of a Fudanshi",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21782-i8wLBjK9ccfY.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21782-BQQOcJQ1HTPl.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "gra-p-rodeo-2nd-season-2016-cc94f48a",
+      "source": "animapper",
+      "slug": "21810",
+      "name": "Gra-P & Rodeo 2nd Season",
+      "originName": "Gra-P & Rodeo 2nd Season",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21810-43OQRZ6VK7FD.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21810-43OQRZ6VK7FD.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Music",
+          "slug": "music"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "first-love-monster-2016-bb4ad9d6",
+      "source": "animapper",
+      "slug": "21242",
+      "name": "Hatsukoi Monster",
+      "originName": "First Love Monster",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21242-5lHHNLFBsVB3.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21242-5lHHNLFBsVB3.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Romance",
+          "slug": "romance"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "kagerou-daze-in-a-day-s-2016-e75d0ebb",
+      "source": "animapper",
+      "slug": "21793",
+      "name": "Kagerou Daze: in a days",
+      "originName": "Kagerou Daze: In a Day`s",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21793-acc5gP6Mogau.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21793-RsOdy4nq9pxa.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        },
+        {
+          "name": "Romance",
+          "slug": "romance"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        },
+        {
+          "name": "Supernatural",
+          "slug": "supernatural"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "kiitaro-s-yokai-picture--2016-9f9514a7",
+      "source": "animapper",
+      "slug": "21802",
+      "name": "Kiitarou Shounen no Youkai Enikki",
+      "originName": "Kiitaro's yokai picture diary",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21802-WOoEXWTENKUb.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21802-WOoEXWTENKUb.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Romance",
+          "slug": "romance"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "chi-s-sweet-adventure-2016-e23199e7",
+      "source": "animapper",
+      "slug": "21796",
+      "name": "Koneko no Chii: Ponponra Daibouken",
+      "originName": "Chi's Sweet Adventure",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21796-cwyH8pphj3gU.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21796-dv4dEdpITnZd.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "pandora-in-the-crimson-s-2016-aa879a7a",
+      "source": "animapper",
+      "slug": "21511",
+      "name": "Koukaku no Pandora",
+      "originName": "Pandora in the Crimson Shell Ghost Urn",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21511-D0tPX9spNPQW.png",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21511-D0tPX9spNPQW.png",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
         {
           "name": "Sci-Fi",
           "slug": "sci-fi"
@@ -60,82 +256,62 @@
           "slug": "ecchi"
         },
         {
-          "name": "Romance",
-          "slug": "romance"
-        },
-        {
           "name": "Comedy",
           "slug": "comedy"
         },
         {
           "name": "Action",
           "slug": "action"
-        },
-        {
-          "name": "Fantasy",
-          "slug": "fantasy"
         }
       ],
       "countries": []
     },
     {
-      "id": "high-school-dxd-born-2015-92163d1d",
+      "id": "kumamiko-girl-meets-bear-2016-872f68b6",
       "source": "animapper",
-      "slug": "20745",
-      "name": "High School DxD BorN",
-      "originName": "High School DxD Born",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20745-HzWTPFv0P13I.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20745-dwEaM0N5STVq.jpg",
-      "year": 2015,
+      "slug": "21784",
+      "name": "Kuma Miko Specials",
+      "originName": "Kumamiko -Girl Meets Bear Specials",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21784-Fw0CjBGzqZoT.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21784-Fw0CjBGzqZoT.jpg",
+      "year": 2016,
       "type": "anime",
       "status": "unknown",
       "categories": [
         {
-          "name": "Ecchi",
-          "slug": "ecchi"
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "mob-psycho-100-2016-1de381d9",
+      "source": "animapper",
+      "slug": "21507",
+      "name": "Mob Psycho 100",
+      "originName": "Mob Psycho 100",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21507-Qx8bGsLXUgLo.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Drama",
+          "slug": "drama"
         },
         {
-          "name": "Romance",
-          "slug": "romance"
+          "name": "Psychological",
+          "slug": "psychological"
         },
         {
           "name": "Comedy",
           "slug": "comedy"
         },
         {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Fantasy",
-          "slug": "fantasy"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "isuca-2015-b49e001f",
-      "source": "animapper",
-      "slug": "20746",
-      "name": "Isuca",
-      "originName": "Isuca",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20746-a6DKOfo2K49Z.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20746-hNsQJYugCA9y.jpg",
-      "year": 2015,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Ecchi",
-          "slug": "ecchi"
-        },
-        {
-          "name": "Romance",
-          "slug": "romance"
-        },
-        {
-          "name": "Comedy",
-          "slug": "comedy"
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
         },
         {
           "name": "Action",
@@ -144,6 +320,310 @@
         {
           "name": "Supernatural",
           "slug": "supernatural"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "rainbow-days-oad-2016-9d7cf369",
+      "source": "animapper",
+      "slug": "21775",
+      "name": "Nijiiro Days OAD",
+      "originName": "Rainbow Days OAD",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21775-iuLJZUL2bCL4.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21775-iuLJZUL2bCL4.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Romance",
+          "slug": "romance"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "ojisan-and-marshmallow-2016-47081dfe",
+      "source": "animapper",
+      "slug": "21239",
+      "name": "Oji-san to Marshmallow",
+      "originName": "Ojisan and Marshmallow",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21239-WzeZCXopvf54.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21239-WzeZCXopvf54.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Romance",
+          "slug": "romance"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "ojisan-to-marshmallow-hi-2016-df4c1c2d",
+      "source": "animapper",
+      "slug": "21774",
+      "name": "Oji-san to Marshmallow: Hige-san to Yume Marshmallow",
+      "originName": "Ojisan to Marshmallow: Hige-san and Marshmallow",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21774-Tx2kLPMXzKNf.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21774-Tx2kLPMXzKNf.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "my-wife-is-the-student-c-2016-bc93fb7c",
+      "source": "animapper",
+      "slug": "21490",
+      "name": "Okusama ga Seitokaichou! OVA",
+      "originName": "My Wife is the Student Council President OVA",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21490-mb2tBQfXocPa.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21490-5eBpPDwv8QAh.png",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Ecchi",
+          "slug": "ecchi"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "shomin-sample-kujou-san--2016-79e6fbe2",
+      "source": "animapper",
+      "slug": "21492",
+      "name": "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Gets-Sareta Ken: Kujou-san no Doesu Soudan-Shitsu Anime-ban",
+      "originName": "Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21492-qHfRpI71Sv6x.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21492-qHfRpI71Sv6x.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Ecchi",
+          "slug": "ecchi"
+        },
+        {
+          "name": "Romance",
+          "slug": "romance"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "mr-osomatsu-episode-3-5-2016-13bcff60",
+      "source": "animapper",
+      "slug": "21510",
+      "name": "Osomatsu-san Episode 3.5",
+      "originName": "Mr. Osomatsu Episode 3.5",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21510-FgDYDwDMzAcQ.png",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21510-FgDYDwDMzAcQ.png",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "re-zero-starting-break-t-2016-085d4a06",
+      "source": "animapper",
+      "slug": "21780",
+      "name": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+      "originName": "Re:ZERO ~Starting Break Time From Zero~",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21780-xCJk0z5vpn57.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21780-xCJk0z5vpn57.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "reikenzan-hoshikuzu-tach-2016-467ea4dc",
+      "source": "animapper",
+      "slug": "21497",
+      "name": "Reikenzan: Hoshikuzu-tachi no Utage",
+      "originName": "Reikenzan: Hoshikuzu-tachi no Utage",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21497-CwWo5NRxjxRN.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21497-CwWo5NRxjxRN.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "three-leaves-three-color-2016-5fbe729b",
+      "source": "animapper",
+      "slug": "21789",
+      "name": "Sansha Sanyou Specials",
+      "originName": "Three Leaves, Three Colors Specials",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21789-K1X8vGAmzX7m.png",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21789-QIhHvo1J4Mat.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "sore-ike-sabuibo-mask-2016-9c9e7da8",
+      "source": "animapper",
+      "slug": "21781",
+      "name": "Sore Ike! Sabuibo Mask",
+      "originName": "Sore Ike! Sabuibo Mask",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21781-gn0dbfkH97ga.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21781-gn0dbfkH97ga.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "twin-star-exorcists-2016-06f55f19",
+      "source": "animapper",
+      "slug": "21499",
+      "name": "Sousei no Onmyouji",
+      "originName": "Twin Star Exorcists",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21499-JCxvIXc27mVT.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21499-LQ6dvd4zrmTR.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Drama",
+          "slug": "drama"
+        },
+        {
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Romance",
+          "slug": "romance"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Supernatural",
+          "slug": "supernatural"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "sushi-police-2016-f03ef309",
+      "source": "animapper",
+      "slug": "21502",
+      "name": "SUSHI POLICE",
+      "originName": "Sushi Police",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21502-lpAf89ZR1CGF.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21502-lpAf89ZR1CGF.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
         }
       ],
       "countries": []

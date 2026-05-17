@@ -1,0 +1,47 @@
+{
+  "id": "slightly-future-in-a-roo-2021-2384a57b",
+  "source": "phimapi",
+  "slug": "co-ve-hoi-lac-hau-trong-mot-can-phong",
+  "name": "Có Vẻ Hơi Lạc Hậu, Trong Một Căn Phòng.",
+  "originName": "Slightly Future, In A Room.",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/a16423e6316e4efb66ab64b26174799b.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/4f6f3ebe873d81181bbb2b29decf5e77.jpg",
+  "year": 2021,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "Phim chưa có nội dung.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/lH7q7erK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/lH7q7erK/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "co-ve-hoi-lac-hau-trong-mot-can-phong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

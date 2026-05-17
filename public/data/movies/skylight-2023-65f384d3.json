@@ -1,0 +1,47 @@
+{
+  "id": "skylight-2023-65f384d3",
+  "source": "phimapi",
+  "slug": "gieng-troi",
+  "name": "Giếng Trời",
+  "originName": "Skylight",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/96dfb261c684755d70d6e37a0c0e5b63.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/f6eaec1d1c6dcce34224501bc2945d36.jpg",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đài Loan",
+      "slug": "dai-loan"
+    }
+  ],
+  "description": "Haru là một chàng trai đồng tính trẻ tuổi sống cùng mẹ trong thị trấn, nơi cuộc sống của anh tuy bình lặng nhưng đầy u ám. Một ngày nọ, anh gặp một người đàn ông bí ẩn, Leo, và sau một đêm ngắn ngủi bên nhau, nỗi khao khát và bất an sâu thẳm trong Haru bắt đầu nở rộ trong thế giới khép kín của anh.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/wfVZhF4S/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/wfVZhF4S/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "gieng-troi",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

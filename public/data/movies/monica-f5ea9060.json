@@ -1,0 +1,34 @@
+{
+  "id": "monica-f5ea9060",
+  "source": "nguonc",
+  "slug": "monica",
+  "name": "Monica",
+  "originName": "Monica",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/nOJRVPbIuKqE3Fen4Kn0Iiap2Pf.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/djaUOUGkHSHBMSBjDvvuiDoFBdU.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Monica - một người phụ nữ chuyển giới, cô trở về chăm mẹ bệnh nặng sau nhiều năm bị gia đình từ mặt. Nhưng mẹ lại không nhận ra, cô phải giấu đi thân phận, chăm sóc bà và đối diện nỗi đau bị chối bỏ.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=1e1c152ba5daf318c8217fbef0ec5346",
+      "m3u8Url": "https://sing.phimmoi.net/1e1c152ba5daf318c8217fbef0ec5346/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "monica",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

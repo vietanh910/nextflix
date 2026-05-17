@@ -1,0 +1,51 @@
+{
+  "id": "au-bout-de-la-nuit-2022-7d313587",
+  "source": "ophim",
+  "slug": "lu-khach-cuoi-dem-dai",
+  "name": "Lữ Khách: Cuối Đêm Dài",
+  "originName": "Au bout de la nuit",
+  "posterUrl": "",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/lu-khach-cuoi-dem-dai-thumb.jpg",
+  "year": 2022,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (1/1)",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8e958e9a4d44b87aeb02e489dc7c48ec",
+      "m3u8Url": "https://vip.opstream90.com/20260425/30220_8e958e9a/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "lu-khach-cuoi-dem-dai",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

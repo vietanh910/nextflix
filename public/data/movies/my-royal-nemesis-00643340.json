@@ -1,0 +1,58 @@
+{
+  "id": "my-royal-nemesis-00643340",
+  "source": "nguonc",
+  "slug": "ke-thu-hoang-gia-cua-toi",
+  "name": "Kẻ thù hoàng gia của tôi",
+  "originName": "My Royal Nemesis",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/6/ke-thu-hoang-gia-cua-toi-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/ke-thu-hoang-gia-cua-toi.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 4",
+  "categories": [],
+  "countries": [],
+  "description": "Một ác nữ thời Joseon bị ban chết bỗng tỉnh dậy ở Seoul thời hiện đại. Tại đó, một người thừa kế tập đoàn tài phiệt tàn nhẫn có thể là cơ hội cuối để cô thay đổi số phận của mình.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=2ac2f673d5a9e3076b4d977bc4436dc5",
+      "m3u8Url": "https://sing.phimmoi.net/2ac2f673d5a9e3076b4d977bc4436dc5/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=16cb6873f18f2e4d4d62fbf91239f3b0",
+      "m3u8Url": "https://sing.phimmoi.net/16cb6873f18f2e4d4d62fbf91239f3b0/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=ee60b76d68be81f6b6610da7064b6afa",
+      "m3u8Url": "https://sing.phimmoi.net/ee60b76d68be81f6b6610da7064b6afa/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=7746f8dc23726ebc2e20cdb02dc7608a",
+      "m3u8Url": "https://sing.phimmoi.net/7746f8dc23726ebc2e20cdb02dc7608a/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "ke-thu-hoang-gia-cua-toi",
+      "episodeCount": 4,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

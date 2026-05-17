@@ -2,8 +2,153 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 7,
   "items": [
+    {
+      "id": "balls-up-2026-34b68dd6",
+      "source": "ophim",
+      "slug": "balls-up",
+      "name": "Balls Up",
+      "originName": "Balls Up",
+      "posterUrl": "https://img.ophim.live/uploads/movies/balls-up-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/balls-up-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "quieres-ser-mi-novia-2026-e80a4274",
+      "source": "ophim",
+      "slug": "ban-co-muon-lam-ban-gai-cua-toi-khong",
+      "name": "Bạn có muốn làm bạn gái của tôi không?",
+      "originName": "¿Quieres ser mi novia?",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ban-co-muon-lam-ban-gai-cua-toi-khong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ban-co-muon-lam-ban-gai-cua-toi-khong-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mexico",
+          "slug": "mexico"
+        }
+      ]
+    },
+    {
+      "id": "roommates-2026-beae4f89",
+      "source": "ophim",
+      "slug": "ban-cung-phong-2026",
+      "name": "Bạn Cùng Phòng",
+      "originName": "Roommates",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ban-cung-phong-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ban-cung-phong-2026-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "beef-season-2-2026-60a2f4ea",
+      "source": "ophim",
+      "slug": "bat-hoa-phan-2",
+      "name": "Bất hòa (Phần 2)",
+      "originName": "BEEF (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bat-hoa-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bat-hoa-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "widow-s-bay-2026-2f767d23",
+      "source": "ophim",
+      "slug": "bi-an-thi-tran-widows-bay",
+      "name": "Bí Ẩn Thị Trấn Widow's Bay",
+      "originName": "Widow's Bay",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bi-an-thi-tran-widows-bay-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bi-an-thi-tran-widows-bay-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
     {
       "id": "the-wonderfools-2026-19c319a0",
       "source": "ophim",
@@ -50,35 +195,221 @@
       ]
     },
     {
-      "id": "yumi-s-cells-season-3-2026-64a32f72",
-      "source": "phimapi",
-      "slug": "cac-te-bao-cua-yumi-phan-3",
-      "name": "Các Tế Bào Của Yumi (Phần 3)",
-      "originName": "Yumi's Cells (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/9bdab524f98b5904ac478b03c17853b3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/57f28e5e6d6399e53687174216c67bf6.jpg",
+      "id": "dandelion-2026-390ef752",
+      "source": "ophim",
+      "slug": "bo-cong-anh",
+      "name": "Bồ Công Anh",
+      "originName": "Dandelion",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bo-cong-anh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bo-cong-anh-thumb.jpg",
       "year": 2026,
-      "type": "series",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Hoàn tất (7/7)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "bapa-mentuaku-mafia-2026-65de4527",
+      "source": "ophim",
+      "slug": "bo-vo-toi-la-mafia",
+      "name": "Bố Vợ Tôi Là Mafia",
+      "originName": "bapa mentuaku mafia",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bo-vo-toi-la-mafia-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bo-vo-toi-la-mafia-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
+        }
+      ]
+    },
+    {
+      "id": "the-pout-pout-fish-2026-d2befe3c",
+      "source": "ophim",
+      "slug": "ca-con-cau-co",
+      "name": "Cá Con Cau Có",
+      "originName": "The Pout-Pout Fish",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ca-con-cau-co-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ca-con-cau-co-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "yumi-s-cells-season-3-2026-791ab5dc",
+      "source": "ophim",
+      "slug": "cac-te-bao-cua-yumi-phan-3",
+      "name": "Các Tế Bào Của Yumi (Phần 3)",
+      "originName": "Yumi's Cells (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cac-te-bao-cua-yumi-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cac-te-bao-cua-yumi-phan-3-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-practical-guide-to-l-2026-8aa5500d",
+      "source": "ophim",
+      "slug": "cam-nang-yeu",
+      "name": "Cẩm Nang Yêu",
+      "originName": "The Practical Guide to Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cam-nang-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cam-nang-yeu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "thank-you-next-season-3-2026-06f4f285",
+      "source": "ophim",
+      "slug": "cam-on-moi-nguoi-tiep-theo-phan-3",
+      "name": "Cảm ơn, mời người tiếp theo! (Phần 3)",
+      "originName": "Thank You, Next (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cam-on-moi-nguoi-tiep-theo-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cam-on-moi-nguoi-tiep-theo-phan-3-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "they-will-kill-you-2026-32dcb576",
+      "source": "ophim",
+      "slug": "chung-se-doat-mang",
+      "name": "Chúng Sẽ Đoạt Mạng",
+      "originName": "They Will Kill You",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chung-se-doat-mang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chung-se-doat-mang-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Nam Phi",
+          "slug": "nam-phi"
         }
       ]
     },
@@ -108,46 +439,17 @@
       ]
     },
     {
-      "id": "sold-out-on-you-2026-2feae575",
+      "id": "the-miniature-wife-2026-77fab571",
       "source": "ophim",
-      "slug": "hom-nay-lai-ban-het",
-      "name": "Hôm Nay Lại Bán Hết",
-      "originName": "Sold Out on You",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hom-nay-lai-ban-het-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hom-nay-lai-ban-het-thumb.jpg",
+      "slug": "co-vo-ti-hon",
+      "name": "Cô Vợ Tí Hon",
+      "originName": "The Miniature Wife",
+      "posterUrl": "https://img.ophim.live/uploads/movies/co-vo-ti-hon-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/co-vo-ti-hon-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "hacks-season-5-2026-1a9a0053",
-      "source": "ophim",
-      "slug": "huyen-thoai-lang-hai-phan-5",
-      "name": "Huyền Thoại Làng Hài (Phần 5)",
-      "originName": "Hacks (Season 5)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-lang-hai-phan-5-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-lang-hai-phan-5-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -166,17 +468,145 @@
       ]
     },
     {
-      "id": "no-place-to-be-single-2026-cc5425d7",
+      "id": "son-in-law-2026-e87c00c8",
       "source": "ophim",
-      "slug": "khong-co-noi-nao-de-o-mot-minh",
-      "name": "Không có nơi nào để ở một mình",
-      "originName": "No Place to Be Single",
-      "posterUrl": "https://img.ophim.live/uploads/movies/khong-co-noi-nao-de-o-mot-minh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/khong-co-noi-nao-de-o-mot-minh-thumb.jpg",
+      "slug": "con-re",
+      "name": "Con Rể",
+      "originName": "Son-in-Law",
+      "posterUrl": "https://img.ophim.live/uploads/movies/con-re-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/con-re-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mexico",
+          "slug": "mexico"
+        }
+      ]
+    },
+    {
+      "id": "recipe-for-love-2026-fae87879",
+      "source": "ophim",
+      "slug": "cong-thuc-tinh-yeu",
+      "name": "Công Thức Tình Yêu",
+      "originName": "Recipe For Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cong-thuc-tinh-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cong-thuc-tinh-yeu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 26",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-drama-2026-841bb73e",
+      "source": "ophim",
+      "slug": "cu-soc",
+      "name": "Cú Sốc",
+      "originName": "The Drama",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cu-soc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cu-soc-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "swapped-2026-b501cd5e",
+      "source": "ophim",
+      "slug": "cuoc-phieu-luu-bien-hoa",
+      "name": "Cuộc phiêu lưu biến hóa",
+      "originName": "Swapped",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-phieu-luu-bien-hoa-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-phieu-luu-bien-hoa-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
+      "id": "alpha-males-season-5-2026-326b4e50",
+      "source": "ophim",
+      "slug": "dan-ong-la-the-phan-5",
+      "name": "Đàn ông là thế (Phần 5)",
+      "originName": "Alpha Males (Season 5)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dan-ong-la-the-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dan-ong-la-the-phan-5-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -185,23 +615,126 @@
       ],
       "countries": [
         {
-          "name": "Ý",
-          "slug": "y"
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
         }
       ]
     },
     {
-      "id": "r-j-decker-2026-6aa80687",
+      "id": "always-a-catch-2026-618d7c99",
       "source": "ophim",
-      "slug": "rj-decker",
-      "name": "Thám Tử R.J. Decker",
-      "originName": "R.J. Decker",
-      "posterUrl": "https://img.ophim.live/uploads/movies/rj-decker-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/rj-decker-thumb.jpg",
+      "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
+      "name": "Để xổng mất là cá to, nhưng cá tôi câu được lại còn to hơn",
+      "originName": "Always a Catch!",
+      "posterUrl": "https://img.ophim.live/uploads/movies/de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "vaa-vaathiyaar-2026-ece4daef",
+      "source": "ophim",
+      "slug": "den-day-nao-thay-giao",
+      "name": "Đến Đây Nào Thầy Giáo",
+      "originName": "Vaa Vaathiyaar",
+      "posterUrl": "https://img.ophim.live/uploads/movies/den-day-nao-thay-giao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/den-day-nao-thay-giao-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "dorohedoro-season-2-2026-38b7e537",
+      "source": "ophim",
+      "slug": "di-thu-ma-do-phan-2",
+      "name": "Dị thú ma đô (Phần 2)",
+      "originName": "Dorohedoro (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/di-thu-ma-do-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/di-thu-ma-do-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "flunked-2026-1bb2ed8b",
+      "source": "ophim",
+      "slug": "truot",
+      "name": "Điệp Vụ Giáo Viên",
+      "originName": "Flunked",
+      "posterUrl": "https://img.ophim.live/uploads/movies/truot-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/truot-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -210,170 +743,12 @@
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "xiang-xu-ji-2026-d1aead4f",
-      "source": "ophim",
-      "slug": "tuong-tu-ky",
-      "name": "Tường Tự Ký",
-      "originName": "Xiang Xu Ji",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tuong-tu-ky-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tuong-tu-ky-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "cannibal-mukbang-2025-0824b4a2",
-      "source": "ophim",
-      "slug": "cannibal-mukbang",
-      "name": "Cannibal Mukbang",
-      "originName": "Cannibal Mukbang",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cannibal-mukbang-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cannibal-mukbang-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "chef-my-fridge-season-2-2024-80209b5c",
-      "source": "ophim",
-      "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
-      "name": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
-      "originName": "Chef & My Fridge (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cham-soc-tu-lanh-cua-toi-nhe-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cham-soc-tu-lanh-cua-toi-nhe-phan-2-thumb.jpg",
-      "year": 2024,
-      "type": "tvshow",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 66",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-9-2017-2c6d6c66",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-9",
-      "name": "Gia đình Heck (Phần 9)",
-      "originName": "The Middle (Season 9)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-9-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-9-thumb.jpg",
-      "year": 2017,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-8-2016-fa5c055c",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-8",
-      "name": "Gia đình Heck (Phần 8)",
-      "originName": "The Middle (Season 8)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-8-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-8-thumb.jpg",
-      "year": 2016,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-7-2015-60223bcb",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-7",
-      "name": "Gia đình Heck (Phần 7)",
-      "originName": "The Middle (Season 7)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-7-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-7-thumb.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     }

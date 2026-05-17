@@ -1,158 +1,208 @@
 {
-  "updatedAt": "2026-05-15T11:44:42.592Z",
-  "totalMovies": 100,
+  "updatedAt": "2026-05-17T06:18:00.238Z",
+  "totalMovies": 1756,
   "bySource": {
-    "ophim": 39,
-    "phimapi": 13,
-    "nguonc": 10,
-    "animapper": 38
+    "ophim": 451,
+    "phimapi": 144,
+    "animapper": 962,
+    "nguonc": 199
   },
   "byType": {
-    "tvshow": 3,
-    "series": 30,
-    "anime": 44,
-    "unknown": 10,
-    "single": 13
+    "single": 230,
+    "tvshow": 8,
+    "series": 241,
+    "anime": 1079,
+    "unknown": 198
   },
   "byStatus": {
-    "ongoing": 28,
-    "completed": 12,
-    "unknown": 60
+    "completed": 365,
+    "ongoing": 178,
+    "unknown": 1213
   },
   "byCategory": [
     {
       "slug": "khac",
       "name": "Khac",
-      "count": 40
+      "count": 1035
     },
     {
       "slug": "chinh-kich",
       "name": "Chính kịch",
-      "count": 29
+      "count": 322
     },
     {
       "slug": "hai-huoc",
       "name": "Hài Hước",
-      "count": 13
-    },
-    {
-      "slug": "phieu-luu",
-      "name": "Phiêu Lưu",
-      "count": 10
-    },
-    {
-      "slug": "tam-ly",
-      "name": "Tâm Lý",
-      "count": 10
+      "count": 153
     },
     {
       "slug": "hanh-dong",
       "name": "Hành Động",
-      "count": 9
+      "count": 131
     },
     {
-      "slug": "tinh-cam",
-      "name": "Tình Cảm",
-      "count": 8
-    },
-    {
-      "slug": "hinh-su",
-      "name": "Hình Sự",
-      "count": 8
+      "slug": "phieu-luu",
+      "name": "Phiêu Lưu",
+      "count": 113
     },
     {
       "slug": "vien-tuong",
       "name": "Viễn Tưởng",
-      "count": 8
+      "count": 103
     },
     {
       "slug": "khoa-hoc",
       "name": "Khoa Học",
-      "count": 7
+      "count": 97
     },
     {
-      "slug": "action",
-      "name": "Action",
-      "count": 6
-    },
-    {
-      "slug": "bi-an",
-      "name": "Bí ẩn",
-      "count": 4
-    },
-    {
-      "slug": "co-trang",
-      "name": "Cổ Trang",
-      "count": 4
+      "slug": "tam-ly",
+      "name": "Tâm Lý",
+      "count": 79
     },
     {
       "slug": "comedy",
       "name": "Comedy",
-      "count": 4
+      "count": 65
     },
     {
-      "slug": "ecchi",
-      "name": "Ecchi",
-      "count": 4
+      "slug": "tinh-cam",
+      "name": "Tình Cảm",
+      "count": 61
     },
     {
-      "slug": "romance",
-      "name": "Romance",
-      "count": 4
+      "slug": "hinh-su",
+      "name": "Hình Sự",
+      "count": 60
+    },
+    {
+      "slug": "bi-an",
+      "name": "Bí ẩn",
+      "count": 56
+    },
+    {
+      "slug": "action",
+      "name": "Action",
+      "count": 50
+    },
+    {
+      "slug": "gia-dinh",
+      "name": "Gia Đình",
+      "count": 34
     },
     {
       "slug": "kinh-di",
       "name": "Kinh Dị",
-      "count": 4
-    },
-    {
-      "slug": "supernatural",
-      "name": "Supernatural",
-      "count": 3
-    },
-    {
-      "slug": "fantasy",
-      "name": "Fantasy",
-      "count": 3
-    },
-    {
-      "slug": "sci-fi",
-      "name": "Sci-Fi",
-      "count": 2
-    },
-    {
-      "slug": "tai-lieu",
-      "name": "Tài Liệu",
-      "count": 2
+      "count": 34
     },
     {
       "slug": "slice-of-life",
       "name": "Slice of Life",
-      "count": 2
+      "count": 34
+    },
+    {
+      "slug": "fantasy",
+      "name": "Fantasy",
+      "count": 30
+    },
+    {
+      "slug": "tai-lieu",
+      "name": "Tài Liệu",
+      "count": 28
+    },
+    {
+      "slug": "supernatural",
+      "name": "Supernatural",
+      "count": 25
+    },
+    {
+      "slug": "sci-fi",
+      "name": "Sci-Fi",
+      "count": 24
+    },
+    {
+      "slug": "romance",
+      "name": "Romance",
+      "count": 23
+    },
+    {
+      "slug": "adventure",
+      "name": "Adventure",
+      "count": 19
     },
     {
       "slug": "drama",
       "name": "Drama",
-      "count": 1
+      "count": 16
     },
     {
-      "slug": "mecha",
-      "name": "Mecha",
-      "count": 1
-    },
-    {
-      "slug": "psychological",
-      "name": "Psychological",
-      "count": 1
+      "slug": "ecchi",
+      "name": "Ecchi",
+      "count": 13
     },
     {
       "slug": "horror",
       "name": "Horror",
-      "count": 1
+      "count": 11
     },
     {
       "slug": "mystery",
       "name": "Mystery",
+      "count": 11
+    },
+    {
+      "slug": "co-trang",
+      "name": "Cổ Trang",
+      "count": 8
+    },
+    {
+      "slug": "psychological",
+      "name": "Psychological",
+      "count": 8
+    },
+    {
+      "slug": "music",
+      "name": "Music",
+      "count": 8
+    },
+    {
+      "slug": "vo-thuat",
+      "name": "Võ Thuật",
+      "count": 6
+    },
+    {
+      "slug": "mecha",
+      "name": "Mecha",
+      "count": 6
+    },
+    {
+      "slug": "sports",
+      "name": "Sports",
+      "count": 6
+    },
+    {
+      "slug": "thriller",
+      "name": "Thriller",
+      "count": 4
+    },
+    {
+      "slug": "mahou-shoujo",
+      "name": "Mahou Shoujo",
+      "count": 4
+    },
+    {
+      "slug": "short-drama",
+      "name": "Short Drama",
+      "count": 3
+    },
+    {
+      "slug": "chien-tranh",
+      "name": "Chiến Tranh",
+      "count": 2
+    },
+    {
+      "slug": "am-nhac",
+      "name": "Âm Nhạc",
       "count": 1
     }
   ]

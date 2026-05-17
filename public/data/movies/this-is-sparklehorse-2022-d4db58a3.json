@@ -1,0 +1,47 @@
+{
+  "id": "this-is-sparklehorse-2022-d4db58a3",
+  "source": "ophim",
+  "slug": "tia-sang-tuyet-dep",
+  "name": "Tia Sáng Tuyệt Đẹp",
+  "originName": "This Is Sparklehorse",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tia-sang-tuyet-dep-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tia-sang-tuyet-dep-thumb.jpg",
+  "year": 2022,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Bộ phim mang đến cái nhìn toàn diện về cuộc đời và âm nhạc của Mark Linkous, một nhân vật có ảnh hưởng trong làng nhạc alternative. Linkous, người được giới phê bình đánh giá cao, đã trải qua một cuộc đời đầy biến động với chứng nghiện ma túy và rượu, chứng liệt và chứng trầm cảm nặng nề dẫn đến việc tự tử. Âm nhạc của Mark được cả giới chuyên môn và giới phê bình ca ngợi; sự pha trộn giữa nhạc pop tinh tế, punk gai góc và những giai điệu du dương; nó được mô tả là mang đậm chất siêu thực với đủ loại hình ảnh liên tưởng đến những em bé đang cười, tiếng đàn organ, chim chóc và các thiên thể. Bộ phim khai thác cuộc đời và âm nhạc của Mark, đồng thời khắc họa những hy sinh, thăng trầm trong sự nghiệp nghệ thuật của anh.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/01584ecac98696299889eaf9999e1b7b",
+      "m3u8Url": "https://vip.opstream90.com/20260425/30234_01584eca/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tia-sang-tuyet-dep",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "id": "the-enchanting-cranium-m-2026-a6047f8b",
+  "source": "ophim",
+  "slug": "lieu-trai-my-nhan-thu",
+  "name": "Liêu Trai: Mỹ Nhân Thủ",
+  "originName": "The Enchanting Cranium Mystery",
+  "posterUrl": "https://img.ophim.live/uploads/movies/lieu-trai-my-nhan-thu-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/lieu-trai-my-nhan-thu-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Câu chuyện về thiếu nữ dũng cảm và thông minh A Nguyệt đến nhà trọ Duyệt Lai. Cô lấy danh nghĩa tổ chức tiệc Trung Thu để tập hợp tất cả những người liên quan đến vụ án \"thủy quái giết người\" xảy ra ba năm trước, khéo léo bày kế tìm ra hung thủ đã hại chết chị gái A Ly của mình năm đó. Cuối cùng cô phá bỏ mê tín, bảo vệ chính nghĩa.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b1655d34c2c61209de20e71d9a2dc66f",
+      "m3u8Url": "https://vip.opstream90.com/20260427/30341_b1655d34/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "lieu-trai-my-nhan-thu",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

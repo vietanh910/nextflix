@@ -1,0 +1,55 @@
+{
+  "id": "agent-recon-2025-77f7681e",
+  "source": "phimapi",
+  "slug": "dac-vu-trinh-sat",
+  "name": "Đặc Vụ Trinh Sát",
+  "originName": "Agent Recon",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/2573e0b02953c993b3041423ec2f6644.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/2232e7ce0c1e55a2830e0019a11532f9.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Một đội đặc nhiệm quân sự bí mật theo dõi một nhiễu loạn năng lượng bí ẩn tại một căn cứ bí mật ở New Mexico, nơi bị nghi ngờ đang thử nghiệm công nghệ ngoài hành tinh. Tại đây, cả đội chạm trán một sinh vật bí ẩn sở hữu sức mạnh và tốc độ phi thường, cùng khả năng điều khiển một đội quân chiến binh vô tri. Bộ ba phải chiến đấu chống lại lũ quái vật hung hãn để ngăn chặn sự diệt vong của nhân loại.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/MZsSXq8G/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/MZsSXq8G/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "dac-vu-trinh-sat",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

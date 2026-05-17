@@ -1,0 +1,51 @@
+{
+  "id": "marriage-bites-2025-72b920c4",
+  "source": "ophim",
+  "slug": "marriage-bites",
+  "name": "Marriage Bites",
+  "originName": "Marriage Bites",
+  "posterUrl": "https://img.ophim.live/uploads/movies/marriage-bites-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/marriage-bites-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Trong nỗ lực hàn gắn cuộc hôn nhân đã nguội lạnh, Martin và Linda phải đối mặt với thử thách bất ngờ khi Martin bị ma cà rồng cắn, dẫn đến việc họ phải kiểm chứng các giả thuyết về ma cà rồng và bảo vệ thị trấn của mình khỏi thây ma.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/6a46fc9cf2e83b10c15f61db3e777148",
+      "m3u8Url": "https://vip.opstream12.com/20260416/32657_6a46fc9c/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "marriage-bites",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

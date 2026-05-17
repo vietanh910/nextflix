@@ -1,0 +1,55 @@
+{
+  "id": "street-trash-2025-c59e4c91",
+  "source": "ophim",
+  "slug": "rac-duong-pho",
+  "name": "Rác Đường Phố",
+  "originName": "Street Trash",
+  "posterUrl": "https://img.ophim.live/uploads/movies/rac-duong-pho-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/rac-duong-pho-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Nam Phi",
+      "slug": "nam-phi"
+    }
+  ],
+  "description": "<p>Một nhóm người vô gia cư lạc loài phải chiến đấu để sinh tồn khi họ phát hiện ra một âm mưu nhằm tiêu diệt tất cả những người vô gia cư trong thành phố.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/6508deb7d1b89059767d5af370618046",
+      "m3u8Url": "https://vip.opstream12.com/20260425/32671_6508deb7/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "rac-duong-pho",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

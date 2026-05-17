@@ -1,0 +1,47 @@
+{
+  "id": "if-in-doubt-2024-2ee5ab85",
+  "source": "phimapi",
+  "slug": "neu-do-du",
+  "name": "Nếu Do Dự",
+  "originName": "If In Doubt",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/93a932b655d4b5458d56f661bddf6f8a.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/6143530d8f4a01ad99179894935a4b5c.jpg",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Philippines",
+      "slug": "philippines"
+    }
+  ],
+  "description": "Trong khi một sinh viên đại học mắc chứng lo lắng về mặt xã hội đang gặp khó khăn trong việc tìm cảm hứng cho bức tranh luận án của mình, anh ta gặp một người lạ trong một cuộc gặp gỡ tình cờ và một mối liên kết bất ngờ nảy nở giữa họ.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/yYgNDxqK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/yYgNDxqK/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "neu-do-du",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,82 @@
+{
+  "id": "hometown-romance-e34ddfcc",
+  "source": "nguonc",
+  "slug": "nguoi-yeu-mien-que",
+  "name": "Người Yêu Miền Quê",
+  "originName": "Hometown Romance",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/8/nguoi-yeu-mien-que-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/nguoi-yeu-mien-que.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 7",
+  "categories": [],
+  "countries": [],
+  "description": "Si, một tiểu thư thuộc tầng lớp thượng lưu, luôn mơ ước trở thành chủ tịch công ty gia đình. Tuy nhiên, cha mẹ cô lại trao vị trí này cho em gái, vì cho rằng Si quá nuông chiều và thiếu trách nhiệm, tiêu xài hàng triệu mà không cần suy nghĩ. Khi công việc kinh doanh của gia đình rơi vào khủng hoảng liên quan đến việc gia hạn thuê một khu đất quan trọng, các cuộc đàm phán đều thất bại—cho đến khi Klaokavee, chủ sở hữu khu đất, đưa ra một đề nghị kỳ lạ: cô sẽ đồng ý gia hạn hợp đồng, nhưng với điều kiện Si phải kết hôn với mình. Dù có lối sống hoàn toàn trái ngược, thỏa thuận kỳ lạ này đã đưa cả hai vào một mối quan hệ bất ngờ và đầy phức tạp.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=b5fc08be929de7e5bf0e6a152728c888",
+      "m3u8Url": "https://sing.phimmoi.net/b5fc08be929de7e5bf0e6a152728c888/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=4da879420cf8ef746cf64dbdefdf4151",
+      "m3u8Url": "https://sing.phimmoi.net/4da879420cf8ef746cf64dbdefdf4151/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=cd888b9aa4ec4548c973454a6c07c544",
+      "m3u8Url": "https://sing.phimmoi.net/cd888b9aa4ec4548c973454a6c07c544/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=1574bb17e2f0e3e2c41b3df56692f745",
+      "m3u8Url": "https://sing.phimmoi.net/1574bb17e2f0e3e2c41b3df56692f745/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=a88743099f71653756298731b31c98f9",
+      "m3u8Url": "https://sing.phimmoi.net/a88743099f71653756298731b31c98f9/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=60a97998b884781a10a41eafe0348265",
+      "m3u8Url": "https://sing.phimmoi.net/60a97998b884781a10a41eafe0348265/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=ef7e79272ca5457e0aa6ccbb79ad5896",
+      "m3u8Url": "https://sing.phimmoi.net/ef7e79272ca5457e0aa6ccbb79ad5896/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "nguoi-yeu-mien-que",
+      "episodeCount": 7,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

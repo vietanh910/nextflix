@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 28",
+  "episodeCurrent": "Tập 29",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -257,13 +257,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/OnVtmAZ0/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260515/OnVtmAZ0/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/snIYmvHN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/snIYmvHN/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nguoc-duong-nguoc-nang",
-      "episodeCount": 28,
+      "episodeCount": 29,
       "priority": 1
     }
   ],

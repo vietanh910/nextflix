@@ -1,0 +1,74 @@
+{
+  "id": "kill-blue-a92b7d4f",
+  "source": "nguonc",
+  "slug": "kill-ao",
+  "name": "Kill Ao",
+  "originName": "Kill Blue",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/2/kill-ao-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/2/kill-ao.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 6",
+  "categories": [],
+  "countries": [],
+  "description": "Juzo Ogami, một sát thủ huyền thoại 39 tuổi chưa bao giờ thất bại trong bất kỳ nhiệm vụ nào. Một ngày nọ, sau khi bị trúng độc, anh đột nhiên bị biến thành cơ thể của một học sinh trung học và phải bắt đầu lại cuộc đời tại trường học trong khi vẫn phải đối đầu với các tổ chức sát thủ.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=5692c564624a6a5dc48fe8ee8c0cbff2",
+      "m3u8Url": "https://sing.phimmoi.net/5692c564624a6a5dc48fe8ee8c0cbff2/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=b32e7ca157e12a338c609adcb2e46bcf",
+      "m3u8Url": "https://sing.phimmoi.net/b32e7ca157e12a338c609adcb2e46bcf/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=8aeafcebd167f1c0c886e8247f9cb625",
+      "m3u8Url": "https://sing.phimmoi.net/8aeafcebd167f1c0c886e8247f9cb625/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=e892b0f69fca69bc126fad8ce98af55b",
+      "m3u8Url": "https://sing.phimmoi.net/e892b0f69fca69bc126fad8ce98af55b/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=4a983a040b007f7a067f4477cfc7e630",
+      "m3u8Url": "https://sing.phimmoi.net/4a983a040b007f7a067f4477cfc7e630/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=96180ea3a43de759cb9adafd41ab1002",
+      "m3u8Url": "https://sing.phimmoi.net/96180ea3a43de759cb9adafd41ab1002/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "kill-ao",
+      "episodeCount": 6,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

@@ -2,8 +2,325 @@
   "slug": "bi-an",
   "name": "Bí ẩn",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 3,
   "items": [
+    {
+      "id": "tagusari-bros-2026-e4f56387",
+      "source": "ophim",
+      "slug": "tagusari-bros",
+      "name": "Anh Em Nhà Tagusari",
+      "originName": "TAGUSARI bros.",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tagusari-bros-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tagusari-bros-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "unpredictable-2026-7427c0f5",
+      "source": "ophim",
+      "slug": "anh-vu-2026",
+      "name": "Anh Vũ",
+      "originName": "Unpredictable",
+      "posterUrl": "https://img.ophim.live/uploads/movies/anh-vu-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/anh-vu-2026-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (16/16)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "doctor-shin-2026-43aef4a8",
+      "source": "ophim",
+      "slug": "bac-si-shin",
+      "name": "Bác Sĩ Shin",
+      "originName": "Doctor Shin",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bac-si-shin-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bac-si-shin-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "widow-s-bay-2026-2f767d23",
+      "source": "ophim",
+      "slug": "bi-an-thi-tran-widows-bay",
+      "name": "Bí Ẩn Thị Trấn Widow's Bay",
+      "originName": "Widow's Bay",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bi-an-thi-tran-widows-bay-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bi-an-thi-tran-widows-bay-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "brothers-under-fire-2026-f1ca5a8a",
+      "source": "ophim",
+      "slug": "brothers-under-fire",
+      "name": "Brothers Under Fire",
+      "originName": "Brothers Under Fire",
+      "posterUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-scarecrow-2026-8c7c414e",
+      "source": "ophim",
+      "slug": "bu-nhin-bong-dem",
+      "name": "Bù Nhìn Bóng Đêm",
+      "originName": "The Scarecrow",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bu-nhin-bong-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bu-nhin-bong-dem-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "stranger-things-tales-fr-2026-9f58e266",
+      "source": "ophim",
+      "slug": "cau-be-mat-tich-chuyen-nam-85",
+      "name": "Cậu bé mất tích: Chuyện năm 85",
+      "originName": "Stranger Things: Tales from '85",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-chuyen-nam-85-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-chuyen-nam-85-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "classroom-of-the-elite-s-2026-9c495d99",
+      "source": "ophim",
+      "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+      "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+      "originName": "Classroom of the Elite (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "red-eye-season-2-2026-888ff2fd",
+      "source": "ophim",
+      "slug": "chuyen-bay-dem-phan-2",
+      "name": "Chuyến Bay Đêm (Phần 2)",
+      "originName": "Red Eye (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-dem-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-dem-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
     {
       "id": "the-terror-season-3-2026-87c13977",
       "source": "ophim",
@@ -42,18 +359,121 @@
       ]
     },
     {
-      "id": "inevitable-justice-2026-6febb1fc",
+      "id": "girl-from-nowhere-the-re-2026-943c0e0b",
       "source": "ophim",
-      "slug": "tron-khong-thoat-toi",
-      "name": "Trốn Không Thoát Tội",
-      "originName": "Inevitable Justice",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tron-khong-thoat-toi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tron-khong-thoat-toi-thumb.jpg",
+      "slug": "co-gai-den-tu-hu-vo-tai-khoi-dong",
+      "name": "Cô Gái Đến Từ Hư Vô: Tái Khởi Động",
+      "originName": "Girl from Nowhere: The Reset",
+      "posterUrl": "https://img.ophim.live/uploads/movies/co-gai-den-tu-hu-vo-tai-khoi-dong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/co-gai-den-tu-hu-vo-tai-khoi-dong-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "if-wishes-could-kill-2026-a45b3c54",
+      "source": "ophim",
+      "slug": "dieu-uoc-doat-mang",
+      "name": "Điều Ước Đoạt Mạng",
+      "originName": "If Wishes Could Kill",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dieu-uoc-doat-mang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dieu-uoc-doat-mang-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-sheep-detectives-2026-c85ebf83",
+      "source": "ophim",
+      "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
+      "name": "Đội Thám Tử Cừu: Án Mạng Lúc Nửa Đêm",
+      "originName": "The Sheep Detectives",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "light-to-the-night-2026-03bf1748",
+      "source": "ophim",
+      "slug": "hac-da-cao-bach",
+      "name": "Hắc Dạ Cáo Bạch",
+      "originName": "Light to the Night",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hac-da-cao-bach-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hac-da-cao-bach-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 13",
       "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
         {
           "name": "Bí ẩn",
           "slug": "bi-an"
@@ -63,6 +483,134 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "kaya-chan-isn-t-scary-2026-088b50a2",
+      "source": "ophim",
+      "slug": "kaya-chan-khong-dang-so",
+      "name": "Kaya-chan Không Hề Đáng Sợ",
+      "originName": "Kaya-chan Isn't Scary",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kaya-chan-khong-dang-so-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kaya-chan-khong-dang-so-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-whistler-2026-91813643",
+      "source": "ophim",
+      "slug": "ke-huyt-sao",
+      "name": "Kẻ Huýt Sáo",
+      "originName": "The Whistler",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-huyt-sao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-huyt-sao-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Colombia",
+          "slug": "colombia"
+        }
+      ]
+    },
+    {
+      "id": "reverse-2026-da0ab72d",
+      "source": "ophim",
+      "slug": "ke-thu-chung-giuong",
+      "name": "Kẻ Thù Chung Giường",
+      "originName": "Reverse",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-thu-chung-giuong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-thu-chung-giuong-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "remarkably-bright-creatu-2026-3dbdafca",
+      "source": "ophim",
+      "slug": "ky-vat-vo-gia",
+      "name": "Kỷ vật vô giá",
+      "originName": "Remarkably Bright Creatures",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ky-vat-vo-gia-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ky-vat-vo-gia-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -92,39 +640,167 @@
       ]
     },
     {
-      "id": "big-mouth-2022-7d8e7e69",
-      "source": "phimapi",
-      "slug": "big-mouth",
-      "name": "Big Mouth",
-      "originName": "Big Mouth",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/df0d73908c09da82d237bf36fea4b21c.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/a45004295a2c2a58bab127ccb486674e.jpg",
-      "year": 2022,
-      "type": "series",
+      "id": "the-enchanting-cranium-m-2026-a6047f8b",
+      "source": "ophim",
+      "slug": "lieu-trai-my-nhan-thu",
+      "name": "Liêu Trai: Mỹ Nhân Thủ",
+      "originName": "The Enchanting Cranium Mystery",
+      "posterUrl": "https://img.ophim.live/uploads/movies/lieu-trai-my-nhan-thu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/lieu-trai-my-nhan-thu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Bí Ẩn",
+          "name": "Bí ẩn",
           "slug": "bi-an"
-        },
+        }
+      ],
+      "countries": [
         {
-          "name": "Chính Kịch",
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "loved-one-2026-04f2297a",
+      "source": "ophim",
+      "slug": "loved-one",
+      "name": "LOVED ONE",
+      "originName": "LOVED ONE",
+      "posterUrl": "https://img.ophim.live/uploads/movies/loved-one-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/loved-one-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Chính kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "phantom-lawyer-2026-a1e3887a",
+      "source": "ophim",
+      "slug": "luat-su-bong-ma",
+      "name": "Luật Sư Bóng Ma",
+      "originName": "Phantom Lawyer",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luat-su-bong-ma-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luat-su-bong-ma-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (16/16)",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "man-on-fire-2026-38ff92e7",
+      "source": "ophim",
+      "slug": "nguoi-do-dan-2026",
+      "name": "Người Đỡ Đạn",
+      "originName": "Man on Fire",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-do-dan-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-do-dan-2026-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (7/7)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Mexico",
+          "slug": "mexico"
+        }
+      ]
+    },
+    {
+      "id": "imperfect-women-2026-039bdcd0",
+      "source": "ophim",
+      "slug": "nhung-nguoi-phu-nu-khong-hoan-hao",
+      "name": "Những Người Phụ Nữ Không Hoàn Hảo",
+      "originName": "Imperfect Women",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-nguoi-phu-nu-khong-hoan-hao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-nguoi-phu-nu-khong-hoan-hao-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

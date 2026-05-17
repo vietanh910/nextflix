@@ -1,0 +1,42 @@
+{
+  "id": "your-dear-daddy-ec2f9278",
+  "source": "nguonc",
+  "slug": "goi-dad-di-tharn",
+  "name": "Gọi Dad đi Tharn",
+  "originName": "Your Dear Daddy",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/8/goi-dad-di-tharn-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/goi-dad-di-tharn.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 2",
+  "categories": [],
+  "countries": [],
+  "description": "Saitharn buộc phải rời khỏi nhà, bắt đầu một hành trình để chứng minh bản thân. Mang theo những ước mơ và gánh nặng, anh đến Chiang Rai với hy vọng về một khởi đầu mới. Tình cờ, anh gặp Sila, người đàn ông trở thành chỗ dựa cho anh trong khoảng thời gian đầy đau đớn cả về thể xác lẫn tinh thần. Ở bên Sila, Saitharn dần chữa lành, học cách yêu từng chút một và cũng học cách cho phép bản thân được yêu. Khi mối quan hệ của họ ngày càng sâu sắc, Saitharn khám phá con người thật của Sila. Ẩn sau vẻ ngoài ẩn nhẫn là một tâm hồn dịu dàng đã từng bị tổn thương bởi sự phản bội từ những người anh tin tưởng. Trong một bước ngoặt của số phận, Saitharn trở thành người bảo vệ cho Sila. Saitharn không còn chờ đợi ai đó đến cứu mình mà nhận ra bản thân có đủ khả năng để chăm sóc những người mình yêu thương.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=f89618b15cb11981efa017fadb95409d",
+      "m3u8Url": "https://sing.phimmoi.net/f89618b15cb11981efa017fadb95409d/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=324582982a7c3720d13898d6198f13b3",
+      "m3u8Url": "https://sing.phimmoi.net/324582982a7c3720d13898d6198f13b3/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "goi-dad-di-tharn",
+      "episodeCount": 2,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

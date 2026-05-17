@@ -1,0 +1,51 @@
+{
+  "id": "lie-to-me-the-truth-2021-ea46467f",
+  "source": "phimapi",
+  "slug": "hay-noi-doi-toi-su-that",
+  "name": "Hãy Nói Dối Tôi Sự Thật",
+  "originName": "Lie To Me The Truth",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/04360cfc65aa7ee629e7ed07fe07f7bd.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/6e6aa4432b58c1d21b1349fefcfbc041.jpg",
+  "year": 2021,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nga",
+      "slug": "nga"
+    }
+  ],
+  "description": "Một cặp đôi đang yêu nhau dành thời gian tránh xa cuộc sống văn minh, nhưng sự xuất hiện đột ngột của cô em gái và sau đó là bạn trai cũ của cô gái đã phá vỡ sự yên bình nơi thôn quê.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/aOpIoBF1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/aOpIoBF1/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "hay-noi-doi-toi-su-that",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,47 @@
+{
+  "id": "suzuki-bakudan-2025-41f5abce",
+  "source": "ophim",
+  "slug": "boc-dan",
+  "name": "Bộc Đạn",
+  "originName": "Suzuki=Bakudan",
+  "posterUrl": "https://img.ophim.live/uploads/movies/boc-dan-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/boc-dan-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Một người đàn ông thất nghiệp tên là Suzuki bị cảnh sát bắt giữ sau khi đập phá một máy bán rượu tự động. Khi anh ta dự đoán chính xác hai vụ nổ bom và khẳng định vẫn còn nhiều quả bom khác, cảnh sát bắt đầu điều tra anh ta như một kẻ khủng bố. Tuy nhiên, Suzuki ban đầu tuyên bố mình biết về những quả bom thông qua khả năng ngoại cảm, sau đó lại khẳng định mình đã bị thôi miên để quên đi sự việc. Anh ta đưa ra những gợi ý về các quả bom bằng những câu đố trong khi chọc tức những người thẩm vấn, đặc biệt là thám tử kỳ cựu Kiyomiya và cấp dưới của ông là Ruike. Mọi chuyện dường như có liên quan đến một cảnh sát bị thất sủng tên là Hasebe, người đã tự sát sau một vụ bê bối nhiều năm trước. Nhưng liệu Suzuki thực sự là thủ phạm đứng sau những vụ nổ bom hay không?</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7f272b86ea4f734837b281ad960be2f7",
+      "m3u8Url": "https://vip.opstream90.com/20260504/30917_7f272b86/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "boc-dan",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

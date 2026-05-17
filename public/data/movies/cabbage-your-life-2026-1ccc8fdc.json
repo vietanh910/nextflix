@@ -1,0 +1,71 @@
+{
+  "id": "cabbage-your-life-2026-1ccc8fdc",
+  "source": "ophim",
+  "slug": "doi-cai-thao",
+  "name": "Đời Cải Thảo",
+  "originName": "Cabbage Your Life",
+  "posterUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Đời Cải Thảo xoay quanh gia đình Seong Tae Hun, những người đã rời bỏ cuộc sống thành phố nhộn nhịp ở Seoul để tìm kiếm sự bình yên ở Yeonriri, nhưng lại gặp khó khăn trong việc hòa nhập. Họ trải qua một hành trình hỗn loạn và đầy cảm xúc, vừa tìm kiếm cơ hội tái khởi động cuộc sống, vừa khám phá cách chữa lành cho tâm hồn.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/60c530d611f7017ba51093527ac1ee3d",
+      "m3u8Url": "https://vip.opstream90.com/20260404/28825_60c530d6/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1344a3156923aad025c100d7f845865e",
+      "m3u8Url": "https://vip.opstream90.com/20260404/28826_1344a315/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c86027cb65669a6bec290bd22c969f2d",
+      "m3u8Url": "https://vip.opstream90.com/20260426/30249_c86027cb/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "doi-cai-thao",
+      "episodeCount": 3,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

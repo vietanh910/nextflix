@@ -1,0 +1,71 @@
+{
+  "id": "godzilla-final-wars-2004-5271e017",
+  "source": "ophim",
+  "slug": "godzilla-final-wars",
+  "name": "Godzilla: Final Wars",
+  "originName": "Godzilla: Final Wars",
+  "posterUrl": "https://img.ophim.live/uploads/movies/godzilla-final-wars-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/godzilla-final-wars-thumb.jpg",
+  "year": 2004,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Úc",
+      "slug": "uc"
+    }
+  ],
+  "description": "<p>Dự án kỷ niệm 50 năm Godzilla, trong đó Gojira (Godzilla) du hành khắp thế giới để chiến đấu với những kẻ thù cũ của mình cùng một con quái vật bí ẩn mới có tên là Monster X.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/4e688af00e7dcc3aa74cf59301228626",
+      "m3u8Url": "https://vip.opstream12.com/20260422/32664_4e688af0/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "godzilla-final-wars",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

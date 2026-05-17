@@ -1,0 +1,67 @@
+{
+  "id": "love-beyond-dreams-2026-fb1388f9",
+  "source": "phimapi",
+  "slug": "lan-nua-den-ben-em",
+  "name": "Lần Nữa Đến Bên Em",
+  "originName": "Love Beyond Dreams",
+  "posterUrl": "https://phimimg.com/upload/vod/20260508-1/77434bbe0b421b20ca3effac7a8b0581.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260508-1/85054419ff7554857bd5a123dd4b0b49.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "Câu chuyện xoay quanh Rann và Lené, đôi bạn thân thiết mang trong mình những tình cảm sâu đậm dành cho đối phương nhưng chưa một lần thốt ra thành lời. Sau một vụ tai nạn thảm khốc cướp đi sinh mạng của Lené, Rann nhận được cơ hội thứ hai để du hành ngược thời gian. Trở về quá khứ, cô quyết tâm cứu lấy người mình yêu và cuối cùng cũng đủ dũng cảm để bày tỏ tình cảm chân thành bấy lâu nay.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260508/kbHVI5HP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260508/kbHVI5HP/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/BgyMbkfi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/BgyMbkfi/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "lan-nua-den-ben-em",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

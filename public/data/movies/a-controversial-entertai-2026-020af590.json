@@ -1,0 +1,55 @@
+{
+  "id": "a-controversial-entertai-2026-020af590",
+  "source": "ophim",
+  "slug": "nam-cong-quan",
+  "name": "Nam Công Quán",
+  "originName": "A Controversial Entertainer",
+  "posterUrl": "https://img.ophim.live/uploads/movies/nam-cong-quan-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/nam-cong-quan-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đài Loan",
+      "slug": "dai-loan"
+    }
+  ],
+  "description": "<p>Câu chuyện là một bộ phim hài đen bắt đầu từ tham vọng về kim cươngdẫn đến một cuộc truy sát. Thế nhưng kết quả là nhóm nam chính vô tình đột nhập vào Nam Công Quán và rồi họ lột xác đầy hào nhoáng trở thành những “trai bao cao cấp”.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/85b7cea7bb6a5ba1e65d7f41c8090f61",
+      "m3u8Url": "https://vip.opstream90.com/20260517/32098_85b7cea7/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/317e30985b2c3bf93a0fe849ddca9888",
+      "m3u8Url": "https://vip.opstream90.com/20260517/32099_317e3098/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "nam-cong-quan",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

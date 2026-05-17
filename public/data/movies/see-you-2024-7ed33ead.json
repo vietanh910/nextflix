@@ -1,0 +1,47 @@
+{
+  "id": "see-you-2024-7ed33ead",
+  "source": "phimapi",
+  "slug": "thay-ban",
+  "name": "Thấy Bạn",
+  "originName": "See You",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/36c6dbb4c8ce0d57b701e01af4bd9172.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/25f2dd04ced9927fa5259a384fb7a628.jpg",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đài Loan",
+      "slug": "dai-loan"
+    }
+  ],
+  "description": "Sau khi tự tử, một hồn ma tuổi teen đã liên lạc với bạn cùng lớp thông qua ngôn ngữ ký hiệu, bộc lộ tình yêu kỳ lạ và nỗi đau mà họ không bao giờ được phép nói ra.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/3Y9b4glv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/3Y9b4glv/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "thay-ban",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

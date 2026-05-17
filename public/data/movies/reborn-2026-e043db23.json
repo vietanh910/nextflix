@@ -1,0 +1,71 @@
+{
+  "id": "reborn-2026-e043db23",
+  "source": "ophim",
+  "slug": "reborn",
+  "name": "Reborn",
+  "originName": "Reborn",
+  "posterUrl": "https://img.ophim.live/uploads/movies/reborn-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/reborn-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Sau khi bị đẩy ngã xuống cầu thang, CEO công nghệ Kosei tỉnh dậy ở 14 năm trước trong thân phận Eito – một chủ tiệm giặt là đang chật vật – và bắt đầu tìm kẻ đã sát hại mình.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b4bee9fe0aef927e2a9e2b7072832d6e",
+      "m3u8Url": "https://vip.opstream90.com/20260424/30085_b4bee9fe/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5dd0565bef8f4fb788527a171d688538",
+      "m3u8Url": "https://vip.opstream90.com/20260430/30540_5dd0565b/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/482adb7cad038f014bf906602b347b4c",
+      "m3u8Url": "https://vip.opstream90.com/20260506/31110_482adb7c/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ec04a75ca6302d347df2f803efe8c5bd",
+      "m3u8Url": "https://vip.opstream90.com/20260512/31618_ec04a75c/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "reborn",
+      "episodeCount": 4,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

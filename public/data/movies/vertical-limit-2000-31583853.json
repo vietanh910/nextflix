@@ -1,0 +1,55 @@
+{
+  "id": "vertical-limit-2000-31583853",
+  "source": "ophim",
+  "slug": "gioi-han-doc",
+  "name": "Bão Tuyết",
+  "originName": "Vertical Limit",
+  "posterUrl": "https://img.ophim.live/uploads/movies/gioi-han-doc-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/gioi-han-doc-thumb.jpg",
+  "year": 2000,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Đức",
+      "slug": "duc"
+    }
+  ],
+  "description": "<p>Bị mắc kẹt gần đỉnh K2, ngọn núi cao thứ hai thế giới, Annie Garrett liên lạc với trại căn cứ để cầu cứu. Anh trai Peter nghe được tin nhắn của Annie và tập hợp một đội để giải cứu cô và nhóm của cô trước khi họ gục ngã trước điều kiện khắc nghiệt của K2. Nhưng, khi Annie nằm bị thương trong một hang động băng giá, những người cứu hộ phải đối mặt với một số sự kiện kinh hoàng có thể chấm dứt nỗ lực giải cứu - và cả mạng sống của họ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/57e289de16e78690c58902a1eb00c835",
+      "m3u8Url": "https://vip.opstream90.com/20260422/29956_57e289de/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "gioi-han-doc",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

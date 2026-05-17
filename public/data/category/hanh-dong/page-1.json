@@ -2,8 +2,115 @@
   "slug": "hanh-dong",
   "name": "Hành Động",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 6,
   "items": [
+    {
+      "id": "balls-up-2026-34b68dd6",
+      "source": "ophim",
+      "slug": "balls-up",
+      "name": "Balls Up",
+      "originName": "Balls Up",
+      "posterUrl": "https://img.ophim.live/uploads/movies/balls-up-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/balls-up-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "dirty-hands-2026-912d7169",
+      "source": "ophim",
+      "slug": "ban-tay-ban",
+      "name": "Bàn tay bẩn",
+      "originName": "Dirty Hands",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ban-tay-ban-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ban-tay-ban-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "invincible-season-4-2026-d24778c9",
+      "source": "ophim",
+      "slug": "bat-kha-chien-bai-phan-4",
+      "name": "BẤT KHẢ CHIẾN BẠI (Phần 4)",
+      "originName": "Invincible (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bat-kha-chien-bai-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bat-kha-chien-bai-phan-4-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
     {
       "id": "the-wonderfools-2026-19c319a0",
       "source": "ophim",
@@ -50,6 +157,240 @@
       ]
     },
     {
+      "id": "brothers-under-fire-2026-f1ca5a8a",
+      "source": "ophim",
+      "slug": "brothers-under-fire",
+      "name": "Brothers Under Fire",
+      "originName": "Brothers Under Fire",
+      "posterUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ghost-concert-missing-so-2026-a2f729f6",
+      "source": "ophim",
+      "slug": "buoi-hoa-nhac-cua-linh-hon",
+      "name": "Buổi Hòa Nhạc Của Linh Hồn",
+      "originName": "GHOST CONCERT : missing Songs",
+      "posterUrl": "https://img.ophim.live/uploads/movies/buoi-hoa-nhac-cua-linh-hon-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/buoi-hoa-nhac-cua-linh-hon-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "stranger-things-tales-fr-2026-9f58e266",
+      "source": "ophim",
+      "slug": "cau-be-mat-tich-chuyen-nam-85",
+      "name": "Cậu bé mất tích: Chuyện năm 85",
+      "originName": "Stranger Things: Tales from '85",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-chuyen-nam-85-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-chuyen-nam-85-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-the-mandaloria-2026-066168e7",
+      "source": "ophim",
+      "slug": "chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu",
+      "name": "Chiến tranh giữa các vì sao: Người Mandalorian và Grogu",
+      "originName": "Star Wars: The Mandalorian and Grogu",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "they-will-kill-you-2026-32dcb576",
+      "source": "ophim",
+      "slug": "chung-se-doat-mang",
+      "name": "Chúng Sẽ Đoạt Mạng",
+      "originName": "They Will Kill You",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chung-se-doat-mang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chung-se-doat-mang-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Nam Phi",
+          "slug": "nam-phi"
+        }
+      ]
+    },
+    {
+      "id": "red-eye-season-2-2026-888ff2fd",
+      "source": "ophim",
+      "slug": "chuyen-bay-dem-phan-2",
+      "name": "Chuyến Bay Đêm (Phần 2)",
+      "originName": "Red Eye (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-dem-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-dem-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
       "id": "cia-2026-a7dd09e8",
       "source": "ophim",
       "slug": "cia-phan-1",
@@ -83,58 +424,62 @@
       ]
     },
     {
-      "id": "monster-eater-2026-7336514f",
-      "source": "phimapi",
-      "slug": "monster-eater",
-      "name": "Monster Eater",
-      "originName": "Monster Eater",
-      "posterUrl": "https://phimimg.com/upload/vod/20260404-1/9459c291889ef9b32674f9e7afa4696d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/cdb42be74223b974d82efb2b04b966d6.jpg",
+      "id": "citadel-season-2-2026-86d7bc73",
+      "source": "ophim",
+      "slug": "citadel-phan-2",
+      "name": "Citadel (Phần 2)",
+      "originName": "Citadel (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/citadel-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/citadel-phan-2-thumb.jpg",
       "year": 2026,
-      "type": "anime",
+      "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Chính Kịch",
+          "name": "Chính kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "the-other-side-of-deep-s-2026-119a18bc",
-      "source": "phimapi",
-      "slug": "tham-khong-bi-ngan",
-      "name": "Thâm Không Bỉ Ngạn",
-      "originName": "The Other Side Of Deep Space",
-      "posterUrl": "https://phimimg.com/upload/vod/20260117-1/0c3f5d7611c746ebb64b5b778feb4d0a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260117-1/244d10537faac8dd7541481eea14976e.jpg",
+      "id": "rooster-fighter-2026-b434f3df",
+      "source": "ophim",
+      "slug": "cu-ke-chien-ky",
+      "name": "Cự Kê Chiến Ký",
+      "originName": "Rooster Fighter",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cu-ke-chien-ky-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cu-ke-chien-ky-thumb.jpg",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Phiêu Lưu",
@@ -143,35 +488,68 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-maul-shadow-lo-2026-2f04d025",
+      "source": "ophim",
+      "slug": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi",
+      "name": "Cuộc Chiến Ngân Hà: Maul - Chúa Tể Bóng Tối (Phần 1)",
+      "originName": "Star Wars: Maul - Shadow Lord",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-ngan-ha-maul-chua-te-bong-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-ngan-ha-maul-chua-te-bong-toi-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "the-demon-hunter-2023-0274ab09",
-      "source": "phimapi",
-      "slug": "thuong-nguyen-do",
-      "name": "Thương Nguyên Đồ",
-      "originName": "The Demon Hunter",
-      "posterUrl": "https://phimimg.com/upload/vod/20250530-1/435941e1bbd5462ab142b2d1d03b608e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250530-1/9c37d265d1409b9652a7a7afeb35fd6f.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 77",
+      "id": "mortal-kombat-ii-2026-76a437e2",
+      "source": "ophim",
+      "slug": "cuoc-chien-sinh-tu-ii",
+      "name": "Cuộc Chiến Sinh Tử II",
+      "originName": "Mortal Kombat II",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-sinh-tu-ii-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-sinh-tu-ii-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Hành Động",
@@ -180,24 +558,12 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -235,111 +601,95 @@
       ]
     },
     {
-      "id": "legend-of-lingwu-contine-2024-755c507d",
+      "id": "crooks-season-2-2026-5d763de9",
       "source": "ophim",
-      "slug": "linh-vu-dai-luc",
-      "name": "Linh Vũ Đại Lục",
-      "originName": "Legend of Lingwu Continent",
-      "posterUrl": "https://img.ophim.live/uploads/movies/linh-vu-dai-luc-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/linh-vu-dai-luc-thumb.jpg",
-      "year": 2024,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 178",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "against-the-sky-supreme--2021-965e6c68",
-      "source": "phimapi",
-      "slug": "nghich-thien-chi-ton",
-      "name": "Nghịch Thiên Chí Tôn",
-      "originName": "Against The Sky Supreme / Ni Tian Zhi Zun",
-      "posterUrl": "https://phimimg.com/upload/vod/20250903-1/fe12e74047daf65d58b996a82987f6aa.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250903-1/cc1e9fd59cf70b050455ceb0bf183bf3.jpg",
-      "year": 2021,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 514",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-5-2015-64f9211d",
-      "source": "phimapi",
-      "slug": "bau-troi-sup-do-phan-5",
-      "name": "Bầu Trời Sụp Đổ (Phần 5)",
-      "originName": "Falling Skies (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/dff6a70b48c5c5d6d27419dda6bc7171.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/aed5857cdcffd9a12c1d21546e1626e7.jpg",
-      "year": 2015,
+      "slug": "dao-tac-phan-2",
+      "name": "Đạo tặc (Phần 2)",
+      "originName": "Crooks (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dao-tac-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dao-tac-phan-2-thumb.jpg",
+      "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Hoàn tất (6/6)",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "daredevil-born-again-sea-2026-51f66873",
+      "source": "ophim",
+      "slug": "daredevil-tai-xuat-phan-2",
+      "name": "Daredevil: Tái Xuất (Phần 2)",
+      "originName": "Daredevil: Born Again (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/daredevil-tai-xuat-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/daredevil-tai-xuat-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
+          "name": "Chính kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "beast-2026-6cbf1ca9",
+      "source": "ophim",
+      "slug": "dau-vo-sinh-tu-2026",
+      "name": "Đấu võ sinh tử",
+      "originName": "Beast",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dau-vo-sinh-tu-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dau-vo-sinh-tu-2026-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -348,8 +698,193 @@
           "slug": "au-my"
         },
         {
-          "name": "Canada",
-          "slug": "canada"
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "vaa-vaathiyaar-2026-ece4daef",
+      "source": "ophim",
+      "slug": "den-day-nao-thay-giao",
+      "name": "Đến Đây Nào Thầy Giáo",
+      "originName": "Vaa Vaathiyaar",
+      "posterUrl": "https://img.ophim.live/uploads/movies/den-day-nao-thay-giao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/den-day-nao-thay-giao-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "devil-may-cry-season-2-2026-f308519c",
+      "source": "ophim",
+      "slug": "devil-may-cry-phan-2",
+      "name": "Devil May Cry (Phần 2)",
+      "originName": "Devil May Cry (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/devil-may-cry-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/devil-may-cry-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        },
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "dorohedoro-season-2-2026-38b7e537",
+      "source": "ophim",
+      "slug": "di-thu-ma-do-phan-2",
+      "name": "Dị thú ma đô (Phần 2)",
+      "originName": "Dorohedoro (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/di-thu-ma-do-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/di-thu-ma-do-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "in-the-name-of-the-fathe-2026-bcd7200d",
+      "source": "ophim",
+      "slug": "diep-anh-truy-tung",
+      "name": "Điệp Ảnh Truy Tung",
+      "originName": "In The Name Of The Father",
+      "posterUrl": "https://img.ophim.live/uploads/movies/diep-anh-truy-tung-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/diep-anh-truy-tung-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "release-that-witch-2026-e3f2f27b",
+      "source": "ophim",
+      "slug": "hoang-tu-luu-day",
+      "name": "Hoàng Tử Lưu Đày",
+      "originName": "Release that Witch",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hoang-tu-luu-day-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hoang-tu-luu-day-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

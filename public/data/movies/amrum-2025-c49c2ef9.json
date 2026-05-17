@@ -1,0 +1,48 @@
+{
+  "id": "amrum-2025-c49c2ef9",
+  "source": "ophim",
+  "slug": "amrum",
+  "name": "Amrum",
+  "originName": "Amrum",
+  "posterUrl": "https://img.ophim.live/uploads/movies/amrum-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/amrum-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đức",
+      "slug": "duc"
+    },
+    {
+      "name": "Bỉ",
+      "slug": "bi"
+    }
+  ],
+  "description": "<p>Trên đảo Amrum vào mùa xuân năm 1945, cậu bé Nanning mười hai tuổi săn hải cẩu, đánh cá ban đêm và làm việc trên đồng ruộng để giúp nuôi sống gia đình. Khi chiến tranh kết thúc, mẹ cậu rơi vào trầm cảm, và cậu phải đối mặt với những xung đột mới trong khi vật lộn để tìm ra con đường riêng của mình.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "amrum",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

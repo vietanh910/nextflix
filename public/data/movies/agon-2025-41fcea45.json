@@ -1,0 +1,59 @@
+{
+  "id": "agon-2025-41fcea45",
+  "source": "ophim",
+  "slug": "agon",
+  "name": "Agon",
+  "originName": "Agon",
+  "posterUrl": "https://img.ophim.live/uploads/movies/agon-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/agon-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    },
+    {
+      "name": "Ý",
+      "slug": "y"
+    }
+  ],
+  "description": "<p>Ba vận động viên ưu tú đang luyện tập cho Thế vận hội mùa hè Ludoj 2024. Đối mặt với sự chú ý của báo chí, chấn thương và sự kiệt sức, họ luyện tập các bộ môn bắn súng, đấu kiếm và judo. Các nữ vận động viên làm việc với huấn luyện viên để tối ưu hóa phong độ trước khi thi đấu dưới áp lực cao tại Thế vận hội.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/b32a0e6fda31ee75a103500e772d1ac3",
+      "m3u8Url": "https://vip.opstream12.com/20260511/32687_b32a0e6f/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "agon",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

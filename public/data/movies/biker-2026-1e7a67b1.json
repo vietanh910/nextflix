@@ -1,0 +1,51 @@
+{
+  "id": "biker-2026-1e7a67b1",
+  "source": "ophim",
+  "slug": "biker",
+  "name": "Biker",
+  "originName": "Biker",
+  "posterUrl": "https://img.ophim.live/uploads/movies/biker-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/biker-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Niềm tự hào và mâu thuẫn gia đình đan xen khi một người đàn ông theo đuổi vinh quang trong môn đua mô tô địa hình, được thúc đẩy bởi lòng dũng cảm, tinh thần và sự nguy hiểm cận kề.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/db17bc578c383f5bb0cb9be70c42331c",
+      "m3u8Url": "https://vip.opstream12.com/20260506/32679_db17bc57/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "biker",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

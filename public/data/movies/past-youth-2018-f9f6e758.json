@@ -1,0 +1,47 @@
+{
+  "id": "past-youth-2018-f9f6e758",
+  "source": "phimapi",
+  "slug": "tuoi-tre-qua-khu",
+  "name": "Tuổi Trẻ Quá Khứ",
+  "originName": "Past Youth",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/cf5452474866c1adf7460d8e4923098e.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/07dfb8e5ff9367f95f180507da9b5a37.jpg",
+  "year": 2018,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "Lin Qinnian cố gắng tránh xa Li Guang khi tình cảm làm phức tạp tình bạn của họ, nhưng kỳ thi đại học sắp tới có thể thay đổi con đường của họ mãi mãi.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/50CpAJXd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/50CpAJXd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tuoi-tre-qua-khu",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

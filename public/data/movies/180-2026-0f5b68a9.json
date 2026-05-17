@@ -1,0 +1,51 @@
+{
+  "id": "180-2026-0f5b68a9",
+  "source": "ophim",
+  "slug": "180",
+  "name": "180",
+  "originName": "180",
+  "posterUrl": "https://img.ophim.live/uploads/movies/180-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/180-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nam Phi",
+      "slug": "nam-phi"
+    }
+  ],
+  "description": "<p>Khi vụ va chạm bất ngờ do cơn giận sau tay lái khiến con trai anh nguy kịch, người bố phẫn nộ lao vào con đường đen tối của hỗn loạn cảm xúc và thù hận.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bf9d0c59964a37b03173d7c683153962",
+      "m3u8Url": "https://vip.opstream90.com/20260419/29715_bf9d0c59/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "180",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

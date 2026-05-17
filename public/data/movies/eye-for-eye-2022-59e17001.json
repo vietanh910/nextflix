@@ -1,0 +1,47 @@
+{
+  "id": "eye-for-eye-2022-59e17001",
+  "source": "phimapi",
+  "slug": "mat-den-mat-2022",
+  "name": "Mắt đền Mắt",
+  "originName": "Eye For Eye",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/0098785a96f2f8b299ed2b5ef14d4adf.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/906c2e13913c24b178f8cc125e82937c.jpg",
+  "year": 2022,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Ông trùm chăn nuôi gia súc muốn chiếm đoạt trang trại nhỏ của Reagan và người đẹp gốc Latinh Lola McLaughlin. Người của hắn đã giết chết người vợ đang mang thai của Reagan. Reagan để lại huy hiệu thiếc của mình trên mộ Consuela, và với khẩu súng Winchester, súng săn và súng Colt, ông một mình cưỡi ngựa chống lại cả trăm người.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/n5uJ7YO7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/n5uJ7YO7/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "mat-den-mat-2022",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

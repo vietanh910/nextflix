@@ -1,0 +1,51 @@
+{
+  "id": "son-in-law-2026-e87c00c8",
+  "source": "ophim",
+  "slug": "con-re",
+  "name": "Con Rể",
+  "originName": "Son-in-Law",
+  "posterUrl": "https://img.ophim.live/uploads/movies/con-re-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/con-re-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Mexico",
+      "slug": "mexico"
+    }
+  ],
+  "description": "<p>Sau giai đoạn lao đao, José Sánchez trở thành tay thao túng chính trị đáng gờm. Nhưng lần này, cả bộ ria mép ấn tượng lẫn miệng lưỡi sắc bén của anh cũng không đủ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/795a87ea31ee42f7f0cdaff766a58238",
+      "m3u8Url": "https://vip.opstream90.com/20260506/31133_795a87ea/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "con-re",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,79 @@
+{
+  "id": "liar-game-2026-23dcddec",
+  "source": "ophim",
+  "slug": "liar-game",
+  "name": "LIAR GAME",
+  "originName": "LIAR GAME",
+  "posterUrl": "https://img.ophim.live/uploads/movies/liar-game-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/liar-game-thumb.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Nao Kanzaki là một sinh viên đại học trung thực, một ngày nọ cô bất ngờ nhận được 100 triệu yên cùng với một tấm thẻ ghi rằng cô đã được chọn tham gia “Trò chơi nói dối” (Liar Game). Mục tiêu của trò chơi là lừa lấy 100 triệu yên của đối thủ. Cuối cùng, người chiến thắng sẽ nhận được toàn bộ số tiền, còn kẻ thua cuộc sẽ phải gánh món nợ 100 triệu yên.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6041ef06e090787195a16cbb1acd5bf3",
+      "m3u8Url": "https://vip.opstream90.com/20260411/29252_6041ef06/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c7567e4dd48114e82ef45702ccbc06c5",
+      "m3u8Url": "https://vip.opstream90.com/20260417/29653_c7567e4d/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dd8a25785dcb6f7ceca55668d9ad9dc6",
+      "m3u8Url": "https://vip.opstream90.com/20260423/29995_dd8a2578/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b6a243747ce4d20eaf2cf025e7176662",
+      "m3u8Url": "https://vip.opstream90.com/20260428/30409_b6a24374/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1ff4dc549f35ef8cbdcb51f0dc4972a8",
+      "m3u8Url": "https://vip.opstream90.com/20260505/31032_1ff4dc54/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "liar-game",
+      "episodeCount": 5,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

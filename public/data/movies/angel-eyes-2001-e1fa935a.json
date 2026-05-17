@@ -1,0 +1,47 @@
+{
+  "id": "angel-eyes-2001-e1fa935a",
+  "source": "ophim",
+  "slug": "cap-mat-thien-than",
+  "name": "Cặp mắt thiên thần",
+  "originName": "Angel Eyes",
+  "posterUrl": "https://img.ophim.live/uploads/movies/cap-mat-thien-than-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/cap-mat-thien-than-thumb.jpg",
+  "year": 2001,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Câu chuyện về một cặp đôi tưởng chừng không thể nào gặp nhau lại tình cờ chạm trán trong hoàn cảnh nguy hiểm đến tính mạng, như thể định mệnh đã sắp đặt để họ không chỉ gặp gỡ mà còn cứu sống lẫn nhau. Không chỉ một lần, mà đến hai lần.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5e659c65be904971b47bce5de45189fb",
+      "m3u8Url": "https://vip.opstream90.com/20260509/31463_5e659c65/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "cap-mat-thien-than",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

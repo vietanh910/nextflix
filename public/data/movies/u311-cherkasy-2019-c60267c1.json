@@ -1,0 +1,47 @@
+{
+  "id": "u311-cherkasy-2019-c60267c1",
+  "source": "phimapi",
+  "slug": "u311-cherkasy",
+  "name": "U311 Cherkasy",
+  "originName": "U311 Cherkasy",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/8892259313e9bdda1920180fc8aa56b2.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/63f2ed089a294899cb0ccda728db92c4.jpg",
+  "year": 2019,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Quốc Gia Khác",
+      "slug": "quoc-gia-khac"
+    }
+  ],
+  "description": "Thủy thủ đoàn của tàu quét mìn U311 Cherkasy thuộc Hải quân Ukraine đã chống lại việc quân đội Nga bắt giữ tàu ở Crimea vào năm 2014.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/q8UME5Kw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/q8UME5Kw/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "u311-cherkasy",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

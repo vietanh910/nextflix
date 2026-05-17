@@ -1,0 +1,82 @@
+{
+  "id": "kirio-fan-club-a0ecf7cf",
+  "source": "nguonc",
+  "slug": "kirio-fanclub",
+  "name": "Kirio Fanclub",
+  "originName": "Kirio Fan Club",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/4/kirio-fanclub-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/kirio-fanclub.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 7",
+  "categories": [],
+  "countries": [],
+  "description": "Câu chuyện xoay quanh hai nữ sinh trung học là Miyoshi Aimi và Sometani Nami. Dù có tính cách trái ngược nhau — một người ngổ ngáo, một người dịu dàng — nhưng cả hai lại có chung một bí mật: Họ đều là \"fan cuồng\" của cậu bạn cùng lớp tên là Kirio. Thay vì cạnh tranh gay gắt, họ quyết định thành lập \"Câu lạc bộ người hâm mộ Kirio\" để cùng nhau theo dõi và ủng hộ thần tượng của mình, dẫn đến nhiều tình huống dở khóc dở cười trong cuộc sống học đường.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=5595d60e1e2b0efcb1dced0ce70b5311",
+      "m3u8Url": "https://sing.phimmoi.net/5595d60e1e2b0efcb1dced0ce70b5311/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=624011576bf6d518495533cb7b44f900",
+      "m3u8Url": "https://sing.phimmoi.net/624011576bf6d518495533cb7b44f900/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=173aa5c7ea07966de62b8050edce3f9f",
+      "m3u8Url": "https://sing.phimmoi.net/173aa5c7ea07966de62b8050edce3f9f/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=028a5acc23c805a5939b9afc5492732e",
+      "m3u8Url": "https://sing.phimmoi.net/028a5acc23c805a5939b9afc5492732e/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=73a1d2547d14f35ca2271cad28a4940d",
+      "m3u8Url": "https://sing.phimmoi.net/73a1d2547d14f35ca2271cad28a4940d/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=de7e31c9729cae90c9d240f3afede3cf",
+      "m3u8Url": "https://sing.phimmoi.net/de7e31c9729cae90c9d240f3afede3cf/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=cab0709f76e1b156aa7b709b84ff0ce7",
+      "m3u8Url": "https://sing.phimmoi.net/cab0709f76e1b156aa7b709b84ff0ce7/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "kirio-fanclub",
+      "episodeCount": 7,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

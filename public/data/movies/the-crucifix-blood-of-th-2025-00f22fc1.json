@@ -30,6 +30,11 @@
       "name": "",
       "serverName": "Vietsub #1",
       "source": "ophim"
+    },
+    {
+      "name": "",
+      "serverName": "#Hà Nội",
+      "source": "phimapi"
     }
   ],
   "sources": [
@@ -38,6 +43,12 @@
       "slug": "thanh-gia-mau-cua-ke-tru-ta",
       "episodeCount": 1,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "thanh-gia-mau-cua-ke-tru-ta",
+      "episodeCount": 1,
+      "priority": 1
     }
   ],
   "_priority": 0

@@ -1,0 +1,59 @@
+{
+  "id": "kill-code-2026-4a725bea",
+  "source": "ophim",
+  "slug": "kill-code",
+  "name": "Kill Code",
+  "originName": "Kill Code",
+  "posterUrl": "https://img.ophim.live/uploads/movies/kill-code-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/kill-code-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một tập đoàn tham lam quyền lực đã thâu tóm hệ thống nhà tù truyền thống và biến tội phạm thành những người thực thi pháp luật mới.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/b8f5a378adbebec3b6fb49840d4adb21",
+      "m3u8Url": "https://vip.opstream12.com/20260506/32680_b8f5a378/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "kill-code",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

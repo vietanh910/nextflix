@@ -1,0 +1,63 @@
+{
+  "id": "hard-to-kill-1990-8600db62",
+  "source": "phimapi",
+  "slug": "kho-giet",
+  "name": "Khó Giết",
+  "originName": "Hard to Kill",
+  "posterUrl": "https://phimimg.com/upload/vod/20260516-1/a2080f12fc91cc095b6eed75cd6b3ef6.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260516-1/241105a98a37ba1fd918124452f989fe.jpg",
+  "year": 1990,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Tây Ban Nha",
+      "slug": "tay-ban-nha"
+    }
+  ],
+  "description": "Khi đang điều tra một chính trị gia tham nhũng, Mason Storm bị bắn và bị bỏ mặc đến chết. Được một y tá giúp đỡ, anh hồi phục và trả thù.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/dEixPrCe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/dEixPrCe/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "kho-giet",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

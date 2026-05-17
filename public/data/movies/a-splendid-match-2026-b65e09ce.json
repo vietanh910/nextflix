@@ -235,8 +235,16 @@
       "slug": "tap-25",
       "serverName": "#Hà Nội (Vietsub)",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/L28CfrEF/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/L28CfrEF/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/SDKlKmna/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/SDKlKmna/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/65xWVZoX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/65xWVZoX/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -431,6 +439,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260515/Sb8Wl4lC/index.m3u8"
     },
     {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/K302j5JJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/K302j5JJ/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Lồng Tiếng)",
@@ -581,6 +597,22 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/s7qHroUT/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260515/s7qHroUT/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/CsuXA1W9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/CsuXA1W9/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/vDxjaocW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/vDxjaocW/index.m3u8"
     },
     {
       "name": "1",
@@ -773,19 +805,43 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/499cb2ee42a8be29ad10e4afa28e0af8",
       "m3u8Url": "https://vip.opstream90.com/20260515/31786_499cb2ee/index.m3u8"
+    },
+    {
+      "name": "25",
+      "slug": "25",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1b365b78c991246fd420731f18c5fe55",
+      "m3u8Url": "https://vip.opstream90.com/20260517/31988_1b365b78/index.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "26",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f5952af47ea903902a44db8e53331b56",
+      "m3u8Url": "https://vip.opstream90.com/20260517/32008_f5952af4/index.m3u8"
+    },
+    {
+      "name": "27",
+      "slug": "27",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f8a41b4a29f5fca1d318ba330cb2140a",
+      "m3u8Url": "https://vip.opstream90.com/20260517/32022_f8a41b4a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "luong-tran-my-cam",
-      "episodeCount": 24,
+      "episodeCount": 27,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "luong-tran-my-cam",
-      "episodeCount": 68,
+      "episodeCount": 72,
       "priority": 1
     }
   ],

@@ -1,0 +1,47 @@
+{
+  "id": "night-and-day-2023-5fcace76",
+  "source": "phimapi",
+  "slug": "dem-va-ngay",
+  "name": "Đêm Và Ngày",
+  "originName": "Night And Day",
+  "posterUrl": "https://phimimg.com/upload/vod/20260513-1/216fb5ef9cadd54869cadf6cdf4d8f7b.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/bdc8612b9bab27eec46a5ce5b8edccfc.jpg",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "Young-taek bị dị ứng với ánh sáng mặt trời, còn bạn trai Eui-jun thì chán ngán việc chỉ biết hẹn hò trong bóng tối. Vào ngày sinh nhật của mình, Eui-jun mong muốn được tận hưởng một buổi hẹn hò ban ngày, điều này đã giúp Young-taek có can đảm lên kế hoạch cho một buổi hẹn ăn trưa, nhưng liệu mọi chuyện có suôn sẻ?",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/IpsFrmSv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/IpsFrmSv/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "dem-va-ngay",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

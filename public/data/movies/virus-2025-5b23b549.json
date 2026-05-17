@@ -1,0 +1,47 @@
+{
+  "id": "virus-2025-5b23b549",
+  "source": "ophim",
+  "slug": "virus",
+  "name": "Dính ”Thính” Là Yêu",
+  "originName": "Virus",
+  "posterUrl": "https://img.ophim.live/uploads/movies/virus-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/virus-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>A mysterious virus spreads out. Anyone infected feels the emotion of love, and the emotion amplifies until it kills the person in love. The pessimist Taek-seon, who likes nothing in life, is infected, and the researcher Gyun reaches her out to test her the medicine that he's developing. Soon Gyun finds out Taek-seon has special antibody, but Taek-seon slowly feels love to Gyun. Is this a real love or just a virus?</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/f428ed8209a04774dd294d6dc12ae201",
+      "m3u8Url": "https://vip.opstream12.com/20250728/27943_f428ed82/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "virus",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

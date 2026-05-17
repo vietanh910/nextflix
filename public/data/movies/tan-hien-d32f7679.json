@@ -1,0 +1,58 @@
+{
+  "id": "tan-hien-d32f7679",
+  "source": "nguonc",
+  "slug": "tan-hien",
+  "name": "Tận Hiến",
+  "originName": "Tan Hien",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/3/tan-hien-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/tan-hien.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 4",
+  "categories": [],
+  "countries": [],
+  "description": "Trong giai đoạn chính trị phức tạp ở khu vực Đông Dương thập niên 60 thế kỷ trước, người đàn ông mang bí danh P1 được Bộ Công an Việt Nam giao nhiệm vụ thâm nhập vào hàng ngũ đối phương trên đất Lào. Anh đã phải đánh cược sự an toàn không chỉ của bản thân mà cả gia đình để thực thi sứ mệnh thiêng liêng với Tổ quốc. Bộ phim nhằm tôn vinh sự hy sinh thầm lặng của những chiến sĩ tình báo thuộc lực lượng CAND trên đất Lào từ 1957 đến 1977, với lý tưởng và sự tận hiến, kiên trung, tuyệt đối trung thành với đất nước.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=ac0e9a66fb23fa579fcee41141a95ab0",
+      "m3u8Url": "https://sing.phimmoi.net/ac0e9a66fb23fa579fcee41141a95ab0/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=97de0d45b0db0397eaaf4155039dbb39",
+      "m3u8Url": "https://sing.phimmoi.net/97de0d45b0db0397eaaf4155039dbb39/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=6b5af940195800f962429b4a922645fa",
+      "m3u8Url": "https://sing.phimmoi.net/6b5af940195800f962429b4a922645fa/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=4a3c987085b71f3d73bba0d68813972a",
+      "m3u8Url": "https://sing.phimmoi.net/4a3c987085b71f3d73bba0d68813972a/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "tan-hien",
+      "episodeCount": 4,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

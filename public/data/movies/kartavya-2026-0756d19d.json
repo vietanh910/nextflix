@@ -37,6 +37,14 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/73618455b2f727ad8fe055241b6b06bd",
       "m3u8Url": "https://vip.opstream90.com/20260515/31813_73618455/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/nuIiBiUx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/nuIiBiUx/index.m3u8"
     }
   ],
   "sources": [
@@ -45,6 +53,12 @@
       "slug": "nghia-vu",
       "episodeCount": 1,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "nghia-vu",
+      "episodeCount": 1,
+      "priority": 1
     }
   ],
   "_priority": 0

@@ -1,0 +1,90 @@
+{
+  "id": "nemesis-8fadd1f0",
+  "source": "nguonc",
+  "slug": "tu-thu",
+  "name": "Tử Thù",
+  "originName": "Nemesis",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/2/tu-thu-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/2/tu-thu.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Hoàn tất (8/8)",
+  "categories": [],
+  "countries": [],
+  "description": "Một viên cảnh sát cứng đầu (Matthew Law) bất chấp ranh giới pháp luật để lật mặt tên trộm bậc thầy (Ylan Noel) đang ẩn mình giữa thanh thiên bạch nhật.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=70283161875aa981d9242ddf1c76a900",
+      "m3u8Url": "https://sing.phimmoi.net/70283161875aa981d9242ddf1c76a900/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=61f590438c027245fb8a94c363809f84",
+      "m3u8Url": "https://sing.phimmoi.net/61f590438c027245fb8a94c363809f84/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=6645a6482b8f929801c6bca8c83dbc97",
+      "m3u8Url": "https://sing.phimmoi.net/6645a6482b8f929801c6bca8c83dbc97/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=c61d52bc9bb366e23e2dbdb1b9c6928f",
+      "m3u8Url": "https://sing.phimmoi.net/c61d52bc9bb366e23e2dbdb1b9c6928f/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=74042124e2895495ee953b1df3737f4d",
+      "m3u8Url": "https://sing.phimmoi.net/74042124e2895495ee953b1df3737f4d/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=256c80aab1ce4eeaed65cec614738694",
+      "m3u8Url": "https://sing.phimmoi.net/256c80aab1ce4eeaed65cec614738694/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=10f2fe0143703165fb6d822f83f51bba",
+      "m3u8Url": "https://sing.phimmoi.net/10f2fe0143703165fb6d822f83f51bba/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=18d61b51c3280f202858d8457ad08254",
+      "m3u8Url": "https://sing.phimmoi.net/18d61b51c3280f202858d8457ad08254/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "tu-thu",
+      "episodeCount": 8,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

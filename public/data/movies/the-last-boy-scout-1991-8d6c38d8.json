@@ -1,0 +1,47 @@
+{
+  "id": "the-last-boy-scout-1991-8d6c38d8",
+  "source": "ophim",
+  "slug": "the-last-boy-scout",
+  "name": "The Last Boy Scout",
+  "originName": "The Last Boy Scout",
+  "posterUrl": "https://img.ophim.live/uploads/movies/the-last-boy-scout-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/the-last-boy-scout-thumb.jpg",
+  "year": 1991,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Tại một nơi nào đó ở Los Angeles, thành phố của những giấc mơ tan vỡ, một vũ nữ thoát y bị sát hại. Giờ đây, thám tử tư mà cô thuê và bạn trai cũ, một cầu thủ bóng đá, sẽ tìm ra kẻ giết người... nếu họ không giết nhau trước. Nhưng càng điều tra, họ càng vướng sâu vào một mạng lưới tống tiền, hăm dọa và chính trị tham nhũng ẩn giấu dưới bề mặt của bóng đá chuyên nghiệp.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/55b631a083678b1748313493a183a42b",
+      "m3u8Url": "https://vip.opstream12.com/20260513/32693_55b631a0/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "the-last-boy-scout",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

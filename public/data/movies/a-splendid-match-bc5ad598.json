@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/10/luong-tran-my-cam-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/10/luong-tran-my-cam.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 24",
+  "episodeCurrent": "Tập 27",
   "categories": [],
   "countries": [],
   "description": "Kể về Cố Cẩm Triều, một tiểu thư thông minh, cá tính, phải đối mặt với đấu đá gia tộc và quyền lực khi trở về nhà. Giữa nhiều lựa chọn tình cảm, cô kết hôn với Trần Ngạn Doãn, cùng nhau vượt qua âm mưu chốn triều đình và xây dựng cuộc sống ổn định, hạnh phúc.",
@@ -204,13 +204,37 @@
       "source": "nguonc",
       "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=93e33c470bcffbb22343062cbfc93e83",
       "m3u8Url": "https://sing.phimmoi.net/93e33c470bcffbb22343062cbfc93e83/hls.m3u8"
+    },
+    {
+      "name": "25",
+      "slug": "tap-25",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=2b7b18915b516de0b6e785356d2176dd",
+      "m3u8Url": "https://sing.phimmoi.net/2b7b18915b516de0b6e785356d2176dd/hls.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "tap-26",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=412c15c7586eccafc7934bcb8fb57ddb",
+      "m3u8Url": "https://sing.phimmoi.net/412c15c7586eccafc7934bcb8fb57ddb/hls.m3u8"
+    },
+    {
+      "name": "27",
+      "slug": "tap-27",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=82cb16b8def9af030eb569dd6f469a8a",
+      "m3u8Url": "https://sing.phimmoi.net/82cb16b8def9af030eb569dd6f469a8a/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "luong-tran-my-cam",
-      "episodeCount": 24,
+      "episodeCount": 27,
       "priority": 2
     }
   ],

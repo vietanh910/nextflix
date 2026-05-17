@@ -85,6 +85,62 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/0493033a1c9575336529c17abf994b52",
       "m3u8Url": "https://vip.opstream90.com/20260515/31789_0493033a/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260410/ZpLionyG/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260410/ZpLionyG/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260418/nsDv8tjY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260418/nsDv8tjY/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260418/E1mfJL7W/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260418/E1mfJL7W/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260425/L1FlUJdj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260425/L1FlUJdj/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260502/bAjb0LGv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260502/bAjb0LGv/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260509/FC9BSOjL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260509/FC9BSOjL/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/IWYDEgI1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/IWYDEgI1/index.m3u8"
     }
   ],
   "sources": [
@@ -93,6 +149,12 @@
       "slug": "ban-be-and-hang-xom-phan-2",
       "episodeCount": 7,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ban-be-hang-xom-phan-2",
+      "episodeCount": 7,
+      "priority": 1
     }
   ],
   "_priority": 0

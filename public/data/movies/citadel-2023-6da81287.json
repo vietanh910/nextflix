@@ -1,0 +1,99 @@
+{
+  "id": "citadel-2023-6da81287",
+  "source": "ophim",
+  "slug": "citadel",
+  "name": "Citadel (Phần 1)",
+  "originName": "Citadel",
+  "posterUrl": "https://img.ophim.live/uploads/movies/citadel-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/citadel-thumb.jpg",
+  "year": 2023,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Tám năm trước, Citadel, một cơ quan gián điệp toàn cầu độc lập, đã bị phá hủy bởi một tổ chức mới, Manticore. Với ký ức bị xóa sạch, các đặc vụ ưu tú Mason Kane và Nadia Sinh suýt chút nữa thoát chết. Tám năm sau, đồng nghiệp cũ của Mason, Bernard Orlick, nhờ anh giúp đỡ để ngăn chặn Manticore thiết lập một trật tự thế giới mới.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream15.com/share/60c6413e69efc9f67452aca5925e6977",
+      "m3u8Url": "https://vip.opstream15.com/20230428/38383_1e4071d3/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream15.com/share/1786aee548304a7a90c0fd42c9bd919b",
+      "m3u8Url": "https://vip.opstream15.com/20230428/38382_1e68c69d/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream11.com/share/07d9152e686ddb50c5330f7f9c1c58bc",
+      "m3u8Url": "https://vip.opstream11.com/20230506/43364_d6322d93/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream15.com/share/c4a55894b71e51a90b84a28c1b946d2b",
+      "m3u8Url": "https://vip.opstream15.com/20230512/39155_b796d44a/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream15.com/share/0db1fb75f1918668d1248e31ff9988f5",
+      "m3u8Url": "https://vip.opstream15.com/20230519/39447_47fb138f/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream15.com/share/fcf1a7a6cf9c2b73bcb7b359818a9a46",
+      "m3u8Url": "https://vip.opstream15.com/20230526/39639_ea063617/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "citadel",
+      "episodeCount": 6,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

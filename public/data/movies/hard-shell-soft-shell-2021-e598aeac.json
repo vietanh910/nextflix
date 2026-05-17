@@ -1,0 +1,47 @@
+{
+  "id": "hard-shell-soft-shell-2021-e598aeac",
+  "source": "ophim",
+  "slug": "vo-cung-loi-mem",
+  "name": "Vỏ Cứng, Lõi Mềm",
+  "originName": "Hard Shell, Soft Shell",
+  "posterUrl": "https://img.ophim.live/uploads/movies/vo-cung-loi-mem-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/vo-cung-loi-mem-thumb.jpg",
+  "year": 2021,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "<p>Az làm việc cho một người nuôi hàu ở Sète. Anh ấy hiểu rõ về hàu như lòng bàn tay, anh ấy mở hàng trăm con hàu mỗi lần. Trong một con hàu, Az quyết định giấu một chiếc nhẫn, để cầu hôn bạn gái Jess. Cô ấy không đồng ý. May mắn thay, nhóm bạn của anh ấy sẵn sàng làm bất cứ điều gì để giúp anh ấy vượt qua giai đoạn khó khăn này.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b42cd7198ff1d832fc7b8f6e3a187ad3",
+      "m3u8Url": "https://vip.opstream90.com/20260424/30098_b42cd719/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "vo-cung-loi-mem",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

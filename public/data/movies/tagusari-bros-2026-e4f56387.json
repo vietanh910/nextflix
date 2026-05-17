@@ -1,0 +1,75 @@
+{
+  "id": "tagusari-bros-2026-e4f56387",
+  "source": "ophim",
+  "slug": "tagusari-bros",
+  "name": "Anh Em Nhà Tagusari",
+  "originName": "TAGUSARI bros.",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tagusari-bros-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tagusari-bros-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Hai anh em trở thành cảnh sát để truy tìm kẻ giết hại cha mẹ mình, kẻ đã thoát khỏi sự trừng phạt chỉ hai ngày trước khi thời hạn truy tố bị bãi bỏ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/599708672e8b3790d67dbf4379f75355",
+      "m3u8Url": "https://vip.opstream90.com/20260419/29799_59970867/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/311ce497f79478c471790cb0067b2863",
+      "m3u8Url": "https://vip.opstream90.com/20260427/30347_311ce497/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fdb8081426eb791cab369832567f7715",
+      "m3u8Url": "https://vip.opstream90.com/20260504/30932_fdb80814/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/92b5eb942a693af473d741b2c487fdd5",
+      "m3u8Url": "https://vip.opstream90.com/20260511/31525_92b5eb94/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tagusari-bros",
+      "episodeCount": 4,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

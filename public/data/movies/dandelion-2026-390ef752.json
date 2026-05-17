@@ -1,0 +1,107 @@
+{
+  "id": "dandelion-2026-390ef752",
+  "source": "ophim",
+  "slug": "bo-cong-anh",
+  "name": "Bồ Công Anh",
+  "originName": "Dandelion",
+  "posterUrl": "https://img.ophim.live/uploads/movies/bo-cong-anh-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/bo-cong-anh-thumb.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (7/7)",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Tại trạm dừng sau cái chết nơi thiên thần dẫn dắt linh hồn, Tetsuo và Misaki sẵn lòng giúp người quá cố tìm thấy sự bình yên theo phong cách lập dị của riêng mình.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d75741b309bf39d3ef6be3b23990eeaf",
+      "m3u8Url": "https://vip.opstream90.com/20260416/29574_d75741b3/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1fae41f41823dafacc197c3f5121128e",
+      "m3u8Url": "https://vip.opstream90.com/20260416/29575_1fae41f4/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/43e8ab73ce9890e4e041d2db5fd36999",
+      "m3u8Url": "https://vip.opstream90.com/20260416/29576_43e8ab73/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6027b8cfb50835b0349ee47aaac993d5",
+      "m3u8Url": "https://vip.opstream90.com/20260416/29577_6027b8cf/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/cf4352a7d775ba25bc66ac22006a13cb",
+      "m3u8Url": "https://vip.opstream90.com/20260416/29578_cf4352a7/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/37c77fc83549b5204e788fb979887c92",
+      "m3u8Url": "https://vip.opstream90.com/20260416/29579_37c77fc8/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/060381704cad174497ca51d13c40b98a",
+      "m3u8Url": "https://vip.opstream90.com/20260416/29580_06038170/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "bo-cong-anh",
+      "episodeCount": 7,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

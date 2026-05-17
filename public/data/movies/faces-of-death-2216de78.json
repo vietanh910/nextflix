@@ -1,0 +1,34 @@
+{
+  "id": "faces-of-death-2216de78",
+  "source": "nguonc",
+  "slug": "muon-mat-cai-chet",
+  "name": "Muôn Mặt Cái Chết",
+  "originName": "Faces of Death",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/r7AKQ0OB69JOPskeTWL3U206ehY.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Một nữ kiểm duyệt nội dung phát hiện các video giết người cực kỳ chân thật trên mạng. Cô nhận ra có kẻ đang tái hiện các kiểu chết từ phim cũ và phát tán chúng, rồi bị cuốn vào cuộc săn đuổi với chính hắn.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=3a156ef73aea2a06603b9fa7a9a51ffd",
+      "m3u8Url": "https://sing.phimmoi.net/3a156ef73aea2a06603b9fa7a9a51ffd/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "muon-mat-cai-chet",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

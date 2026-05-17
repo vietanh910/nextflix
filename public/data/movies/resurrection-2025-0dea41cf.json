@@ -1,0 +1,59 @@
+{
+  "id": "resurrection-2025-0dea41cf",
+  "source": "ophim",
+  "slug": "thoi-dai-cuong-da",
+  "name": "Thời Đại Cuồng Dã",
+  "originName": "Resurrection",
+  "posterUrl": "https://img.ophim.live/uploads/movies/thoi-dai-cuong-da-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/thoi-dai-cuong-da-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "<p>Trong một thế giới mà loài người đã mất đi khả năng mơ mộng, một sinh vật vẫn bị mê hoặc bởi những ảo ảnh mờ nhạt của thế giới giấc mơ. Con quái vật này, trôi dạt trong mơ màng, bám víu vào những ảo ảnh mà không ai khác có thể thấy - cho đến khi một người phụ nữ xuất hiện. Được ban tặng sức mạnh hiếm có để nhận thức được bản chất thực sự của những ảo ảnh này, cô quyết định bước vào giấc mơ của con quái vật, quyết tâm khám phá sự thật ẩn giấu bên trong.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2c573a074732c9dad456e1e9f9ffc238",
+      "m3u8Url": "https://vip.opstream90.com/20260427/30356_2c573a07/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "thoi-dai-cuong-da",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

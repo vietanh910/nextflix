@@ -1,0 +1,55 @@
+{
+  "id": "hotsunlight-2021-2a44e6d0",
+  "source": "phimapi",
+  "slug": "nang-nong",
+  "name": "Nắng Nóng",
+  "originName": "Hotsunlight",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/60d158816f983110b013d084062c1a27.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/56d1a66e5337cee750a4e1b69d2ef8df.jpg",
+  "year": 2021,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nga",
+      "slug": "nga"
+    }
+  ],
+  "description": "Vùng Lugansk, tháng 5 năm 2014. Gia đình Novozhilov, một cách tình cờ, bị cuốn vào vòng xoáy của các sự kiện ở Lugansk. Vlad Novozhilov là một cựu chiến binh tham gia chiến tranh ở Afghanistan. Ông hiểu rõ chiến tranh là gì. Sau khi chứng kiến đủ những nỗi kinh hoàng của chiến tranh trong thời gian phục vụ, về nguyên tắc ông thậm chí không muốn chạm vào vũ khí. Trong tình huống này, ông chỉ thấy một lối thoát duy nhất - rời khỏi đất nước. Nhưng không thể chạy trốn khỏi chiến tranh, biên giới đã bị đóng cửa. Để cứu gia đình mình, ông sẽ phải đưa ra những lựa chọn đạo đức khó khăn.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/Hu4LX2fI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/Hu4LX2fI/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nang-nong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

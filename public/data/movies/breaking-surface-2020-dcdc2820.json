@@ -1,0 +1,55 @@
+{
+  "id": "breaking-surface-2020-dcdc2820",
+  "source": "ophim",
+  "slug": "cuoc-chien-duoi-day-dai-duong",
+  "name": "Cuộc Chiến Dưới Đáy Đại Dương",
+  "originName": "Breaking Surface",
+  "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-duoi-day-dai-duong-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-duoi-day-dai-duong-thumb.jpg",
+  "year": 2020,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thụy Điển",
+      "slug": "thuy-dien"
+    },
+    {
+      "name": "Na Uy",
+      "slug": "na-uy"
+    },
+    {
+      "name": "Bỉ",
+      "slug": "bi"
+    }
+  ],
+  "description": "<p>Chuyến đi lặn mùa đông ở Na Uy trở thành cuộc chạy đua tuyệt vọng với thời gian đối với hai chị em khi một trong hai người bị mắc kẹt dưới đáy đại dương do đá rơi.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/3c0efc7a60a85e233fb20c2e475c7970",
+      "m3u8Url": "https://vip.opstream12.com/20260422/32663_3c0efc7a/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "cuoc-chien-duoi-day-dai-duong",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

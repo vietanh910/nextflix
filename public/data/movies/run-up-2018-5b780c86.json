@@ -1,0 +1,47 @@
+{
+  "id": "run-up-2018-5b780c86",
+  "source": "ophim",
+  "slug": "chay-that-nhanh",
+  "name": "Chạy Thật Nhanh",
+  "originName": "Run Up!",
+  "posterUrl": "https://img.ophim.live/uploads/movies/chay-that-nhanh-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/chay-that-nhanh-thumb.jpg",
+  "year": 2018,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thụy Sĩ",
+      "slug": "thuy-si"
+    }
+  ],
+  "description": "",
+  "quality": "Full HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a4dc1548af356049973fba2271ce29e4",
+      "m3u8Url": "https://vip.opstream90.com/20260425/30216_a4dc1548/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "chay-that-nhanh",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

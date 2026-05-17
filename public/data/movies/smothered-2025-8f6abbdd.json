@@ -1,0 +1,51 @@
+{
+  "id": "smothered-2025-8f6abbdd",
+  "source": "ophim",
+  "slug": "truyen-thuyet-hac-am-ve-malin-kundang",
+  "name": "Truyền Thuyết Hắc Ám Về Malin Kundang",
+  "originName": "Smothered",
+  "posterUrl": "https://img.ophim.live/uploads/movies/truyen-thuyet-hac-am-ve-malin-kundang-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/truyen-thuyet-hac-am-ve-malin-kundang-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Indonesia",
+      "slug": "indonesia"
+    }
+  ],
+  "description": "<p>Sau một tai nạn xe hơi dẫn đến mất trí nhớ, Alif nghi ngờ người phụ nữ tự xưng là người mẹ thất lạc lâu năm của mình là kẻ lừa đảo và quyết tâm tìm ra sự thật.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f81b2a1d75d01e35b2ac8c0f6a8ec78b",
+      "m3u8Url": "https://vip.opstream90.com/20260505/31012_f81b2a1d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "truyen-thuyet-hac-am-ve-malin-kundang",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

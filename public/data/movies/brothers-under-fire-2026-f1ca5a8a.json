@@ -1,0 +1,55 @@
+{
+  "id": "brothers-under-fire-2026-f1ca5a8a",
+  "source": "ophim",
+  "slug": "brothers-under-fire",
+  "name": "Brothers Under Fire",
+  "originName": "Brothers Under Fire",
+  "posterUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Phi đội của Đại úy Jordan Wright đang nghỉ phép dự đám cưới ở Mexico thì chạm trán với một băng đảng ma túy khét tiếng. Khi Jordan cố gắng dẫn những người sống sót đến nơi an toàn, chiến tranh nổ ra giữa đội của anh và băng đảng, buộc anh phải tham gia vào trận chiến để cứu đồng đội.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/a7572e51d89da5dcfc00ce1c2e20e86c",
+      "m3u8Url": "https://vip.opstream12.com/20260506/32681_a7572e51/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "brothers-under-fire",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,63 @@
+{
+  "id": "a-pale-view-of-hills-2025-cc6ff494",
+  "source": "ophim",
+  "slug": "canh-doi-mo-xam",
+  "name": "Cảnh đồi mờ xám",
+  "originName": "A Pale View of Hills",
+  "posterUrl": "https://img.ophim.live/uploads/movies/canh-doi-mo-xam-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/canh-doi-mo-xam-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Nga",
+      "slug": "nga"
+    },
+    {
+      "name": "Ba lan",
+      "slug": "ba-lan"
+    },
+    {
+      "name": "Singapore",
+      "slug": "singapore"
+    }
+  ],
+  "description": "<p>Câu chuyện được kể theo hai dòng thời gian song song, khám phá ký ức của một góa phụ người Nhật Bản trải dài từ Nagasaki thời hậu chiến những năm 1950 đến nước Anh trong thời kỳ Chiến tranh Lạnh những năm 1980, hé lộ những bí mật đan xen giữa quá khứ và hiện tại của bà ở hai biên giới.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/4aa8dd9a08fdc32d53eac21cf46e79c0",
+      "m3u8Url": "https://vip.opstream12.com/20260423/32665_4aa8dd9a/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "canh-doi-mo-xam",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

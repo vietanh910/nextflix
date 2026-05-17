@@ -1,0 +1,47 @@
+{
+  "id": "sweethearts-2024-ca1b50fe",
+  "source": "phimapi",
+  "slug": "ban-yeu-dau",
+  "name": "Bạn Yêu Dấu",
+  "originName": "Sweethearts",
+  "posterUrl": "https://phimimg.com/upload/vod/20260512-1/52d0ff7618db9e191bb8fd2e0381ec10.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/77dd91ba67e97ecffaa38cb338263ed9.jpg",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Hai sinh viên năm nhất đại học quyết định gắn bó với mối tình thời trung học của mình phải thực hiện một cuộc đổ gà tây và chia tay họ trong Lễ Tạ ơn vào một đêm hỗn loạn trước Lễ Tạ ơn tại quê nhà, đặt tình bạn phụ thuộc lẫn nhau của họ vào thử thách.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/XPIzPs2k/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/XPIzPs2k/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ban-yeu-dau",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

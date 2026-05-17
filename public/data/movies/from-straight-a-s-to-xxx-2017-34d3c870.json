@@ -38,6 +38,11 @@
       "name": "",
       "serverName": "Vietsub #1",
       "source": "ophim"
+    },
+    {
+      "name": "",
+      "serverName": "#Hà Nội",
+      "source": "phimapi"
     }
   ],
   "sources": [
@@ -46,6 +51,12 @@
       "slug": "tu-diem-a-tuyet-doi-den-xxx",
       "episodeCount": 1,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tu-diem-a-tuyet-doi-den-xxx",
+      "episodeCount": 1,
+      "priority": 1
     }
   ],
   "_priority": 0

@@ -1,0 +1,34 @@
+{
+  "id": "song-of-the-samurai-cea531ea",
+  "source": "nguonc",
+  "slug": "khuc-trang-ca-shinsengumi",
+  "name": "Khúc Tráng Ca Shinsengumi",
+  "originName": "Song of the Samurai",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/6/khuc-trang-ca-shinsengumi-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/khuc-trang-ca-shinsengumi.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 1",
+  "categories": [],
+  "countries": [],
+  "description": "Lấy bối cảnh Kyoto vào cuối thời Edo, phim theo chân đội samurai Shinsengumi, xoay quanh cựu đấu sĩ đường phố Hijikata Toshizo cùng tình huynh đệ giữa anh với Kondo Isami và Okita Soji, khi lòng trung thành, sự phản bội và chiến tranh dần thử thách họ.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=06dd92643516c59f94489400c1d568ee",
+      "m3u8Url": "https://sing.phimmoi.net/06dd92643516c59f94489400c1d568ee/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "khuc-trang-ca-shinsengumi",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

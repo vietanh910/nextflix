@@ -1,0 +1,67 @@
+{
+  "id": "loved-one-2026-04f2297a",
+  "source": "ophim",
+  "slug": "loved-one",
+  "name": "LOVED ONE",
+  "originName": "LOVED ONE",
+  "posterUrl": "https://img.ophim.live/uploads/movies/loved-one-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/loved-one-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Một bác sĩ pháp y tài giỏi và một quan chức chính phủ điều tra những ca tử vong khó lý giải, hé lộ nguyên nhân ẩn giấu, trả lại sự trân trọng cho những người đã khuất.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6551bcaef4df47f1d142285805ec6de8",
+      "m3u8Url": "https://vip.opstream90.com/20260505/31025_6551bcae/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e5f733249a6f0dc11a6b1d4568c786da",
+      "m3u8Url": "https://vip.opstream90.com/20260505/31026_e5f73324/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6326bcc85252edd1439a695f78c96e23",
+      "m3u8Url": "https://vip.opstream90.com/20260510/31505_6326bcc8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "loved-one",
+      "episodeCount": 3,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

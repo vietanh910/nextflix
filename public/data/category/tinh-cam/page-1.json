@@ -2,7 +2,7 @@
   "slug": "tinh-cam",
   "name": "Tình Cảm",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 3,
   "items": [
     {
       "id": "six-singles-under-one-ro-2026-9808c065",
@@ -16,6 +16,143 @@
       "type": "tvshow",
       "status": "ongoing",
       "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "all-shades-of-temptation-2026-4b48dce0",
+      "source": "ophim",
+      "slug": "all-shades-of-temptation",
+      "name": "All Shades of Temptation",
+      "originName": "All Shades of Temptation",
+      "posterUrl": "https://img.ophim.live/uploads/movies/all-shades-of-temptation-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/all-shades-of-temptation-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ukraina",
+          "slug": "ukraina"
+        }
+      ]
+    },
+    {
+      "id": "rak-rak-sense-of-love-2026-41d37f02",
+      "source": "ophim",
+      "slug": "bat-song-tinh-duyen",
+      "name": "Bắt Sóng Tình Duyên",
+      "originName": "Rak Rak - Sense of Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bat-song-tinh-duyen-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bat-song-tinh-duyen-thumb.jpg",
+      "year": 2026,
+      "type": "tvshow",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "bebefinn-season-4-2026-b6b90237",
+      "source": "ophim",
+      "slug": "bebefinn-phan-4",
+      "name": "Bebefinn (Phần 4)",
+      "originName": "Bebefinn (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-4-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (2/2)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "bong-ma-hanh-phuc-2026-bcda4fd2",
+      "source": "ophim",
+      "slug": "bong-ma-hanh-phuc",
+      "name": "Bóng Ma Hạnh Phúc",
+      "originName": "Bong Ma Hanh Phuc",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bong-ma-hanh-phuc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bong-ma-hanh-phuc-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (40/40)",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "the-secret-friends-club-2026-dd146d34",
+      "source": "ophim",
+      "slug": "cau-lac-bo-ban-bi-mat",
+      "name": "Câu Lạc Bộ Bạn Bí Mật",
+      "originName": "The Secret Friends Club",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cau-lac-bo-ban-bi-mat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cau-lac-bo-ban-bi-mat-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Tình Cảm",
@@ -55,26 +192,18 @@
       ]
     },
     {
-      "id": "yumi-s-cells-season-3-2026-64a32f72",
-      "source": "phimapi",
-      "slug": "cac-te-bao-cua-yumi-phan-3",
-      "name": "Các Tế Bào Của Yumi (Phần 3)",
-      "originName": "Yumi's Cells (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/9bdab524f98b5904ac478b03c17853b3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/57f28e5e6d6399e53687174216c67bf6.jpg",
+      "id": "whisper-of-desire-2026-12f5fcee",
+      "source": "ophim",
+      "slug": "duc-vong-tham-kin",
+      "name": "Dục Vọng Thầm Kín",
+      "originName": "Whisper of Desire",
+      "posterUrl": "https://img.ophim.live/uploads/movies/duc-vong-tham-kin-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/duc-vong-tham-kin-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
       "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
@@ -82,105 +211,27 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
     {
-      "id": "the-first-promise-2026-5dbe7ef2",
-      "source": "phimapi",
-      "slug": "loi-hua-dau-tien",
-      "name": "Lời Hứa Đầu Tiên",
-      "originName": "The First Promise",
-      "posterUrl": "https://phimimg.com/upload/vod/20260420-1/43c782a7900f84dd2c9ce0c821d8e983.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/56404d15490e9a917b12b340b114779a.jpg",
+      "id": "mot-thoi-ta-da-yeu-2026-c63174d1",
+      "source": "ophim",
+      "slug": "mot-thoi-ta-da-yeu",
+      "name": "Một Thời Ta Đã Yêu",
+      "originName": "Một Thời Ta Đã Yêu",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mot-thoi-ta-da-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-thoi-ta-da-yeu-thumb.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "a-splendid-match-2026-b65e09ce",
-      "source": "phimapi",
-      "slug": "luong-tran-my-cam",
-      "name": "Lương Trần Mỹ Cẩm",
-      "originName": "A Splendid Match",
-      "posterUrl": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 26",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "against-the-sun-2026-4858f6e8",
-      "source": "phimapi",
-      "slug": "nguoc-duong-nguoc-nang",
-      "name": "Ngược Đường Ngược Nắng",
-      "originName": "Against The Sun",
-      "posterUrl": "https://phimimg.com/upload/vod/20260403-1/da18192c671fd053d2315f1160312315.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260403-1/2a82f2e2d6cfb86e1daa740edf76a1ce.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 28",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -216,39 +267,452 @@
       ]
     },
     {
-      "id": "big-mouth-2022-7d8e7e69",
-      "source": "phimapi",
-      "slug": "big-mouth",
-      "name": "Big Mouth",
-      "originName": "Big Mouth",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/df0d73908c09da82d237bf36fea4b21c.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/a45004295a2c2a58bab127ccb486674e.jpg",
-      "year": 2022,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
+      "id": "tham-my-vien-am-phu-2026-0b87c44e",
+      "source": "ophim",
+      "slug": "tham-my-vien-am-phu",
+      "name": "Thẩm Mỹ Viện Âm Phủ",
+      "originName": "Thẩm Mỹ Viện Âm Phủ",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tham-my-vien-am-phu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tham-my-vien-am-phu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
-        },
+        }
+      ],
+      "countries": [
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "scandal-love-2026-25367d2f",
+      "source": "ophim",
+      "slug": "tin-don-tinh-yeu",
+      "name": "Tin Đồn Tình Yêu",
+      "originName": "Scandal love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tin-don-tinh-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tin-don-tinh-yeu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "shine-for-love-2026-329b1b8d",
+      "source": "ophim",
+      "slug": "toa-sang-vi-yeu",
+      "name": "Tỏa Sáng Vì Yêu",
+      "originName": "Shine for Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/toa-sang-vi-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/toa-sang-vi-yeu-thumb.jpg",
+      "year": 2026,
+      "type": "tvshow",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "tu-yaa-main-2026-3a237e58",
+      "source": "ophim",
+      "slug": "tu-yaa-main",
+      "name": "Tu Yaa Main",
+      "originName": "Tu Yaa Main",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tu-yaa-main-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tu-yaa-main-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "rent-a-girlfriend-season-2026-2be9b27c",
+      "source": "phimapi",
+      "slug": "ban-gai-thue-phan-5",
+      "name": "Bạn Gái Thuê (Phần 5)",
+      "originName": "Rent-A-Girlfriend (Season 5)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260413-1/0b8e85147ee42a98b98f1c2c8f6f5410.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260413-1/0f7601ab0c569445b69a040dab869f72.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "gals-can-t-be-kind-to-ot-2026-18bfb597",
+      "source": "phimapi",
+      "slug": "chang-otaku-va-hai-nang-gal-bi-an-otaku-ni-yasashii-gal-wa-inai",
+      "name": "Chàng Otaku Và Hai Nàng Gal Bí Ẩn (Otaku ni Yasashii Gal wa Inai!?)",
+      "originName": "Gals Can't Be Kind To Otaku!?",
+      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/b2133457c5c60d9153267fd7c85a3a95.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/e81f759bfaba7e666b1f12287c9b4146.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "royal-upstart-2-2026-71b87271",
+      "source": "phimapi",
+      "slug": "chang-re-ngoc-2",
+      "name": "Chàng Rể Ngốc 2",
+      "originName": "Royal Upstart 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20260429-1/c7639e32d3f8da6d3dc10dc119cf9837.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260429-1/856f215159a653fe603fdb7f87e30d31.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (28/28)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "akane-banashi-2026-e346df52",
+      "source": "phimapi",
+      "slug": "chuyen-ke-cua-akane",
+      "name": "Chuyện Kể Của Akane",
+      "originName": "Akane-banashi",
+      "posterUrl": "https://phimimg.com/upload/vod/20260406-1/4a85124c6909360ca8f62b21c7ff86b2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260406-1/4abaebf131a964fa54695cf899dbdaf7.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "yowayowa-sensei-2026-e3646489",
+      "source": "phimapi",
+      "slug": "co-giao-mong-manh",
+      "name": "Cô Giáo Mong Manh",
+      "originName": "Yowayowa Sensei",
+      "posterUrl": "https://phimimg.com/upload/vod/20260412-1/19bcb2fe9fffcffac5b8aaa39d70bb49.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260412-1/6628eba132a80e128aa310548de1db89.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "how-dare-you-season-2-2026-419ed623",
+      "source": "phimapi",
+      "slug": "con-ra-the-thong-gi-nua-phan-2",
+      "name": "Còn Ra Thể Thống Gì Nữa (Phần 2)",
+      "originName": "How Dare You! (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260125-1/13a49743588595a8eb026d73bc0a6a0b.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 19",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-drops-of-god-2026-850d8d31",
+      "source": "phimapi",
+      "slug": "giot-ruou-than-thanh-2026",
+      "name": "Giọt Rượu Thần Thánh",
+      "originName": "The Drops Of God",
+      "posterUrl": "https://phimimg.com/upload/vod/20260413-1/0349d814fb2c329fed969eb51e4704fa.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260413-1/201f677ff7c169d650dc9dd620950d4c.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "love-s-shattered-reflect-2026-219451be",
+      "source": "phimapi",
+      "slug": "hinh-phat-vi-yeu-em",
+      "name": "Hình Phạt Vì Yêu Em",
+      "originName": "Love's Shattered Reflections",
+      "posterUrl": "https://phimimg.com/upload/vod/20260416-1/18270e9517eb33fa07130dfdb196603c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260416-1/c0ddec0dcd021f43bfeda4f331177dd2.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "wicked-temptation-2026-792ce56d",
+      "source": "phimapi",
+      "slug": "ho-giau-van-payak-raai-sorn-laai",
+      "name": "Hổ Giấu Vằn (Payak Raai Sorn Laai)",
+      "originName": "Wicked Temptation",
+      "posterUrl": "https://phimimg.com/upload/vod/20260516-1/77c1b40f3b62b6bbc79c5e1040b2340b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260516-1/491a74f039db3dc1ecf09fb0f715f57b.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "wishing-upon-the-shootin-2026-44d13249",
+      "source": "phimapi",
+      "slug": "huong-ve-sao-bang-cau-nguyen",
+      "name": "Hướng Về Sao Băng Cầu Nguyện",
+      "originName": "Wishing Upon the Shooting Stars",
+      "posterUrl": "https://phimimg.com/upload/vod/20260404-1/9c0b84096a0310d005f2836350bf78f7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/a51c6f3471dda694f0b79e10cc95bede.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
         }
       ]
     }
