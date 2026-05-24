@@ -1,0 +1,51 @@
+{
+  "id": "hive-2026-a0eb7443",
+  "source": "phimapi",
+  "slug": "hive",
+  "name": "Hive",
+  "originName": "Hive",
+  "posterUrl": "https://phimimg.com/upload/vod/20260519-1/5d0937a7978bed801c84483d52907d19.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260519-1/6e6fc80579bbd40a1b7f06333f129c3a.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "Một cô giữ trẻ tuổi teen căng thẳng vì mất đứa trẻ mình trông nom và phải đối mặt với một thế lực đen tối ẩn nấp giữa đám trẻ ở sân chơi. Khi ranh giới giữa thực và ảo trở nên mờ nhạt, cô bé phải tìm cách sống sót trong một thế giới đầy dối trá.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/Bl2geprp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/Bl2geprp/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "hive",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Hài Hước",
@@ -191,6 +191,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260516/jJ5McYfa/index.m3u8"
     },
     {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/2ZRoRGnS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/2ZRoRGnS/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -333,6 +341,14 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260510/LenntjpK/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260510/LenntjpK/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/RmRgBbAV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/RmRgBbAV/index.m3u8"
     },
     {
       "name": "1",
@@ -485,19 +501,27 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/5d810d095c3f16cce86a8b99060ff44c",
       "m3u8Url": "https://vip.opstream90.com/20260517/31996_5d810d09/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7c6ae3b675e31c8cde2b3bbbd9c3b744",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32777_7c6ae3b6/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "con-ra-the-thong-gi-nua-phan-2",
-      "episodeCount": 19,
+      "episodeCount": 20,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "con-ra-the-thong-gi-nua-phan-2",
-      "episodeCount": 37,
+      "episodeCount": 39,
       "priority": 1
     }
   ],

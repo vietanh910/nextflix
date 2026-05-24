@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hài Hước",
@@ -61,14 +61,68 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/9436535c0d2f5b452cf260f63ca8157c",
       "m3u8Url": "https://vip.opstream90.com/20260513/31620_9436535c/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b17817e6bd62910a6e9016c9a58ee9bb",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32418_b17817e6/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260423/Bb22EQKL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260423/Bb22EQKL/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260429/S32Mt30P/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260429/S32Mt30P/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260507/WsxUMcNa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260507/WsxUMcNa/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/ioi1hPTv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/ioi1hPTv/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/rDdYRwNl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/rDdYRwNl/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "magic-move-tien-tri-tinh-yeu",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tien-tri-tinh-yeu",
+      "episodeCount": 5,
+      "priority": 1
     }
   ],
   "_priority": 0

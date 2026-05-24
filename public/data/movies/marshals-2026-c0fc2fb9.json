@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 12",
   "categories": [
     {
       "name": "Chính kịch",
@@ -115,106 +115,20 @@
       "m3u8Url": "https://vip.opstream10.com/20260511/33678_c0c0d016/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260312/QeZibPBi/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260312/QeZibPBi/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260312/oRq6n6uK/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260312/oRq6n6uK/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260324/vfvcRGOp/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260324/vfvcRGOp/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260326/4aXhPKdQ/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260326/4aXhPKdQ/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260331/otYtjS5u/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260331/otYtjS5u/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/pqlHThGk/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/pqlHThGk/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/YK3GEFQN/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/YK3GEFQN/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/8M7uUjWY/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/8M7uUjWY/index.m3u8"
-    },
-    {
-      "name": "Tập 09",
-      "slug": "tap-09",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/xKXArs4C/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/xKXArs4C/index.m3u8"
-    },
-    {
-      "name": "Tập 10",
-      "slug": "tap-10",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/Q0WraUuq/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/Q0WraUuq/index.m3u8"
-    },
-    {
-      "name": "Tập 11",
-      "slug": "tap-11",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/3D1xDgxb/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/3D1xDgxb/index.m3u8"
+      "name": "12",
+      "slug": "12",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e6ca77b059a8ec5a7842944270fbe749",
+      "m3u8Url": "https://vip.opstream10.com/20260518/33706_e6ca77b0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "marshals",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "luc-luong-marshals",
-      "episodeCount": 11,
-      "priority": 1
     }
   ],
   "_priority": 0

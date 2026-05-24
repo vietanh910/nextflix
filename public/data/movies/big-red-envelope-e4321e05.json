@@ -1,0 +1,34 @@
+{
+  "id": "big-red-envelope-e4321e05",
+  "source": "nguonc",
+  "slug": "dai-hong-bao",
+  "name": "Đại Hồng Bao",
+  "originName": "Big Red Envelope",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/9sKa9alBl0uvt7OUSDamApYB2Z0.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/bMVblXQEsnDCv0a4zt6tgQRb8XL.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Nhân vật chính Trần Trọng là một nhân viên văn phòng thường xuyên phải đi “mừng phong bì” cho đám cưới, tân gia, sinh nhật… nên tốn rất nhiều tiền. Vì muốn lấy lại số tiền đã từng mừng người khác, anh nghĩ ra kế hoạch tổ chức một đám cưới giả để thu tiền mừng từ bạn bè và đồng nghiệp.\r\n\r\nAnh thuê một nữ diễn viên xinh đẹp tên Ellie giả làm cô dâu của mình. Mọi chuyện ban đầu diễn ra thuận lợi, nhưng dần dần bị rối tung khi người yêu cũ nghi ngờ, còn Ellie và Trần Trọng bắt đầu nảy sinh tình cảm thật.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=d711ad08789222876d6dc9b4121a6463",
+      "m3u8Url": "https://sing.phimmoi.net/d711ad08789222876d6dc9b4121a6463/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "dai-hong-bao",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

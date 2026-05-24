@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -99,6 +99,46 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260516/JzFcvbfp/index.m3u8"
     },
     {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/HUz4CRPj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/HUz4CRPj/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/dvhzgVja/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/dvhzgVja/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/qfShOsXo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/qfShOsXo/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/AXidkQWi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/AXidkQWi/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/o9m21mT9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260521/o9m21mT9/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -161,13 +201,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/IFMsku65/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260516/IFMsku65/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/6X8vL094/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/6X8vL094/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/CavX28DR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/CavX28DR/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/LMO1OSTw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/LMO1OSTw/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/R0ZDG8kS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/R0ZDG8kS/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/JigEb3bq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260521/JigEb3bq/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "oi-toi-la-thiep",
-      "episodeCount": 16,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

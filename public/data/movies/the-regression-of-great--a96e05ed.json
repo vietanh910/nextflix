@@ -7,74 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/8/daikenja-riddle-no-jikan-gyakkou-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/daikenja-riddle-no-jikan-gyakkou.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "description": "Câu chuyện xoay quanh Riddle, một người đàn ông đã mất đi tất cả bạn bè, gia đình và cả thế giới dưới tay một tổ chức bí ẩn tên là Box of Malice. Sau một nghìn năm sống trong tuyệt vọng và rèn luyện, Riddle cuối cùng đã tìm ra cách để quay ngược thời gian. Với cơ thể trẻ lại nhưng vẫn giữ nguyên kiến thức và kinh nghiệm của một \"Đại Hiền giả\" suốt thiên niên kỷ, anh bắt đầu hành trình thay đổi tương lai và tiêu diệt tổ chức Box of Malice một lần và mãi mãi.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=be999c96da08a00e95e4391be54ff73e",
-      "m3u8Url": "https://sing.phimmoi.net/be999c96da08a00e95e4391be54ff73e/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=1a143bd55542e560f2f27f2fa5c260cb",
-      "m3u8Url": "https://sing.phimmoi.net/1a143bd55542e560f2f27f2fa5c260cb/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=fdadb60358d7f85b1f988be34469ba9e",
-      "m3u8Url": "https://sing.phimmoi.net/fdadb60358d7f85b1f988be34469ba9e/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=77b7b5264c1b2eb8161b5df2be89c72a",
-      "m3u8Url": "https://sing.phimmoi.net/77b7b5264c1b2eb8161b5df2be89c72a/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=46ac7e07002aa22fc52eecb8f0880ec4",
-      "m3u8Url": "https://sing.phimmoi.net/46ac7e07002aa22fc52eecb8f0880ec4/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=0f9fb7cadb7ad3764e596b292b504cd9",
-      "m3u8Url": "https://sing.phimmoi.net/0f9fb7cadb7ad3764e596b292b504cd9/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=c69bd76dceeb98419423a3ae4b55f681",
-      "m3u8Url": "https://sing.phimmoi.net/c69bd76dceeb98419423a3ae4b55f681/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "daikenja-riddle-no-jikan-gyakkou",
-      "episodeCount": 7,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

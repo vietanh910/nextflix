@@ -1,0 +1,93 @@
+{
+  "id": "kylie-2026-54180d1c",
+  "source": "ophim",
+  "slug": "kylie",
+  "name": "Kylie",
+  "originName": "Kylie",
+  "posterUrl": "https://img.ophim.live/uploads/movies/kylie-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/kylie-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (3/3)",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Kylie tìm hiểu về cuộc đời của Minogue, người đã mở kho lưu trữ cá nhân và hồi tưởng về sự nghiệp mà cô đã bán được 80 triệu đĩa nhạc và tự làm mới bản thân, và từ đó, cả nền nhạc pop, nhiều lần. Những thước phim gia đình, ảnh cá nhân và các cuộc phỏng vấn mới sẽ hé lộ bức tranh toàn cảnh, khi cô đề cập đến cách mình đối mặt với sự soi mói của công chúng, mất mát cá nhân và bệnh tật.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2272f36ac8ee821bb87bfff301370308",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32536_2272f36a/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c1f0986fd7eefc02708427c7b8fada90",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32537_c1f0986f/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/251ac3d1e0619a1166fa15753157ea11",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32538_251ac3d1/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/PACOTqNj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/PACOTqNj/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/wymnHx3N/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/wymnHx3N/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/zfiFtWDN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/zfiFtWDN/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "kylie",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "kylie",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

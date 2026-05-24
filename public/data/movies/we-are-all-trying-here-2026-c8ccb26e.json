@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -101,6 +101,22 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/7fXNguhn/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260516/7fXNguhn/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/9mIVg1mr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/9mIVg1mr/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/m2cO0N3R/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/m2cO0N3R/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -237,19 +253,35 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/6b8e5c40385d83fc12c2c1aca1a697b8",
       "m3u8Url": "https://vip.opstream90.com/20260517/32144_6b8e5c40/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d97abcf66ea8d5818ebf5eb128f0de13",
+      "m3u8Url": "https://vip.opstream90.com/20260518/32187_d97abcf6/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7d8bfb447a72415af33c7817b3c7e9dc",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32772_7d8bfb44/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cuoc-chien-trong-chung-ta",
-      "episodeCount": 9,
+      "episodeCount": 11,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "cuoc-chien-trong-chung-ta",
-      "episodeCount": 17,
+      "episodeCount": 19,
       "priority": 1
     }
   ],

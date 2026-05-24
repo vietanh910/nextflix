@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -107,6 +107,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260515/NuRIuyex/index.m3u8"
     },
     {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/QnOReMQT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260522/QnOReMQT/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -169,19 +177,27 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/f7652e68e0da3f415d7a0cb66da9c510",
       "m3u8Url": "https://vip.opstream90.com/20260513/31675_f7652e68/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ead316e44cc96ef5f2397ca7cceaba82",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32546_ead316e4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "huong-ve-sao-bang-cau-nguyen",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "huong-ve-sao-bang-cau-nguyen",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

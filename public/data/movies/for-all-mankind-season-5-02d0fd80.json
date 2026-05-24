@@ -7,82 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/3/cuoc-chien-khong-gianphan-5-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/cuoc-chien-khong-gianphan-5.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "description": "Mùa thứ năm của loạt phim bắt đầu vào những năm 2010, nhiều năm sau vụ cướp tiểu hành tinh Goldilocks. Thung lũng Hạnh phúc đã phát triển thành một thuộc địa thịnh vượng với hàng nghìn cư dân và là căn cứ cho các nhiệm vụ mới sẽ đưa chúng ta tiến xa hơn nữa vào hệ mặt trời. Nhưng với việc các quốc gia trên Trái đất hiện đang yêu cầu luật pháp và trật tự trên Sao Hỏa, mâu thuẫn tiếp tục gia tăng giữa những người sống trên Sao Hỏa và quê hương cũ của họ.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=bd9c920c752e9086115368f6dc951178",
-      "m3u8Url": "https://sing.phimmoi.net/bd9c920c752e9086115368f6dc951178/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=212f03f40078307b9bef63f5fa0782b6",
-      "m3u8Url": "https://sing.phimmoi.net/212f03f40078307b9bef63f5fa0782b6/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=def3cf4e2945b8f4dd53b356c6694272",
-      "m3u8Url": "https://sing.phimmoi.net/def3cf4e2945b8f4dd53b356c6694272/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=48d3ab8eee2dbb1dcb5852b1d09d1748",
-      "m3u8Url": "https://sing.phimmoi.net/48d3ab8eee2dbb1dcb5852b1d09d1748/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=0b256809a6975a5901a1772baba9504d",
-      "m3u8Url": "https://sing.phimmoi.net/0b256809a6975a5901a1772baba9504d/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=fd7a24c038beaa3b89814a5039ad1232",
-      "m3u8Url": "https://sing.phimmoi.net/fd7a24c038beaa3b89814a5039ad1232/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=a23d69ae94aab26406e4c9a8b1b57adf",
-      "m3u8Url": "https://sing.phimmoi.net/a23d69ae94aab26406e4c9a8b1b57adf/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=6749fd2d09325627c0bd2f6f42727eee",
-      "m3u8Url": "https://sing.phimmoi.net/6749fd2d09325627c0bd2f6f42727eee/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "cuoc-chien-khong-gian-phan-5",
-      "episodeCount": 8,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

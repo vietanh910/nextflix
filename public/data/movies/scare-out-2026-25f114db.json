@@ -1,0 +1,51 @@
+{
+  "id": "scare-out-2026-25f114db",
+  "source": "ophim",
+  "slug": "su-thuc-tinh-lang-tham",
+  "name": "Sự Thức Tỉnh Lặng Thầm",
+  "originName": "Scare Out",
+  "posterUrl": "https://img.ophim.live/uploads/movies/su-thuc-tinh-lang-tham-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/su-thuc-tinh-lang-tham-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>After a critical intelligence leak, a national security unit launches an intensive investigation. But successive setbacks in their arrest operations reveal a shocking truth: the trail leads back to within the unit itself. Amidst a storm of trust and betrayal, a silent battle begins to unfold...</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2f67c31ef2232270b2cbcc57d98b23e2",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32763_2f67c31e/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "su-thuc-tinh-lang-tham",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

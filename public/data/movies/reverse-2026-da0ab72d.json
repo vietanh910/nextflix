@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/ke-thu-chung-giuong-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (8/8)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -77,13 +77,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/5ed9dcf3d3d3dd8712866e81ddeaa03d",
       "m3u8Url": "https://vip.opstream90.com/20260501/30695_5ed9dcf3/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/13d29e6e8cf1bcf427da3e7bd696a73f",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32654_13d29e6e/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/87fdd4edd5d7ca54f73bb1844e7ef7b5",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32655_87fdd4ed/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ke-thu-chung-giuong",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 0
     }
   ],

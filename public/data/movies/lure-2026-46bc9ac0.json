@@ -1,0 +1,47 @@
+{
+  "id": "lure-2026-46bc9ac0",
+  "source": "ophim",
+  "slug": "lure",
+  "name": "Lure",
+  "originName": "Lure",
+  "posterUrl": "https://img.ophim.live/uploads/movies/lure-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/lure-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Sau khi được một người phụ nữ bí ẩn và quyến rũ mời đến một bữa tiệc, sáu người đàn ông tỉnh dậy và phát hiện mình là một phần của truyền thống hàng năm rùng rợn của một gia đình giáo phái nhằm tìm kiếm người cầu hôn hoàn hảo.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/29ccd48e559a99dc8054041bc90be347",
+      "m3u8Url": "https://vip.opstream12.com/20260521/32704_29ccd48e/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "lure",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

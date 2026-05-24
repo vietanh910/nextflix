@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Chính kịch",
@@ -43,6 +43,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260517/31995_5e7409b3/index.m3u8"
     },
     {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/87ec54ef27e93908a8397eb3a6bbb45b",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32776_87ec54ef/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -57,19 +65,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/pR4lA2V5/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260516/pR4lA2V5/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/J9ouotsp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/J9ouotsp/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "your-dear-daddy-goi-dad-di-tharn",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "goi-dad-di-tharn",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

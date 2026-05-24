@@ -7,66 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/9/kami-no-shizuku.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/9/kami-no-shizuku-1.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [],
   "countries": [],
-  "description": "Shizuku Kanzaki, con trai của một chuyên gia thử rượu nổi tiếng thế giới vừa qua đời. Dù Shizuku chưa từng uống rượu và làm việc tại một công ty bia, anh phải bước vào cuộc đối đầu với Issei Tomine, một chuyên gia rượu trẻ tuổi tài ba được cha anh nhận nuôi ngay trước khi chết.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=4162e8af76157c209f039944e92f7a9c",
-      "m3u8Url": "https://sing.phimmoi.net/4162e8af76157c209f039944e92f7a9c/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=72b09088649af1021c94414943429136",
-      "m3u8Url": "https://sing.phimmoi.net/72b09088649af1021c94414943429136/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=c55bcef4e656ae6ceba15d7dbbfdb1cf",
-      "m3u8Url": "https://sing.phimmoi.net/c55bcef4e656ae6ceba15d7dbbfdb1cf/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=eb29a2736f34d74ceb548f33cf9a2441",
-      "m3u8Url": "https://sing.phimmoi.net/eb29a2736f34d74ceb548f33cf9a2441/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=660907f5b60af5df7c3d02b9cfb08b90",
-      "m3u8Url": "https://sing.phimmoi.net/660907f5b60af5df7c3d02b9cfb08b90/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=e2b5d01f88fa003f006b74cd4825e98f",
-      "m3u8Url": "https://sing.phimmoi.net/e2b5d01f88fa003f006b74cd4825e98f/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "kami-no-shizuku",
-      "episodeCount": 6,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

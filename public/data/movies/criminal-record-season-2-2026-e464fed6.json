@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hình Sự",
@@ -61,14 +61,68 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/1f034ade6c58fc442a66e4b2b71abbf8",
       "m3u8Url": "https://vip.opstream90.com/20260513/31686_1f034ade/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fac99c77695b5655eefadf78498b8430",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32426_fac99c77/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260424/Zf4npcP2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260424/Zf4npcP2/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260430/e4ZDATeh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260430/e4ZDATeh/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260508/WYo9Tu7e/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260508/WYo9Tu7e/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/7j33yunf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/7j33yunf/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/2hSPslXo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/2hSPslXo/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ho-so-toi-pham-phan-2",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ho-so-toi-pham-phan-2",
+      "episodeCount": 5,
+      "priority": 1
     }
   ],
   "_priority": 0

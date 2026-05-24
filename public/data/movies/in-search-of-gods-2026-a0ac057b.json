@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Hành Động",
@@ -109,13 +109,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/51e04cd4e55e7e415bf24de9e1b0f3ff",
       "m3u8Url": "https://vip.opstream90.com/20260513/31626_51e04cd4/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5928ecabcdc8f26faaa44e79476af2f0",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32414_5928ecab/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "suu-than-ky",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 0
     }
   ],

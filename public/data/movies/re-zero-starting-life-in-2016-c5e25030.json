@@ -9,7 +9,7 @@
   "year": 2016,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hành Động",
@@ -89,13 +89,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ac3811a6c6bb180aa7db3e94fdab42cc",
       "m3u8Url": "https://vip.opstream90.com/20260513/31702_ac3811a6/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8ca137da54011ed7d13cdec4cc2a6340",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32548_8ca137da/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "rezero-−-bat-dau-o-the-gioi-khac-phan-4",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 0
     }
   ],

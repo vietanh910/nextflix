@@ -7,34 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/ke-ngoan-duoc-len-thien-duong-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/ke-ngoan-duoc-len-thien-duong.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [],
   "countries": [],
-  "description": "Khi con trai bị sát hại tại Kuala Makar yên bình, người cha không có bằng chứng ngoại phạm thành nghi phạm chính. Ông quyết tự tìm hung thủ thật sự để minh oan.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=a2821066149aed58e551f9e94e6f0319",
-      "m3u8Url": "https://sing.phimmoi.net/a2821066149aed58e551f9e94e6f0319/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=bc7ce360a7b217ae1275a5d22947ad25",
-      "m3u8Url": "https://sing.phimmoi.net/bc7ce360a7b217ae1275a5d22947ad25/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ke-ngoan-duoc-len-thien-duong",
-      "episodeCount": 2,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

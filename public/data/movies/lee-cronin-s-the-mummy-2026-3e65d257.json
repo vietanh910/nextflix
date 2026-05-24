@@ -2,14 +2,14 @@
   "id": "lee-cronin-s-the-mummy-2026-3e65d257",
   "source": "ophim",
   "slug": "xac-uopp",
-  "name": "Xác Ướp",
+  "name": "Một bộ phim của Lee Cronin: Xác ướp",
   "originName": "Lee Cronin's The Mummy",
   "posterUrl": "https://img.ophim.live/uploads/movies/xac-uopp-poster.jpg",
   "thumbUrl": "https://img.ophim.live/uploads/movies/xac-uopp-thumb.jpg",
   "year": 2026,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Kinh Dị",
@@ -31,9 +31,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "Full",
+      "slug": "full",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5f6eb0809f31e88067e51bfd2bb0c50e",
+      "m3u8Url": "https://vip.opstream90.com/20260518/32323_5f6eb080/index.m3u8"
     }
   ],
   "sources": [

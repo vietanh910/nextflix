@@ -1,0 +1,59 @@
+{
+  "id": "27-dresses-2008-14794525",
+  "source": "phimapi",
+  "slug": "27-lan-cuoi",
+  "name": "27 Lần Cưới",
+  "originName": "27 Dresses",
+  "posterUrl": "https://phimimg.com/upload/vod/20260523-1/3661a8156a91332d87242f9a741f1f66.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260523-1/6d69b523880e76c79f76864c54266e15.jpg",
+  "year": 2008,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Cô nàng Jane giàu lòng vị tha đang đối mặt với cơn ác mộng tồi tệ nhất khi em gái cô tuyên bố đính hôn với người đàn ông mà Jane thầm yêu.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/HJLnoQBW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/HJLnoQBW/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "27-lan-cuoi",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,51 @@
+{
+  "id": "the-truth-vs-alex-jones-2024-772e5d87",
+  "source": "phimapi",
+  "slug": "su-that-va-alex-jones",
+  "name": "Sự Thật Và Alex Jones",
+  "originName": "The Truth Vs. Alex Jones",
+  "posterUrl": "https://phimimg.com/upload/vod/20260518-1/60cd6a85c3413826008e5b2c5aea03ae.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/1027ebb33ad64c337e1f956a32832c8f.jpg",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "Được quay trong hơn bốn năm với mức độ truy cập chưa từng có, bộ phim tài liệu này ghi lại diễn biến hấp dẫn tại tòa án về hai vụ kiện phỉ báng do gia đình các nạn nhân vụ xả súng tại Trường tiểu học Sandy Hook đệ đơn kiện Alex Jones và trang web InfoWars của ông ta.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/h920wZMe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/h920wZMe/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "su-that-va-alex-jones",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

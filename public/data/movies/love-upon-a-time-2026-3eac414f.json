@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -99,6 +99,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260516/31900_2d900e04/index.m3u8"
     },
     {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/53e05338ce6abee9ef68c74d76a50ec4",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32721_53e05338/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -161,19 +169,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/sZciBXlN/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260515/sZciBXlN/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/EMszGy0l/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260522/EMszGy0l/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "love-upon-a-time-duyen-kiep-ben-nguoi",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "duyen-kiep-ben-nguoi",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

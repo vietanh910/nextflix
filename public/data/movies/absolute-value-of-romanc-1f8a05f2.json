@@ -7,114 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/10/gia-tri-tuyet-doi-cua-lang-man-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/10/gia-tri-tuyet-doi-cua-lang-man.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 14",
   "categories": [],
   "countries": [],
-  "description": "Eui-ju, một nữ sinh trầm lặng ban ngày, là một tiểu thuyết gia viết tiểu thuyết tình cảm ban đêm, được truyền cảm hứng khi bốn giáo viên điển trai xuất hiện: Woo-su ​​lạnh lùng, Da-ju sôi nổi, Gi-jeon cộc cằn và Dong-ju dịu dàng. Cô đưa họ vào cuốn tiểu thuyết mới của mình, và nó nổi tiếng chỉ sau một đêm! Nhưng bí mật của cô bị Woo-su, kẻ thù không đội trời chung từ trước đến giờ, phát hiện. Cô chấp nhận lời đề nghị của anh ta để bảo vệ bí mật của mình, nhưng liệu cô có thể hoàn thành cuốn tiểu thuyết này mà không bị tổn hại gì không?",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=7c5d86ae08b227c8cb05b222a93ddcb2",
-      "m3u8Url": "https://sing.phimmoi.net/7c5d86ae08b227c8cb05b222a93ddcb2/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=a71fd888a02af1ced7161b0d19d454a0",
-      "m3u8Url": "https://sing.phimmoi.net/a71fd888a02af1ced7161b0d19d454a0/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=680877575ece219c4f9784362f4df063",
-      "m3u8Url": "https://sing.phimmoi.net/680877575ece219c4f9784362f4df063/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=16bf97473d6095b9ef1c01bcb0e4b738",
-      "m3u8Url": "https://sing.phimmoi.net/16bf97473d6095b9ef1c01bcb0e4b738/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=cfe4ff059476c8657defaf11592402eb",
-      "m3u8Url": "https://sing.phimmoi.net/cfe4ff059476c8657defaf11592402eb/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=e969ee21ed882b5943d0d5766a44bd91",
-      "m3u8Url": "https://sing.phimmoi.net/e969ee21ed882b5943d0d5766a44bd91/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=9bdf29b6f4eb77fd4e31d6c1c8ec8cab",
-      "m3u8Url": "https://sing.phimmoi.net/9bdf29b6f4eb77fd4e31d6c1c8ec8cab/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=c6101c9926f453088389aefe98d048d3",
-      "m3u8Url": "https://sing.phimmoi.net/c6101c9926f453088389aefe98d048d3/hls.m3u8"
-    },
-    {
-      "name": "9",
-      "slug": "tap-9",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=77d7e6b95281ef43ce4643b0bf15b1b6",
-      "m3u8Url": "https://sing.phimmoi.net/77d7e6b95281ef43ce4643b0bf15b1b6/hls.m3u8"
-    },
-    {
-      "name": "10",
-      "slug": "tap-10",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=65c001a1832832c0396f14443416f09f",
-      "m3u8Url": "https://sing.phimmoi.net/65c001a1832832c0396f14443416f09f/hls.m3u8"
-    },
-    {
-      "name": "11",
-      "slug": "tap-11",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=dad43e98ac08cab65fd258da3f6fc19f",
-      "m3u8Url": "https://sing.phimmoi.net/dad43e98ac08cab65fd258da3f6fc19f/hls.m3u8"
-    },
-    {
-      "name": "12",
-      "slug": "tap-12",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=9bb238291c60e8b033d0f2c2689b4a58",
-      "m3u8Url": "https://sing.phimmoi.net/9bb238291c60e8b033d0f2c2689b4a58/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "gia-tri-tuyet-doi-cua-lang-man",
-      "episodeCount": 12,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

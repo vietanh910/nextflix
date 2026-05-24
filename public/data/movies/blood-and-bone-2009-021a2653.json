@@ -1,0 +1,55 @@
+{
+  "id": "blood-and-bone-2009-021a2653",
+  "source": "phimapi",
+  "slug": "tran-dia-tu-than",
+  "name": "Trận Địa Tử Thần",
+  "originName": "Blood And Bone",
+  "posterUrl": "https://phimimg.com/upload/vod/20260520-1/e4b4b51791683752e9d279bf834614af.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260520-1/063998d543c08ac65106be3921c21ab6.jpg",
+  "year": 2009,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Sau 5 năm tù, một người đàn ông tạo dựng tên tuổi trong giới võ sĩ ngầm tại Los Angeles khi anh tìm cách trả thù cho một người bạn đã khuất.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/5P64S7T4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/5P64S7T4/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tran-dia-tu-than",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

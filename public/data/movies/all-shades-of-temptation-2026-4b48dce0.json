@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/all-shades-of-temptation-thumb.jpg",
   "year": 2026,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Tình Cảm",
@@ -27,9 +27,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "Full",
+      "slug": "full",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/7b93e5f6737b062ac280b16064851446",
+      "m3u8Url": "https://vip.opstream12.com/20260514/32697_7b93e5f6/index.m3u8"
     }
   ],
   "sources": [

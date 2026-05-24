@@ -5,105 +5,6 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "big-mouth-2022-7d8e7e69",
-      "source": "phimapi",
-      "slug": "big-mouth",
-      "name": "Big Mouth",
-      "originName": "Big Mouth",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/df0d73908c09da82d237bf36fea4b21c.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/a45004295a2c2a58bab127ccb486674e.jpg",
-      "year": 2022,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (16/16)",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "lie-to-me-the-truth-2021-ea46467f",
-      "source": "phimapi",
-      "slug": "hay-noi-doi-toi-su-that",
-      "name": "Hãy Nói Dối Tôi Sự Thật",
-      "originName": "Lie To Me The Truth",
-      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/04360cfc65aa7ee629e7ed07fe07f7bd.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/6e6aa4432b58c1d21b1349fefcfbc041.jpg",
-      "year": 2021,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nga",
-          "slug": "nga"
-        }
-      ]
-    },
-    {
-      "id": "hotsunlight-2021-2a44e6d0",
-      "source": "phimapi",
-      "slug": "nang-nong",
-      "name": "Nắng Nóng",
-      "originName": "Hotsunlight",
-      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/60d158816f983110b013d084062c1a27.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/56d1a66e5337cee750a4e1b69d2ef8df.jpg",
-      "year": 2021,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nga",
-          "slug": "nga"
-        }
-      ]
-    },
-    {
       "id": "bad-investigate-2018-c29888a2",
       "source": "ophim",
       "slug": "tham-tu-bat-dac-di",
@@ -155,7 +56,7 @@
       "year": 2016,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hành Động",
@@ -215,72 +116,6 @@
         {
           "name": "Ý",
           "slug": "y"
-        }
-      ]
-    },
-    {
-      "id": "the-saratov-approach-2013-84d7a277",
-      "source": "phimapi",
-      "slug": "the-saratov-approach",
-      "name": "The Saratov Approach",
-      "originName": "The Saratov Approach",
-      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/48a707eace345022c6269d70aa97b67d.jpg",
-      "thumbUrl": "",
-      "year": 2013,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "naked-poison-ii-2002-924515d6",
-      "source": "phimapi",
-      "slug": "ran-doc-2",
-      "name": "Rắn Độc 2",
-      "originName": "Naked Poison II",
-      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/384c59a6e38a116ff9487336b36967ae.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/b3ab687fc7caa999c10d26f319e94c1e.jpg",
-      "year": 2002,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
         }
       ]
     }

@@ -1,0 +1,109 @@
+{
+  "id": "wu-2026-32b7c273",
+  "source": "ophim",
+  "slug": "wu",
+  "name": "WU",
+  "originName": "WU",
+  "posterUrl": "https://img.ophim.live/uploads/movies/wu-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/wu-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>“Pete” là một chàng trai trẻ kém may mắn, mang trong mình một mảnh linh hồn của ác quỷ. Cậu có khả năng cảm nhận được Yao — những luồng năng lượng kỳ lạ chuyên nuốt chửng sinh lực của con người. Khi Pete gặp “Niran”, người dẫn cậu bước vào thế giới của “Wu”, cả hai trở thành những cộng sự bất đắc dĩ, buộc phải nương tựa vào nhau để vượt qua mọi trở ngại.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a6bec25b47dcde568dfeef21fea8e5f2",
+      "m3u8Url": "https://vip.opstream90.com/20260521/32616_a6bec25b/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e76346bd12c68c698d4800fd00be9533",
+      "m3u8Url": "https://vip.opstream90.com/20260521/32617_e76346bd/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9ef7e0399a77b6c92061f717b147db71",
+      "m3u8Url": "https://vip.opstream90.com/20260521/32618_9ef7e039/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/iBbTviY1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/iBbTviY1/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/EhmYPsMg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/EhmYPsMg/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/qgG9KR1k/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/qgG9KR1k/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "wu",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "nam-phu-thuy",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

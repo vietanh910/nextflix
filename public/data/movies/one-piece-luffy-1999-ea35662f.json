@@ -9,7 +9,7 @@
   "year": 1999,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1161",
+  "episodeCurrent": "Tập 1162",
   "categories": [
     {
       "name": "Hành Động",
@@ -9305,13 +9305,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/4c26b0f501f781b43f0f9241d77b513d",
       "m3u8Url": "https://vip.opstream90.com/20260511/31509_4c26b0f5/index.m3u8"
+    },
+    {
+      "name": "1162",
+      "slug": "1162",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6c571f6008a9d6b943f8eba0dbaac3c8",
+      "m3u8Url": "https://vip.opstream90.com/20260518/32188_6c571f60/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "one-piece",
-      "episodeCount": 1159,
+      "episodeCount": 1160,
       "priority": 0
     }
   ],

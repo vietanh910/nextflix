@@ -146,6 +146,35 @@
       ]
     },
     {
+      "id": "the-fiery-priest-season--2019-1a196577",
+      "source": "phimapi",
+      "slug": "linh-muc-nhiet-huyet-phan-1",
+      "name": "Linh Mục Nhiệt Huyết (Phần 1)",
+      "originName": "The Fiery Priest (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240802-1/fde2468045f5354a2aed81a695f94296.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240802-1/3c329516f600426f91ceff1b63525d3f.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "bad-investigate-2018-c29888a2",
       "source": "ophim",
       "slug": "tham-tu-bat-dac-di",
@@ -237,31 +266,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "mr-boner-2017-719e06c1",
-      "source": "phimapi",
-      "slug": "ong-boner",
-      "name": "Ông Boner",
-      "originName": "Mr. Boner",
-      "posterUrl": "https://phimimg.com/upload/vod/20260513-1/70742517f67ca485787aa8ca53b3524e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/9418e595518d817ae4bfb2808b8d3511.jpg",
-      "year": 2017,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -441,6 +445,39 @@
       ]
     },
     {
+      "id": "the-three-stooges-2012-3d715810",
+      "source": "phimapi",
+      "slug": "ba-chang-ngoc",
+      "name": "Ba Chàng Ngốc",
+      "originName": "The Three Stooges",
+      "posterUrl": "https://phimimg.com/upload/vod/20260522-1/47ed2788124067ed3bc911f27e261b0e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260522-1/5d5b8f7ba865cb3246f18b2816e426c0.jpg",
+      "year": 2012,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "the-middle-season-3-2011-3e60db03",
       "source": "ophim",
       "slug": "gia-dinh-heck-phan-3",
@@ -516,6 +553,35 @@
       ]
     },
     {
+      "id": "running-man-2010-ca3391d1",
+      "source": "phimapi",
+      "slug": "thu-thach-than-tuong",
+      "name": "Thử Thách Thần Tượng",
+      "originName": "Running Man",
+      "posterUrl": "https://phimimg.com/upload/vod/20241017-1/8ce53643bb316f8fb8dc3dddd955f2ce.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20241017-1/65a22ab2e96e79bfedf8ae96d955f72a.jpg",
+      "year": 2010,
+      "type": "tvshow",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 803",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "30-rock-season-4-2009-1dae2aeb",
       "source": "ophim",
       "slug": "30-rock-phan-4",
@@ -541,17 +607,17 @@
       ]
     },
     {
-      "id": "the-middle-season-1-2009-a4f3d321",
-      "source": "phimapi",
+      "id": "the-middle-season-1-2009-d9735f3a",
+      "source": "ophim",
       "slug": "gia-dinh-heck-phan-1",
       "name": "Gia đình Heck (Phần 1)",
       "originName": "The Middle (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260516-1/aedff02b86c0542b2a50efa28fff2701.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260516-1/29d48da7e8ab6f022688f4ce0ca785da.jpg",
+      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-1-thumb.jpg",
       "year": 2009,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
+      "episodeCurrent": "Hoàn tất (24/24)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -577,72 +643,6 @@
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn tất (22/22)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "pucca-season-2-2008-6f88fe60",
-      "source": "ophim",
-      "slug": "pucca-phan-2",
-      "name": "Pucca (Phần 2)",
-      "originName": "Pucca (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/pucca-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/pucca-phan-2-thumb.jpg",
-      "year": 2008,
-      "type": "anime",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "30-rock-season-2-2007-9c30cf59",
-      "source": "ophim",
-      "slug": "30-rock-phan-2",
-      "name": "30 Rock (Phần 2)",
-      "originName": "30 Rock (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/30-rock-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/30-rock-phan-2-thumb.jpg",
-      "year": 2007,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (15/15)",
       "categories": [
         {
           "name": "Hài Hước",

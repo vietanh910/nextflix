@@ -1,0 +1,51 @@
+{
+  "id": "the-calling-witch-2026-9c4dcb17",
+  "source": "ophim",
+  "slug": "phu-thuy-keu-goi",
+  "name": "Phù thủy kêu gọi",
+  "originName": "The Calling Witch",
+  "posterUrl": "https://img.ophim.live/uploads/movies/phu-thuy-keu-goi-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/phu-thuy-keu-goi-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một anh trai và một em gái bị khủng bố bởi thứ dường như là tác phẩm văn học độc ác nhất của người mẹ quá cố của họ - Mụ Phù Thủy Gọi Hồn.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9b69699ed4a1d25a4f6e6c62fc0b26fe",
+      "m3u8Url": "https://vip.opstream90.com/20260521/32564_9b69699e/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "phu-thuy-keu-goi",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

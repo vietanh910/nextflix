@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 340",
+  "episodeCurrent": "Tập 341",
   "categories": [
     {
       "name": "Hành Động",
@@ -2757,13 +2757,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/42aa61c7ccfa95dc4db4d894530def8a",
       "m3u8Url": "https://vip.opstream90.com/20260516/31904_42aa61c7/index.m3u8"
+    },
+    {
+      "name": "341",
+      "slug": "341",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2ed6f8773d6adc2285a4d98d10bc228c",
+      "m3u8Url": "https://vip.opstream90.com/20260519/32349_2ed6f877/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "luyen-khi-muoi-van-nam",
-      "episodeCount": 340,
+      "episodeCount": 341,
       "priority": 0
     }
   ],

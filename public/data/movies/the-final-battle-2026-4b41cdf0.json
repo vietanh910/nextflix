@@ -1,0 +1,55 @@
+{
+  "id": "the-final-battle-2026-4b41cdf0",
+  "source": "phimapi",
+  "slug": "huyen-chien-thanh-long-trai",
+  "name": "Huyến Chiến Thanh Long Trại",
+  "originName": "The Final Battle",
+  "posterUrl": "https://phimimg.com/upload/vod/20260520-1/f791138e3e490157d63e7634ee4422bf.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260520-1/07161f06af3521c3af6222c577d97d59.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "Đầu thời kỳ giải phóng, nạn cướp hoành hành. Trung đội trưởng trinh sát Quân Giải phóng Hướng Dương được lệnh tiến vào Tam Loan Lý trấn áp bọn cướp. Trong lúc cải trang thâm nhập, anh bất ngờ tái ngộ người anh trai Hướng Thiên, hiện là cậu ba của Thanh Phong Trại. Hai anh em vì lập trường đối lập, đã có những mâu thuẫn gay gắt giữa tình thân và lý tưởng. Hướng Dương cắn răng chịu đựng nội tâm giằng xé, nằm vùng trong hang ổ bọn cướp, dùng mưu trí lấy tình báo, đốt kho lương, phối hợp với đồng đội từ bên ngoài tấn công vây hãm. Trước sự phản kích tàn bạo của bọn cướp Long Mù, Hướng Dương dẫn dắt đơn vị chiến đấu ngoan cường. Nhờ sự hy sinh giúp đỡ của người anh Hướng Thiên, cuối cùng băng cướp Thanh Phong Trại bị tiêu diệt hoàn toàn. Sau cuộc chiến đấu đẫm máu và lửa đạn, vùng đất này cuối cùng cũng đón chào bình minh của hòa bình.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/lVPY0qxA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/lVPY0qxA/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "huyen-chien-thanh-long-trai",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/rac-roi-tien-bac-cua-margo-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (8/8)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -85,13 +85,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/14f97b191b6fa0838c21882579b1e65a",
       "m3u8Url": "https://vip.opstream90.com/20260513/31687_14f97b19/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a41c789988215311a8b922614a675764",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32427_a41c7899/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "rac-roi-tien-bac-cua-margo",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 0
     }
   ],

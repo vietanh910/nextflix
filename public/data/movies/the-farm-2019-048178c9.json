@@ -1,0 +1,55 @@
+{
+  "id": "the-farm-2019-048178c9",
+  "source": "phimapi",
+  "slug": "nong-trai-chet-nguoi",
+  "name": "Nông Trại Chết Người",
+  "originName": "The Farm",
+  "posterUrl": "https://phimimg.com/upload/vod/20260522-1/1ccd54e285ff95d10f3cb4202307e1cd.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260522-1/221dc036f7edd66af9a13d1cfdf054ed.jpg",
+  "year": 2019,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Cặp đôi trẻ Nora và Alec đang trên đường trở về nhà sau một chuyến hành trình dài. Họ quyết định dừng chân nghỉ ngơi tại một thị trấn sa mạc, thế nhưng khi thức dậy vào sáng hôm sau, cả hai không còn ở trong căn phòng motel mà mình đã nhận trước đó. Ngay trong đêm, họ đã bị bắt cóc bởi một nhóm sát nhân điên cuồng đeo mặt nạ thú.&nbsp; Điều gì sẽ xảy ra nếu con người bị đối xử không khác gì gia súc chờ ngày xẻ thịt? Tại trang trại kinh hoàng này, ý tưởng dị hợm đó đã trở thành sự thật. Nora và Alec sớm nhận ra rằng họ không phải là những nạn nhân duy nhất bị nhốt trong chuồng, bị vỗ béo và ép ăn chỉ để chờ ngày bị tàn sát, mổ bụng và biến thành món ăn đặc sản cho những kẻ tra tấn biến thái. Đối với cặp đôi trẻ, một cuộc chiến khốc liệt để giành giật sự sống chính thức bắt đầu.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/rnGCLeCE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260522/rnGCLeCE/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nong-trai-chet-nguoi",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

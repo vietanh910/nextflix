@@ -7,82 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/5/duyen-kiep-ben-nguoi-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/duyen-kiep-ben-nguoi.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "description": "Câu chuyện về Nakhun là một chàng sinh viên hai mươi tuổi không mê tín. Một ngày nọ, số phận trêu ngươi anh và anh du hành ngược thời gian trở về Vương quốc Ayutthaya gần bốn trăm năm trước. Anh bị nhầm lẫn với một người đã mất tích, vì vậy Nakhun đã giả danh Klao và cố gắng khám phá bí ẩn về sự mất tích của anh trai mình trong khi tìm cách trở về thời đại của mình. Phop, bạn của Klao, không tin Nakhun là em trai mình và luôn để mắt đến anh.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=ec8162ecaa599501b858a475e6379988",
-      "m3u8Url": "https://sing.phimmoi.net/ec8162ecaa599501b858a475e6379988/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=f6a0fffe4ab4002e26e7454f8b126699",
-      "m3u8Url": "https://sing.phimmoi.net/f6a0fffe4ab4002e26e7454f8b126699/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=66792e175e46656133448dfadc6fe4c7",
-      "m3u8Url": "https://sing.phimmoi.net/66792e175e46656133448dfadc6fe4c7/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=35d04d23ae4f1887399182f417fcc897",
-      "m3u8Url": "https://sing.phimmoi.net/35d04d23ae4f1887399182f417fcc897/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=d49aa63e0a5c5f1dcac748a9053b4c41",
-      "m3u8Url": "https://sing.phimmoi.net/d49aa63e0a5c5f1dcac748a9053b4c41/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=159129a3c8ddeb1d35f6779955f6da76",
-      "m3u8Url": "https://sing.phimmoi.net/159129a3c8ddeb1d35f6779955f6da76/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=5930bcb1487de87488a457d583ed47d7",
-      "m3u8Url": "https://sing.phimmoi.net/5930bcb1487de87488a457d583ed47d7/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=05fba52887934912f0f7a7c371a5d481",
-      "m3u8Url": "https://sing.phimmoi.net/05fba52887934912f0f7a7c371a5d481/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "duyen-kiep-ben-nguoi",
-      "episodeCount": 8,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

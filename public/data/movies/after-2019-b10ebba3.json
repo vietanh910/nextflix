@@ -1,0 +1,59 @@
+{
+  "id": "after-2019-b10ebba3",
+  "source": "phimapi",
+  "slug": "cuoc-gap-dinh-menh-tu-khi-co-anh",
+  "name": "Cuộc Gặp Định Mệnh (Từ Khi Có Anh)",
+  "originName": "After",
+  "posterUrl": "https://phimimg.com/upload/vod/20260519-1/96be18693746469a03856860e36426e2.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260519-1/924b72dfc9669cb3dbb01f808595195c.jpg",
+  "year": 2019,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Cô gái trẻ yêu một chàng trai có bí mật đen tối và hai người bắt đầu mối quan hệ sắt đá. Bộ phim dựa trên cuốn tiểu thuyết của Anna Todd.",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/z3lXHUsX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/z3lXHUsX/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/tXTerhCI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/tXTerhCI/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "cuoc-gap-dinh-menh-tu-khi-co-anh",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

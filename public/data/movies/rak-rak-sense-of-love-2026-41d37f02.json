@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Tình Cảm",
@@ -59,6 +59,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260514/31741_2ab5569b/index.m3u8"
     },
     {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c0c8c5f98f7b646f6dd7213b19e68475",
+      "m3u8Url": "https://vip.opstream90.com/20260521/32590_c0c8c5f9/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -89,19 +97,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/u9sSQDbL/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260514/u9sSQDbL/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/TPkYRQ0L/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260521/TPkYRQ0L/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "bat-song-tinh-duyen",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "rak-rak-truc-giac-tinh-yeu",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

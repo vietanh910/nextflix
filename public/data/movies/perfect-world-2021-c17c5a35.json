@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 268",
+  "episodeCurrent": "Tập 269",
   "categories": [
     {
       "name": "Hành Động",
@@ -2181,6 +2181,14 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/b903548eebca1c3b8a3b81e5002f3490",
       "m3u8Url": "https://vip.opstream90.com/20260514/31723_b903548e/index.m3u8"
+    },
+    {
+      "name": "269",
+      "slug": "269",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5288cea98051f543db9fed5c03f6e29c",
+      "m3u8Url": "https://vip.opstream90.com/20260521/32558_5288cea9/index.m3u8"
     },
     {
       "name": "1",
@@ -4725,19 +4733,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/9YPUefv9/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260515/9YPUefv9/index.m3u8"
+    },
+    {
+      "name": "Tập 270",
+      "slug": "tap-270",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/oHuf6mzS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260521/oHuf6mzS/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "the-gioi-hoan-my",
-      "episodeCount": 317,
+      "episodeCount": 318,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "the-gioi-hoan-my",
-      "episodeCount": 269,
+      "episodeCount": 270,
       "priority": 1
     }
   ],

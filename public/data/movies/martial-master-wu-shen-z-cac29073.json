@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Film/107609.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Film/107609.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 657",
+  "episodeCurrent": "Tập 659",
   "categories": [],
   "countries": [],
   "description": "Nhân vật chính Tần Trần, vốn là quân khu đứng đầu thiên tài, bị người âm mưu rơi vào đại lục cấm địa trong hẻm núi tử thần. Qin Chen, người không thể tránh khỏi cái chết, không ngờ lại kích hoạt sức mạnh của thanh kiếm cổ bí ẩn.",
@@ -5236,13 +5236,29 @@
       "source": "nguonc",
       "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=30834725c2a629eab9c65b3d25e47bcd",
       "m3u8Url": "https://sing.phimmoi.net/30834725c2a629eab9c65b3d25e47bcd/hls.m3u8"
+    },
+    {
+      "name": "658",
+      "slug": "tap-658",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=a9fce7e3c4ebeba95d0c8b53976b6ab0",
+      "m3u8Url": "https://sing.phimmoi.net/a9fce7e3c4ebeba95d0c8b53976b6ab0/hls.m3u8"
+    },
+    {
+      "name": "659",
+      "slug": "tap-659",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=2d58248ed2957c5258ff9fefc48fed99",
+      "m3u8Url": "https://sing.phimmoi.net/2d58248ed2957c5258ff9fefc48fed99/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "vo-than-chua-te",
-      "episodeCount": 653,
+      "episodeCount": 655,
       "priority": 2
     }
   ],

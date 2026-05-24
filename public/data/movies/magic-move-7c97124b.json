@@ -7,50 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/8/tien-tri-tinh-yeu-2026-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/tien-tri-tinh-yeu-2026.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [],
   "countries": [],
-  "description": "Một sinh viên kiến trúc năm cuối dồn hết tâm huyết vào đồ án tốt nghiệp lấy cảm hứng từ “đá rune”. Cuộc sống của cậu bất ngờ rẽ sang hướng khác khi tình cờ trở thành thầy bói tại quán bar Magic Move của bạn mình, và những lời tiên đoán chính xác đến khó tin khiến cậu nổi tiếng chỉ sau một đêm. Rồi định mệnh đưa cậu bước vào một mối tình hỗn loạn—thứ sẽ thay đổi cuộc đời cậu mãi mãi.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=badf0731e36442086830947a7decfe7e",
-      "m3u8Url": "https://sing.phimmoi.net/badf0731e36442086830947a7decfe7e/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=db6f56316736da85e93cc0a5db1ff676",
-      "m3u8Url": "https://sing.phimmoi.net/db6f56316736da85e93cc0a5db1ff676/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=bdadd5d6dbc8b2d1d776046ade751e9f",
-      "m3u8Url": "https://sing.phimmoi.net/bdadd5d6dbc8b2d1d776046ade751e9f/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=f11595baffd0f0faed5983aeba7465f5",
-      "m3u8Url": "https://sing.phimmoi.net/f11595baffd0f0faed5983aeba7465f5/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "tien-tri-tinh-yeu",
-      "episodeCount": 4,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

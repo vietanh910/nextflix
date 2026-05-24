@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 178",
+  "episodeCurrent": "Tập 180",
   "categories": [
     {
       "name": "Hành Động",
@@ -1461,13 +1461,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/0801dafc88d3117e0db830a42ddf944c",
       "m3u8Url": "https://vip.opstream90.com/20260515/31780_0801dafc/index.m3u8"
+    },
+    {
+      "name": "179",
+      "slug": "179",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/57d24b024678f5c614db5d48447871d1",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32645_57d24b02/index.m3u8"
+    },
+    {
+      "name": "180",
+      "slug": "180",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d0741765bc4b0480823a98cf49ed061a",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32646_d0741765/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "linh-vu-dai-luc",
-      "episodeCount": 178,
+      "episodeCount": 180,
       "priority": 0
     }
   ],

@@ -5,64 +5,6 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "young-deductionists-2026-e7769ee3",
-      "source": "ophim",
-      "slug": "nhung-nha-dien-giai-tre",
-      "name": "Những Nhà Diễn Giải Trẻ",
-      "originName": "Young Deductionists",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-nha-dien-giai-tre-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-nha-dien-giai-tre-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (20/20)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "privileges-2026-32f5cf8b",
-      "source": "ophim",
-      "slug": "privileges",
-      "name": "Privilèges",
-      "originName": "Privileges",
-      "posterUrl": "https://img.ophim.live/uploads/movies/privileges-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/privileges-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 4",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
       "id": "reborn-2026-e043db23",
       "source": "ophim",
       "slug": "reborn",
@@ -73,7 +15,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Bí ẩn",
@@ -88,31 +30,6 @@
       ]
     },
     {
-      "id": "bone-ritual-2026-7495e1f2",
-      "source": "ophim",
-      "slug": "that-cot",
-      "name": "Thất Cốt",
-      "originName": "Bone Ritual",
-      "posterUrl": "https://img.ophim.live/uploads/movies/that-cot-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/that-cot-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "from-season-4-2026-7cb6ea65",
       "source": "ophim",
       "slug": "thi-tran-ac-mong-phan-4",
@@ -123,7 +40,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -183,6 +100,31 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "echoes-of-evidence-2026-18c802f8",
+      "source": "ophim",
+      "slug": "toi-an-han-tich",
+      "name": "Tội Án Hằn Tích",
+      "originName": "Echoes of Evidence",
+      "posterUrl": "https://img.ophim.live/uploads/movies/toi-an-han-tich-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/toi-an-han-tich-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
+      "categories": [
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -282,31 +224,76 @@
       ]
     },
     {
-      "id": "lee-cronin-s-the-mummy-2026-3e65d257",
-      "source": "ophim",
-      "slug": "xac-uopp",
-      "name": "Xác Ướp",
-      "originName": "Lee Cronin's The Mummy",
-      "posterUrl": "https://img.ophim.live/uploads/movies/xac-uopp-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/xac-uopp-thumb.jpg",
+      "id": "beyond-twilight-2026-31ed956f",
+      "source": "phimapi",
+      "slug": "bach-quy-da-hanh-ky-hyakki-yagshosho",
+      "name": "Bách Quỷ Dạ Hành Ký (Hyakki Yagshosho)",
+      "originName": "Beyond Twilight",
+      "posterUrl": "https://phimimg.com/upload/vod/20260412-1/fd3245f9897105ea0358a833300400c9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260412-1/b4a448e7f4a5822cb197228d0e83cc48.jpg",
       "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-scarecrow-2026-9060ce7a",
+      "source": "phimapi",
+      "slug": "bu-nhin-bong-dem",
+      "name": "Bù Nhìn Bóng Đêm",
+      "originName": "The Scarecrow",
+      "posterUrl": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -321,7 +308,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -352,39 +339,6 @@
       ]
     },
     {
-      "id": "griya-2026-2c7b674b",
-      "source": "phimapi",
-      "slug": "griya-rahsia-seorang-lelaki",
-      "name": "Griya: Rahsia Seorang Lelaki",
-      "originName": "Griya",
-      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/7ec94863afee4e2d66e04a986c22234f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/b526dab7500367e79c3d1703398e4baa.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "missing-2026-68e8ac4f",
       "source": "phimapi",
       "slug": "mat-trai-cua-mat-tich-ban-thai",
@@ -394,8 +348,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260508-1/89eebf5df41b8d49a4ca3104fbae8b8d.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -422,29 +376,66 @@
       ]
     },
     {
-      "id": "the-gift-2026-a690d3c6",
+      "id": "rezero-starting-life-in--2026-43126ef1",
       "source": "phimapi",
-      "slug": "mon-qua-cua-kluay",
-      "name": "Món Quà Của Kluay",
-      "originName": "The Gift",
-      "posterUrl": "https://phimimg.com/upload/vod/20260206-1/c9ef6e808516789d85fcb8cfe129dd61.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260206-1/c0f61e5294c67477c09cd9754717affc.jpg",
+      "slug": "rezero-bat-dau-lai-o-the-gioi-khac-phan-4",
+      "name": "ReZERO - Bắt Đầu Lại Ở Thế Giới Khác (Phần 4)",
+      "originName": "ReZERO - Starting Life In Another World (Season 4)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/ffd6a732d5b223183fdcde2169e43b61.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/b2ee47fa752ddfa5793c46ae57537dde.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "reborn-saigo-no-hero-2026-04b9d1e6",
+      "source": "phimapi",
+      "slug": "tai-sinh-nguoi-hung-cuoi-cung",
+      "name": "Tái sinh: Người hùng cuối cùng",
+      "originName": "Reborn: Saigo no Hero",
+      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/6f395b1c6c65465490384a0664c09cf4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/b031d8773cc4ac88f68ed9e03ab575f8.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 30",
+      "episodeCurrent": "Tập 5",
       "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -453,8 +444,8 @@
       ],
       "countries": [
         {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -468,8 +459,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/deb242e23a9fc12d4cf922fb7c09ce53.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 14",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Bí Ẩn",
@@ -575,31 +566,6 @@
       ]
     },
     {
-      "id": "the-woman-in-the-white-c-2025-e28c6eed",
-      "source": "ophim",
-      "slug": "khong-bong-tuyet-nao-trong-sach",
-      "name": "Không Bông Tuyết Nào Trong Sạch",
-      "originName": "The Woman in the White Car",
-      "posterUrl": "https://img.ophim.live/uploads/movies/khong-bong-tuyet-nao-trong-sach-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/khong-bong-tuyet-nao-trong-sach-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "lillys-verschwinden-seas-2025-9153f856",
       "source": "ophim",
       "slug": "lilly-mat-tich-phan-1",
@@ -695,31 +661,35 @@
       ]
     },
     {
-      "id": "waterdrop-2024-240a61b6",
-      "source": "ophim",
-      "slug": "khat-vong-tinh-than",
-      "name": "Khát Vọng Tình Thân",
-      "originName": "Waterdrop",
-      "posterUrl": "https://img.ophim.live/uploads/movies/khat-vong-tinh-than-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/khat-vong-tinh-than-thumb.jpg",
+      "id": "regeneration-2024-ee260888",
+      "source": "phimapi",
+      "slug": "tai-sinh-tan-sinh",
+      "name": "Tái Sinh (Tân Sinh)",
+      "originName": "Regeneration",
+      "posterUrl": "https://phimimg.com/upload/vod/20260524-1/442a632d127780c9c2aecd865a450d2d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260524-1/e2e8094171d11e537368f678c332158f.jpg",
       "year": 2024,
-      "type": "single",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
-          "name": "Chính kịch",
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Bí ẩn",
+          "name": "Bí Ẩn",
           "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Ý",
-          "slug": "y"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -757,6 +727,88 @@
         {
           "name": "Ireland",
           "slug": "ireland"
+        }
+      ]
+    },
+    {
+      "id": "grid-2022-abccdcc3",
+      "source": "phimapi",
+      "slug": "luoi-dien",
+      "name": "Lưới Điện",
+      "originName": "Grid",
+      "posterUrl": "https://phimimg.com/upload/vod/20260522-1/cdfaf3155ba0371517771e6980efc629.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260522-1/fead1a09a82cb0c647b11ad85d6d75dc.jpg",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-pavilion-2021-be8c653f",
+      "source": "phimapi",
+      "slug": "suong-mu-dinh-bat-giac",
+      "name": "Sương Mù Đình Bát Giác",
+      "originName": "The Pavilion",
+      "posterUrl": "https://phimimg.com/upload/vod/20260524-1/a4f669a90a64f3250c54c098bf9e9a01.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260524-1/0b36f3534cfd05140f0bd38122b9bf68.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

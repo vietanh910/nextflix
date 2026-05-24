@@ -1,0 +1,55 @@
+{
+  "id": "mother-mary-2026-5ff218d6",
+  "source": "ophim",
+  "slug": "mother-mary-hao-quang-don-doc",
+  "name": "Mother Mary: Hào Quang Đơn Độc",
+  "originName": "Mother Mary",
+  "posterUrl": "https://img.ophim.live/uploads/movies/mother-mary-hao-quang-don-doc-poster-1779333811679.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/mother-mary-hao-quang-don-doc-thumb-1779333810498.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Đức",
+      "slug": "duc"
+    },
+    {
+      "name": "Phần Lan",
+      "slug": "phan-lan"
+    }
+  ],
+  "description": "<p>Những vết thương chôn giấu từ lâu trỗi dậy khi ngôi sao nhạc pop biểu tượng Mother Mary tái ngộ người bạn thân đã rạn nứt — đồng thời là nhà thiết kế trang phục cũ của cô, Sam Anselm — ngay trước thềm màn trở lại sân khấu.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/cb138c0ea6e0ec0ac07cb501db562b47",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32624_cb138c0e/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "mother-mary-hao-quang-don-doc",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

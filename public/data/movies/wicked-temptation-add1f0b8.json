@@ -7,26 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/ho-giau-van-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/ho-giau-van.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 6",
   "categories": [],
   "countries": [],
-  "description": "Nhà thiết kế Taiga bí mật đến Thái Lan để điều tra cái chết của cha dượng. Tại đây, anh chạm trán với Rin, một nữ vệ sĩ cũng đang che giấu những bí mật của riêng mình.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=6bf61877ec31f78daf9a3ad723dc6520",
-      "m3u8Url": "https://sing.phimmoi.net/6bf61877ec31f78daf9a3ad723dc6520/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ho-giau-van",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

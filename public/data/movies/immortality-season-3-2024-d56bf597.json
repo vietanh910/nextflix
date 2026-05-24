@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 55",
+  "episodeCurrent": "Tập 56",
   "categories": [
     {
       "name": "Hành Động",
@@ -465,13 +465,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/pFXw1fUy/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260516/pFXw1fUy/index.m3u8"
+    },
+    {
+      "name": "Tập 56",
+      "slug": "tap-56",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/KNdZmKCA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/KNdZmKCA/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "vinh-sinh-phan-3",
-      "episodeCount": 55,
+      "episodeCount": 56,
       "priority": 1
     }
   ],

@@ -5,56 +5,6 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "a-lover-in-the-mortal-wo-2026-e53606ee",
-      "source": "ophim",
-      "slug": "nhan-gian-kinh-hong-khach",
-      "name": "Nhân Gian Kinh Hồng Khách",
-      "originName": "A Lover in the Mortal World",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhan-gian-kinh-hong-khach-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhan-gian-kinh-hong-khach-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (22/22)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-first-sight-of-nanya-2026-8e8a0227",
-      "source": "ophim",
-      "slug": "nhat-kien-nam-kieu",
-      "name": "Nhất Kiến Nam Kiều",
-      "originName": "The First Sight of Nanyang Overseas Chinese",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhat-kien-nam-kieu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhat-kien-nam-kieu-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "the-flowers-of-evil-2026-e5c697b0",
       "source": "ophim",
       "slug": "nhung-bong-hoa-ac",
@@ -65,7 +15,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính kịch",
@@ -196,35 +146,6 @@
       ]
     },
     {
-      "id": "the-law-according-to-lid-2026-8077218d",
-      "source": "ophim",
-      "slug": "nu-luat-su-lidia-poet-phan-3",
-      "name": "Nữ Luật Sư Lidia Poët (Phần 3)",
-      "originName": "The Law According to Lidia Poët (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nu-luat-su-lidia-poet-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-luat-su-lidia-poet-phan-3-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ý",
-          "slug": "y"
-        }
-      ]
-    },
-    {
       "id": "othello-2026-d59c1872",
       "source": "ophim",
       "slug": "othello",
@@ -308,6 +229,64 @@
       ]
     },
     {
+      "id": "perfect-crown-2026-96b5576a",
+      "source": "ophim",
+      "slug": "phu-nhan-dai-quan-the-ky-21",
+      "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+      "originName": "Perfect Crown",
+      "posterUrl": "https://img.ophim.live/uploads/movies/phu-nhan-dai-quan-the-ky-21-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-calling-witch-2026-9c4dcb17",
+      "source": "ophim",
+      "slug": "phu-thuy-keu-goi",
+      "name": "Phù thủy kêu gọi",
+      "originName": "The Calling Witch",
+      "posterUrl": "https://img.ophim.live/uploads/movies/phu-thuy-keu-goi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/phu-thuy-keu-goi-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "privileges-2026-32f5cf8b",
       "source": "ophim",
       "slug": "privileges",
@@ -318,7 +297,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính kịch",
@@ -346,8 +325,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/rac-roi-tien-bac-cua-margo-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -377,6 +356,31 @@
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn tất (28/28)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "twin-fire-dawn-2026-fb6b89aa",
+      "source": "ophim",
+      "slug": "ruc-chay-giua-ban-trua",
+      "name": "Rực Cháy Giữa Ban Trưa",
+      "originName": "Twin Fire Dawn",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ruc-chay-giua-ban-trua-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ruc-chay-giua-ban-trua-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính kịch",
@@ -499,18 +503,22 @@
       ]
     },
     {
-      "id": "turn-of-the-tide-season--2026-9bb97bbd",
+      "id": "tom-clancy-s-jack-ryan-g-2026-ea010949",
       "source": "ophim",
-      "slug": "song-trieu-doi-van-phan-3",
-      "name": "Sóng triều đổi vận (Phần 3)",
-      "originName": "Turn of the Tide (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/song-trieu-doi-van-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/song-trieu-doi-van-phan-3-thumb.jpg",
+      "slug": "sieu-diep-vien-jack-ryan-bong-ma-chien-tranh",
+      "name": "Siêu Điệp Viên Jack Ryan: Bóng Ma Chiến Tranh",
+      "originName": "Tom Clancy's Jack Ryan: Ghost War",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sieu-diep-vien-jack-ryan-bong-ma-chien-tranh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-diep-vien-jack-ryan-bong-ma-chien-tranh-thumb.jpg",
       "year": 2026,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -518,8 +526,8 @@
       ],
       "countries": [
         {
-          "name": "Bồ Đào Nha",
-          "slug": "bo-dao-nha"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -534,7 +542,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -582,17 +590,17 @@
       ]
     },
     {
-      "id": "soft-hearted-god-2026-4aacb82d",
+      "id": "embers-of-love-2026-b27a1596",
       "source": "ophim",
-      "slug": "tam-nhuyen-dich-than",
-      "name": "Tâm Nhuyễn Đích Thần",
-      "originName": "Soft-Hearted God",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tam-nhuyen-dich-than-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tam-nhuyen-dich-than-thumb.jpg",
+      "slug": "tan-hoa-duyen",
+      "name": "Tẫn Hoa Duyên",
+      "originName": "Embers of Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tan-hoa-duyen-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tan-hoa-duyen-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (28/28)",
+      "episodeCurrent": "Hoàn tất (24/24)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -607,13 +615,13 @@
       ]
     },
     {
-      "id": "embers-of-love-2026-b27a1596",
+      "id": "vow-in-ashes-2026-25dd5cb0",
       "source": "ophim",
-      "slug": "tan-hoa-duyen",
-      "name": "Tẫn Hoa Duyên",
-      "originName": "Embers of Love",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tan-hoa-duyen-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tan-hoa-duyen-thumb.jpg",
+      "slug": "tan-hong-trang",
+      "name": "Tẫn Hồng Trang",
+      "originName": "Vow in Ashes",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tan-hong-trang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tan-hong-trang-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",

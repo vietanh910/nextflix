@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hành Động",
@@ -113,13 +113,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/63876b8137455311cf89610229831027",
       "m3u8Url": "https://vip.opstream90.com/20260511/31519_63876b81/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5e13d1e382d895a5a58b40173eb7abfd",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32455_5e13d1e3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cu-ke-chien-ky",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

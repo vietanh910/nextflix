@@ -1,223 +1,127 @@
 [
   {
-    "slug": "khac",
-    "name": "Khac",
-    "count": 1035,
-    "totalPages": 44
-  },
-  {
     "slug": "chinh-kich",
     "name": "Chính kịch",
-    "count": 322,
+    "count": 320,
     "totalPages": 14
+  },
+  {
+    "slug": "khac",
+    "name": "Khac",
+    "count": 200,
+    "totalPages": 9
   },
   {
     "slug": "hai-huoc",
     "name": "Hài Hước",
-    "count": 153,
+    "count": 157,
     "totalPages": 7
   },
   {
     "slug": "hanh-dong",
     "name": "Hành Động",
-    "count": 131,
+    "count": 130,
     "totalPages": 6
   },
   {
     "slug": "phieu-luu",
     "name": "Phiêu Lưu",
-    "count": 113,
+    "count": 117,
     "totalPages": 5
   },
   {
     "slug": "vien-tuong",
     "name": "Viễn Tưởng",
-    "count": 103,
-    "totalPages": 5
-  },
-  {
-    "slug": "khoa-hoc",
-    "name": "Khoa Học",
-    "count": 97,
+    "count": 116,
     "totalPages": 5
   },
   {
     "slug": "tam-ly",
     "name": "Tâm Lý",
-    "count": 79,
-    "totalPages": 4
+    "count": 109,
+    "totalPages": 5
   },
   {
-    "slug": "comedy",
-    "name": "Comedy",
-    "count": 65,
+    "slug": "khoa-hoc",
+    "name": "Khoa Học",
+    "count": 103,
+    "totalPages": 5
+  },
+  {
+    "slug": "hinh-su",
+    "name": "Hình Sự",
+    "count": 57,
     "totalPages": 3
   },
   {
     "slug": "tinh-cam",
     "name": "Tình Cảm",
-    "count": 61,
-    "totalPages": 3
-  },
-  {
-    "slug": "hinh-su",
-    "name": "Hình Sự",
-    "count": 60,
+    "count": 53,
     "totalPages": 3
   },
   {
     "slug": "bi-an",
     "name": "Bí ẩn",
-    "count": 56,
-    "totalPages": 3
-  },
-  {
-    "slug": "action",
-    "name": "Action",
-    "count": 50,
+    "count": 51,
     "totalPages": 3
   },
   {
     "slug": "gia-dinh",
     "name": "Gia Đình",
-    "count": 34,
+    "count": 32,
     "totalPages": 2
   },
   {
     "slug": "kinh-di",
     "name": "Kinh Dị",
-    "count": 34,
-    "totalPages": 2
-  },
-  {
-    "slug": "slice-of-life",
-    "name": "Slice of Life",
-    "count": 34,
-    "totalPages": 2
-  },
-  {
-    "slug": "fantasy",
-    "name": "Fantasy",
-    "count": 30,
+    "count": 29,
     "totalPages": 2
   },
   {
     "slug": "tai-lieu",
     "name": "Tài Liệu",
-    "count": 28,
+    "count": 27,
     "totalPages": 2
   },
   {
-    "slug": "supernatural",
-    "name": "Supernatural",
-    "count": 25,
-    "totalPages": 2
-  },
-  {
-    "slug": "sci-fi",
-    "name": "Sci-Fi",
-    "count": 24,
-    "totalPages": 1
-  },
-  {
-    "slug": "romance",
-    "name": "Romance",
-    "count": 23,
-    "totalPages": 1
-  },
-  {
-    "slug": "adventure",
-    "name": "Adventure",
-    "count": 19,
-    "totalPages": 1
-  },
-  {
-    "slug": "drama",
-    "name": "Drama",
-    "count": 16,
-    "totalPages": 1
-  },
-  {
-    "slug": "ecchi",
-    "name": "Ecchi",
-    "count": 13,
-    "totalPages": 1
-  },
-  {
-    "slug": "horror",
-    "name": "Horror",
-    "count": 11,
-    "totalPages": 1
-  },
-  {
-    "slug": "mystery",
-    "name": "Mystery",
-    "count": 11,
+    "slug": "vo-thuat",
+    "name": "Võ Thuật",
+    "count": 7,
     "totalPages": 1
   },
   {
     "slug": "co-trang",
     "name": "Cổ Trang",
-    "count": 8,
-    "totalPages": 1
-  },
-  {
-    "slug": "psychological",
-    "name": "Psychological",
-    "count": 8,
-    "totalPages": 1
-  },
-  {
-    "slug": "music",
-    "name": "Music",
-    "count": 8,
-    "totalPages": 1
-  },
-  {
-    "slug": "vo-thuat",
-    "name": "Võ Thuật",
     "count": 6,
-    "totalPages": 1
-  },
-  {
-    "slug": "mecha",
-    "name": "Mecha",
-    "count": 6,
-    "totalPages": 1
-  },
-  {
-    "slug": "sports",
-    "name": "Sports",
-    "count": 6,
-    "totalPages": 1
-  },
-  {
-    "slug": "thriller",
-    "name": "Thriller",
-    "count": 4,
-    "totalPages": 1
-  },
-  {
-    "slug": "mahou-shoujo",
-    "name": "Mahou Shoujo",
-    "count": 4,
     "totalPages": 1
   },
   {
     "slug": "short-drama",
     "name": "Short Drama",
-    "count": 3,
+    "count": 5,
     "totalPages": 1
   },
   {
     "slug": "chien-tranh",
     "name": "Chiến Tranh",
+    "count": 4,
+    "totalPages": 1
+  },
+  {
+    "slug": "than-thoai",
+    "name": "Thần Thoại",
     "count": 2,
     "totalPages": 1
   },
   {
     "slug": "am-nhac",
     "name": "Âm Nhạc",
+    "count": 1,
+    "totalPages": 1
+  },
+  {
+    "slug": "tre-em",
+    "name": "Trẻ Em",
     "count": 1,
     "totalPages": 1
   }

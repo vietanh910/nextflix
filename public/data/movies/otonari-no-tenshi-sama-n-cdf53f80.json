@@ -7,74 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/6/thien-su-nha-ben-phan-2-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/thien-su-nha-ben-phan-2.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "description": "Tiếp tục câu chuyện lãng mạn ngọt ngào giữa Amane Fujimiya và Mahiru Shiina khi mối quan hệ của họ ngày càng trở nên khăng khít hơn sau những diễn biến ở mùa 1",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=4f9a271bc9221cc4ddb8cb3b75ebfbeb",
-      "m3u8Url": "https://sing.phimmoi.net/4f9a271bc9221cc4ddb8cb3b75ebfbeb/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=d380ea89622ad9fbef3c2ca5adda39db",
-      "m3u8Url": "https://sing.phimmoi.net/d380ea89622ad9fbef3c2ca5adda39db/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=7b8b57cd80df4a21f91b56ba3c42c787",
-      "m3u8Url": "https://sing.phimmoi.net/7b8b57cd80df4a21f91b56ba3c42c787/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=6a2247e4458c854baa43d6166d111da4",
-      "m3u8Url": "https://sing.phimmoi.net/6a2247e4458c854baa43d6166d111da4/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=05fd3d364e75ad5305332bd4de42cf55",
-      "m3u8Url": "https://sing.phimmoi.net/05fd3d364e75ad5305332bd4de42cf55/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=a36b329575ed292e085812b21cd26f1c",
-      "m3u8Url": "https://sing.phimmoi.net/a36b329575ed292e085812b21cd26f1c/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=463ff8532cef07b1aeee89314b999b31",
-      "m3u8Url": "https://sing.phimmoi.net/463ff8532cef07b1aeee89314b999b31/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "thien-su-nha-ben-phan-2",
-      "episodeCount": 7,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

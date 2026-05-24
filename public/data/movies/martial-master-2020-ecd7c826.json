@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 645",
+  "episodeCurrent": "Tập 648",
   "categories": [
     {
       "name": "Hành Động",
@@ -5197,13 +5197,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/8ad2f16f1cfd0d6443a089c0624042b4",
       "m3u8Url": "https://vip.opstream90.com/20260513/31625_8ad2f16f/index.m3u8"
+    },
+    {
+      "name": "646",
+      "slug": "646",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0efe26971685ce5755740cbfaae04e7c",
+      "m3u8Url": "https://vip.opstream90.com/20260519/32351_0efe2697/index.m3u8"
+    },
+    {
+      "name": "647",
+      "slug": "647",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c824e56328b7c29d800c8c1523d009e2",
+      "m3u8Url": "https://vip.opstream90.com/20260519/32352_c824e563/index.m3u8"
+    },
+    {
+      "name": "648",
+      "slug": "648",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dd9902bc56a9d85cdc62c00083ea4871",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32788_dd9902bc/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vo-than-chua-te",
-      "episodeCount": 645,
+      "episodeCount": 648,
       "priority": 0
     }
   ],

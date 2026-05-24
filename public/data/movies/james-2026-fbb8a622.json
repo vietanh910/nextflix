@@ -1,0 +1,93 @@
+{
+  "id": "james-2026-fbb8a622",
+  "source": "ophim",
+  "slug": "james",
+  "name": "James.",
+  "originName": "James.",
+  "posterUrl": "https://img.ophim.live/uploads/movies/james-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/james-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (3/3)",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Colombia",
+      "slug": "colombia"
+    }
+  ],
+  "description": "<p>Trong loạt phim tài liệu này, James Rodríguez – số 10 huyền thoại của Colombia – chia sẻ về hành trình đưa anh đến với đỉnh cao bóng đá và sân khấu lớn nhất của môn thể thao vua.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7c294b263646ae5cff036e366de104cf",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32628_7c294b26/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ac246594da24758e8d58c4c36b913616",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32629_ac246594/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0789e47353cb91045d7bd8a39bff5d0b",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32630_0789e473/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/NuU9VqsQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/NuU9VqsQ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/intY8RPW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/intY8RPW/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/WfQRww4O/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/WfQRww4O/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "james",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "james",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

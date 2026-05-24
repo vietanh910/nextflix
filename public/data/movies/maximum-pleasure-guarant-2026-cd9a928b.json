@@ -1,0 +1,77 @@
+{
+  "id": "maximum-pleasure-guarant-2026-cd9a928b",
+  "source": "ophim",
+  "slug": "cam-ket-thoa-man-tot-cung",
+  "name": "Cam Kết Thỏa Mãn Tột Cùng",
+  "originName": "Maximum Pleasure Guaranteed",
+  "posterUrl": "https://img.ophim.live/uploads/movies/cam-ket-thoa-man-tot-cung-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/cam-ket-thoa-man-tot-cung-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4b35c6b92a86b38bcc3e61c975f3e7f3",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32482_4b35c6b9/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/74e48c1a38cb4022d50c45dbd3be1f9a",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32483_74e48c1a/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/vs4vt7vo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/vs4vt7vo/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/x5K1n6Wo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/x5K1n6Wo/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "cam-ket-thoa-man-tot-cung",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "cam-ket-thoa-man-tot-cung",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

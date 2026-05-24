@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 29",
+  "episodeCurrent": "Tập 33",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -265,13 +265,45 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/snIYmvHN/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260515/snIYmvHN/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/wArtJx6R/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/wArtJx6R/index.m3u8"
+    },
+    {
+      "name": "Tập 31",
+      "slug": "tap-31",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/iAqs0mbj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260521/iAqs0mbj/index.m3u8"
+    },
+    {
+      "name": "Tập 32",
+      "slug": "tap-32",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/JCa7n1uq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260521/JCa7n1uq/index.m3u8"
+    },
+    {
+      "name": "Tập 33",
+      "slug": "tap-33",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/dDaL9V2Z/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260522/dDaL9V2Z/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nguoc-duong-nguoc-nang",
-      "episodeCount": 29,
+      "episodeCount": 33,
       "priority": 1
     }
   ],

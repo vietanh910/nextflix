@@ -1,0 +1,51 @@
+{
+  "id": "beetlejuice-1988-d6ea3f37",
+  "source": "phimapi",
+  "slug": "ma-sieu-quay",
+  "name": "Ma Siêu Quậy",
+  "originName": "Beetlejuice",
+  "posterUrl": "https://phimimg.com/upload/vod/20260519-1/90404c23eb05489bf3746a57bb29be4a.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260519-1/48d39b1c6a7ed11c7c26ccb3a65789c7.jpg",
+  "year": 1988,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Linh hồn của một cặp vợ chồng đã khuất bị một gia đình khó chịu mới chuyển đến nhà họ quấy rối và thuê một linh hồn độc ác để đuổi họ ra ngoài.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/aKngN6K1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/aKngN6K1/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ma-sieu-quay",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

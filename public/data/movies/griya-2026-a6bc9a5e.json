@@ -1,0 +1,79 @@
+{
+  "id": "griya-2026-a6bc9a5e",
+  "source": "ophim",
+  "slug": "griya",
+  "name": "Griya",
+  "originName": "Griya",
+  "posterUrl": "https://img.ophim.live/uploads/movies/griya-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/griya-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Malaysia",
+      "slug": "malaysia"
+    }
+  ],
+  "description": "<p>Nữ thanh tra nọ hợp tác cùng một nữ luật sư để điều tra một nghệ sĩ đầy cuốn hút – đồng thời là nghi phạm chính trong vụ mất tích bí ẩn của hai người vợ của anh ta.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/76d77e63456ae93049d2bfe3e7356354",
+      "m3u8Url": "https://vip.opstream90.com/20260510/31503_76d77e63/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b6b3e0c60292f95cad3abaf272f459f8",
+      "m3u8Url": "https://vip.opstream90.com/20260510/31504_b6b3e0c6/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1a353732d2afaca3968f5aa91dcbd2ee",
+      "m3u8Url": "https://vip.opstream90.com/20260518/32191_1a353732/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0729480724847e6fde22501c8360f5af",
+      "m3u8Url": "https://vip.opstream90.com/20260518/32192_07294807/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/aa6497626eb6fda207fbc03d30f4e77c",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32752_aa649762/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "griya",
+      "episodeCount": 5,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

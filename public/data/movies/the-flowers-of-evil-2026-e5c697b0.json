@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Chính kịch",
@@ -65,13 +65,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/56f828cd13fd369ee16c728e6c50fb57",
       "m3u8Url": "https://vip.opstream10.com/20260510/33659_56f828cd/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/d537ee491b74b6c989edc42876533028",
+      "m3u8Url": "https://vip.opstream10.com/20260521/33715_d537ee49/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nhung-bong-hoa-ac",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 0
     }
   ],

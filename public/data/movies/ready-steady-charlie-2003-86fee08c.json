@@ -1,0 +1,51 @@
+{
+  "id": "ready-steady-charlie-2003-86fee08c",
+  "source": "phimapi",
+  "slug": "chu-y-san-sang-charlie-achtung-fertig-charlie",
+  "name": "Chú Ý! Sẵn Sàng! Charlie! (Achtung, Fertig, Charlie!)",
+  "originName": "Ready, Steady, Charlie!",
+  "posterUrl": "https://phimimg.com/upload/vod/20260520-1/eca2386a578e13eb7e811100d3209e66.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260520-1/0acad226a8ef733ea8b770817eb56f2d.jpg",
+  "year": 2003,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thụy Sĩ",
+      "slug": "thuy-si"
+    }
+  ],
+  "description": "Ngay tại một nhà thờ ở Thụy Sĩ, Antonio Carrera đang chuẩn bị cử hành hôn lễ với cô con gái xinh đẹp của một ông trùm Mafia Ý, thì cảnh sát quân đội bất ngờ ập vào. Họ áp giải anh đi thực hiện nghĩa vụ quân sự bắt buộc kéo dài 15 tuần của Thụy Sĩ, để lại một đám cưới dang dở và một tình huống dở khóc dở cười.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/sbiL9rvF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/sbiL9rvF/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chu-y-san-sang-charlie-achtung-fertig-charlie",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

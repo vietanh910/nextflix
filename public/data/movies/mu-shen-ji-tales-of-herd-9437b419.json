@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/muc-than-ky.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Film/145764l.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 83",
+  "episodeCurrent": "Tập 84",
   "categories": [],
   "countries": [],
   "description": "Tần Mục, với sức mạnh bất diệt cuối cùng trở thành giáo chủ Thiên Ma Giáo và được chọn là  tiến sĩ thái học đầu tiên của Diên Khang quốc. Trong cuộc chiến phản loạn của Diên Khang quốc, Tần Mục dấn thân vào hoàng kim cung Lâu Lan cùng với Võ Khả Hãn,đánh bại các đối thủ, vô địch thủ trong thánh cung.",
@@ -676,13 +676,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=943fa8f8cfd8c3c39413ac431d90ce28",
       "m3u8Url": "https://sing.phimmoi.net/943fa8f8cfd8c3c39413ac431d90ce28/hls.m3u8"
+    },
+    {
+      "name": "84",
+      "slug": "tap-84",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=f33d391d2f052d5dd574898674af383e",
+      "m3u8Url": "https://sing.phimmoi.net/f33d391d2f052d5dd574898674af383e/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "muc-than-ky",
-      "episodeCount": 83,
+      "episodeCount": 84,
       "priority": 2
     }
   ],

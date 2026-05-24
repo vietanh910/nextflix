@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hài Hước",
@@ -81,13 +81,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/b1f390bfb86f9b048f4edecc71e79bb2",
       "m3u8Url": "https://vip.opstream90.com/20260509/31475_b1f390bf/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/093311adaeb0998a580ee5222ca63f28",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32742_093311ad/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7908fdeb815a9456c2613f3bc84de1e4",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32743_7908fdeb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 0
     }
   ],

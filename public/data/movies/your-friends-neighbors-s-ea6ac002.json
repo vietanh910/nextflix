@@ -7,74 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/3/ban-be-va-hang-xom-phan-2-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/ban-be-va-hang-xom-phan-2.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "description": "Coop, một nhà quản lý quỹ đầu cơ ở New York vừa mới ly hôn và trở nên thất nghiệp. Anh ta sử dụng các phương pháp phạm pháp để duy trì lối sống của mình và giữ cho gia đình mình sống theo tiêu chuẩn mà họ đã quen.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=dd233076dee28dd89029d385a94c9840",
-      "m3u8Url": "https://sing.phimmoi.net/dd233076dee28dd89029d385a94c9840/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=e665748ac6b33784ab6bb4b19644dc1d",
-      "m3u8Url": "https://sing.phimmoi.net/e665748ac6b33784ab6bb4b19644dc1d/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=098a9632df91330a16c34cc06c95bec5",
-      "m3u8Url": "https://sing.phimmoi.net/098a9632df91330a16c34cc06c95bec5/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=25e3d093a2debaeb8672d60692e6b9bd",
-      "m3u8Url": "https://sing.phimmoi.net/25e3d093a2debaeb8672d60692e6b9bd/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=92fd1e0c88a21fce597139a7827dca0f",
-      "m3u8Url": "https://sing.phimmoi.net/92fd1e0c88a21fce597139a7827dca0f/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=bc2f3ffefb6f9933d7dd67f4ab9353f8",
-      "m3u8Url": "https://sing.phimmoi.net/bc2f3ffefb6f9933d7dd67f4ab9353f8/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=4fb6061cd872132d3c956e77a57ceade",
-      "m3u8Url": "https://sing.phimmoi.net/4fb6061cd872132d3c956e77a57ceade/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ban-be-va-hang-xom-phan-2",
-      "episodeCount": 7,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

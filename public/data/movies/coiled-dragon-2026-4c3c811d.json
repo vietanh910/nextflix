@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -71,6 +71,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260514/31721_b9e702b9/index.m3u8"
     },
     {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2bb4997e9e7e9f45820e6df11e801f88",
+      "m3u8Url": "https://vip.opstream90.com/20260521/32557_2bb4997e/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -109,19 +117,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/3IoGk5p3/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260514/3IoGk5p3/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/3imI94KZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260521/3imI94KZ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ban-long",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "ban-long",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

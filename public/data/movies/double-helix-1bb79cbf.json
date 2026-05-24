@@ -7,50 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/song-trinh-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/song-trinh.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [],
   "countries": [],
-  "description": "Phim kể về hai người yêu nhau từ thời trung học nhưng mối quan hệ bí mật của họ bị bại lộ, khiến cả hai buộc phải chia tay trong đau đớn. Nhiều năm sau, họ tình cờ gặp lại nhau khi mỗi người đã mang theo những tổn thương và bí mật riêng. Dù tình cảm cũ vẫn còn, quá khứ đầy phản bội, sự ám ảnh và những hiểu lầm chưa được giải quyết tiếp tục đe dọa cơ hội hàn gắn mong manh của họ.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=a5ddc305720d2903397d5325cad39feb",
-      "m3u8Url": "https://sing.phimmoi.net/a5ddc305720d2903397d5325cad39feb/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=be81f1494f05aa537d6512dd211dc187",
-      "m3u8Url": "https://sing.phimmoi.net/be81f1494f05aa537d6512dd211dc187/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=f7286294fc66b6146bc4dcde5b1ec24e",
-      "m3u8Url": "https://sing.phimmoi.net/f7286294fc66b6146bc4dcde5b1ec24e/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=c342416683edd93c786c570b17741e00",
-      "m3u8Url": "https://sing.phimmoi.net/c342416683edd93c786c570b17741e00/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "song-trinh",
-      "episodeCount": 4,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

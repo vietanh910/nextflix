@@ -5,56 +5,27 @@
   "totalPages": 7,
   "items": [
     {
-      "id": "hometown-romance-2026-592568df",
+      "id": "pati-patni-aur-woh-do-2026-cd4e2465",
       "source": "ophim",
-      "slug": "nguoi-yeu-mien-que",
-      "name": "Người Yêu Miền Quê",
-      "originName": "Hometown Romance",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-yeu-mien-que-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-yeu-mien-que-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "tripping-with-my-family-2026-d008d0f8",
-      "source": "ophim",
-      "slug": "nha-minh-di-thoi",
-      "name": "Nhà Mình Đi Thôi",
-      "originName": "Tripping With My Family",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nha-minh-di-thoi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nha-minh-di-thoi-thumb.jpg",
+      "slug": "pati-patni-aur-woh-do",
+      "name": "Pati Patni Aur Woh Do",
+      "originName": "Pati Patni Aur Woh Do",
+      "posterUrl": "https://img.ophim.live/uploads/movies/pati-patni-aur-woh-do-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/pati-patni-aur-woh-do-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
         }
       ],
       "countries": [
         {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
+          "name": "Ấn Độ",
+          "slug": "an-do"
         }
       ]
     },
@@ -96,6 +67,35 @@
       ]
     },
     {
+      "id": "perfect-crown-2026-96b5576a",
+      "source": "ophim",
+      "slug": "phu-nhan-dai-quan-the-ky-21",
+      "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+      "originName": "Perfect Crown",
+      "posterUrl": "https://img.ophim.live/uploads/movies/phu-nhan-dai-quan-the-ky-21-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "pizza-movie-2026-ec703335",
       "source": "ophim",
       "slug": "pizza-phe-pha",
@@ -117,6 +117,39 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "psoty-2026-1f14e5c9",
+      "source": "ophim",
+      "slug": "psoty",
+      "name": "Psoty",
+      "originName": "Psoty",
+      "posterUrl": "https://img.ophim.live/uploads/movies/psoty-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/psoty-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ba lan",
+          "slug": "ba-lan"
         }
       ]
     },
@@ -155,8 +188,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/rac-roi-tien-bac-cua-margo-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -326,7 +359,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hài Hước",
@@ -359,7 +392,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -426,35 +459,6 @@
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "duang-with-you-2026-9da6d250",
-      "source": "ophim",
-      "slug": "tinh-yeu-bo-xit",
-      "name": "Tình Yêu Bọ Xít",
-      "originName": "Duang With You",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-bo-xit-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-bo-xit-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
         },
         {
           "name": "Chính kịch",
@@ -536,8 +540,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/tuong-tu-ky-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (20/20)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -562,7 +566,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -585,25 +589,46 @@
       ]
     },
     {
-      "id": "the-devil-wears-prada-2-2026-878efecd",
+      "id": "wanda-sykes-legacy-2026-80559122",
       "source": "ophim",
-      "slug": "yeu-nu-thich-hang-hieu-2",
-      "name": "Yêu Nữ Thích Hàng Hiệu 2",
-      "originName": "The Devil Wears Prada 2",
-      "posterUrl": "https://img.ophim.live/uploads/movies/yeu-nu-thich-hang-hieu-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/yeu-nu-thich-hang-hieu-2-thumb.jpg",
+      "slug": "wanda-sykes-legacy",
+      "name": "Wanda Sykes: Legacy",
+      "originName": "Wanda Sykes: Legacy",
+      "posterUrl": "https://img.ophim.live/uploads/movies/wanda-sykes-legacy-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/wanda-sykes-legacy-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
+        }
+      ],
+      "countries": [
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ladies-first-2026-aade12f1",
+      "source": "ophim",
+      "slug": "xin-nhuong-phai-dep",
+      "name": "Xin Nhường Phái Đẹp",
+      "originName": "Ladies First",
+      "posterUrl": "https://img.ophim.live/uploads/movies/xin-nhuong-phai-dep-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/xin-nhuong-phai-dep-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         }
       ],
       "countries": [
@@ -624,7 +649,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -637,39 +662,6 @@
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-ramparts-of-ice-2026-b2d3bf42",
-      "source": "phimapi",
-      "slug": "buc-tuong-bang",
-      "name": "Bức Tường Băng",
-      "originName": "The Ramparts Of Ice",
-      "posterUrl": "https://phimimg.com/upload/vod/20260404-1/26f579bccac331f2d8f665e7f351f741.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/e1b14c45500af93e16f521d03f92f071.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
         },
         {
           "name": "Tâm Lý",

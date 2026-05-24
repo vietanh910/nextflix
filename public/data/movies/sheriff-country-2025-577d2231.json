@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 19",
   "categories": [
     {
       "name": "Hình Sự",
@@ -177,13 +177,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/7626de99ef9d9305435b253bafb504fe",
       "m3u8Url": "https://vip.opstream10.com/20260510/33677_7626de99/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b81129068ebeabccd293d31c99d510f4",
+      "m3u8Url": "https://vip.opstream10.com/20260523/33746_b8112906/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "canh-sat-truong-vung-que-phan-1",
-      "episodeCount": 18,
+      "episodeCount": 19,
       "priority": 0
     }
   ],

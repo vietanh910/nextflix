@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "episodeCurrent": "Tập 22",
   "categories": [
     {
       "name": "Hành Động",
@@ -213,13 +213,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/d82c11ec1571cc49a9e5d67285a26668",
       "m3u8Url": "https://vip.opstream90.com/20260516/31909_d82c11ec/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2a39b5110caf02b3ca7e545d509be7e6",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32718_2a39b511/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nguoi-tren-van-nguoi-phan-6",
-      "episodeCount": 21,
+      "episodeCount": 22,
       "priority": 0
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hài Hước",
@@ -85,13 +85,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/xrmKBl4u/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260516/xrmKBl4u/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/Ayc7snL2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/Ayc7snL2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "co-giao-mong-manh",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

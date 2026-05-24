@@ -1,0 +1,51 @@
+{
+  "id": "postcards-from-the-edge-1990-db2c7982",
+  "source": "ophim",
+  "slug": "buu-thiep-tu-bo-vuc",
+  "name": "Bưu thiếp từ bờ vực",
+  "originName": "Postcards from the Edge",
+  "posterUrl": "https://img.ophim.live/uploads/movies/buu-thiep-tu-bo-vuc-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/buu-thiep-tu-bo-vuc-thumb.jpg",
+  "year": 1990,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một nữ diễn viên nghiện chất kích thích cố gắng nhìn vào mặt tích cực ngay cả khi cô buộc phải chuyển về sống với mẹ để tránh bị thất nghiệp.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/234c7ac2c77173bbfe2e1495dc47c363",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32694_234c7ac2/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "buu-thiep-tu-bo-vuc",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

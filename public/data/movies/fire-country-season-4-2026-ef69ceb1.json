@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "episodeCurrent": "Tập 19",
   "categories": [
     {
       "name": "Hình Sự",
@@ -177,13 +177,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/29345917cc8b62e71e973391840efca4",
       "m3u8Url": "https://vip.opstream10.com/20260510/33632_29345917/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b1c22d171a128f2defc188ce786fbbf8",
+      "m3u8Url": "https://vip.opstream10.com/20260521/33716_b1c22d17/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "fire-country-phan-4",
-      "episodeCount": 18,
+      "episodeCount": 19,
       "priority": 0
     }
   ],

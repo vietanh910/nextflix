@@ -1,0 +1,47 @@
+{
+  "id": "dacoit-2026-ad1096bf",
+  "source": "ophim",
+  "slug": "dacoit",
+  "name": "Dacoit",
+  "originName": "Dacoit",
+  "posterUrl": "https://img.ophim.live/uploads/movies/dacoit-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/dacoit-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Bị người yêu phản bội, một người đàn ông bị kết tội oan. Sau khi được tự do, anh ta truy tìm cô ta để trả thù, và câu chuyện của cả hai đan xen với một loạt vụ cướp.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/f37beddd0d23515121b758186cfaa9d2",
+      "m3u8Url": "https://vip.opstream12.com/20260519/32699_f37beddd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "dacoit",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

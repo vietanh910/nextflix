@@ -1,0 +1,56 @@
+{
+  "id": "wellwood-2025-6981b1d7",
+  "source": "ophim",
+  "slug": "wellwood",
+  "name": "Wellwood",
+  "originName": "Wellwood",
+  "posterUrl": "https://img.ophim.live/uploads/movies/wellwood-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/wellwood-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Nick tình cờ phát hiện ra một thứ gì đó ngoài hành tinh và anh tin rằng nó sẽ chữa khỏi căn bệnh hiểm nghèo của vợ mình.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "wellwood",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

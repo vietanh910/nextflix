@@ -1,0 +1,47 @@
+{
+  "id": "life-according-to-sam-2013-6459c4d5",
+  "source": "phimapi",
+  "slug": "goc-nhin-cuoc-song-cua-sam",
+  "name": "Góc Nhìn Cuộc Sống Của Sam",
+  "originName": "Life According To Sam",
+  "posterUrl": "https://phimimg.com/upload/vod/20260518-1/52696ab031ce9d3c5ada2250e3e03ed9.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/700738c317b9cd0a71e0fab0cb52e3ed.jpg",
+  "year": 2013,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Progeria là một căn bệnh di truyền hiếm gặp, gây tử vong, khiến trẻ em lão hóa nhanh; những nạn nhân nhỏ tuổi của căn bệnh này hiếm khi sống quá 13 tuổi. Bộ phim tài liệu cảm động này khám phá thế giới kỳ lạ của Sam Berns và hành trình không ngừng nghỉ tìm kiếm phương pháp điều trị và chữa khỏi bệnh của cha mẹ cậu bé (cả hai đều là bác sĩ) để cứu con trai họ khỏi căn bệnh này.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/XnY2S4bW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/XnY2S4bW/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "goc-nhin-cuoc-song-cua-sam",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

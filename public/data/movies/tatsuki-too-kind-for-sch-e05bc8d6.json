@@ -7,58 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/7/thay-tatsuki-qua-de-tinh-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/7/thay-tatsuki-qua-de-tinh.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [],
   "countries": [],
-  "description": "Tại trường giáo dục thay thế dành cho trẻ không hợp lớp học truyền thống, cách dạy thoải mái của Tatsuki khiến Shizuku nghiêm khắc bối rối, khi họ học cách kết nối với học sinh.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=5f1f8165484ad09ddf781f927b7bfbad",
-      "m3u8Url": "https://sing.phimmoi.net/5f1f8165484ad09ddf781f927b7bfbad/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=fbe6b9db815611b5aa1cb5dbaba4b5b2",
-      "m3u8Url": "https://sing.phimmoi.net/fbe6b9db815611b5aa1cb5dbaba4b5b2/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=b8ef2f7f494ff3dcebb0ac2b41a4aa9f",
-      "m3u8Url": "https://sing.phimmoi.net/b8ef2f7f494ff3dcebb0ac2b41a4aa9f/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=c5ce28442ea9ddf9212e6559646a9fa2",
-      "m3u8Url": "https://sing.phimmoi.net/c5ce28442ea9ddf9212e6559646a9fa2/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=9e925b2f496a5fb51022c0d7938258d0",
-      "m3u8Url": "https://sing.phimmoi.net/9e925b2f496a5fb51022c0d7938258d0/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "thay-tatsuki-qua-de-tinh",
-      "episodeCount": 5,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

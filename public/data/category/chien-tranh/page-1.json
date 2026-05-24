@@ -5,6 +5,35 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "omukade-2026-a85c03f2",
+      "source": "ophim",
+      "slug": "omukade-con-ret-nguoi",
+      "name": "Omukade: Con Rết Người",
+      "originName": "Omukade",
+      "posterUrl": "https://img.ophim.live/uploads/movies/omukade-con-ret-nguoi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/omukade-con-ret-nguoi-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
       "id": "rise-of-the-conqueror-2026-1f02d364",
       "source": "ophim",
       "slug": "rise-of-the-conqueror",
@@ -31,6 +60,51 @@
         }
       ],
       "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "firebird-2021-cd7b35d5",
+      "source": "phimapi",
+      "slug": "chim-lua",
+      "name": "Chim Lửa",
+      "originName": "Firebird",
+      "posterUrl": "https://phimimg.com/upload/vod/20260519-1/88acf1922c11b51667daf01139fbd414.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260519-1/ce9e40810b255356ea56682447f94ffa.jpg",
+      "year": 2021,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Estonia",
+          "slug": "estonia"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"

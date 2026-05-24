@@ -1,0 +1,34 @@
+{
+  "id": "mother-mary-1046a0f1",
+  "source": "nguonc",
+  "slug": "hao-quang-don-doc",
+  "name": "Hào Quang Đơn Độc",
+  "originName": "Mother Mary",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/4R47iCjnTgwICFPxAJOxzE99Wzj.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/5k7ndk22c9KPBlRixqou4az0jMQ.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Những vết thương chôn giấu từ lâu trỗi dậy khi ngôi sao nhạc pop biểu tượng Mother Mary tái ngộ người bạn thân đã rạn nứt — đồng thời là nhà thiết kế trang phục cũ của cô, Sam Anselm — ngay trước thềm màn trở lại sân khấu.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=ce3fc9807ad0c40e68a78db91f7df7ee",
+      "m3u8Url": "https://sing.phimmoi.net/ce3fc9807ad0c40e68a78db91f7df7ee/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "hao-quang-don-doc",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

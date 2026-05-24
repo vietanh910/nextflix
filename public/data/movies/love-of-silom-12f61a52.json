@@ -7,58 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/7/chuyen-tinh-silom-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/7/chuyen-tinh-silom.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [],
   "countries": [],
-  "description": "Krit là một cảnh sát trẻ đẹp trai, xuất thân từ gia đình gốc Hoa. Cậu rất hiếu thảo. Bề ngoài, cậu làm theo ý cha, vào học Học viện Cảnh sát, nối nghiệp ông – một sĩ quan cấp cao trong Cục Cảnh sát Quốc gia. Nhưng thực ra, Krit chưa từng thật lòng muốn trở thành cảnh sát. Gia đình cậu cực kỳ phản đối các mối quan hệ đồng giới, thậm chí cha cậu còn đe dọa sẽ gây tổn hại nếu cậu hẹn hò với đàn ông. Vì vậy, Krit phải giấu kín mối quan hệ với bạn trai. Dù vậy, tình yêu của họ vẫn rất sâu đậm. Krit nỗ lực hết mình để giúp bạn trai thực hiện ước mơ trở thành idol, nhưng sau khi thành công, người kia lại tàn nhẫn rời bỏ cậu. Bị tổn thương, Krit trở nên lạnh lùng và dần mất niềm tin vào tình yêu.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=55c79daf83bfa83fe8d185d0bf11a9f9",
-      "m3u8Url": "https://sing.phimmoi.net/55c79daf83bfa83fe8d185d0bf11a9f9/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=ee5c78a24335d901f7164ab7b9e641e6",
-      "m3u8Url": "https://sing.phimmoi.net/ee5c78a24335d901f7164ab7b9e641e6/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=37a6d453bbf231350a9e88776d87fd3e",
-      "m3u8Url": "https://sing.phimmoi.net/37a6d453bbf231350a9e88776d87fd3e/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=548c487d472b3d22401165d505b2e413",
-      "m3u8Url": "https://sing.phimmoi.net/548c487d472b3d22401165d505b2e413/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=0e8022aad033b1e4c6f3dffb855e8da7",
-      "m3u8Url": "https://sing.phimmoi.net/0e8022aad033b1e4c6f3dffb855e8da7/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "chuyen-tinh-silom",
-      "episodeCount": 5,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

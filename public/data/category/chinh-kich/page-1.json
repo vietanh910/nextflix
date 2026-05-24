@@ -5,22 +5,18 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "180-2026-0f5b68a9",
+      "id": "aakhri-sawal-2026-7698c0aa",
       "source": "ophim",
-      "slug": "180",
-      "name": "180",
-      "originName": "180",
-      "posterUrl": "https://img.ophim.live/uploads/movies/180-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/180-thumb.jpg",
+      "slug": "aakhri-sawal",
+      "name": "Aakhri Sawal",
+      "originName": "Aakhri Sawal",
+      "posterUrl": "https://img.ophim.live/uploads/movies/aakhri-sawal-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/aakhri-sawal-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -28,37 +24,8 @@
       ],
       "countries": [
         {
-          "name": "Nam Phi",
-          "slug": "nam-phi"
-        }
-      ]
-    },
-    {
-      "id": "unpredictable-2026-7427c0f5",
-      "source": "ophim",
-      "slug": "anh-vu-2026",
-      "name": "Anh Vũ",
-      "originName": "Unpredictable",
-      "posterUrl": "https://img.ophim.live/uploads/movies/anh-vu-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/anh-vu-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Ấn Độ",
+          "slug": "an-do"
         }
       ]
     },
@@ -110,7 +77,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hình Sự",
@@ -139,7 +106,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính kịch",
@@ -208,21 +175,21 @@
       ]
     },
     {
-      "id": "beef-season-2-2026-60a2f4ea",
+      "id": "berlin-and-the-lady-with-2026-df0f7f53",
       "source": "ophim",
-      "slug": "bat-hoa-phan-2",
-      "name": "Bất hòa (Phần 2)",
-      "originName": "BEEF (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bat-hoa-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bat-hoa-phan-2-thumb.jpg",
+      "slug": "berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon",
+      "name": "Berlin và bức họa Người đàn bà và con chồn",
+      "originName": "Berlin and the Lady with an Ermine",
+      "posterUrl": "https://img.ophim.live/uploads/movies/berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Chính kịch",
@@ -231,53 +198,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "invincible-season-4-2026-d24778c9",
-      "source": "ophim",
-      "slug": "bat-kha-chien-bai-phan-4",
-      "name": "BẤT KHẢ CHIẾN BẠI (Phần 4)",
-      "originName": "Invincible (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bat-kha-chien-bai-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bat-kha-chien-bai-phan-4-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
         }
       ]
     },
@@ -292,7 +214,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hài Hước",
@@ -389,43 +311,6 @@
       ]
     },
     {
-      "id": "dandelion-2026-390ef752",
-      "source": "ophim",
-      "slug": "bo-cong-anh",
-      "name": "Bồ Công Anh",
-      "originName": "Dandelion",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bo-cong-anh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bo-cong-anh-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (7/7)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "the-crow-princess-of-for-2026-d6d355d2",
       "source": "ophim",
       "slug": "bon-huyen-nha-la-phuc-tinh",
@@ -435,8 +320,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/bon-huyen-nha-la-phuc-tinh-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 21",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (27/27)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -513,35 +398,31 @@
       ]
     },
     {
-      "id": "the-scarecrow-2026-8c7c414e",
+      "id": "the-ramparts-of-ice-2026-16a87778",
       "source": "ophim",
-      "slug": "bu-nhin-bong-dem",
-      "name": "Bù Nhìn Bóng Đêm",
-      "originName": "The Scarecrow",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bu-nhin-bong-dem-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bu-nhin-bong-dem-thumb.jpg",
+      "slug": "buc-tuong-bang",
+      "name": "Bức Tường Băng",
+      "originName": "The Ramparts of Ice",
+      "posterUrl": "https://img.ophim.live/uploads/movies/buc-tuong-bang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/buc-tuong-bang-thumb.jpg",
       "year": 2026,
-      "type": "series",
+      "type": "anime",
       "status": "ongoing",
       "episodeCurrent": "Tập 8",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -639,7 +520,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính kịch",
@@ -687,25 +568,25 @@
       ]
     },
     {
-      "id": "red-eye-season-2-2026-888ff2fd",
+      "id": "fifties-professionals-2026-ef3e6bd3",
       "source": "ophim",
-      "slug": "chuyen-bay-dem-phan-2",
-      "name": "Chuyến Bay Đêm (Phần 2)",
-      "originName": "Red Eye (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-dem-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-dem-phan-2-thumb.jpg",
+      "slug": "chuyen-gia-tuoi-trung-nien",
+      "name": "Chuyên Gia Tuổi Trung Niên",
+      "originName": "Fifties Professionals",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-gia-tuoi-trung-nien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-gia-tuoi-trung-nien-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Phiêu Lưu",
@@ -714,20 +595,37 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "akane-banashi-2026-99d54dfc",
+      "source": "ophim",
+      "slug": "chuyen-ke-cua-akane",
+      "name": "Chuyện Kể Của Akane",
+      "originName": "Akane-banashi",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-ke-cua-akane-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-ke-cua-akane-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
         {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -742,7 +640,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -759,6 +657,76 @@
         {
           "name": "Bí ẩn",
           "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "cia-2026-a7dd09e8",
+      "source": "ophim",
+      "slug": "cia-phan-1",
+      "name": "CIA (Phần 1)",
+      "originName": "CIA",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cia-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cia-phan-1-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "citadel-season-2-2026-86d7bc73",
+      "source": "ophim",
+      "slug": "citadel-phan-2",
+      "name": "Citadel (Phần 2)",
+      "originName": "Citadel (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/citadel-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/citadel-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [

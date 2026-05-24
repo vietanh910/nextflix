@@ -33,14 +33,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/9a5a511ca4f18a61719b12acf46f14c0",
       "m3u8Url": "https://vip.opstream90.com/20260514/31777_9a5a511c/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/KWJh7bew/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/KWJh7bew/index.m3u8"
     }
   ],
   "sources": [
@@ -49,12 +41,6 @@
       "slug": "muon-mat-cai-chet",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "muon-mat-cai-chet",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

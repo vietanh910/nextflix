@@ -1,0 +1,47 @@
+{
+  "id": "white-river-2025-204ef133",
+  "source": "ophim",
+  "slug": "duc-vong-ben-song-trang",
+  "name": "Dục Vọng Bên Sông Trắng",
+  "originName": "White River",
+  "posterUrl": "https://img.ophim.live/uploads/movies/duc-vong-ben-song-trang-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/duc-vong-ben-song-trang-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>White River kể về Yang Fan, một người phụ nữ sống trong những ngày phong tỏa buồn tẻ bên dòng Bạch Hà, nơi cuộc sống chỉ xoay quanh nấu nướng và dọn dẹp. Mọi thứ dần thay đổi khi cô bị cuốn vào mối quan hệ đầy dục vọng và bí ẩn giữa chồng mình với một chàng phục vụ trẻ tuổi</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3f8ee098f1300beb0464a8a8288ab931",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32642_3f8ee098/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "duc-vong-ben-song-trang",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

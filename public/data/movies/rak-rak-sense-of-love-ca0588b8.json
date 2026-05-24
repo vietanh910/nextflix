@@ -7,50 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/rak-rak-truc-giac-tinh-yeu-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/rak-rak-truc-giac-tinh-yeu.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [],
   "countries": [],
-  "description": "Khi cảm xúc dâng trào và trái tim đối mặt với những phép thử, chẳng có gì là bất biến. Trong Rak Rak, chỉ một khoảnh khắc cũng có thể thay đổi tất cả, giữa rung động và lý trí, họ sẽ lựa chọn điều gì?",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=66bcbcd2d6b44a865211810d2ceebf4d",
-      "m3u8Url": "https://sing.phimmoi.net/66bcbcd2d6b44a865211810d2ceebf4d/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=105155dba5728006881032fb6fb65a74",
-      "m3u8Url": "https://sing.phimmoi.net/105155dba5728006881032fb6fb65a74/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=efc252805818d39743f71b812d67ba2d",
-      "m3u8Url": "https://sing.phimmoi.net/efc252805818d39743f71b812d67ba2d/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=8d84382cef659aeda301c985df41d409",
-      "m3u8Url": "https://sing.phimmoi.net/8d84382cef659aeda301c985df41d409/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "rak-rak-truc-giac-tinh-yeu",
-      "episodeCount": 4,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

@@ -34,11 +34,6 @@
       "name": "",
       "serverName": "Vietsub #1",
       "source": "ophim"
-    },
-    {
-      "name": "",
-      "serverName": "#Hà Nội",
-      "source": "phimapi"
     }
   ],
   "sources": [
@@ -47,12 +42,6 @@
       "slug": "cannibal-mukbang",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "cannibal-mukbang",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

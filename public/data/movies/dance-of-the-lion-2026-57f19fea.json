@@ -1,0 +1,47 @@
+{
+  "id": "dance-of-the-lion-2026-57f19fea",
+  "source": "ophim",
+  "slug": "dance-of-the-lion",
+  "name": "Dance of the Lion",
+  "originName": "Dance of the Lion",
+  "posterUrl": "https://img.ophim.live/uploads/movies/dance-of-the-lion-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/dance-of-the-lion-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Sau tai nạn của cha, một cô gái trẻ vùng Isan tiếp quản đoàn múa lân gia đình và kết hợp với nhạc Mor Lam truyền thống để duy trì hoạt động của đoàn.</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/19db090dc300e7c94c75231aa830dfee",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32649_19db090d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "dance-of-the-lion",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sponsor-2025-5c65204e",
+  "source": "ophim",
+  "slug": "sponsor",
+  "name": "Sponsor",
+  "originName": "Sponsor",
+  "posterUrl": "https://img.ophim.live/uploads/movies/sponsor-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/sponsor-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Philippines",
+      "slug": "philippines"
+    }
+  ],
+  "description": "<p>A movie about sisters who use their bodies to survive. To support her family, Jasmine becomes a sugar baby to a businessman. She regrets her choice as she learns that that it would put her and her sister's life in danger.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "sponsor",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

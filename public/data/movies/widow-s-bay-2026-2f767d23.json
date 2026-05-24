@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hài Hước",
@@ -65,14 +65,68 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/f33c64866907e92c0fe0ed10fcb56c9f",
       "m3u8Url": "https://vip.opstream90.com/20260513/31690_f33c6486/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c8e1d3b1704b30d49e255de822a921cf",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32428_c8e1d3b1/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260430/bvps2Pbk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260430/bvps2Pbk/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260430/PMLEC3bE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260430/PMLEC3bE/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260508/knTt45do/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260508/knTt45do/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/GjcdPHx2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/GjcdPHx2/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/hese4Yc0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/hese4Yc0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "bi-an-thi-tran-widows-bay",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "bi-an-thi-tran-widows-bay",
+      "episodeCount": 5,
+      "priority": 1
     }
   ],
   "_priority": 0

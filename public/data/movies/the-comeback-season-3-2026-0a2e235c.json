@@ -93,6 +93,70 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/855574f497fe975ae99d6b7d5353c0e8",
       "m3u8Url": "https://vip.opstream90.com/20260511/31530_855574f4/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260505/sjUMRVYo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260505/sjUMRVYo/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260505/hoalDTnc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260505/hoalDTnc/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260505/Is2pp1SR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260505/Is2pp1SR/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260505/oNNPC0F9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260505/oNNPC0F9/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260505/xz62KS5q/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260505/xz62KS5q/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260505/CGgOd7K5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260505/CGgOd7K5/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/euFJk0aX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/euFJk0aX/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/EtQAgWXI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/EtQAgWXI/index.m3u8"
     }
   ],
   "sources": [
@@ -101,6 +165,12 @@
       "slug": "the-comeback-phan-3",
       "episodeCount": 8,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tai-xuat-phan-3",
+      "episodeCount": 8,
+      "priority": 1
     }
   ],
   "_priority": 0

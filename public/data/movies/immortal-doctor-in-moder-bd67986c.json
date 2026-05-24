@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Film/65t4t566565.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Film/65t4t566565.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 175",
+  "episodeCurrent": "Tập 177",
   "categories": [],
   "countries": [],
   "description": "Diệp Bất Phàm là một sinh viên năm 3, để kiếm đủ tiền nằm viện cho mẹ mà đi ăn vạ, giả vờ tai nạn để bắt người khác bồi thường. Nào ngờ lại gặp phải một cô tài xế không làm theo những gì người ta hay làm. Sau khi bị đâm, Diệp bất Phàm vô tình xuyên không vào một ảo cảnh, và có được truyền thừa của một môn phái về y học thời cổ đại. Từ đó, anh ta thông thạo y thuật, tu luyện công pháp, và được rất nhiều cô gái xinh đẹp chú ý đến.",
@@ -1412,13 +1412,29 @@
       "source": "nguonc",
       "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=a42be0305fc068fbf78dad7a3e98aebd",
       "m3u8Url": "https://sing.phimmoi.net/a42be0305fc068fbf78dad7a3e98aebd/hls.m3u8"
+    },
+    {
+      "name": "176",
+      "slug": "tap-176",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=e542db61e10d51b2c0dff9dd35288185",
+      "m3u8Url": "https://sing.phimmoi.net/e542db61e10d51b2c0dff9dd35288185/hls.m3u8"
+    },
+    {
+      "name": "177",
+      "slug": "tap-177",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=9cb289af2103b2d50f891d63f5eec7a5",
+      "m3u8Url": "https://sing.phimmoi.net/9cb289af2103b2d50f891d63f5eec7a5/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "than-y-co-dai-o-do-thi-do-thi-co-tien-y",
-      "episodeCount": 175,
+      "episodeCount": 177,
       "priority": 2
     }
   ],

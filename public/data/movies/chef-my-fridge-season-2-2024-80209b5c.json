@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 66",
+  "episodeCurrent": "Tập 67",
   "categories": [
     {
       "name": "Hài Hước",
@@ -129,13 +129,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/620d925e18a28af2e785028a63486a35",
       "m3u8Url": "https://vip.opstream10.com/20260515/33692_620d925e/index.m3u8"
+    },
+    {
+      "name": "67",
+      "slug": "67",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/194191c15060e323bb610faf147e1700",
+      "m3u8Url": "https://vip.opstream10.com/20260524/33753_194191c1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
-      "episodeCount": 13,
+      "episodeCount": 14,
       "priority": 0
     }
   ],

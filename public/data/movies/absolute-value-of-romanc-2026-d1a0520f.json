@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/gia-tri-tuyet-doi-cua-lang-man-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (14/14)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -133,13 +133,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/ff19aaaec6a0ea4ed365576f4902cefa",
       "m3u8Url": "https://vip.opstream10.com/20260516/33698_ff19aaae/index.m3u8"
+    },
+    {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/74349b2e19170fe0bbb4feb6f5720c5a",
+      "m3u8Url": "https://vip.opstream10.com/20260523/33748_74349b2e/index.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/bb2dac5c9fc3056b62e11e7921b559a5",
+      "m3u8Url": "https://vip.opstream10.com/20260523/33749_bb2dac5c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "gia-tri-tuyet-doi-cua-lang-man",
-      "episodeCount": 12,
+      "episodeCount": 14,
       "priority": 0
     }
   ],

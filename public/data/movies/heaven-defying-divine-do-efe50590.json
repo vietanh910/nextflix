@@ -10,23 +10,12 @@
   "episodeCurrent": "FULL",
   "categories": [],
   "countries": [],
-  "description": "Để cứu sống ông nội, Trình Bách Linh chấp nhận trở thành vị hôn thê của thần y Trác Nhất Thần. Không ngờ, sau khi ra tay đưa ông Trình trở về từ cửa tử, Trác Nhất Thần lại vô tình đắc tội với bác sĩ riêng của Trình gia. Kể từ đó, anh bị cuốn vào hàng loạt âm mưu thâm độc và phải đối mặt với vô vàn hiểm nguy.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "FULL",
-      "slug": "tap-full",
-      "serverName": "Thuyết Minh #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=0dab1b5287cf061d622361c937d80174",
-      "m3u8Url": "https://sing.phimmoi.net/0dab1b5287cf061d622361c937d80174/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "nghich-thien-than-y",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

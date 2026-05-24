@@ -1,0 +1,59 @@
+{
+  "id": "young-hearts-2024-9253da4d",
+  "source": "phimapi",
+  "slug": "nhung-trai-tim-tre-trung",
+  "name": "Những Trái Tim Trẻ Trung",
+  "originName": "Young Hearts",
+  "posterUrl": "https://phimimg.com/upload/vod/20260522-1/1004aa062b4f6d79c3dc21f004f5cf52.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260522-1/c9cf01d5eaf452e43b1ec0efd2936490.jpg",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Bỉ",
+      "slug": "bi"
+    },
+    {
+      "name": "Hà Lan",
+      "slug": "ha-lan"
+    }
+  ],
+  "description": "Cậu thiếu niên 14 tuổi Elias ngày càng cảm thấy mình lạc lõng và cô đơn ngay tại ngôi làng nơi mình sinh sống. Mọi chuyện bắt đầu thay đổi khi cậu gặp gỡ người hàng xóm mới bằng tuổi tên là Alexander. Cuộc gặp gỡ này đã khiến Elias phải đối mặt với những cảm xúc và khát khao mới chớm nở về xu hướng tính dục của bản thân.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/M31YhaLO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260522/M31YhaLO/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nhung-trai-tim-tre-trung",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

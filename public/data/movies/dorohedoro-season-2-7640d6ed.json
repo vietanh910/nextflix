@@ -7,90 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/7/di-thu-ma-do-phan-2-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/7/di-thu-ma-do-phan-2.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [],
   "countries": [],
-  "description": "Mùa 2 sẽ tiếp nối cuộc hành trình tìm lại ký ức và khuôn mặt thật của Caiman, đồng thời đi sâu hơn vào những bí ẩn xung quanh trùm của băng Cross-Eyes và thế giới của các Pháp sư.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=1483797d88a8462344d22d10d374003a",
-      "m3u8Url": "https://sing.phimmoi.net/1483797d88a8462344d22d10d374003a/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=2cfedb36aa0503961099b774fa654218",
-      "m3u8Url": "https://sing.phimmoi.net/2cfedb36aa0503961099b774fa654218/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=3d37b2549139803c06adb33327ed4edf",
-      "m3u8Url": "https://sing.phimmoi.net/3d37b2549139803c06adb33327ed4edf/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=fd91e6593223cfdf80bd154e0d1a4d74",
-      "m3u8Url": "https://sing.phimmoi.net/fd91e6593223cfdf80bd154e0d1a4d74/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=421bc97698b23a8367d48df1e813d4f6",
-      "m3u8Url": "https://sing.phimmoi.net/421bc97698b23a8367d48df1e813d4f6/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=8514139bfcdf6bbe83033474564bc37a",
-      "m3u8Url": "https://sing.phimmoi.net/8514139bfcdf6bbe83033474564bc37a/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=08ff7559e047e12ce956e40198bd6866",
-      "m3u8Url": "https://sing.phimmoi.net/08ff7559e047e12ce956e40198bd6866/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=69527b92085f9535c4cc03478a1a8fd4",
-      "m3u8Url": "https://sing.phimmoi.net/69527b92085f9535c4cc03478a1a8fd4/hls.m3u8"
-    },
-    {
-      "name": "9",
-      "slug": "tap-9",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=71061431220b3375af09e10802e5528f",
-      "m3u8Url": "https://sing.phimmoi.net/71061431220b3375af09e10802e5528f/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "di-thu-ma-do-phan-2",
-      "episodeCount": 9,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

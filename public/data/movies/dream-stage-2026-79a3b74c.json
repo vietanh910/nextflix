@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -91,6 +91,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260515/fzpUSBZH/index.m3u8"
     },
     {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/oGKxeXco/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260522/oGKxeXco/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -129,19 +137,35 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/147ba6b763f8f41a1d362d846af0b5e8",
       "m3u8Url": "https://vip.opstream90.com/20260502/30772_147ba6b7/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/78359822d0b017483ac74c19ca10381d",
+      "m3u8Url": "https://vip.opstream90.com/20260518/32193_78359822/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/01bfa6f22b2ebecc7539536db6ea78f3",
+      "m3u8Url": "https://vip.opstream90.com/20260518/32194_01bfa6f2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dream-stage",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "san-khau-uoc-mo",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

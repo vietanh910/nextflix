@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hài Hước",
@@ -95,6 +95,22 @@
       "m3u8Url": "https://vip.opstream90.com/20260514/31770_ae8ac5e9/index.m3u8"
     },
     {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0a78d9f8a1d2c2289e4410bcb0657b73",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32545_0a78d9f8/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/15f68be0f9f23b4653ab81fa42161a4a",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32621_15f68be0/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -157,19 +173,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/JkUkNeE8/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260514/JkUkNeE8/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/t3a0LafX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/t3a0LafX/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/5lqKdnoR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260521/5lqKdnoR/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "hom-nay-lai-ban-het",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "hom-nay-lai-ban-het",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

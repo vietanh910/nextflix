@@ -1,0 +1,55 @@
+{
+  "id": "the-magic-faraway-tree-2026-39838032",
+  "source": "ophim",
+  "slug": "cay-co-thu-dieu-ky",
+  "name": "Cây Cổ Thụ Diệu Kỳ",
+  "originName": "The Magic Faraway Tree",
+  "posterUrl": "https://img.ophim.live/uploads/movies/cay-co-thu-dieu-ky-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/cay-co-thu-dieu-ky-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Một gia đình hiện đại chuyển về vùng quê, nơi những đứa trẻ phát hiện một cái cây kỳ diệu với những cư dân lập dị. Qua những chuyến phiêu lưu đến các vùng đất kỳ ảo, cả gia đình dần gắn kết lại với nhau.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/e1ea274b18a0e5bde67da64ea2010562",
+      "m3u8Url": "https://vip.opstream12.com/20260519/32700_e1ea274b/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "cay-co-thu-dieu-ky",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

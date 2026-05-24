@@ -1,0 +1,55 @@
+{
+  "id": "psoty-2026-1f14e5c9",
+  "source": "ophim",
+  "slug": "psoty",
+  "name": "Psoty",
+  "originName": "Psoty",
+  "posterUrl": "https://img.ophim.live/uploads/movies/psoty-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/psoty-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ba lan",
+      "slug": "ba-lan"
+    }
+  ],
+  "description": "",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c15e297925c4cff8760eead96426b961",
+      "m3u8Url": "https://vip.opstream90.com/20260515/31815_c15e2979/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "psoty",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

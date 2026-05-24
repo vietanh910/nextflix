@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260429-1/45bc3c41ca85315f1a483471c7a643c5.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 33",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (37/37)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -299,6 +299,38 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260516/HVCYzMCp/index.m3u8"
     },
     {
+      "name": "Tập 34",
+      "slug": "tap-34",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/YPxUhgfG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/YPxUhgfG/index.m3u8"
+    },
+    {
+      "name": "Tập 35",
+      "slug": "tap-35",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/vcWcUnnP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/vcWcUnnP/index.m3u8"
+    },
+    {
+      "name": "Tập 36",
+      "slug": "tap-36",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/QpJv3ard/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/QpJv3ard/index.m3u8"
+    },
+    {
+      "name": "Tập 37",
+      "slug": "tap-37",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/19bLPuCB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/19bLPuCB/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -429,7 +461,7 @@
     {
       "source": "phimapi",
       "slug": "tinh-yeu-khong-co-co-tich",
-      "episodeCount": 33,
+      "episodeCount": 37,
       "priority": 1
     }
   ],

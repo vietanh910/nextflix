@@ -1,0 +1,47 @@
+{
+  "id": "god-is-the-bigger-elvis-2012-d10cedf3",
+  "source": "phimapi",
+  "slug": "chua-la-elvis-lon-lao-hon",
+  "name": "Chúa Là Elvis Lớn Lao Hơn",
+  "originName": "God Is The Bigger Elvis",
+  "posterUrl": "https://phimimg.com/upload/vod/20260518-1/dbdaaf7d1adc222e551ee64a6d9c49a0.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/feb828651d6a36d6357c99471629bad8.jpg",
+  "year": 2012,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Bộ phim tài liệu được đề cử giải Oscar® về một nữ diễn viên trẻ đầy triển vọng rời Hollywood để trở thành một nữ tu.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/x4Q877xG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/x4Q877xG/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chua-la-elvis-lon-lao-hon",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

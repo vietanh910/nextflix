@@ -1,0 +1,61 @@
+{
+  "id": "ladies-first-2026-aade12f1",
+  "source": "ophim",
+  "slug": "xin-nhuong-phai-dep",
+  "name": "Xin Nhường Phái Đẹp",
+  "originName": "Ladies First",
+  "posterUrl": "https://img.ophim.live/uploads/movies/xin-nhuong-phai-dep-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/xin-nhuong-phai-dep-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Trong bộ phim hài tinh quái có sự tham gia của Sacha Baron Cohen và Rosamund Pike, một gã trăng hoa tự mãn tỉnh dậy ở một thực tại song song, nơi phụ nữ nắm quyền.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/55b631a083678b1748313493a183a42b",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32693_55b631a0/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/45we73kH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/45we73kH/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "xin-nhuong-phai-dep",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "xin-nhuong-phai-dep",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

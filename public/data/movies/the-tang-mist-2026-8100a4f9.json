@@ -1,0 +1,113 @@
+{
+  "id": "the-tang-mist-2026-8100a4f9",
+  "source": "ophim",
+  "slug": "dai-duong-me-vu",
+  "name": "Đại Đường Mê Vụ",
+  "originName": "The Tang Mist",
+  "posterUrl": "https://img.ophim.live/uploads/movies/dai-duong-me-vu-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/dai-duong-me-vu-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Nước Đại Đường thời Thùy Củng, Địch Nhân Kiệt bất mãn khi thấy Võ Hậu hy sinh người vô tội để thực hiện dã tâm, nên đã cùng đoàn người rời Thần Đô, đi tuần tra Giang Nam Đạo. Ông không ngờ bên dưới vẻ bề ngoài thịnh thế phồn vinh lại là cảnh tượng yêu ma quỷ quái hoành hành. Những đấu đá quyền lực, lòng tham lợi ích và nỗi ám ảnh cố chấp… đã kéo Địch Nhân Kiệt vào từng thiên la địa võng được sắp đặt tinh vi. Đối diện với kỳ án, bị sương mù che mắt, vị thần thám Đại Đường dùng trí tuệ phi phàm dò xét từng manh mối nhỏ, dùng năng lực siêu việt để thấu tỏ lòng người.</p><p>&nbsp;</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/50acb95527b5b98d6a41b41cab45fe6c",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32732_50acb955/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1b51720eac97141c9a443e8400d39722",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32733_1b51720e/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/18bf4a47d5777efe47c421645d19f2f1",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32734_18bf4a47/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0e7adb08b43a589df528d2bdd69b6b03",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32735_0e7adb08/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/Ny5I96tR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/Ny5I96tR/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/QnN8OPZb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/QnN8OPZb/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/taSw6lod/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/taSw6lod/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/3jBZmZGy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/3jBZmZGy/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "dai-duong-me-vu",
+      "episodeCount": 4,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "dai-duong-me-vu",
+      "episodeCount": 4,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

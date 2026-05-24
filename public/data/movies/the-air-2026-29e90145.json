@@ -1,0 +1,67 @@
+{
+  "id": "the-air-2026-29e90145",
+  "source": "ophim",
+  "slug": "gio-thoang-tinh-theo",
+  "name": "Gió Thoảng Tình Theo",
+  "originName": "The Air",
+  "posterUrl": "https://img.ophim.live/uploads/movies/gio-thoang-tinh-theo-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/gio-thoang-tinh-theo-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Một nàng công chúa đến thăm Thái Lan phải đối mặt với một âm mưu ám sát. Người bảo vệ cảnh sát trở thành niềm hy vọng sống sót duy nhất của nàng. Trong khi lẩn trốn khỏi những mối đe dọa, những cảm xúc cấm đoán nảy sinh giữa họ, dẫn đến một cuộc đối đầu cuối cùng đầy nguy hiểm.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7237b93253823cc2ffd24ddfb8ee4b4c",
+      "m3u8Url": "https://vip.opstream90.com/20260518/32223_7237b932/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6499e19d47d7cbd3302a26fdb40d0b41",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32769_6499e19d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "gio-thoang-tinh-theo",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,59 @@
+{
+  "id": "you-will-die-in-6-hours-2024-4ffc99c3",
+  "source": "phimapi",
+  "slug": "tien-tri-tu-than",
+  "name": "Tiên Tri Tử Thần",
+  "originName": "You Will Die In 6 Hours",
+  "posterUrl": "https://phimimg.com/upload/vod/20260524-1/ce4cb2ee8e2161c773a1e311bd9000dd.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20250226-1/1125e0b8a8f1d66744bdc1019f2f0e3e.jpg",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "Một kẻ lạ mặt Jun-woo (JaeHyun NCT) dự báo cái chết sẽ đến với Jeong-yun (PARK Ju-hyun) trong 6 tiếng sắp tới. Từ phớt lờ, đến hoang mang, và nhận ra hiểm họa gần kề, cô buộc phải đồng hành cùng kẻ tiên tri bí ẩn. Càng cố tìm hiểu cô lại nhận ra Jun-woo chính là manh mối duy nhất liên quan đến những vụ án sát nhân hàng loạt. Căng thẳng tột độ, liệu Jun-woo đã nhìn thấy tương lai hay chỉ đang giăng bẫy một nạn nhân xấu số?",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/Fn4OS7Jx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/Fn4OS7Jx/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tien-tri-tu-than",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

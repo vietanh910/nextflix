@@ -1,0 +1,47 @@
+{
+  "id": "the-roast-of-kevin-hart-2026-fcd4c4b4",
+  "source": "ophim",
+  "slug": "che-nhao-kevin-hart",
+  "name": "Chế nhạo Kevin Hart",
+  "originName": "The Roast of Kevin Hart",
+  "posterUrl": "https://img.ophim.live/uploads/movies/che-nhao-kevin-hart-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/che-nhao-kevin-hart-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Kevin Hart ngồi ghế nóng và sẵn sàng đón nhận mọi màn cà khịa khi MC chương trình Roast Shane Gillis cùng dàn sao hạng A mang đến một đêm hài hước táo bạo và không kiêng nể.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/e94378d015c20a82b0585c1011f97d7e",
+      "m3u8Url": "https://vip.opstream12.com/20260520/32702_e94378d0/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "che-nhao-kevin-hart",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

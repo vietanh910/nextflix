@@ -41,14 +41,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ed21b54c417d6d8638aef8efc652fe37",
       "m3u8Url": "https://vip.opstream90.com/20260514/31745_ed21b54c/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/JfO0dL2r/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/JfO0dL2r/index.m3u8"
     }
   ],
   "sources": [
@@ -57,12 +49,6 @@
       "slug": "mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

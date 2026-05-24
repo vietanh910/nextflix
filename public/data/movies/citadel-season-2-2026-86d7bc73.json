@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/citadel-phan-2-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (7/7)",
   "categories": [
     {
       "name": "Hành Động",
@@ -77,13 +77,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/2fc06d277e31a5df872ac04eb7e75cd2",
       "m3u8Url": "https://vip.opstream10.com/20260516/33699_2fc06d27/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/7f4844039fc3e8da54ac036380e801f3",
+      "m3u8Url": "https://vip.opstream10.com/20260521/33713_7f484403/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/cfef40996e0de2c0f3fe1031421403fd",
+      "m3u8Url": "https://vip.opstream10.com/20260521/33719_cfef4099/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "citadel-phan-2",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 0
     }
   ],

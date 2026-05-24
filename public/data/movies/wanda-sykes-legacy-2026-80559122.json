@@ -1,0 +1,47 @@
+{
+  "id": "wanda-sykes-legacy-2026-80559122",
+  "source": "ophim",
+  "slug": "wanda-sykes-legacy",
+  "name": "Wanda Sykes: Legacy",
+  "originName": "Wanda Sykes: Legacy",
+  "posterUrl": "https://img.ophim.live/uploads/movies/wanda-sykes-legacy-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/wanda-sykes-legacy-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Wanda Sykes third Netflix stand-up special.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/62e125fde0037ef78106973d7d91c94e",
+      "m3u8Url": "https://vip.opstream90.com/20260523/32765_62e125fd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "wanda-sykes-legacy",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

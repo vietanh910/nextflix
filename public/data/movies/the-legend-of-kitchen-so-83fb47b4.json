@@ -7,34 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/2/huyen-thoai-linh-bep-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/2/huyen-thoai-linh-bep.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [],
   "countries": [],
-  "description": "Xoay quanh một chàng lính trẻ bình thường được phân vào đội nhà bếp trong quân đội. Ban đầu anh bị xem thường vì không có năng lực chiến đấu nổi bật, nhưng lại sở hữu tài nấu ăn cực kỳ đặc biệt. Nhờ khả năng này, anh dần trở thành “huyền thoại nhà bếp” trong doanh trại.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=f75f81179656c0d1b0d2e885d9906a46",
-      "m3u8Url": "https://sing.phimmoi.net/f75f81179656c0d1b0d2e885d9906a46/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=7f5d22a1c6fef6eaf1a6f0c24c067e1c",
-      "m3u8Url": "https://sing.phimmoi.net/7f5d22a1c6fef6eaf1a6f0c24c067e1c/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "huyen-thoai-linh-bep",
-      "episodeCount": 2,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

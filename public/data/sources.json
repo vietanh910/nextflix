@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T06:18:00.238Z",
+  "updatedAt": "2026-05-24T06:33:02.004Z",
   "mode": "full",
   "sources": [
     {
@@ -8,7 +8,7 @@
       "baseUrl": "https://ophim1.com",
       "ok": true,
       "fetchedCount": 480,
-      "lastSyncAt": "2026-05-17T06:18:00.238Z"
+      "lastSyncAt": "2026-05-24T06:33:02.004Z"
     },
     {
       "source": "phimapi",
@@ -16,7 +16,7 @@
       "baseUrl": "https://phimapi.com",
       "ok": true,
       "fetchedCount": 200,
-      "lastSyncAt": "2026-05-17T06:18:00.238Z"
+      "lastSyncAt": "2026-05-24T06:33:02.004Z"
     },
     {
       "source": "nguonc",
@@ -24,15 +24,15 @@
       "baseUrl": "https://phim.nguonc.com",
       "ok": true,
       "fetchedCount": 200,
-      "lastSyncAt": "2026-05-17T06:18:00.238Z"
+      "lastSyncAt": "2026-05-24T06:33:02.004Z"
     },
     {
       "source": "animapper",
       "enabled": true,
       "baseUrl": "https://api.animapper.net/api/v1",
       "ok": true,
-      "fetchedCount": 1000,
-      "lastSyncAt": "2026-05-17T06:18:00.238Z"
+      "fetchedCount": 0,
+      "lastSyncAt": "2026-05-24T06:33:02.004Z"
     }
   ]
 }

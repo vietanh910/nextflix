@@ -38,11 +38,6 @@
       "name": "",
       "serverName": "Vietsub #1",
       "source": "ophim"
-    },
-    {
-      "name": "",
-      "serverName": "#Hà Nội",
-      "source": "phimapi"
     }
   ],
   "sources": [
@@ -51,12 +46,6 @@
       "slug": "cuoc-phieu-luu",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "cuoc-phieu-luu",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

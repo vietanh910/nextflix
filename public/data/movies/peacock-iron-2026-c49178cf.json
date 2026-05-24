@@ -1,0 +1,79 @@
+{
+  "id": "peacock-iron-2026-c49178cf",
+  "source": "phimapi",
+  "slug": "khong-tuoc-mang-giao-vang",
+  "name": "Khổng Tước Mang Giáo Vàng",
+  "originName": "Peacock & Iron",
+  "posterUrl": "https://phimimg.com/upload/vod/20260518-1/01577a7a9df402bf79e9a0219d131528.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/4f78e67d79f10de51a809fa1d9158285.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "Phim AI LGBT của iqi",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/j1mfT2YE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/j1mfT2YE/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/oTAZlHQV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/oTAZlHQV/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/ZZsLghPc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/ZZsLghPc/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/nnM5PngG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/nnM5PngG/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "khong-tuoc-mang-giao-vang",
+      "episodeCount": 4,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

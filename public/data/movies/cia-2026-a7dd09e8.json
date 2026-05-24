@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hành Động",
@@ -97,13 +97,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/302626eb160bcd2ff5b9e4a0578e021b",
       "m3u8Url": "https://vip.opstream10.com/20260514/33689_302626eb/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/2451de50d2dddd51f68c32c2a564b300",
+      "m3u8Url": "https://vip.opstream10.com/20260517/33703_2451de50/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/32931aa4a3c83357456f32cd508a115b",
+      "m3u8Url": "https://vip.opstream10.com/20260520/33711_32931aa4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cia-phan-1",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

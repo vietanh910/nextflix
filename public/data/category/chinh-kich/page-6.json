@@ -56,7 +56,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hài Hước",
@@ -114,7 +114,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -129,6 +129,31 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "tatsuki-too-kind-for-sch-2026-47070f2b",
+      "source": "ophim",
+      "slug": "thay-tatsuki-qua-de-tinh",
+      "name": "Thầy Tatsuki Quá Dễ Tính",
+      "originName": "Tatsuki: Too Kind for School",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thay-tatsuki-qua-de-tinh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thay-tatsuki-qua-de-tinh-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -205,7 +230,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -232,6 +257,31 @@
       ]
     },
     {
+      "id": "tang-dynasty-occult-myst-2026-193dee34",
+      "source": "ophim",
+      "slug": "thinh-duong-ky-an",
+      "name": "Thịnh Đường Kỳ Án",
+      "originName": "Tang Dynasty Occult Mysteries",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thinh-duong-ky-an-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thinh-duong-ky-an-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "bloom-life-2026-dd465e1e",
       "source": "ophim",
       "slug": "tinh-ca-kashgar",
@@ -253,60 +303,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "duang-with-you-2026-9da6d250",
-      "source": "ophim",
-      "slug": "tinh-yeu-bo-xit",
-      "name": "Tình Yêu Bọ Xít",
-      "originName": "Duang With You",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-bo-xit-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-bo-xit-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "my-romance-scammer-2026-ebd8a68d",
-      "source": "ophim",
-      "slug": "tinh-yeu-dich-thuc-sau-hon-nhan",
-      "name": "Tình yêu đích thực sau hôn nhân",
-      "originName": "My Romance Scammer",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-dich-thuc-sau-hon-nhan-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-dich-thuc-sau-hon-nhan-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
         }
       ]
     },
@@ -344,6 +340,31 @@
       ]
     },
     {
+      "id": "meeting-myself-in-bortal-2026-ed3916ef",
+      "source": "ophim",
+      "slug": "tinh-yeu-o-bortala",
+      "name": "Tình Yêu Ở Bortala",
+      "originName": "Meeting Myself in Bortala",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-o-bortala-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-o-bortala-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (16/16)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "wrong-side-of-the-rainbo-2026-f8c3d0ef",
       "source": "ophim",
       "slug": "tinh-yeu-phan-boi",
@@ -354,7 +375,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Chính kịch",
@@ -437,7 +458,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 18",
+      "episodeCurrent": "Tập 19",
       "categories": [
         {
           "name": "Hành Động",
@@ -478,7 +499,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 21",
       "categories": [
         {
           "name": "Hình Sự",
@@ -501,6 +522,85 @@
       ]
     },
     {
+      "id": "dutton-ranch-2026-fcc29fd0",
+      "source": "ophim",
+      "slug": "trang-trai-dutton",
+      "name": "Trang Trại Dutton",
+      "originName": "Dutton Ranch",
+      "posterUrl": "https://img.ophim.live/uploads/movies/trang-trai-dutton-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/trang-trai-dutton-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "locked-by-the-tide-2026-cc8e4f72",
+      "source": "ophim",
+      "slug": "troi-buoc-boi-thuy-trieu",
+      "name": "Trói Buộc Bởi Thuỷ Triều",
+      "originName": "Locked by the Tide",
+      "posterUrl": "https://img.ophim.live/uploads/movies/troi-buoc-boi-thuy-trieu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/troi-buoc-boi-thuy-trieu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "sky-blue-above-the-cloud-2026-aa71b573",
+      "source": "ophim",
+      "slug": "troi-xanh-tren-may",
+      "name": "Trời Xanh Trên Mây",
+      "originName": "Sky Blue Above the Clouds",
+      "posterUrl": "https://img.ophim.live/uploads/movies/troi-xanh-tren-may-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/troi-xanh-tren-may-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "martial-god-asura-season-2026-d6dab6b4",
       "source": "ophim",
       "slug": "tu-la-vo-than-phan-2",
@@ -511,7 +611,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 14",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Hành Động",
@@ -571,6 +671,31 @@
       ]
     },
     {
+      "id": "the-demon-s-pursuit-2026-7ef2079d",
+      "source": "ophim",
+      "slug": "van-yeu",
+      "name": "Vấn Yêu",
+      "originName": "The Demon's Pursuit",
+      "posterUrl": "https://img.ophim.live/uploads/movies/van-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/van-yeu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (24/24)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "glory-2026-ecedae62",
       "source": "ophim",
       "slug": "vinh-quang-2026",
@@ -604,159 +729,6 @@
         {
           "name": "Ấn Độ",
           "slug": "an-do"
-        }
-      ]
-    },
-    {
-      "id": "fire-country-season-4-2026-ef69ceb1",
-      "source": "ophim",
-      "slug": "fire-country-phan-4",
-      "name": "Vùng Đất Lửa (Phần 4)",
-      "originName": "Fire Country (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/fire-country-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/fire-country-phan-4-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 18",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "gold-land-2026-1a8332be",
-      "source": "ophim",
-      "slug": "vung-dat-vang",
-      "name": "Vùng Đất Vàng",
-      "originName": "Gold Land",
-      "posterUrl": "https://img.ophim.live/uploads/movies/vung-dat-vang-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/vung-dat-vang-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "azure-spring-2026-bf6398e7",
-      "source": "ophim",
-      "slug": "xanh-cham-day-troi",
-      "name": "Xanh Chạm Đáy Trời",
-      "originName": "Azure Spring",
-      "posterUrl": "https://img.ophim.live/uploads/movies/xanh-cham-day-troi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/xanh-cham-day-troi-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 2",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "love-like-a-bike-2026-e2eb7a89",
-      "source": "ophim",
-      "slug": "xe-dap-tinh-yeu",
-      "name": "Xe Đạp Tình Yêu",
-      "originName": "Love Like a Bike",
-      "posterUrl": "https://img.ophim.live/uploads/movies/xe-dap-tinh-yeu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/xe-dap-tinh-yeu-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "witch-hat-atelier-2026-aa0f564f",
-      "source": "ophim",
-      "slug": "xuong-phep-thuat",
-      "name": "Xưởng Phép Thuật",
-      "originName": "Witch Hat Atelier",
-      "posterUrl": "https://img.ophim.live/uploads/movies/xuong-phep-thuat-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/xuong-phep-thuat-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

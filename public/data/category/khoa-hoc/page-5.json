@@ -5,25 +5,21 @@
   "totalPages": 5,
   "items": [
     {
-      "id": "superman-iii-1983-c00ef7ac",
-      "source": "phimapi",
-      "slug": "sieu-nhan-3",
-      "name": "Siêu Nhân 3",
-      "originName": "Superman III",
-      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/ae9405605ab37c17488caaf2a7355971.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/d3fcccb3f2a76ae34158af4c4d32c766.jpg",
-      "year": 1983,
-      "type": "single",
+      "id": "falling-skies-season-2-2012-fdd699fb",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-2",
+      "name": "Bầu Trời Sụp Đổ (Phần 2)",
+      "originName": "Falling Skies (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-thumb.jpg",
+      "year": 2012,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
         },
         {
           "name": "Viễn Tưởng",
@@ -36,12 +32,262 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-korra-seas-2012-d2dd4496",
+      "source": "phimapi",
+      "slug": "huyen-thoai-korra-phan-1",
+      "name": "Huyền Thoại Korra (Phần 1)",
+      "originName": "The Legend Of Korra (Season 1) (Book One: Air)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260521-1/214eb84952817d0dcd14d06c227c6a60.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260521-1/7eb8c1a41dac08e27671dbbb22f42e1d.jpg",
+      "year": 2012,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-1-2011-3028d493",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-1",
+      "name": "Bầu Trời Sụp Đổ (Phần 1)",
+      "originName": "Falling Skies (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-thumb.jpg",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "pucca-season-2-2008-6f88fe60",
+      "source": "ophim",
+      "slug": "pucca-phan-2",
+      "name": "Pucca (Phần 2)",
+      "originName": "Pucca (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/pucca-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/pucca-phan-2-thumb.jpg",
+      "year": 2008,
+      "type": "anime",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "pucca-season-1-2006-110d0a38",
+      "source": "ophim",
+      "slug": "pucca-phan-1",
+      "name": "Pucca (Phần 1)",
+      "originName": "Pucca (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/pucca-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/pucca-phan-1-thumb.jpg",
+      "year": 2006,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (78/78)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "testament-1983-1a52621d",
+      "source": "ophim",
+      "slug": "chuc-thu",
+      "name": "Chúc thư",
+      "originName": "Testament",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chuc-thu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chuc-thu-thumb.jpg",
+      "year": 1983,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "swallowed-star-1976-5313b0e2",
+      "source": "phimapi",
+      "slug": "thon-phe-tinh-khong",
+      "name": "Thôn Phệ Tinh Không",
+      "originName": "Swallowed Star",
+      "posterUrl": "https://phimimg.com/upload/vod/20240821-1/a651652396e9f53c09cd88d28700d5c4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240821-1/22c49ba9590b0e5f3d126696c0bfbecf.jpg",
+      "year": 1976,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 224",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

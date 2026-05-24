@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Bí ẩn",
@@ -57,13 +57,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ec04a75ca6302d347df2f803efe8c5bd",
       "m3u8Url": "https://vip.opstream90.com/20260512/31618_ec04a75c/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/988ce67ad8c1f1fd4facb51a89229e09",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32424_988ce67a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "reborn",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
     }
   ],

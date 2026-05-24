@@ -1,0 +1,65 @@
+{
+  "id": "normal-2026-e1e11384",
+  "source": "ophim",
+  "slug": "normal",
+  "name": "Normal",
+  "originName": "Normal",
+  "posterUrl": "https://img.ophim.live/uploads/movies/normal-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/normal-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Cảnh sát trưởng tạm thời Ulysses, được gọi đến thị trấn phủ tuyết Normal, MN, phát hiện ra một âm mưu tội phạm quốc tế nằm ở trung tâm của vụ chặn còi có vẻ kỳ lạ khi anh ta đến trợ giúp một cặp vợ chồng cướp ngân hàng bị cuốn vào một vụ lộn xộn chết người.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/08d32c7b011f031f15cf135dc6360f20",
+      "m3u8Url": "https://vip.opstream90.com/20260520/32438_08d32c7b/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/6YhOvoW6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/6YhOvoW6/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "normal",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "binh-thuong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

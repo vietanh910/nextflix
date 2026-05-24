@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/10/luong-tran-my-cam-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/10/luong-tran-my-cam.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 27",
+  "episodeCurrent": "Tập 35",
   "categories": [],
   "countries": [],
   "description": "Kể về Cố Cẩm Triều, một tiểu thư thông minh, cá tính, phải đối mặt với đấu đá gia tộc và quyền lực khi trở về nhà. Giữa nhiều lựa chọn tình cảm, cô kết hôn với Trần Ngạn Doãn, cùng nhau vượt qua âm mưu chốn triều đình và xây dựng cuộc sống ổn định, hạnh phúc.",
@@ -228,13 +228,77 @@
       "source": "nguonc",
       "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=82cb16b8def9af030eb569dd6f469a8a",
       "m3u8Url": "https://sing.phimmoi.net/82cb16b8def9af030eb569dd6f469a8a/hls.m3u8"
+    },
+    {
+      "name": "28",
+      "slug": "tap-28",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=077b3e76b7276be665032fb2e310c8f9",
+      "m3u8Url": "https://sing.phimmoi.net/077b3e76b7276be665032fb2e310c8f9/hls.m3u8"
+    },
+    {
+      "name": "29",
+      "slug": "tap-29",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=547ed3106d5c4d0fcb2ade712f29f8b2",
+      "m3u8Url": "https://sing.phimmoi.net/547ed3106d5c4d0fcb2ade712f29f8b2/hls.m3u8"
+    },
+    {
+      "name": "30",
+      "slug": "tap-30",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=69d0653a028b48570e1a1e7119a2efbc",
+      "m3u8Url": "https://sing.phimmoi.net/69d0653a028b48570e1a1e7119a2efbc/hls.m3u8"
+    },
+    {
+      "name": "31",
+      "slug": "tap-31",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=268901be88c64ad430a6e5f01a453cc7",
+      "m3u8Url": "https://sing.phimmoi.net/268901be88c64ad430a6e5f01a453cc7/hls.m3u8"
+    },
+    {
+      "name": "32",
+      "slug": "tap-32",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=8f55705adabd10c73c4c5b4cb00581b5",
+      "m3u8Url": "https://sing.phimmoi.net/8f55705adabd10c73c4c5b4cb00581b5/hls.m3u8"
+    },
+    {
+      "name": "33",
+      "slug": "tap-33",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=a30c49f7e255d057c10465441e4c95c3",
+      "m3u8Url": "https://sing.phimmoi.net/a30c49f7e255d057c10465441e4c95c3/hls.m3u8"
+    },
+    {
+      "name": "34",
+      "slug": "tap-34",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=9a4d82852755d9307e12451ec8832e11",
+      "m3u8Url": "https://sing.phimmoi.net/9a4d82852755d9307e12451ec8832e11/hls.m3u8"
+    },
+    {
+      "name": "35",
+      "slug": "tap-35",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=ef25095b2c2ca97f8adc036e2b548663",
+      "m3u8Url": "https://sing.phimmoi.net/ef25095b2c2ca97f8adc036e2b548663/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "luong-tran-my-cam",
-      "episodeCount": 27,
+      "episodeCount": 35,
       "priority": 2
     }
   ],

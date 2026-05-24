@@ -1,0 +1,67 @@
+{
+  "id": "firebird-2021-cd7b35d5",
+  "source": "phimapi",
+  "slug": "chim-lua",
+  "name": "Chim Lửa",
+  "originName": "Firebird",
+  "posterUrl": "https://phimimg.com/upload/vod/20260519-1/88acf1922c11b51667daf01139fbd414.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260519-1/ce9e40810b255356ea56682447f94ffa.jpg",
+  "year": 2021,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Estonia",
+      "slug": "estonia"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Sergey là một quân nhân trẻ đang gặp khó khăn với cuộc sống quân đội, anh đang đếm từng ngày cho đến khi kết thúc nghĩa vụ quân sự. Một ngày nọ, chàng phi công gan dạ Roman xuất hiện và làm đảo lộn cuộc sống của anh. Sergey bị thúc đẩy bởi sự tò mò về người đàn ông quyến rũ tên Roman, cả hai đứng giữa ranh giới tình bạn và tình yêu. Sau đó, họ bị cuốn vào mối tình tay ba với Luisa, thư ký của chỉ huy căn cứ. Sergey buộc phải đối mặt với quá khứ của mình và sự nghiệp của Roman bị ảnh hưởng không nhỏ. Liệu họ có thể vượt qua được bức tường vô hình để tìm kiếm hạnh phúc thực sự của bản thân?",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/lKPLuo3L/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/lKPLuo3L/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chim-lua",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

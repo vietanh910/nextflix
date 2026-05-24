@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "episodeCurrent": "Tập 21",
   "categories": [
     {
       "name": "Hình Sự",
@@ -193,13 +193,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/b1848fc4e4d316fe2105f1228418a8bd",
       "m3u8Url": "https://vip.opstream10.com/20260512/33680_b1848fc4/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Subteam#1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/553b5b9ed7e16c3f3d6bcb4094024b27",
+      "m3u8Url": "https://vip.opstream10.com/20260519/33710_553b5b9e/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tracker-phan-3",
-      "episodeCount": 20,
+      "episodeCount": 21,
       "priority": 0
     }
   ],

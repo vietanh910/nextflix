@@ -5,6 +5,121 @@
   "totalPages": 5,
   "items": [
     {
+      "id": "wellwood-2025-6981b1d7",
+      "source": "ophim",
+      "slug": "wellwood",
+      "name": "Wellwood",
+      "originName": "Wellwood",
+      "posterUrl": "https://img.ophim.live/uploads/movies/wellwood-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/wellwood-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "kamen-rider-zeztz-2025-c2ebc58d",
+      "source": "phimapi",
+      "slug": "hiep-si-mat-na-zeztz",
+      "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
+      "originName": "Kamen Rider ZEZTZ",
+      "posterUrl": "https://phimimg.com/upload/vod/20250909-1/f24410500ec5132d041c94af7243ade3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250909-1/9687569eb69eb6084238e0c46149fbc0.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 35",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-gate-of-mystical-rea-2025-3de72a1d",
+      "source": "phimapi",
+      "slug": "huyen-gioi-chi-mon",
+      "name": "Huyền Giới Chi Môn",
+      "originName": "The Gate Of Mystical Realm",
+      "posterUrl": "https://phimimg.com/upload/vod/20251204-1/261186b439d048d6ce6669b4f92a741b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251204-1/51bf27cf74dd8df0dfb0f3b327158cb8.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 26",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-swords-season-2-2025-31b156cc",
       "source": "phimapi",
       "slug": "kiem-lai-phan-2",
@@ -56,7 +171,7 @@
       "year": 2025,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "episodeCurrent": "Tập 23",
       "categories": [
         {
           "name": "Khoa Học",
@@ -79,30 +194,18 @@
       ]
     },
     {
-      "id": "dr-stone-season-4-2025-f88f98fa",
+      "id": "purple-river-season-2-2025-fe64b8fe",
       "source": "phimapi",
-      "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
-      "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
-      "originName": "Dr. STONE (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260404-1/f66064adf46ef11b60377b00c881ce8d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250111-1/70b8653b53be96fa060e99e4d02fcaff.jpg",
+      "slug": "tu-xuyen-phan-2",
+      "name": "Tử Xuyên (Phần 2)",
+      "originName": "Purple River (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250813-1/f4d31a926b46f7bfd809527d9df711ae.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250813-1/073c45e99877cd52574b86cc3c0baba1.jpg",
       "year": 2025,
       "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Tập 31",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 43",
       "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
@@ -110,12 +213,20 @@
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -130,7 +241,7 @@
       "year": 2024,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 178",
+      "episodeCurrent": "Tập 180",
       "categories": [
         {
           "name": "Hành Động",
@@ -200,7 +311,7 @@
       "year": 2024,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 177",
+      "episodeCurrent": "Tập 178",
       "categories": [
         {
           "name": "Hành Động",
@@ -237,7 +348,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 340",
+      "episodeCurrent": "Tập 341",
       "categories": [
         {
           "name": "Hành Động",
@@ -274,7 +385,7 @@
       "year": 2023,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Tập 73",
+      "episodeCurrent": "Tập 74",
       "categories": [
         {
           "name": "Hành Động",
@@ -315,7 +426,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 37",
+      "episodeCurrent": "Tập 38",
       "categories": [
         {
           "name": "Hành Động",
@@ -346,6 +457,84 @@
       ]
     },
     {
+      "id": "my-senior-brother-is-too-2023-38bed200",
+      "source": "phimapi",
+      "slug": "su-huynh-a-su-huynh",
+      "name": "Sư Huynh À Sư Huynh",
+      "originName": "My Senior Brother is Too Steady",
+      "posterUrl": "https://phimimg.com/upload/vod/20250117-1/a9e32b44820101a9ba2c887344f7334c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250117-1/d2d7ee02b72e59bea282b367e36b0094.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 142",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "grid-2022-abccdcc3",
+      "source": "phimapi",
+      "slug": "luoi-dien",
+      "name": "Lưới Điện",
+      "originName": "Grid",
+      "posterUrl": "https://phimimg.com/upload/vod/20260522-1/cdfaf3155ba0371517771e6980efc629.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260522-1/fead1a09a82cb0c647b11ad85d6d75dc.jpg",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "tomb-of-fallen-gods-2022-69e5b0a0",
       "source": "phimapi",
       "slug": "than-mo-2022",
@@ -356,7 +545,7 @@
       "year": 2022,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 85",
+      "episodeCurrent": "Tập 86",
       "categories": [
         {
           "name": "Khoa Học",
@@ -397,7 +586,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 448",
+      "episodeCurrent": "Tập 450",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -438,7 +627,7 @@
       "year": 2020,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 645",
+      "episodeCurrent": "Tập 648",
       "categories": [
         {
           "name": "Hành Động",
@@ -465,43 +654,6 @@
       ]
     },
     {
-      "id": "beyond-skyline-2017-a377cfdf",
-      "source": "phimapi",
-      "slug": "vung-troi-diet-vong",
-      "name": "Vùng Trời Diệt Vong",
-      "originName": "Beyond Skyline",
-      "posterUrl": "https://phimimg.com/upload/vod/20260517-1/8bf540b6fbc016975125d0e320932f84.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260517-1/ea2362781616e7574a5016157ca17e2e.jpg",
-      "year": 2017,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "re-zero-starting-life-in-2016-c5e25030",
       "source": "ophim",
       "slug": "rezero-bat-dau-o-the-gioi-khac-phan-4",
@@ -512,7 +664,7 @@
       "year": 2016,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hành Động",
@@ -543,385 +695,17 @@
       ]
     },
     {
-      "id": "falling-skies-season-5-2015-64f9211d",
-      "source": "phimapi",
+      "id": "falling-skies-season-5-2015-b321dc19",
+      "source": "ophim",
       "slug": "bau-troi-sup-do-phan-5",
       "name": "Bầu Trời Sụp Đổ (Phần 5)",
       "originName": "Falling Skies (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/dff6a70b48c5c5d6d27419dda6bc7171.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/aed5857cdcffd9a12c1d21546e1626e7.jpg",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-thumb.jpg",
       "year": 2015,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-4-2014-6c71f165",
-      "source": "phimapi",
-      "slug": "bau-troi-sup-do-phan-4",
-      "name": "Bầu Trời Sụp Đổ (Phần 4)",
-      "originName": "Falling Skies (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/3789b1654c79fe8fbdd519590ab759a0.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/fb7460be0cf040495384436766e71ae2.jpg",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-3-2013-a0499036",
-      "source": "phimapi",
-      "slug": "bau-troi-sup-do-phan-3",
-      "name": "Bầu Trời Sụp Đổ (Phần 3)",
-      "originName": "Falling Skies (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/1065f536b884dc9dbb2b99a94178753d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/fa883f4cb57504c6b93dc2ee726fc427.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "iron-man-rise-of-technov-2013-b91e2625",
-      "source": "phimapi",
-      "slug": "nguoi-sat-su-noi-gian-cua-technovore-nguoi-sat-su-troi-day-cua-technovore",
-      "name": "Người Sắt: Sự Nổi Giận Của Technovore (Người Sắt: Sự Trỗi Dậy Của Technovore)",
-      "originName": "Iron Man: Rise Of Technovore",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/9ee02be2725851f9d7187dc74a4fa76b.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/36430f0db6e4fbd232870b8db39c44b0.jpg",
-      "year": 2013,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-2-2012-fcffd6ec",
-      "source": "phimapi",
-      "slug": "bau-troi-sup-do-phan-2",
-      "name": "Bầu Trời Sụp Đổ (Phần 2)",
-      "originName": "Falling Skies (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/d787923817c68d3b953b508c27ddcf65.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/c1bc456ea648fd08746fefef661bfe0d.jpg",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-1-2011-113c945f",
-      "source": "phimapi",
-      "slug": "bau-troi-sup-do-phan-1",
-      "name": "Bầu Trời Sụp Đổ (Phần 1)",
-      "originName": "Falling Skies (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/e6c7c7b7579aa5dd343a35d5e3954781.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/277761a10a22eecfd831cf9477b49e86.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "pucca-season-2-2008-6f88fe60",
-      "source": "ophim",
-      "slug": "pucca-phan-2",
-      "name": "Pucca (Phần 2)",
-      "originName": "Pucca (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/pucca-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/pucca-phan-2-thumb.jpg",
-      "year": 2008,
-      "type": "anime",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "pucca-season-1-2006-110d0a38",
-      "source": "ophim",
-      "slug": "pucca-phan-1",
-      "name": "Pucca (Phần 1)",
-      "originName": "Pucca (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/pucca-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/pucca-phan-1-thumb.jpg",
-      "year": 2006,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (78/78)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "godzilla-final-wars-2004-5271e017",
-      "source": "ophim",
-      "slug": "godzilla-final-wars",
-      "name": "Godzilla: Final Wars",
-      "originName": "Godzilla: Final Wars",
-      "posterUrl": "https://img.ophim.live/uploads/movies/godzilla-final-wars-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/godzilla-final-wars-thumb.jpg",
-      "year": 2004,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hành Động",
@@ -934,47 +718,6 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Úc",
-          "slug": "uc"
-        }
-      ]
-    },
-    {
-      "id": "testament-1983-1a52621d",
-      "source": "ophim",
-      "slug": "chuc-thu",
-      "name": "Chúc thư",
-      "originName": "Testament",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chuc-thu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chuc-thu-thumb.jpg",
-      "year": 1983,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         },
         {
           "name": "Khoa Học",
@@ -983,6 +726,235 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-4-2014-920db729",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-4",
+      "name": "Bầu Trời Sụp Đổ (Phần 4)",
+      "originName": "Falling Skies (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-thumb.jpg",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-korra-seas-2014-8b42d348",
+      "source": "phimapi",
+      "slug": "huyen-thoai-korra-phan-3",
+      "name": "Huyền Thoại Korra (Phần 3)",
+      "originName": "The Legend Of Korra (Season 3) (Book Three: Change)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260521-1/2fb2c0e5df907631cfe89925c27b8b4c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260521-1/aaf254f1c0ad4195a4a5ab88ec7810ba.jpg",
+      "year": 2014,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-korra-seas-2014-2b037169",
+      "source": "phimapi",
+      "slug": "huyen-thoai-korra-phan-4",
+      "name": "Huyền Thoại Korra (Phần 4)",
+      "originName": "The Legend Of Korra (Season 4) (Book Four: Balance)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260521-1/87c7c8b3cffe50f7c51a6ee65b827e88.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260521-1/e6ab329f2cc208ed396c16cd302fbe0f.jpg",
+      "year": 2014,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-3-2013-c17ea498",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-3",
+      "name": "Bầu Trời Sụp Đổ (Phần 3)",
+      "originName": "Falling Skies (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-thumb.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-korra-seas-2013-b1659b44",
+      "source": "phimapi",
+      "slug": "huyen-thoai-korra-phan-2",
+      "name": "Huyền Thoại Korra (Phần 2)",
+      "originName": "The Legend Of Korra (Season 2) (Book Two: Spirits)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260521-1/51e4079b06d18979466976b783e4c5b4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260521-1/b18928f89721c2d9e32550869b2f4ef3.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (14/14)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [

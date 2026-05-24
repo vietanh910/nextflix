@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-than-yeu-thumb.jpg",
   "year": 2026,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Chính kịch",
@@ -27,17 +27,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
-      "serverName": "Vietsub #1",
-      "source": "ophim"
-    },
-    {
       "name": "Full",
       "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/uBXMrU4u/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/uBXMrU4u/index.m3u8"
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/af8e3c349612f1af5aa0509b16bae3cc",
+      "m3u8Url": "https://vip.opstream90.com/20260517/32149_af8e3c34/index.m3u8"
     }
   ],
   "sources": [
@@ -46,12 +41,6 @@
       "slug": "nguoi-than-yeu",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "nguoi-tung-thuong",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0
