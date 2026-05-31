@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/tracker-phan-3-thumb-1761239638607.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (22/22)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -201,13 +201,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/553b5b9ed7e16c3f3d6bcb4094024b27",
       "m3u8Url": "https://vip.opstream10.com/20260519/33710_553b5b9e/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Subteam#1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/d7d71ade2798157258a02f85221648e3",
+      "m3u8Url": "https://vip.opstream10.com/20260527/33769_d7d71ade/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tracker-phan-3",
-      "episodeCount": 21,
+      "episodeCount": 22,
       "priority": 0
     }
   ],

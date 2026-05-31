@@ -1,0 +1,63 @@
+{
+  "id": "rick-and-morty-season-9-2026-048e4cd2",
+  "source": "ophim",
+  "slug": "rick-va-morty-phan-9",
+  "name": "Rick và Morty (Phần 9)",
+  "originName": "Rick and Morty (Season 9)",
+  "posterUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-thumb.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Season 9 is all certified bangers. No AI slop! Just Grade A organic slop, made by real humans with real human traits like back hair and cysts. Please watch, or we'll have neglected our families for nothing.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8edc69aa76b7aac408ba3c248aa8d7d4",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32858_8edc69aa/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "rick-va-morty-phan-9",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

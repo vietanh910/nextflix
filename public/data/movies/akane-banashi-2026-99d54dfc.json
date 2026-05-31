@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính kịch",
@@ -91,6 +91,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260524/32773_1f545e75/index.m3u8"
     },
     {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e817d8f1c167c64e069ef31d3e8826c2",
+      "m3u8Url": "https://vip.opstream90.com/20260531/33423_e817d8f1/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -153,19 +161,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/PR4wzWP3/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260523/PR4wzWP3/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/Bayex62p/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/Bayex62p/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chuyen-ke-cua-akane",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "chuyen-ke-cua-akane",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

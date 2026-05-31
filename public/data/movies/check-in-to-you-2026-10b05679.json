@@ -1,0 +1,59 @@
+{
+  "id": "check-in-to-you-2026-10b05679",
+  "source": "ophim",
+  "slug": "check-in-to-you",
+  "name": "Check In to You",
+  "originName": "Check In to You",
+  "posterUrl": "https://img.ophim.live/uploads/movies/check-in-to-you-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/check-in-to-you-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>A cold-hearted executive and a romantic manager clash over a seaside guesthouse. A body-swap healing romance unfolds as a freak accident swaps their souls, forcing them to live each other's lives.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c1210dd1376c754b78be3d9709965276",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33284_c1210dd1/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "check-in-to-you",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

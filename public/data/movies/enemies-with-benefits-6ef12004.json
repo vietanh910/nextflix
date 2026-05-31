@@ -7,15 +7,50 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/9/oan-gia-thanh-doi-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/9/oan-gia-thanh-doi.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Hai người luôn đối đầu ở nơi làm việc như “kẻ thù truyền kiếp”. Nhưng sau một đêm ngoài ý muốn, họ bắt đầu mối quan hệ kiểu “friends with benefits” — chỉ thân mật thể xác, không yêu đương. Để tránh đồng nghiệp phát hiện, cả hai vẫn giả vờ ghét nhau ở công ty. Tuy nhiên càng ở gần nhau, mối quan hệ dần chuyển thành tình cảm thật.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=5fe7d8acefa9e2821eee6050c688b663",
+      "m3u8Url": "https://sing.phimmoi.net/5fe7d8acefa9e2821eee6050c688b663/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=e52d3a70aaf2281935faba26fc1da9f1",
+      "m3u8Url": "https://sing.phimmoi.net/e52d3a70aaf2281935faba26fc1da9f1/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=a777e672b838deec483ca5fb573d977e",
+      "m3u8Url": "https://sing.phimmoi.net/a777e672b838deec483ca5fb573d977e/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=b80b3bd6e9604ba6575e7ceb088178c5",
+      "m3u8Url": "https://sing.phimmoi.net/b80b3bd6e9604ba6575e7ceb088178c5/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "oan-gia-thanh-doi",
-      "episodeCount": 0,
+      "episodeCount": 4,
       "priority": 2
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/di-thu-ma-do-phan-2-thumb.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (11/11)",
   "categories": [
     {
       "name": "Hành Động",
@@ -123,6 +123,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260520/32554_e0d04159/index.m3u8"
     },
     {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2a11da4581b3801a09326efe6cf2af23",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33220_2a11da45/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -201,19 +209,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/6hyX0SkA/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260520/6hyX0SkA/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/8nGZVZfQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/8nGZVZfQ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "di-thu-ma-do-phan-2",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "di-thu-ma-do-phan-2",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

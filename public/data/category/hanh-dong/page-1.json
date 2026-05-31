@@ -5,29 +5,37 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "balls-up-2026-34b68dd6",
+      "id": "vought-rising-2027-d5e1e4aa",
       "source": "ophim",
-      "slug": "balls-up",
-      "name": "Balls Up",
-      "originName": "Balls Up",
-      "posterUrl": "https://img.ophim.live/uploads/movies/balls-up-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/balls-up-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "slug": "vought-rising",
+      "name": "Vought Rising",
+      "originName": "Vought Rising",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vought-rising-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vought-rising-thumb.jpg",
+      "year": 2027,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
@@ -182,37 +190,50 @@
       ]
     },
     {
-      "id": "stranger-things-tales-fr-2026-9f58e266",
+      "id": "before-dawn-2026-7468fdce",
       "source": "ophim",
-      "slug": "cau-be-mat-tich-chuyen-nam-85",
-      "name": "Cậu bé mất tích: Chuyện năm 85",
-      "originName": "Stranger Things: Tales from '85",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-chuyen-nam-85-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-chuyen-nam-85-thumb.jpg",
+      "slug": "canh-chim-nhan-co-doc",
+      "name": "Cánh Chim Nhạn Cô Độc",
+      "originName": "Before Dawn",
+      "posterUrl": "https://img.ophim.live/uploads/movies/canh-chim-nhan-co-doc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/canh-chim-nhan-co-doc-thumb.jpg",
       "year": 2026,
-      "type": "anime",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "over-your-dead-body-2026-5fbf8781",
+      "source": "ophim",
+      "slug": "chi-khi-nao-nguoi-chet-di",
+      "name": "Chỉ khi nào ngươi chết đi",
+      "originName": "Over Your Dead Body",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chi-khi-nao-nguoi-chet-di-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chi-khi-nao-nguoi-chet-di-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         }
       ],
       "countries": [
@@ -221,8 +242,41 @@
           "slug": "au-my"
         },
         {
-          "name": "Úc",
-          "slug": "uc"
+          "name": "Na Uy",
+          "slug": "na-uy"
+        },
+        {
+          "name": "Phần Lan",
+          "slug": "phan-lan"
+        }
+      ]
+    },
+    {
+      "id": "wolf-hunters-2-2026-d6162d8b",
+      "source": "ophim",
+      "slug": "chien-dao-do-lang-2",
+      "name": "Chiến Đao Đồ Lang 2",
+      "originName": "Wolf Hunters 2",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chien-dao-do-lang-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chien-dao-do-lang-2-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -274,7 +328,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hành Động",
@@ -310,8 +364,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/cia-phan-1-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hành Động",
@@ -381,7 +435,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
@@ -689,8 +743,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/di-thu-ma-do-phan-2-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (11/11)",
       "categories": [
         {
           "name": "Hành Động",
@@ -717,35 +771,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "in-the-name-of-the-fathe-2026-bcd7200d",
-      "source": "ophim",
-      "slug": "diep-anh-truy-tung",
-      "name": "Điệp Ảnh Truy Tung",
-      "originName": "In The Name Of The Father",
-      "posterUrl": "https://img.ophim.live/uploads/movies/diep-anh-truy-tung-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/diep-anh-truy-tung-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -797,7 +822,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hành Động",
@@ -820,39 +845,6 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "oedo-fire-slayer-the-leg-2026-ff7fa970",
-      "source": "ophim",
-      "slug": "hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu",
-      "name": "Hỏa Thực Điểu: Đội cứu hỏa Borotobi vùng Ushu",
-      "originName": "Oedo Fire Slayer -The Legend of Phoenix-",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

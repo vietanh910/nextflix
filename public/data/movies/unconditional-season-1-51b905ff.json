@@ -7,15 +7,58 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/10/ban-nang-nguoi-me-phan-1-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/10/ban-nang-nguoi-me-phan-1.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Kỳ nghỉ của một người mẹ cùng con gái biến thành cơn ác mộng khi Gali, 25 tuổi, bị bắt tại Moscow vì tội buôn lậu ma túy. Cuộc chiến của Orna nhằm chứng minh con gái mình vô tội đã kéo bà vào một thế giới tội phạm đầy nguy hiểm.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=b47659e7d01ac32ecc1505c1a6eb3747",
+      "m3u8Url": "https://sing.phimmoi.net/b47659e7d01ac32ecc1505c1a6eb3747/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=18ce797cf7fc525f0771c1fbc78eed09",
+      "m3u8Url": "https://sing.phimmoi.net/18ce797cf7fc525f0771c1fbc78eed09/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=2f60bfa8e86264789a32ac51e5b6740d",
+      "m3u8Url": "https://sing.phimmoi.net/2f60bfa8e86264789a32ac51e5b6740d/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=2311b6ab5cc7a10f2e88a33c6a9e5cdf",
+      "m3u8Url": "https://sing.phimmoi.net/2311b6ab5cc7a10f2e88a33c6a9e5cdf/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=178fb3fc29b90e55222397963e056e02",
+      "m3u8Url": "https://sing.phimmoi.net/178fb3fc29b90e55222397963e056e02/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ban-nang-nguoi-me-phan-1",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 2
     }
   ],

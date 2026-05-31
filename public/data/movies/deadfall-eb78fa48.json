@@ -1,0 +1,34 @@
+{
+  "id": "deadfall-eb78fa48",
+  "source": "nguonc",
+  "slug": "cam-bay",
+  "name": "Cạm Bẫy",
+  "originName": "Deadfall",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/cam-bay-poster.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/cam-bay-thumb.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Một bộ phim kinh dị kể về hai anh em quyết định tự bảo vệ mình sau một vụ cướp sòng bạc bất thành, và cuộc hội ngộ khó có thể xảy ra của họ trong lễ Tạ ơn của một gia đình khác.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=e9855eaf957b0e2adb529335c0fab176",
+      "m3u8Url": "https://sing.phimmoi.net/e9855eaf957b0e2adb529335c0fab176/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "cam-bay",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

@@ -5,6 +5,68 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "the-final-battle-2026-d3b7640b",
+      "source": "ophim",
+      "slug": "huyen-chien-thanh-long-trai",
+      "name": "Huyến Chiến Thanh Long Trại",
+      "originName": "The Final Battle",
+      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "dawn-plan-2026-cebf85da",
+      "source": "ophim",
+      "slug": "ke-hoach-binh-minh",
+      "name": "Kế Hoạch Bình Minh",
+      "originName": "DAWN PLAN",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-hoach-binh-minh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-hoach-binh-minh-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "omukade-2026-a85c03f2",
       "source": "ophim",
       "slug": "omukade-con-ret-nguoi",
@@ -60,51 +122,6 @@
         }
       ],
       "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "firebird-2021-cd7b35d5",
-      "source": "phimapi",
-      "slug": "chim-lua",
-      "name": "Chim Lửa",
-      "originName": "Firebird",
-      "posterUrl": "https://phimimg.com/upload/vod/20260519-1/88acf1922c11b51667daf01139fbd414.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260519-1/ce9e40810b255356ea56682447f94ffa.jpg",
-      "year": 2021,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Estonia",
-          "slug": "estonia"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"

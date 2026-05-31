@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/sponsor-thumb.jpg",
   "year": 2025,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Chính kịch",
@@ -27,9 +27,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "Full",
+      "slug": "full",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/e1a8612f5ff196faef1cb51b5517732f",
+      "m3u8Url": "https://vip.opstream12.com/20260524/32705_e1a8612f/index.m3u8"
     }
   ],
   "sources": [

@@ -1097,13 +1097,53 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/U4jRr6dD/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260523/U4jRr6dD/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/tRJgraxE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/tRJgraxE/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/n9JoNxUa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/n9JoNxUa/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/QyZbEpzV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/QyZbEpzV/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/q7Ij0j7U/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/q7Ij0j7U/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/52UnwiG1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/52UnwiG1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "yet-hi",
-      "episodeCount": 133,
+      "episodeCount": 138,
       "priority": 1
     }
   ],

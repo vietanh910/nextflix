@@ -1,0 +1,78 @@
+{
+  "id": "kill-it-style-creator-wa-2026-b603da67",
+  "source": "phimapi",
+  "slug": "kill-it-slay-toi-ben",
+  "name": "Kill It: Slay Tới Bến",
+  "originName": "Kill It: Style Creator War",
+  "posterUrl": "https://phimimg.com/upload/vod/20260527-1/da7cd233799fe9902368a808b5d78c4b.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/84ccf8719dca6861665a4b71ce848501.jpg",
+  "year": 2026,
+  "type": "tvshow",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "Cuộc chiến thời trang sống còn giữa những nhà sáng tạo dẫn đầu xu hướng của Hàn Quốc đã bắt đầu. Phong cách nào sẽ lên ngôi? Bộ cánh nào mới là slay nhất? Hãy tận mắt chiêm ngưỡng những &quot;dân chơi thời thượng&quot; bùng cháy trên sàn diễn.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/CQM9GOJD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/CQM9GOJD/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/9CumkHue/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/9CumkHue/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/Mbr06RhW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/Mbr06RhW/index.m3u8"
+    },
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "kill-it-slay-toi-ben",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "kill-it-slay-toi-ben",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

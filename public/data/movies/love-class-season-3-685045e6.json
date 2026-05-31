@@ -1,0 +1,42 @@
+{
+  "id": "love-class-season-3-685045e6",
+  "source": "nguonc",
+  "slug": "lop-hoc-tinh-yeu-phan-3",
+  "name": "Lớp Học Tình Yêu (Phần 3)",
+  "originName": "Love Class (Season 3)",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/5/lop-hoc-tinh-yeu-phan-3-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/lop-hoc-tinh-yeu-phan-3.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 2",
+  "categories": [],
+  "countries": [],
+  "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=ae8eb61960fde2d826e0e467e803d0bf",
+      "m3u8Url": "https://sing.phimmoi.net/ae8eb61960fde2d826e0e467e803d0bf/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=62cf265c97dcf8ca1e086fe5cfc8b270",
+      "m3u8Url": "https://sing.phimmoi.net/62cf265c97dcf8ca1e086fe5cfc8b270/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "lop-hoc-tinh-yeu-phan-3",
+      "episodeCount": 2,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

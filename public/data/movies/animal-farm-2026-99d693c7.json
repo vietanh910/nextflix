@@ -1,0 +1,63 @@
+{
+  "id": "animal-farm-2026-99d693c7",
+  "source": "ophim",
+  "slug": "trai-suc-vat",
+  "name": "Trại Súc Vật",
+  "originName": "Animal Farm",
+  "posterUrl": "https://img.ophim.live/uploads/movies/trai-suc-vat-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/trai-suc-vat-thumb.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (1/1)",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Một nhóm động vật trong trang trại nổi dậy chống lại người chủ bỏ bê chúng, mang theo giấc mơ về bình đẳng và tự do. Nhưng khi bầy heo nắm quyền kiểm soát, cuộc cách mạng dần biến thành chế độ độc tài, nơi sự thật bị bóp méo và mọi tiếng nói phản kháng đều bị đàn áp.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8b3abac11f3e92b7d499ef4739e8ffc9",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33260_8b3abac1/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "trai-suc-vat",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

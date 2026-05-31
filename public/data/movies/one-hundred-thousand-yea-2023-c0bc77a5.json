@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 341",
+  "episodeCurrent": "Tập 344",
   "categories": [
     {
       "name": "Hành Động",
@@ -2765,13 +2765,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/2ed6f8773d6adc2285a4d98d10bc228c",
       "m3u8Url": "https://vip.opstream90.com/20260519/32349_2ed6f877/index.m3u8"
+    },
+    {
+      "name": "342",
+      "slug": "342",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3ab424785a566433afcb3c00c56209d0",
+      "m3u8Url": "https://vip.opstream90.com/20260526/32914_3ab42478/index.m3u8"
+    },
+    {
+      "name": "343",
+      "slug": "343",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/502580f36671b14a02c2fb5499046766",
+      "m3u8Url": "https://vip.opstream90.com/20260526/32915_502580f3/index.m3u8"
+    },
+    {
+      "name": "344",
+      "slug": "344",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/52eeaf9f1eb952e476fe29e3d9eae992",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33368_52eeaf9f/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "luyen-khi-muoi-van-nam",
-      "episodeCount": 341,
+      "episodeCount": 344,
       "priority": 0
     }
   ],

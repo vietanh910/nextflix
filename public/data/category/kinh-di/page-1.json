@@ -2,7 +2,7 @@
   "slug": "kinh-di",
   "name": "Kinh Dị",
   "page": 1,
-  "totalPages": 2,
+  "totalPages": 1,
   "items": [
     {
       "id": "hokum-2026-0c5d755d",
@@ -200,27 +200,39 @@
       ]
     },
     {
-      "id": "bodycam-2026-5aa54dd5",
+      "id": "iron-lung-2026-c2c479a2",
       "source": "ophim",
-      "slug": "ong-kinh-ma-quai",
-      "name": "Ống Kính Ma Quái",
-      "originName": "Bodycam",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ong-kinh-ma-quai-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ong-kinh-ma-quai-thumb.jpg",
+      "slug": "phoi-sat",
+      "name": "Phổi Sắt",
+      "originName": "Iron Lung",
+      "posterUrl": "https://img.ophim.live/uploads/movies/phoi-sat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/phoi-sat-thumb.jpg",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
           "name": "Kinh Dị",
           "slug": "kinh-di"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Canada",
-          "slug": "canada"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -254,30 +266,18 @@
       ]
     },
     {
-      "id": "slanted-2026-ed012c05",
+      "id": "mexican-psycho-2026-2d73cc78",
       "source": "ophim",
-      "slug": "slanted",
-      "name": "Slanted",
-      "originName": "Slanted",
-      "posterUrl": "https://img.ophim.live/uploads/movies/slanted-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/slanted-thumb.jpg",
+      "slug": "tam-ly-mexico",
+      "name": "Tâm lý Mexico",
+      "originName": "Mexican Psycho",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tam-ly-mexico-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tam-ly-mexico-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
@@ -317,35 +317,6 @@
           "name": "Âu Mỹ",
           "slug": "au-my"
         },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "hive-2026-a0eb7443",
-      "source": "phimapi",
-      "slug": "hive",
-      "name": "Hive",
-      "originName": "Hive",
-      "posterUrl": "https://phimimg.com/upload/vod/20260519-1/5d0937a7978bed801c84483d52907d19.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260519-1/6e6fc80579bbd40a1b7f06333f129c3a.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
         {
           "name": "Canada",
           "slug": "canada"
@@ -452,72 +423,6 @@
       ]
     },
     {
-      "id": "descendent-2025-9627b6d1",
-      "source": "ophim",
-      "slug": "hau-due-2026",
-      "name": "Hậu Duệ",
-      "originName": "Descendent",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hau-due-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hau-due-2026-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "close-the-eye-to-see-2025-9f6e17ed",
-      "source": "ophim",
-      "slug": "mat-nham-mat-mo",
-      "name": "Mắt Nhắm Mắt Mở",
-      "originName": "Close The Eye To See",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mat-nham-mat-mo-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-nham-mat-mo-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
       "id": "a-breed-apart-2025-f09f5177",
       "source": "ophim",
       "slug": "mot-giong-ngoai",
@@ -576,22 +481,18 @@
       ]
     },
     {
-      "id": "street-trash-2025-c59e4c91",
+      "id": "qifarah-2025-ca2a6407",
       "source": "ophim",
-      "slug": "rac-duong-pho",
-      "name": "Rác Đường Phố",
-      "originName": "Street Trash",
-      "posterUrl": "https://img.ophim.live/uploads/movies/rac-duong-pho-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/rac-duong-pho-thumb.jpg",
+      "slug": "qifarah",
+      "name": "Qifarah",
+      "originName": "Qifarah",
+      "posterUrl": "https://img.ophim.live/uploads/movies/qifarah-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/qifarah-thumb.jpg",
       "year": 2025,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
@@ -599,12 +500,8 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Nam Phi",
-          "slug": "nam-phi"
+          "name": "Malaysia",
+          "slug": "malaysia"
         }
       ]
     },
@@ -733,6 +630,60 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "insidious-inferno-2024-d158d432",
+      "source": "ophim",
+      "slug": "dia-nguc-hiem-ac",
+      "name": "Địa ngục hiểm ác",
+      "originName": "Insidious Inferno",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-thumb.jpg",
+      "year": 2024,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "monster-on-a-plane-2024-cca817af",
+      "source": "ophim",
+      "slug": "quai-vat-tren-may-bay",
+      "name": "Quái vật trên máy bay",
+      "originName": "Monster on a Plane",
+      "posterUrl": "https://img.ophim.live/uploads/movies/quai-vat-tren-may-bay-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/quai-vat-tren-may-bay-thumb.jpg",
+      "year": 2024,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
         }
       ]
     }

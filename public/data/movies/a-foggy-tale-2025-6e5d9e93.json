@@ -1,0 +1,47 @@
+{
+  "id": "a-foggy-tale-2025-6e5d9e93",
+  "source": "ophim",
+  "slug": "cau-chuyen-sau-man-suong",
+  "name": "Câu Chuyện Sau Màn Sương",
+  "originName": "A Foggy Tale",
+  "posterUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-sau-man-suong-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-sau-man-suong-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đài Loan",
+      "slug": "dai-loan"
+    }
+  ],
+  "description": "<p>Sau khi mất anh trai trong vụ hành quyết của chính quyền, một cô gái trẻ dấn thân vào hành trình đầy nguy hiểm để đưa thi thể anh trở về và kiếm tiền lo chôn cất tử tế.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c46b5638a51848602d84d27b2d741133",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33052_c46b5638/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "cau-chuyen-sau-man-suong",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

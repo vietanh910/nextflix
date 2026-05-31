@@ -1,0 +1,51 @@
+{
+  "id": "grave-robbery-2026-6c7628ba",
+  "source": "ophim",
+  "slug": "dao-mo-dai-an",
+  "name": "Đạo Mộ Đại Án",
+  "originName": "Grave Robbery",
+  "posterUrl": "https://img.ophim.live/uploads/movies/dao-mo-dai-an-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/dao-mo-dai-an-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Đây là bộ phim điện ảnh kể về các chiến sĩ công an như Lý Phương Trung, Thiết Hạc… bất chấp hiểm nguy, đấu trí đấu dũng với kẻ cầm đầu đường dây trộm mộ “Lão Tổ”. Cuối cùng, họ đã bắt giữ được hắn, quét sạch toàn bộ băng nhóm đào trộm mộ, đồng thời thu hồi và bảo vệ thành công các bảo vật quốc gia và văn vật. Bộ phim lấy bối cảnh văn hóa Hồng Sơn, tái hiện đại án đào trộm mộ lớn nhất vùng Quan Ngoại của “tổ sư trộm mộ” Diêu Ngọc Trung.<br>&nbsp;</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e2ac4719d4a78e94ed5b0f4b477097fc",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32889_e2ac4719/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "dao-mo-dai-an",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

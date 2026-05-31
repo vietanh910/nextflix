@@ -1,0 +1,55 @@
+{
+  "id": "double-helix-2026-c2769e55",
+  "source": "ophim",
+  "slug": "double-helix",
+  "name": "Double Helix",
+  "originName": "Double Helix",
+  "posterUrl": "https://img.ophim.live/uploads/movies/double-helix-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/double-helix-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Nga",
+      "slug": "nga"
+    },
+    {
+      "name": "Singapore",
+      "slug": "singapore"
+    }
+  ],
+  "description": "<p>Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/27f850ce7e93ab7a6d5a60ce96090094",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32865_27f850ce/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "double-helix",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,55 @@
+{
+  "id": "bonjour-bakery-2026-b682c2a2",
+  "source": "ophim",
+  "slug": "tiem-banh-bonjour",
+  "name": "Tiệm Bánh Bonjour",
+  "originName": "Bonjour Bakery",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tiem-banh-bonjour-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tiem-banh-bonjour-thumb.jpg",
+  "year": 2026,
+  "type": "tvshow",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Khi các ngôi sao điện ảnh hàng đầu gặp gỡ người cao tuổi, một câu chuyện cảm động thực sự sẽ được hé lộ! \"Bonjour Bakery\" lấy bối cảnh tại một ngôi làng quê yên bình, tạo nên quán cà phê đầu tiên ở Hàn Quốc dành riêng cho người cao tuổi. Ở đây, không chỉ bán các món tráng miệng; mà còn chia sẻ những câu chuyện. Một \"đội ngũ phục vụ\" vô cùng ấm áp gồm Kim Hee-ae và Kim Seon-ho xoa dịu mỗi người cao tuổi bằng những cuộc trò chuyện nhẹ nhàng và nụ cười nhân hậu; trong bếp, \"đầu bếp đa năng\" Cha Seung-won và Lee Ki-taek biến những nguyên liệu địa phương thành những tác phẩm nghệ thuật tinh tế. Hãy cùng xem những người nổi tiếng này đồng hành cùng người cao tuổi khi họ hồi tưởng về cuộc đời mình, lan tỏa sự ấm áp qua hương thơm của bánh mì.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/de829cc41d27f07c17771b5027167353",
+      "m3u8Url": "https://vip.opstream10.com/20260524/33756_de829cc4/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/adcf964dc675106763e656dcd371299f",
+      "m3u8Url": "https://vip.opstream10.com/20260524/33757_adcf964d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tiem-banh-bonjour",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

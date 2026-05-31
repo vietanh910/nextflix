@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/marshals-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (13/13)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -121,13 +121,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/e6ca77b059a8ec5a7842944270fbe749",
       "m3u8Url": "https://vip.opstream10.com/20260518/33706_e6ca77b0/index.m3u8"
+    },
+    {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/74493ea055c0d8689c449bba56feea7c",
+      "m3u8Url": "https://vip.opstream10.com/20260526/33764_74493ea0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "marshals",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 0
     }
   ],

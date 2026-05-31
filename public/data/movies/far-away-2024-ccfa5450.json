@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 55",
+  "episodeCurrent": "Tập 57",
   "categories": [
     {
       "name": "Tình Cảm",
@@ -465,13 +465,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/4f9ec8df9f1f7b84f2a3f69c4af72ba9",
       "m3u8Url": "https://vip.opstream10.com/20260509/33620_4f9ec8df/index.m3u8"
+    },
+    {
+      "name": "56",
+      "slug": "56",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/4b06516e2c5d9c7432a55e9c0fb4cec6",
+      "m3u8Url": "https://vip.opstream10.com/20260528/33774_4b06516e/index.m3u8"
+    },
+    {
+      "name": "57",
+      "slug": "57",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b2177c6053079f72cd1f25fa1bdab5bf",
+      "m3u8Url": "https://vip.opstream10.com/20260528/33775_b2177c60/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thanh-pho-xa-xoi",
-      "episodeCount": 55,
+      "episodeCount": 57,
       "priority": 0
     }
   ],

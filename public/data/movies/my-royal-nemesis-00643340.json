@@ -7,15 +7,82 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/6/ke-thu-hoang-gia-cua-toi-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/ke-thu-hoang-gia-cua-toi.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Một ác nữ thời Joseon bị ban chết bỗng tỉnh dậy ở Seoul thời hiện đại. Tại đó, một người thừa kế tập đoàn tài phiệt tàn nhẫn có thể là cơ hội cuối để cô thay đổi số phận của mình.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=2ac2f673d5a9e3076b4d977bc4436dc5",
+      "m3u8Url": "https://sing.phimmoi.net/2ac2f673d5a9e3076b4d977bc4436dc5/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=16cb6873f18f2e4d4d62fbf91239f3b0",
+      "m3u8Url": "https://sing.phimmoi.net/16cb6873f18f2e4d4d62fbf91239f3b0/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=ee60b76d68be81f6b6610da7064b6afa",
+      "m3u8Url": "https://sing.phimmoi.net/ee60b76d68be81f6b6610da7064b6afa/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=7746f8dc23726ebc2e20cdb02dc7608a",
+      "m3u8Url": "https://sing.phimmoi.net/7746f8dc23726ebc2e20cdb02dc7608a/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=7ed8b8fc4df24d144b7118202d251c40",
+      "m3u8Url": "https://sing.phimmoi.net/7ed8b8fc4df24d144b7118202d251c40/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=d4037d926274f9c0044f32e1c53a56ef",
+      "m3u8Url": "https://sing.phimmoi.net/d4037d926274f9c0044f32e1c53a56ef/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=6090d57aa0045956a7ea268c02a5a9f2",
+      "m3u8Url": "https://sing.phimmoi.net/6090d57aa0045956a7ea268c02a5a9f2/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=1c41ad33027f3a17acb29180264da217",
+      "m3u8Url": "https://sing.phimmoi.net/1c41ad33027f3a17acb29180264da217/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ke-thu-hoang-gia-cua-toi",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 2
     }
   ],

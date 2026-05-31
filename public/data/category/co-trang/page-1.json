@@ -5,6 +5,64 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "surprising-branch-2026-dfc01ff7",
+      "source": "ophim",
+      "slug": "kinh-chi",
+      "name": "Kinh Chi",
+      "originName": "Surprising Branch",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kinh-chi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kinh-chi-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "cage-of-shadows-2026-e640d089",
+      "source": "phimapi",
+      "slug": "long-giam-2026",
+      "name": "Lồng Giam",
+      "originName": "Cage Of Shadows",
+      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/915600ba656eabe07318828e3ed99166.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/684a5fa72bc466c54faf39a83819b6ae.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "a-splendid-match-2026-b65e09ce",
       "source": "phimapi",
       "slug": "luong-tran-my-cam",
@@ -42,6 +100,72 @@
       ]
     },
     {
+      "id": "bloom-in-turmoil-2026-017b69a2",
+      "source": "phimapi",
+      "slug": "phuong-hoa-ly",
+      "name": "Phương Hoa Lý",
+      "originName": "Bloom In Turmoil",
+      "posterUrl": "https://phimimg.com/upload/vod/20260319-1/e8899775153fb79a9974b00329c12705.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260319-1/18fae768f0cd07c5822074254a8791e1.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "soft-hearted-god-2026-3a688063",
+      "source": "phimapi",
+      "slug": "tam-nhuyen-dich-than-khi-than-mem-long",
+      "name": "Tâm Nhuyễn Đích Thần (Khi Thần Mềm Lòng)",
+      "originName": "Soft-Hearted God",
+      "posterUrl": "https://phimimg.com/upload/vod/20260524-1/11c5f80d9e55c2050d0f4e42439753b4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260524-1/128163c2939ea8f5e3b4608393bdd21d.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (28/28)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "zhan-zhao-adventures-2026-6699b76b",
       "source": "phimapi",
       "slug": "vu-lam-linh",
@@ -52,7 +176,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 23",
+      "episodeCurrent": "Tập 33",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -126,7 +250,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 163",
+      "episodeCurrent": "Tập 164",
       "categories": [
         {
           "name": "Võ Thuật",
@@ -163,7 +287,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 269",
+      "episodeCurrent": "Tập 270",
       "categories": [
         {
           "name": "Hành Động",
@@ -200,7 +324,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 516",
+      "episodeCurrent": "Tập 518",
       "categories": [
         {
           "name": "Hành Động",

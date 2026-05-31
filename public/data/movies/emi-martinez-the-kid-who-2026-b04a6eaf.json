@@ -1,0 +1,61 @@
+{
+  "id": "emi-martinez-the-kid-who-2026-b04a6eaf",
+  "source": "ophim",
+  "slug": "emi-martinez-cau-be-ngung-thoi-gian",
+  "name": "Emi Martínez: Cậu bé ngừng thời gian",
+  "originName": "Emi Martínez: The Kid Who Stops Time",
+  "posterUrl": "https://img.ophim.live/uploads/movies/emi-martinez-cau-be-ngung-thoi-gian-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/emi-martinez-cau-be-ngung-thoi-gian-thumb.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Thể Thao",
+      "slug": "the-thao"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ý",
+      "slug": "y"
+    }
+  ],
+  "description": "<p>Emiliano, một cậu bé mơ mộng đến từ Mar del Plata, đã trở thành \"Dibu\" mà chúng ta biết đến ngày nay, một trong những anh hùng vĩ đại của bóng đá Argentina. Được viết bởi Hernán Casciari và đạo diễn bởi Gustavo Cova, bộ phim kể về câu chuyện của cậu bé phát hiện ra mình có khả năng dừng thời gian và tranh luận với một quả bóng, thứ luôn nhắc nhở cậu về tất cả những thử thách phía trước. Với sự kết hợp giữa các đoạn hoạt hình do Liniers thực hiện, các thước phim tư liệu và các cuộc phỏng vấn với bạn bè, gia đình và đồng đội của cậu, đây là một câu chuyện cảm động và dũng cảm về cách sức mạnh nội tâm đã dẫn cậu đến vinh quang, trở thành nguồn cảm hứng cho các thế hệ mới.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4dc8561bc064ecf48381d76e16c143ba",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33221_4dc8561b/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/GKG8jcDc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/GKG8jcDc/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "emi-martinez-cau-be-ngung-thoi-gian",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "emi-martinez-cau-be-ngung-thoi-gian-dibu-martinez-el-pibe-que-ataja-el-tiempo",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

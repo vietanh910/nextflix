@@ -7,15 +7,74 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/ban-long-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/ban-long.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Câu chuyện được mở ra trên một đại lục to lớn có tên Ngọc Lan, nơi mà ngập tràn những sinh vật và dị thú vô cùng kì diệu với những linh trí riêng của chúng. Tại trấn Ô Sơn nhỏ bé nọ, cậu thanh niên với hoàn cảnh vô cùng bi đát là Lâm Lôi Ba Lỗ Khắc đang chật vật với cuộc sống khó khăn chồng chất khi mà gia tộc đã sa sút đến cùng cực, nhưng điều kỳ diệu đã đến với Lâm Lôi khi mà anh chàng đã vô tình phát hiện ra một chiếc nhẫn với tên gọi là Bàn Long đã mang đến những điều phi thường cho cậu. Và cũng nhờ có chiếc nhẫn Bàn Long mà cuộc đời của Lâm Lôi đã chuyển mình sang một trang mới, vô cùng tươi sáng và tương lai rộng mở, biến anh trở thành một pháp sư tài năng, vĩ đại bậc nhất đại lục Ngọc Lan và luôn sẵn sàng tiến lên phía trước, vượt qua những thử thách, trở nên bất khả chiến bại.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=59532ebfbd89003580eda4b2537552fe",
+      "m3u8Url": "https://sing.phimmoi.net/59532ebfbd89003580eda4b2537552fe/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=e57e9bd2f11daff283a85536715b0b02",
+      "m3u8Url": "https://sing.phimmoi.net/e57e9bd2f11daff283a85536715b0b02/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=b919334f85a7cf20058bcfccb078f6ea",
+      "m3u8Url": "https://sing.phimmoi.net/b919334f85a7cf20058bcfccb078f6ea/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=3f1ff5da96d7236a2ff7555cd5aa3cb1",
+      "m3u8Url": "https://sing.phimmoi.net/3f1ff5da96d7236a2ff7555cd5aa3cb1/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=515891161b160a712d7fc72eacb5cdc3",
+      "m3u8Url": "https://sing.phimmoi.net/515891161b160a712d7fc72eacb5cdc3/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=42f1e2cddbf016e77a83aab031d96226",
+      "m3u8Url": "https://sing.phimmoi.net/42f1e2cddbf016e77a83aab031d96226/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=c0f6b5058f0eaeea0612f6dbf14f1fe0",
+      "m3u8Url": "https://sing.phimmoi.net/c0f6b5058f0eaeea0612f6dbf14f1fe0/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ban-long",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 2
     }
   ],

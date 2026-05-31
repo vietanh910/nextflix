@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/5/dung-si-can-ba-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/dung-si-can-ba.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 19",
+  "episodeCurrent": "Tập 20",
   "categories": [],
   "countries": [],
   "description": "Đến giữa thế kỷ 21, thế giới ngầm tội phạm Tokyo bị cai trị bởi các Ma vương, những ông trùm tội phạm đã trải qua phẫu thuật tăng cường ether, mang lại cho họ những siêu năng lực khủng khiếp. Những người duy nhất có thể hạ gục họ là các Anh hùng, những thợ săn tiền thưởng tăng cường sức mạnh ether của chính họ bằng cách sử dụng ma túy E3 (E-Three). Với việc giết chóc hợp pháp như một phần công việc, trở thành một Anh hùng không phải là về công lý mà là về sự sinh tồn. Yashiro, được biết đến với biệt danh Thần chết, là một Anh hùng như vậy, một người thực thi pháp luật độc lập làm việc một mình. Cho đến khi Jougamine, một nữ sinh trung học và tự xưng là \"đệ tử\", buộc phải bước vào cuộc sống của anh. Miễn cưỡng nhận cô vào cánh của mình, Yashiro sớm thấy mình bị cuốn vào một cơn lốc xung đột chết người.",
@@ -73,9 +73,7 @@
       "name": "8",
       "slug": "tap-8",
       "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=fd971000499d94030b9718f8cb16ba20",
-      "m3u8Url": "https://sing.phimmoi.net/fd971000499d94030b9718f8cb16ba20/hls.m3u8"
+      "source": "nguonc"
     },
     {
       "name": "9",
@@ -113,9 +111,7 @@
       "name": "13",
       "slug": "tap-13",
       "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=34e965dbeb0bf6860ab62bbe52ce67d6",
-      "m3u8Url": "https://sing.phimmoi.net/34e965dbeb0bf6860ab62bbe52ce67d6/hls.m3u8"
+      "source": "nguonc"
     },
     {
       "name": "14",
@@ -164,13 +160,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=6dddf73d0fcdc6e0ed97944a5098a751",
       "m3u8Url": "https://sing.phimmoi.net/6dddf73d0fcdc6e0ed97944a5098a751/hls.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "tap-20",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=ebc5151ceecd529f6b32a5f9191925a5",
+      "m3u8Url": "https://sing.phimmoi.net/ebc5151ceecd529f6b32a5f9191925a5/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "dung-si-can-ba",
-      "episodeCount": 19,
+      "episodeCount": 20,
       "priority": 2
     }
   ],

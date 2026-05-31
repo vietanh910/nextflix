@@ -1,0 +1,42 @@
+{
+  "id": "star-city-season-1-7c8d13c5",
+  "source": "nguonc",
+  "slug": "thanh-pho-phi-hanh-gia-phan-1",
+  "name": "Thành Phố Phi Hành Gia (Phần 1)",
+  "originName": "Star City (Season 1)",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/6/can-cu-star-city-phan-1-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/can-cu-star-city-phan-1.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 2",
+  "categories": [],
+  "countries": [],
+  "description": "Bước vào một chương mới đầy kịch tính lấy cảm hứng từ Cuộc Chiến Không Gian. Vẫn là vũ trụ lịch sử giả định đó, nhưng từ góc nhìn khác: góc nhìn của Liên Xô. Hãy cùng vượt qua Bức màn Sắt để theo chân các phi hành gia, kỹ sư và sĩ quan tình báo, những người đã đánh cược tất cả trong cuộc đua lên Mặt Trăng.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=0be897f724f188e0062ff2c29aaee405",
+      "m3u8Url": "https://sing.phimmoi.net/0be897f724f188e0062ff2c29aaee405/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=89482c2b6588d0a47d8e3c8c5f9b0ce8",
+      "m3u8Url": "https://sing.phimmoi.net/89482c2b6588d0a47d8e3c8c5f9b0ce8/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "thanh-pho-phi-hanh-gia-phan-1",
+      "episodeCount": 2,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

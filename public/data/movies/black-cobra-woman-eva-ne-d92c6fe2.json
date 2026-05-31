@@ -1,0 +1,34 @@
+{
+  "id": "black-cobra-woman-eva-ne-d92c6fe2",
+  "source": "nguonc",
+  "slug": "nguoi-dan-ba-hac-xa",
+  "name": "Người Đàn Bà Hắc Xà",
+  "originName": "Black Cobra Woman, Eva nera",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/tDNPH9McwA094qQazSzTROQjuCB.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/ebnvWia5P6kIkROZcE5DbbWyfjE.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Eva đến Hồng Kông. Nhìn thấy Eva biểu diễn với một con rắn, Judas cảm thấy thích thú với cô ấy. Anh ấy tặng cô ấy những món quà. Cô chuyển đến sống cùng anh và những con rắn của anh. Mọi thứ trở nên nghiệt ngã.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=b62c8176df6c3498c4e9f07bb2ef2eb4",
+      "m3u8Url": "https://sing.phimmoi.net/b62c8176df6c3498c4e9f07bb2ef2eb4/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "nguoi-dan-ba-hac-xa",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

@@ -5,39 +5,6 @@
   "totalPages": 2,
   "items": [
     {
-      "id": "my-brother-the-minotaur-2026-069b340c",
-      "source": "ophim",
-      "slug": "anh-trai-cua-toi-la-nhan-nguu",
-      "name": "Anh Trai Của Tôi Là Nhân Ngưu",
-      "originName": "My Brother the Minotaur",
-      "posterUrl": "https://img.ophim.live/uploads/movies/anh-trai-cua-toi-la-nhan-nguu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/anh-trai-cua-toi-la-nhan-nguu-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
       "id": "the-pout-pout-fish-2026-d2befe3c",
       "source": "ophim",
       "slug": "ca-con-cau-co",
@@ -178,39 +145,6 @@
       ]
     },
     {
-      "id": "cabbage-your-life-2026-1ccc8fdc",
-      "source": "ophim",
-      "slug": "doi-cai-thao",
-      "name": "Đời Cải Thảo",
-      "originName": "Cabbage Your Life",
-      "posterUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "accidental-partners-2026-60897d5f",
       "source": "ophim",
       "slug": "doi-tac-tinh-co",
@@ -323,6 +257,35 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-lotto-winner-2026-fed4c38a",
+      "source": "ophim",
+      "slug": "nguoi-trung-so",
+      "name": "Người Trúng Số",
+      "originName": "The Lotto Winner",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-trung-so-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-trung-so-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Philippines",
+          "slug": "philippines"
         }
       ]
     },
@@ -542,6 +505,92 @@
       ]
     },
     {
+      "id": "animal-farm-2026-99d693c7",
+      "source": "ophim",
+      "slug": "trai-suc-vat",
+      "name": "Trại Súc Vật",
+      "originName": "Animal Farm",
+      "posterUrl": "https://img.ophim.live/uploads/movies/trai-suc-vat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/trai-suc-vat-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "bapa-mentuaku-mafia-2026-ac462501",
+      "source": "phimapi",
+      "slug": "bo-vo-toi-la-mafia",
+      "name": "Bố Vợ Tôi Là Mafia",
+      "originName": "Bapa Mentuaku Mafia",
+      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/49f2ecff904434957696dc8a48d676e0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/b0b753ff71f8b4cb2feeafe00a55687a.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
+        }
+      ]
+    },
+    {
       "id": "light-of-the-world-2025-49575c53",
       "source": "ophim",
       "slug": "anh-sang-cua-the-gioi",
@@ -695,43 +744,6 @@
         {
           "name": "Nga",
           "slug": "nga"
-        }
-      ]
-    },
-    {
-      "id": "the-pavilion-2021-be8c653f",
-      "source": "phimapi",
-      "slug": "suong-mu-dinh-bat-giac",
-      "name": "Sương Mù Đình Bát Giác",
-      "originName": "The Pavilion",
-      "posterUrl": "https://phimimg.com/upload/vod/20260524-1/a4f669a90a64f3250c54c098bf9e9a01.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260524-1/0b36f3534cfd05140f0bd38122b9bf68.jpg",
-      "year": 2021,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },

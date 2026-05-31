@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/8/kanan-sama-wa-akumade-choroi-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/kanan-sama-wa-akumade-choroi.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
   "description": "Câu chuyện xoay quanh Kanan, một nữ quỷ chuyên đi săn linh hồn nhưng lại vô tình vướng vào một \"hợp đồng tình yêu\" với một nam sinh trung học bình thường, dẫn đến những tình huống dở khóc dở cười vì sự ngây thơ quá mức của cô nàng.",
@@ -76,13 +76,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=03aa32181892999d692de7a38f7d6a05",
       "m3u8Url": "https://sing.phimmoi.net/03aa32181892999d692de7a38f7d6a05/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=61b01236cadbf3fbce2f94005f7a7a57",
+      "m3u8Url": "https://sing.phimmoi.net/61b01236cadbf3fbce2f94005f7a7a57/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "kanan-sama-wa-akumade-choroi",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 2
     }
   ],

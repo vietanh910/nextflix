@@ -7,15 +7,82 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/10/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/10/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Câu chuyện xoay quanh một nhân vật chính (được gọi đơn giản là \"Tôi\") qua đời và gặp một Nữ thần cho phép chọn hình dáng chuyển sinh. Tuy nhiên, các lựa chọn phổ biến như \"Ma Vương\" hay \"Anh hùng bá đạo có harem\" đều đang trong tình trạng \"quá tải\" với hàng đợi lên đến 50.000 năm.  Không muốn chờ đợi, nhân vật chính quyết định lách luật bằng cách chọn những hình dạng cực kỳ kỳ quặc và không ai thèm để ý để được chuyển sinh ngay lập tức. Các hình dạng này bao gồm: Xương sườn của Dũng sĩ (trong một câu chuyện harem kết thúc có hậu). Một con ốc mượn hồn. Thậm chí là một loại rau củ",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=3eddfc8d628ab53a67412ca5828f3621",
+      "m3u8Url": "https://sing.phimmoi.net/3eddfc8d628ab53a67412ca5828f3621/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=c69455daae46f370c066c2ab8b97021b",
+      "m3u8Url": "https://sing.phimmoi.net/c69455daae46f370c066c2ab8b97021b/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=185f31088f7f251b9a589a07cf549e94",
+      "m3u8Url": "https://sing.phimmoi.net/185f31088f7f251b9a589a07cf549e94/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=65def58b98191a7845f7f218ec92c51b",
+      "m3u8Url": "https://sing.phimmoi.net/65def58b98191a7845f7f218ec92c51b/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=30438c033edfe6ef875c0528bce21fa9",
+      "m3u8Url": "https://sing.phimmoi.net/30438c033edfe6ef875c0528bce21fa9/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=a97f075b13927b638a07a9e832a7080d",
+      "m3u8Url": "https://sing.phimmoi.net/a97f075b13927b638a07a9e832a7080d/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=2e7276ef7c5e2363d41164f44d921a35",
+      "m3u8Url": "https://sing.phimmoi.net/2e7276ef7c5e2363d41164f44d921a35/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=e672b6acc875cc36d7ebff02f1545cc6",
+      "m3u8Url": "https://sing.phimmoi.net/e672b6acc875cc36d7ebff02f1545cc6/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 2
     }
   ],

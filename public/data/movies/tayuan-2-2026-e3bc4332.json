@@ -1,0 +1,44 @@
+{
+  "id": "tayuan-2-2026-e3bc4332",
+  "source": "ophim",
+  "slug": "tayuan-2",
+  "name": "Tayuan 2",
+  "originName": "Tayuan 2",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tayuan-2-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tayuan-2-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Một người soát vé xe buýt quyến rũ, có tình cảm với cả nam và nữ, cảm thấy một tia lửa bất ngờ với một hành khách nhút nhát. Trên những chuyến xe buýt đông đúc, nơi cơ thể chạm vào nhau, ham muốn nảy sinh và tình yêu trở nên phức tạp.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tayuan-2",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

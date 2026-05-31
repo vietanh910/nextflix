@@ -1,0 +1,61 @@
+{
+  "id": "room-to-move-2025-ec77a047",
+  "source": "ophim",
+  "slug": "khong-gian-de-tung-canh",
+  "name": "Không gian để tung cánh",
+  "originName": "Room to Move",
+  "posterUrl": "https://img.ophim.live/uploads/movies/khong-gian-de-tung-canh-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/khong-gian-de-tung-canh-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Biên đạo múa kiêm nghệ sĩ biểu diễn Jenn Freeman luôn sở hữu năng khiếu về chuyển động. Từ rất nhỏ, cô ấy đã luôn muốn nhảy múa… mọi lúc mọi nơi. Nhưng cùng với nhu cầu luôn hiện hữu đó là nhảy nhót, uốn éo, lắc lư và quằn quại, cô phải vật lộn để tồn tại hài hòa trong một thế giới dường như luôn tấn công các giác quan và cảm giác cân bằng của cô.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f9a7f25376f10e98cf7c33c582d2c3b8",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33113_f9a7f253/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/SlmZxG7a/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/SlmZxG7a/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "khong-gian-de-tung-canh",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "khong-gian-de-tung-canh",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

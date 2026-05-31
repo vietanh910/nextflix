@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "episodeCurrent": "Tập 22",
   "categories": [
     {
       "name": "Hành Động",
@@ -209,13 +209,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/EJTLf3wW/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260522/EJTLf3wW/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/5n0xnuvb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/5n0xnuvb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tham-khong-bi-ngan",
-      "episodeCount": 21,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

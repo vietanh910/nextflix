@@ -33,14 +33,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/039b28c0e2a52524890797e9e0f29899",
       "m3u8Url": "https://vip.opstream90.com/20260520/32515_039b28c0/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/KaCGNgrG/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/KaCGNgrG/index.m3u8"
     }
   ],
   "sources": [
@@ -49,12 +41,6 @@
       "slug": "bi-mat-gioi-the-thao-anh-quoc-phep-mau-istanbul-cua-liverpool",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "bi-mat-gioi-the-thao-anh-quoc-phep-mau-istanbul-cua-liverpool",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

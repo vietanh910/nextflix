@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "completed",
-  "episodeCurrent": "Hoàn tất (12/12)",
+  "episodeCurrent": "Hoàn tất (24/24)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -121,13 +121,109 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/a286be2b8cb6de66943d8025b3fa7e33",
       "m3u8Url": "https://vip.opstream90.com/20260524/32790_a286be2b/index.m3u8"
+    },
+    {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f630930295f2102fb56edc9f88de45fb",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32856_f6309302/index.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/85e9b5dce4f9484f6731b0d778f8cc2e",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32857_85e9b5dc/index.m3u8"
+    },
+    {
+      "name": "15",
+      "slug": "15",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f0c44524de0076fc4c32a41f19dad179",
+      "m3u8Url": "https://vip.opstream90.com/20260526/32943_f0c44524/index.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/08d64daa10339a98d9d9fa9145b7cca8",
+      "m3u8Url": "https://vip.opstream90.com/20260526/32944_08d64daa/index.m3u8"
+    },
+    {
+      "name": "17",
+      "slug": "17",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e44324e95c8c533a9216ad03ee0f6932",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33056_e44324e9/index.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "18",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d1d8b9bbeefe2d37fc12e8aa4abf7e86",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33057_d1d8b9bb/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6008ee3996caf132da3a30be8a14dc73",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33164_6008ee39/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b9c72b87254f0b30ae977c99e10b729e",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33166_b9c72b87/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2d362d95ed1876eba101ac02d53a048d",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33247_2d362d95/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/33363f7b038639dc7ecf8c4a2d17de66",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33248_33363f7b/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7b7114a49b5827132d6097582ec1722d",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33356_7b7114a4/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bdebe2f12a1bc7a473f1520a583918c0",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33357_bdebe2f1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "troi-buoc-boi-thuy-trieu",
-      "episodeCount": 12,
+      "episodeCount": 24,
       "priority": 0
     }
   ],

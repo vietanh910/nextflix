@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/6/ga-vao-nha-quyen-quy-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/ga-vao-nha-quyen-quy.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 16",
+  "episodeCurrent": "Tập 23",
   "categories": [],
   "countries": [],
   "description": "Thẩm Chi Niệm và đích tỷ Thẩm Nam Kiều cùng trùng sinh. Để tránh thảm họa chốn hậu cung ở kiếp trước, Thẩm Nam Kiều ép Chi Niệm thay mình nhập cung . Thẩm Chi Niệm từng bước thận trọng bày kế, liên tiếp lật ngược thế cờ, nhờ mưu trí khiến hoàng đế Nam Cung Huyền Vũ chú ý. Từ triều đình đến hậu cung đầy rẫy âm mưu xảo quyệt, nàng và Nam Cung Huyền Vũ thăm dò rồi cảm mến nhau, hợp sức cùng phá giải tình thế nguy cấp chốn cung đình!",
@@ -140,13 +140,69 @@
       "source": "nguonc",
       "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=c7e6699179887bd67e184ff9a66b071f",
       "m3u8Url": "https://sing.phimmoi.net/c7e6699179887bd67e184ff9a66b071f/hls.m3u8"
+    },
+    {
+      "name": "17",
+      "slug": "tap-17",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=e767d0b7dc13722f6d12a3f6100d5e98",
+      "m3u8Url": "https://sing.phimmoi.net/e767d0b7dc13722f6d12a3f6100d5e98/hls.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "tap-18",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=592198461ce838aaaaba1d68b70a14da",
+      "m3u8Url": "https://sing.phimmoi.net/592198461ce838aaaaba1d68b70a14da/hls.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "tap-19",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=95e997be02a3b4961ecf6ac9549151d2",
+      "m3u8Url": "https://sing.phimmoi.net/95e997be02a3b4961ecf6ac9549151d2/hls.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "tap-20",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=7ebb153e617b6194a57fb131eba2b323",
+      "m3u8Url": "https://sing.phimmoi.net/7ebb153e617b6194a57fb131eba2b323/hls.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "tap-21",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=d5690f6d9a6c662dcc19098fbaa7c7c0",
+      "m3u8Url": "https://sing.phimmoi.net/d5690f6d9a6c662dcc19098fbaa7c7c0/hls.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "tap-22",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=1f40c9daf1a2048e8a65a2b2f11bcac4",
+      "m3u8Url": "https://sing.phimmoi.net/1f40c9daf1a2048e8a65a2b2f11bcac4/hls.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "tap-23",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=b03cf8679b0f71763dfc586e69a24e86",
+      "m3u8Url": "https://sing.phimmoi.net/b03cf8679b0f71763dfc586e69a24e86/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ga-vao-nha-quyen-quy",
-      "episodeCount": 16,
+      "episodeCount": 23,
       "priority": 2
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-thumb.jpg",
   "year": 2007,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Hài Hước",
@@ -31,9 +31,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "Full",
+      "slug": "full",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/8d3d7e8ca2dc7c98b0effe01f0b1fccb",
+      "m3u8Url": "https://vip.opstream12.com/20260524/32706_8d3d7e8c/index.m3u8"
     }
   ],
   "sources": [

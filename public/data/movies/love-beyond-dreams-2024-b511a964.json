@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính kịch",
@@ -49,13 +49,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/8423dd87983400be28badfcfaed92b99",
       "m3u8Url": "https://vip.opstream90.com/20260520/32547_8423dd87/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1322df5fefe9d16cff399438c09c3fb4",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33151_1322df5f/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "lan-nua-den-ben-em",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 0
     }
   ],

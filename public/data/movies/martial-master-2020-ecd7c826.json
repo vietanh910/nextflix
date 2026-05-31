@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 648",
+  "episodeCurrent": "Tập 649",
   "categories": [
     {
       "name": "Hành Động",
@@ -5221,13 +5221,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/dd9902bc56a9d85cdc62c00083ea4871",
       "m3u8Url": "https://vip.opstream90.com/20260524/32788_dd9902bc/index.m3u8"
+    },
+    {
+      "name": "649",
+      "slug": "649",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5ce47c81e96cb7483a0c79502cd8c571",
+      "m3u8Url": "https://vip.opstream90.com/20260526/32918_5ce47c81/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vo-than-chua-te",
-      "episodeCount": 648,
+      "episodeCount": 649,
       "priority": 0
     }
   ],

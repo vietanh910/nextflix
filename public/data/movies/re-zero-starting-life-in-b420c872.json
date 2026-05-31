@@ -7,15 +7,82 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/10/rezero-kara-hajimeru-isekai-seikatsu-4th-season-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/10/rezero-kara-hajimeru-isekai-seikatsu-4th-season.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Re:Zero Mùa 4 sẽ tập trung vào Arc 6 (Hành lang ký ức), đưa Subaru và nhóm bạn tiến về phía đông đến Tháp canh Pleiades giữa sa mạc cát chết chóc để tìm cách giải cứu những người bị ăn mất \"tên\" và \"ký ức\". Tại đây, họ phải đối mặt với 5 thử thách khắc nghiệt từ người canh giữ tòa tháp là Shaula và huyền thoại Reid Astrea, đồng thời Subaru sẽ rơi vào trạng thái tuyệt vọng tột cùng khi chính bản thân anh bị mất trí nhớ, không còn nhớ mình là ai hay khả năng \"Trở về từ cõi chết\". Đây được đánh giá là phần nội dung đen tối và kịch tính nhất từ trước đến nay, nơi ranh giới giữa cái chết và sự điên loạn trở nên mong manh hơn bao giờ hết.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=2ab1927394e5c8cac63e12c731645fd0",
+      "m3u8Url": "https://sing.phimmoi.net/2ab1927394e5c8cac63e12c731645fd0/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=a92510d486ed8b6cae9458d0a637c24d",
+      "m3u8Url": "https://sing.phimmoi.net/a92510d486ed8b6cae9458d0a637c24d/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=7dfe39c101f06c6801ccf25df3097356",
+      "m3u8Url": "https://sing.phimmoi.net/7dfe39c101f06c6801ccf25df3097356/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=f235988883cb6d62766164614fdbbd3b",
+      "m3u8Url": "https://sing.phimmoi.net/f235988883cb6d62766164614fdbbd3b/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=32834ea89bd5f73465616d55788348d6",
+      "m3u8Url": "https://sing.phimmoi.net/32834ea89bd5f73465616d55788348d6/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=affd83b4206821779f26c8a13ce92d34",
+      "m3u8Url": "https://sing.phimmoi.net/affd83b4206821779f26c8a13ce92d34/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=3bc284f611ba709cb792ee4794785eef",
+      "m3u8Url": "https://sing.phimmoi.net/3bc284f611ba709cb792ee4794785eef/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=62e208c192bda91fe8115a8b1897a878",
+      "m3u8Url": "https://sing.phimmoi.net/62e208c192bda91fe8115a8b1897a878/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 2
     }
   ],

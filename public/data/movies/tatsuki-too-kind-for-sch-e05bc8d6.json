@@ -7,15 +7,72 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/7/thay-tatsuki-qua-de-tinh-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/7/thay-tatsuki-qua-de-tinh.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Tại trường giáo dục thay thế dành cho trẻ không hợp lớp học truyền thống, cách dạy thoải mái của Tatsuki khiến Shizuku nghiêm khắc bối rối, khi họ học cách kết nối với học sinh.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=5f1f8165484ad09ddf781f927b7bfbad",
+      "m3u8Url": "https://sing.phimmoi.net/5f1f8165484ad09ddf781f927b7bfbad/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=fbe6b9db815611b5aa1cb5dbaba4b5b2",
+      "m3u8Url": "https://sing.phimmoi.net/fbe6b9db815611b5aa1cb5dbaba4b5b2/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=c5ce28442ea9ddf9212e6559646a9fa2",
+      "m3u8Url": "https://sing.phimmoi.net/c5ce28442ea9ddf9212e6559646a9fa2/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=9e925b2f496a5fb51022c0d7938258d0",
+      "m3u8Url": "https://sing.phimmoi.net/9e925b2f496a5fb51022c0d7938258d0/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=99e953c6ec515e6410a90c07edba43d5",
+      "m3u8Url": "https://sing.phimmoi.net/99e953c6ec515e6410a90c07edba43d5/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=5cb7870c1b3a1e3076e90e81c549e26d",
+      "m3u8Url": "https://sing.phimmoi.net/5cb7870c1b3a1e3076e90e81c549e26d/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "thay-tatsuki-qua-de-tinh",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 2
     }
   ],

@@ -1,0 +1,51 @@
+{
+  "id": "boss-hunt-2015-be0d628e",
+  "source": "ophim",
+  "slug": "san-lung-nhung-ong-trum",
+  "name": "Săn Lùng Những Ông Trùm",
+  "originName": "Boss Hunt",
+  "posterUrl": "https://img.ophim.live/uploads/movies/san-lung-nhung-ong-trum-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/san-lung-nhung-ong-trum-thumb.jpg",
+  "year": 2015,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ý",
+      "slug": "y"
+    }
+  ],
+  "description": "",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e9c09a84884c09721df10dd1abfeae21",
+      "m3u8Url": "https://vip.opstream90.com/20260526/32969_e9c09a84/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "san-lung-nhung-ong-trum",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,42 @@
+{
+  "id": "reborn-rookie-4b70faff",
+  "source": "nguonc",
+  "slug": "chu-tich-tap-su",
+  "name": "Chủ Tịch Tập Sự",
+  "originName": "Reborn Rookie",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/6/chu-tich-tap-su-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/chu-tich-tap-su.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 1",
+  "categories": [],
+  "countries": [],
+  "description": "Kang Yong Ho - \"ông hoàng kinh doanh\" bất ngờ hoán đổi linh hồn vào thân xác cầu thủ trẻ Hwang Jun Hyeon sau tai nạn. Với tư duy của một chủ tịch trong diện mạo nhân viên mới, Jun Hyeon bắt đầu hành trình đầy biến động để chinh phục lại đế chế của chính mình.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=e11d402b8f5b26329396786a3f149f0d",
+      "m3u8Url": "https://sing.phimmoi.net/e11d402b8f5b26329396786a3f149f0d/hls.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Thuyết minh #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=d115ab029b2f1f350fd8bcf79517a130",
+      "m3u8Url": "https://sing.phimmoi.net/d115ab029b2f1f350fd8bcf79517a130/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "chu-tich-tap-su",
+      "episodeCount": 2,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

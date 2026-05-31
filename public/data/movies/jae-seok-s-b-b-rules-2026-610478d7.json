@@ -1,0 +1,125 @@
+{
+  "id": "jae-seok-s-b-b-rules-2026-610478d7",
+  "source": "ophim",
+  "slug": "jae-seoks-bandb-rules",
+  "name": "Jae-seok's B&B Rules!",
+  "originName": "Jae-seok's B&B Rules!",
+  "posterUrl": "https://img.ophim.live/uploads/movies/jae-seoks-bandb-rules-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/jae-seoks-bandb-rules-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>The guest is king — but so is the host! Yu Jae-seok opens his first B&amp;B, where he runs things his way and treats guests to his signature games.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/785b5b6c95808c0b89f6a1d1a4b20990",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33276_785b5b6c/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f831547ec73855ada56ccfd6ee45364d",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33277_f831547e/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5143b1a03753e9634ad9395eb18e0417",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33278_5143b1a0/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0c0f5df32f66e331cf7ffabb10999ebc",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33279_0c0f5df3/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0bb275959bab94a82b9d376d39efdace",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33280_0bb27595/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/nW52ooT9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/nW52ooT9/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/SeCpalgX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/SeCpalgX/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/wwTfXy0W/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/wwTfXy0W/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/3QrCmkMI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/3QrCmkMI/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/r79TZipb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/r79TZipb/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "jae-seoks-bandb-rules",
+      "episodeCount": 5,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "nha-nghi-bb-tuyet-voi-cua-jae-seok",
+      "episodeCount": 5,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

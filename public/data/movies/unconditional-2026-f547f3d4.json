@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính kịch",
@@ -59,6 +59,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260523/32764_bfd6afd4/index.m3u8"
     },
     {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2c9ec71f040ae43b350159093c4401bd",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33309_2c9ec71f/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -89,19 +97,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/ixKO20cH/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260522/ixKO20cH/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/CYjShwJ6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/CYjShwJ6/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ban-nang-nguoi-me-2026",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "ban-nang-nguoi-me-2026",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

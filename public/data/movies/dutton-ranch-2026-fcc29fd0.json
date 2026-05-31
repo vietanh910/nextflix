@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính kịch",
@@ -53,13 +53,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/5bb359283f79a2e477eefe535fedc9dc",
       "m3u8Url": "https://vip.opstream10.com/20260524/33752_5bb35928/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/26fdb8d663e6e79c65e3a678201f3c13",
+      "m3u8Url": "https://vip.opstream10.com/20260530/33781_26fdb8d6/index.m3u8v"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "trang-trai-dutton",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 0
     }
   ],

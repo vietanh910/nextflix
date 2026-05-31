@@ -5,6 +5,394 @@
   "totalPages": 14,
   "items": [
     {
+      "id": "s-w-a-t-season-2-2018-6dcc3187",
+      "source": "phimapi",
+      "slug": "doi-dac-nhiem-swat-phan-2",
+      "name": "Đội Đặc Nhiệm SWAT (Phần 2)",
+      "originName": "S.W.A.T. (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/5e427fe96f24944c1895bfd593488613.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/2625b3fb3f5ce86ecfc364b6a62e79ed.jpg",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "hirugao-2017-292e01ed",
+      "source": "ophim",
+      "slug": "hirugao",
+      "name": "Hirugao",
+      "originName": "Hirugao",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hirugao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hirugao-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "michael-jackson-searchin-2017-736dbf3d",
+      "source": "ophim",
+      "slug": "michael-jackson-di-tim-xu-so-neverland",
+      "name": "Michael Jackson: Đi tìm xứ sở Neverland",
+      "originName": "Michael Jackson: Searching for Neverland",
+      "posterUrl": "https://img.ophim.live/uploads/movies/michael-jackson-di-tim-xu-so-neverland-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/michael-jackson-di-tim-xu-so-neverland-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "on-the-beach-at-night-al-2017-f1ff9ba6",
+      "source": "ophim",
+      "slug": "mot-minh-giua-bien-dem",
+      "name": "Một Mình Giữa Biển Đêm",
+      "originName": "On the Beach at Night Alone",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mot-minh-giua-bien-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-minh-giua-bien-dem-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-fixer-2017-0e08ddbb",
+      "source": "ophim",
+      "slug": "nguoi-sua-chua",
+      "name": "Người sửa chữa",
+      "originName": "The Fixer",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-sua-chua-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-sua-chua-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "from-straight-a-s-to-xxx-2017-34d3c870",
+      "source": "ophim",
+      "slug": "tu-diem-a-tuyet-doi-den-xxx",
+      "name": "Từ điểm A tuyệt đối đến XXX",
+      "originName": "From Straight A's to XXX",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tu-diem-a-tuyet-doi-den-xxx-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tu-diem-a-tuyet-doi-den-xxx-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Hà Lan",
+          "slug": "ha-lan"
+        }
+      ]
+    },
+    {
+      "id": "s-w-a-t-season-1-2017-ce759901",
+      "source": "phimapi",
+      "slug": "doi-dac-nhiem-swat-phan-1",
+      "name": "Đội Đặc Nhiệm SWAT (Phần 1)",
+      "originName": "S.W.A.T. (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/c933024f559624524479d0840cb56b06.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/f472c18d7ef84211ab6e7571ea515486.jpg",
+      "year": 2017,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "if-cats-disappeared-from-2016-1ea7fa49",
+      "source": "ophim",
+      "slug": "if-cats-disappeared-from-the-world",
+      "name": "If Cats Disappeared from the World",
+      "originName": "If Cats Disappeared from the World",
+      "posterUrl": "https://img.ophim.live/uploads/movies/if-cats-disappeared-from-the-world-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/if-cats-disappeared-from-the-world-thumb.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "heaven-in-the-dark-2016-590b4712",
+      "source": "ophim",
+      "slug": "thien-duong-trong-bong-toi",
+      "name": "Thiên đường trong bóng tối",
+      "originName": "Heaven in the Dark",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thien-duong-trong-bong-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thien-duong-trong-bong-toi-thumb.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-5-2015-b321dc19",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-5",
+      "name": "Bầu Trời Sụp Đổ (Phần 5)",
+      "originName": "Falling Skies (Season 5)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-thumb.jpg",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "boss-hunt-2015-be0d628e",
+      "source": "ophim",
+      "slug": "san-lung-nhung-ong-trum",
+      "name": "Săn Lùng Những Ông Trùm",
+      "originName": "Boss Hunt",
+      "posterUrl": "https://img.ophim.live/uploads/movies/san-lung-nhung-ong-trum-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/san-lung-nhung-ong-trum-thumb.jpg",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-4-2014-920db729",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-4",
+      "name": "Bầu Trời Sụp Đổ (Phần 4)",
+      "originName": "Falling Skies (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-thumb.jpg",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
       "id": "parenthood-season-6-2014-21e2a8d7",
       "source": "ophim",
       "slug": "parenthood-phan-6",
@@ -30,17 +418,17 @@
       ]
     },
     {
-      "id": "downton-abbey-season-5-2014-1ce310e7",
+      "id": "triangle-2014-585536cd",
       "source": "phimapi",
-      "slug": "kiet-tac-kinh-dien-phan-5",
-      "name": "Kiệt Tác Kinh Điển (Phần 5)",
-      "originName": "Downton Abbey (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260521-1/8b1aa21b0c7325edc3373af85bce4c54.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260521-1/da085d99d90cfff7cd90c8f6dd719cb6.jpg",
+      "slug": "bo-ba-quyen-luc",
+      "name": "Bộ Ba Quyền Lực",
+      "originName": "Triangle",
+      "posterUrl": "https://phimimg.com/upload/vod/20260528-1/7e90fe2ac88eb1dcb8122223678be5b1.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260528-1/9627bb3bbcc33039ea79345a10208422.jpg",
       "year": 2014,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
+      "episodeCurrent": "Hoàn Tất (52/52)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -53,12 +441,8 @@
       ],
       "countries": [
         {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -133,31 +517,6 @@
       ]
     },
     {
-      "id": "human-capital-2013-bbc3aca7",
-      "source": "ophim",
-      "slug": "nguon-von-nhan-luc",
-      "name": "Nguồn Vốn Nhân Lực",
-      "originName": "Human Capital",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguon-von-nhan-luc-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguon-von-nhan-luc-thumb.jpg",
-      "year": 2013,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ý",
-          "slug": "y"
-        }
-      ]
-    },
-    {
       "id": "white-rabbit-2013-c9ae987f",
       "source": "ophim",
       "slug": "tho-trang",
@@ -172,64 +531,6 @@
       "categories": [
         {
           "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "downton-abbey-season-4-2013-10fd8319",
-      "source": "phimapi",
-      "slug": "kiet-tac-kinh-dien-phan-4",
-      "name": "Kiệt Tác Kinh Điển (Phần 4)",
-      "originName": "Downton Abbey (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260521-1/6109c0f8b88c8ff2a1267764413cae6f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260521-1/0269c473b294c3f3e581dc81f687b064.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "42-2013-cbe3f457",
-      "source": "phimapi",
-      "slug": "so-ao-42-huyen-thoai",
-      "name": "Số Áo 42 Huyền Thoại",
-      "originName": "42",
-      "posterUrl": "https://phimimg.com/upload/vod/20260517-1/1bbf03097eafd45ebca5ffc54284bf7f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260517-1/e1f8e38b09b644eb520116467fa31675.jpg",
-      "year": 2013,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
           "slug": "chinh-kich"
         }
       ],
@@ -311,50 +612,17 @@
       ]
     },
     {
-      "id": "the-three-stooges-2012-3d715810",
+      "id": "one-tree-hill-season-9-2012-9805c2a9",
       "source": "phimapi",
-      "slug": "ba-chang-ngoc",
-      "name": "Ba Chàng Ngốc",
-      "originName": "The Three Stooges",
-      "posterUrl": "https://phimimg.com/upload/vod/20260522-1/47ed2788124067ed3bc911f27e261b0e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260522-1/5d5b8f7ba865cb3246f18b2816e426c0.jpg",
-      "year": 2012,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "downton-abbey-season-3-2012-00516590",
-      "source": "phimapi",
-      "slug": "kiet-tac-kinh-dien-phan-3",
-      "name": "Kiệt Tác Kinh Điển (Phần 3)",
-      "originName": "Downton Abbey (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260521-1/f324c5544843b9e1d4aad049cd79d4bc.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260521-1/8722d202591dac96a2dce7ab2318b186.jpg",
+      "slug": "danh-du-phan-9",
+      "name": "Danh Dự (Phần 9)",
+      "originName": "One Tree Hill (Season 9)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/3ea746dc41e50447349a7e04a57a6882.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/038500001b1bd1309d7a08855ac4a342.jpg",
       "year": 2012,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -363,13 +631,13 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -447,39 +715,6 @@
       ]
     },
     {
-      "id": "downton-abbey-season-2-2011-4c2bf1b0",
-      "source": "phimapi",
-      "slug": "kiet-tac-kinh-dien-phan-2",
-      "name": "Kiệt Tác Kinh Điển (Phần 2)",
-      "originName": "Downton Abbey (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260521-1/9659e1ef569ec7d7a7064ae7041a631f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260521-1/8af22f32de3b2989ca258e86247d8cb5.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "parenthood-season-2-2010-64b3f3c2",
       "source": "ophim",
       "slug": "lam-cha-me-phan-2",
@@ -505,116 +740,21 @@
       ]
     },
     {
-      "id": "downton-abbey-season-1-2010-baba388a",
+      "id": "one-tree-hill-season-8-2010-3e7263b7",
       "source": "phimapi",
-      "slug": "kiet-tac-kinh-dien-phan-1",
-      "name": "Kiệt Tác Kinh Điển (Phần 1)",
-      "originName": "Downton Abbey (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260521-1/d8053d43c372ac77a2434f688c6fbd4d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260521-1/0cf0f1fde4c07867d8e81c8a6bd795aa.jpg",
+      "slug": "danh-du-phan-8",
+      "name": "Danh Dự (Phần 8)",
+      "originName": "One Tree Hill (Season 8)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/00a16c5dde4412364b9efd9905e8060d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/87d5d11fba47cdfae87535ddedfaf0c9.jpg",
       "year": 2010,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (7/7)",
+      "episodeCurrent": "Hoàn Tất (22/22)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "running-man-2010-ca3391d1",
-      "source": "phimapi",
-      "slug": "thu-thach-than-tuong",
-      "name": "Thử Thách Thần Tượng",
-      "originName": "Running Man",
-      "posterUrl": "https://phimimg.com/upload/vod/20241017-1/8ce53643bb316f8fb8dc3dddd955f2ce.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241017-1/65a22ab2e96e79bfedf8ae96d955f72a.jpg",
-      "year": 2010,
-      "type": "tvshow",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 803",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "blood-and-bone-2009-021a2653",
-      "source": "phimapi",
-      "slug": "tran-dia-tu-than",
-      "name": "Trận Địa Tử Thần",
-      "originName": "Blood And Bone",
-      "posterUrl": "https://phimimg.com/upload/vod/20260520-1/e4b4b51791683752e9d279bf834614af.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260520-1/063998d543c08ac65106be3921c21ab6.jpg",
-      "year": 2009,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "27-dresses-2008-14794525",
-      "source": "phimapi",
-      "slug": "27-lan-cuoi",
-      "name": "27 Lần Cưới",
-      "originName": "27 Dresses",
-      "posterUrl": "https://phimimg.com/upload/vod/20260523-1/3661a8156a91332d87242f9a741f1f66.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260523-1/6d69b523880e76c79f76864c54266e15.jpg",
-      "year": 2008,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
         },
         {
           "name": "Tình Cảm",
@@ -623,124 +763,12 @@
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "after-sex-2007-51bd0e9b",
-      "source": "ophim",
-      "slug": "du-am-sau-cuoc-yeu",
-      "name": "Dư Âm Sau Cuộc Yêu",
-      "originName": "After Sex",
-      "posterUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-thumb.jpg",
-      "year": 2007,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "man-in-the-mirror-the-mi-2004-e76aecbf",
-      "source": "ophim",
-      "slug": "nguoi-dan-ong-trong-guong-cau-chuyen-ve-michael-jackson",
-      "name": "Người đàn ông trong gương: Câu chuyện về Michael Jackson",
-      "originName": "Man in the Mirror: The Michael Jackson Story",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-trong-guong-cau-chuyen-ve-michael-jackson-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-trong-guong-cau-chuyen-ve-michael-jackson-thumb.jpg",
-      "year": 2004,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "love-and-magnets-2004-6853f5fd",
-      "source": "ophim",
-      "slug": "tinh-yeu-va-nam-cham",
-      "name": "Tình yêu và nam châm",
-      "originName": "Love and Magnets",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-va-nam-cham-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tinh-yeu-va-nam-cham-thumb.jpg",
-      "year": 2004,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "ready-steady-charlie-2003-86fee08c",
-      "source": "phimapi",
-      "slug": "chu-y-san-sang-charlie-achtung-fertig-charlie",
-      "name": "Chú Ý! Sẵn Sàng! Charlie! (Achtung, Fertig, Charlie!)",
-      "originName": "Ready, Steady, Charlie!",
-      "posterUrl": "https://phimimg.com/upload/vod/20260520-1/eca2386a578e13eb7e811100d3209e66.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260520-1/0acad226a8ef733ea8b770817eb56f2d.jpg",
-      "year": 2003,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thụy Sĩ",
-          "slug": "thuy-si"
         }
       ]
     }

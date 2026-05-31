@@ -7,15 +7,482 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Film/913643.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Film/913643.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 57",
+  "episodeCurrent": "Hoàn tất (58/58)",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Thương Hàn với tính khí  không chịu khuất phục, không chấp nhận thất bại sẽ phải làm gì vào thực lực của mình và tung hoành thiên hạ. Phương Hàn luyện tập không ngừng, anh ta dựa vào lòng kiên trì trực tiếp  đối mặt với khó khăn. Anh ta cố gắng đánh bại các thần thủ , và  học hỏi ,tim ra  những giới hạn của mình. Tập trung và quyết tâm nỗ lực biến xác phàm thành cơ thể vĩnh sinh. Phương Hàn có thể trở thành một người có thể tung hoành thiên địa trong thế giới kỳ huyễn này.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=8c62ea2019e912e1934c1bd86a1c268b",
+      "m3u8Url": "https://sing.phimmoi.net/8c62ea2019e912e1934c1bd86a1c268b/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=7babc6f2a9dc7fdabbb16f50f6b7cf2e",
+      "m3u8Url": "https://sing.phimmoi.net/7babc6f2a9dc7fdabbb16f50f6b7cf2e/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=df1f826e1cec7dadb4659b9290c301f1",
+      "m3u8Url": "https://sing.phimmoi.net/df1f826e1cec7dadb4659b9290c301f1/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=cf3ff00df630373f2038f64e33cc899d",
+      "m3u8Url": "https://sing.phimmoi.net/cf3ff00df630373f2038f64e33cc899d/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=441cd0fd16a20eb289856de2db8d5b63",
+      "m3u8Url": "https://sing.phimmoi.net/441cd0fd16a20eb289856de2db8d5b63/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=888b756e20bdbb8c61caf5514390de35",
+      "m3u8Url": "https://sing.phimmoi.net/888b756e20bdbb8c61caf5514390de35/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=d8956002c83637b52325b0c173790668",
+      "m3u8Url": "https://sing.phimmoi.net/d8956002c83637b52325b0c173790668/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=5fcee4c659388869bdd8c668200cfd80",
+      "m3u8Url": "https://sing.phimmoi.net/5fcee4c659388869bdd8c668200cfd80/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=f31f40d0eaab6a2650ea06e5083b6cd3",
+      "m3u8Url": "https://sing.phimmoi.net/f31f40d0eaab6a2650ea06e5083b6cd3/hls.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "tap-10",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=fc4116503b2411e366093a1f35b6b32e",
+      "m3u8Url": "https://sing.phimmoi.net/fc4116503b2411e366093a1f35b6b32e/hls.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "tap-11",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=28b855b9688f20740c70f998911ed7fb",
+      "m3u8Url": "https://sing.phimmoi.net/28b855b9688f20740c70f998911ed7fb/hls.m3u8"
+    },
+    {
+      "name": "12",
+      "slug": "tap-12",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=c72400859e219d22c01b7dce852c534f",
+      "m3u8Url": "https://sing.phimmoi.net/c72400859e219d22c01b7dce852c534f/hls.m3u8"
+    },
+    {
+      "name": "13",
+      "slug": "tap-13",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=444d01f591aea8a396b9105ed774fe5b",
+      "m3u8Url": "https://sing.phimmoi.net/444d01f591aea8a396b9105ed774fe5b/hls.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "tap-14",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=1898f07371a41c1158b6ac890cdcf9a4",
+      "m3u8Url": "https://sing.phimmoi.net/1898f07371a41c1158b6ac890cdcf9a4/hls.m3u8"
+    },
+    {
+      "name": "15",
+      "slug": "tap-15",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=68e7dabfc9b46063eeb8d8b6f1f83d5d",
+      "m3u8Url": "https://sing.phimmoi.net/68e7dabfc9b46063eeb8d8b6f1f83d5d/hls.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "tap-16",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=ae9e5fe68131bfc647ca33d620267c46",
+      "m3u8Url": "https://sing.phimmoi.net/ae9e5fe68131bfc647ca33d620267c46/hls.m3u8"
+    },
+    {
+      "name": "17",
+      "slug": "tap-17",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=38fb8174307e70a70602320921c808b8",
+      "m3u8Url": "https://sing.phimmoi.net/38fb8174307e70a70602320921c808b8/hls.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "tap-18",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=ffd9ab992fb1951702e7d43ff33fa255",
+      "m3u8Url": "https://sing.phimmoi.net/ffd9ab992fb1951702e7d43ff33fa255/hls.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "tap-19",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=1c5df0c9eb9906cb3c12cc427526293f",
+      "m3u8Url": "https://sing.phimmoi.net/1c5df0c9eb9906cb3c12cc427526293f/hls.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "tap-20",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=66958f99912aa18ff902912e267a0879",
+      "m3u8Url": "https://sing.phimmoi.net/66958f99912aa18ff902912e267a0879/hls.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "tap-21",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=c9953169ca3dfeff71b33561da03689c",
+      "m3u8Url": "https://sing.phimmoi.net/c9953169ca3dfeff71b33561da03689c/hls.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "tap-22",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=048227208e672f81f9fe4d510e826913",
+      "m3u8Url": "https://sing.phimmoi.net/048227208e672f81f9fe4d510e826913/hls.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "tap-23",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=1c3a0d7dda1a7a1012c66c2caee8b270",
+      "m3u8Url": "https://sing.phimmoi.net/1c3a0d7dda1a7a1012c66c2caee8b270/hls.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "tap-24",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=3974f25915adb709558c751c7bb137c1",
+      "m3u8Url": "https://sing.phimmoi.net/3974f25915adb709558c751c7bb137c1/hls.m3u8"
+    },
+    {
+      "name": "25",
+      "slug": "tap-25",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=5f69040e64c465abc1ed66be6695b8f5",
+      "m3u8Url": "https://sing.phimmoi.net/5f69040e64c465abc1ed66be6695b8f5/hls.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "tap-26",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=c013af02246bae7fb479b209f6f0bf6b",
+      "m3u8Url": "https://sing.phimmoi.net/c013af02246bae7fb479b209f6f0bf6b/hls.m3u8"
+    },
+    {
+      "name": "27",
+      "slug": "tap-27",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=cb4806b54da12dcab7034605eed88b61",
+      "m3u8Url": "https://sing.phimmoi.net/cb4806b54da12dcab7034605eed88b61/hls.m3u8"
+    },
+    {
+      "name": "28",
+      "slug": "tap-28",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=f41ba0bc2e17489861c8552c8c421cd4",
+      "m3u8Url": "https://sing.phimmoi.net/f41ba0bc2e17489861c8552c8c421cd4/hls.m3u8"
+    },
+    {
+      "name": "29",
+      "slug": "tap-29",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=f245faf89a56e9b8877ba799e0164653",
+      "m3u8Url": "https://sing.phimmoi.net/f245faf89a56e9b8877ba799e0164653/hls.m3u8"
+    },
+    {
+      "name": "30",
+      "slug": "tap-30",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=2435bd7f9e1ff0a7146c507a2b909af0",
+      "m3u8Url": "https://sing.phimmoi.net/2435bd7f9e1ff0a7146c507a2b909af0/hls.m3u8"
+    },
+    {
+      "name": "31",
+      "slug": "tap-31",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=ef189cf6741a150d9ff7bc3f21bd72a2",
+      "m3u8Url": "https://sing.phimmoi.net/ef189cf6741a150d9ff7bc3f21bd72a2/hls.m3u8"
+    },
+    {
+      "name": "32",
+      "slug": "tap-32",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=73ca0527daff280e436d92544fbc6d3f",
+      "m3u8Url": "https://sing.phimmoi.net/73ca0527daff280e436d92544fbc6d3f/hls.m3u8"
+    },
+    {
+      "name": "33",
+      "slug": "tap-33",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=d070e4d497fccbeebefe7aeb02c2398d",
+      "m3u8Url": "https://sing.phimmoi.net/d070e4d497fccbeebefe7aeb02c2398d/hls.m3u8"
+    },
+    {
+      "name": "34",
+      "slug": "tap-34",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=82a337f81ccc0e2311f103ffa51506f8",
+      "m3u8Url": "https://sing.phimmoi.net/82a337f81ccc0e2311f103ffa51506f8/hls.m3u8"
+    },
+    {
+      "name": "35",
+      "slug": "tap-35",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=f0985b96d28797f9601ff4ebcd69e27e",
+      "m3u8Url": "https://sing.phimmoi.net/f0985b96d28797f9601ff4ebcd69e27e/hls.m3u8"
+    },
+    {
+      "name": "36",
+      "slug": "tap-36",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=71dad0a6da5eb82b7a125b873b272fdc",
+      "m3u8Url": "https://sing.phimmoi.net/71dad0a6da5eb82b7a125b873b272fdc/hls.m3u8"
+    },
+    {
+      "name": "37",
+      "slug": "tap-37",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=937348d17499efce6f81d3213e2a0f8a",
+      "m3u8Url": "https://sing.phimmoi.net/937348d17499efce6f81d3213e2a0f8a/hls.m3u8"
+    },
+    {
+      "name": "38",
+      "slug": "tap-38",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=2bf0d039c318e889a69a397b9483aa6f",
+      "m3u8Url": "https://sing.phimmoi.net/2bf0d039c318e889a69a397b9483aa6f/hls.m3u8"
+    },
+    {
+      "name": "39",
+      "slug": "tap-39",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=686eddce865fdab8b4b8cb0edc7aaa94",
+      "m3u8Url": "https://sing.phimmoi.net/686eddce865fdab8b4b8cb0edc7aaa94/hls.m3u8"
+    },
+    {
+      "name": "40",
+      "slug": "tap-40",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=6a5e9bfa4ef93da40115d2ee21d67640",
+      "m3u8Url": "https://sing.phimmoi.net/6a5e9bfa4ef93da40115d2ee21d67640/hls.m3u8"
+    },
+    {
+      "name": "41",
+      "slug": "tap-41",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=d4ccba894d34fffb82c30c6d5adf4a82",
+      "m3u8Url": "https://sing.phimmoi.net/d4ccba894d34fffb82c30c6d5adf4a82/hls.m3u8"
+    },
+    {
+      "name": "42",
+      "slug": "tap-42",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=9fd82456d2221fe2e424df6a3f0ea9fa",
+      "m3u8Url": "https://sing.phimmoi.net/9fd82456d2221fe2e424df6a3f0ea9fa/hls.m3u8"
+    },
+    {
+      "name": "43",
+      "slug": "tap-43",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=49ef766328103c5edbbcbd0fe75cd133",
+      "m3u8Url": "https://sing.phimmoi.net/49ef766328103c5edbbcbd0fe75cd133/hls.m3u8"
+    },
+    {
+      "name": "44",
+      "slug": "tap-44",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=ad18f0ad9313d31beb62b720878e8d1f",
+      "m3u8Url": "https://sing.phimmoi.net/ad18f0ad9313d31beb62b720878e8d1f/hls.m3u8"
+    },
+    {
+      "name": "45",
+      "slug": "tap-45",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=12f06b745c4acdff925dba80002c75f2",
+      "m3u8Url": "https://sing.phimmoi.net/12f06b745c4acdff925dba80002c75f2/hls.m3u8"
+    },
+    {
+      "name": "46",
+      "slug": "tap-46",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=4051cc17ba1f0b78dec5d625996b04b4",
+      "m3u8Url": "https://sing.phimmoi.net/4051cc17ba1f0b78dec5d625996b04b4/hls.m3u8"
+    },
+    {
+      "name": "47",
+      "slug": "tap-47",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=7b9e22a524892d07329ade60f5f238e0",
+      "m3u8Url": "https://sing.phimmoi.net/7b9e22a524892d07329ade60f5f238e0/hls.m3u8"
+    },
+    {
+      "name": "48",
+      "slug": "tap-48",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=71a22be4fbcacaeb5f74ed50ee941a0e",
+      "m3u8Url": "https://sing.phimmoi.net/71a22be4fbcacaeb5f74ed50ee941a0e/hls.m3u8"
+    },
+    {
+      "name": "49",
+      "slug": "tap-49",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=af77ace9d0b0dfd185c21925e99081c2",
+      "m3u8Url": "https://sing.phimmoi.net/af77ace9d0b0dfd185c21925e99081c2/hls.m3u8"
+    },
+    {
+      "name": "50",
+      "slug": "tap-50",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=9f1a26d3145ab44b4f605a4f6e3ce694",
+      "m3u8Url": "https://sing.phimmoi.net/9f1a26d3145ab44b4f605a4f6e3ce694/hls.m3u8"
+    },
+    {
+      "name": "51",
+      "slug": "tap-51",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=997d4377e5abc4fdf1fe8c7e64ea096b",
+      "m3u8Url": "https://sing.phimmoi.net/997d4377e5abc4fdf1fe8c7e64ea096b/hls.m3u8"
+    },
+    {
+      "name": "52",
+      "slug": "tap-52",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=139199b489dd41f4d33bb80588e8f317",
+      "m3u8Url": "https://sing.phimmoi.net/139199b489dd41f4d33bb80588e8f317/hls.m3u8"
+    },
+    {
+      "name": "53",
+      "slug": "tap-53",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=5441707e506e7d9e3dadb9dcc30cb9b7",
+      "m3u8Url": "https://sing.phimmoi.net/5441707e506e7d9e3dadb9dcc30cb9b7/hls.m3u8"
+    },
+    {
+      "name": "54",
+      "slug": "tap-54",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=ed1299d3dfa1d791a2dae21cb86dd4b7",
+      "m3u8Url": "https://sing.phimmoi.net/ed1299d3dfa1d791a2dae21cb86dd4b7/hls.m3u8"
+    },
+    {
+      "name": "55",
+      "slug": "tap-55",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=81f75c3fe2194a27e15086540da47f18",
+      "m3u8Url": "https://sing.phimmoi.net/81f75c3fe2194a27e15086540da47f18/hls.m3u8"
+    },
+    {
+      "name": "56",
+      "slug": "tap-56",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=73b210a77a492277cb1d22ede35f0033",
+      "m3u8Url": "https://sing.phimmoi.net/73b210a77a492277cb1d22ede35f0033/hls.m3u8"
+    },
+    {
+      "name": "57",
+      "slug": "tap-57",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=b8d0bfc5a7e5a5dbc8012f290eca4a17",
+      "m3u8Url": "https://sing.phimmoi.net/b8d0bfc5a7e5a5dbc8012f290eca4a17/hls.m3u8"
+    },
+    {
+      "name": "58",
+      "slug": "tap-58",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=27900d7410f81677c5eebddd0deebdda",
+      "m3u8Url": "https://sing.phimmoi.net/27900d7410f81677c5eebddd0deebdda/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "vinh-sinh-khi-trang-son-ha",
-      "episodeCount": 0,
+      "episodeCount": 58,
       "priority": 2
     }
   ],

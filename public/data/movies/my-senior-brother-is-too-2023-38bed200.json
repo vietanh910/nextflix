@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 142",
+  "episodeCurrent": "Tập 143",
   "categories": [
     {
       "name": "Hài Hước",
@@ -1169,13 +1169,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/ewbnwNmF/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260520/ewbnwNmF/index.m3u8"
+    },
+    {
+      "name": "Tập 143",
+      "slug": "tap-143",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/ljee3t55/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/ljee3t55/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "su-huynh-a-su-huynh",
-      "episodeCount": 142,
+      "episodeCount": 143,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 23",
+  "episodeCurrent": "Tập 24",
   "categories": [
     {
       "name": "Hành Động",
@@ -225,13 +225,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/WTDSr83a/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260519/WTDSr83a/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260526/fsR7VNEw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260526/fsR7VNEw/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tien-kiem-ky-hiep-truyen-3",
-      "episodeCount": 23,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

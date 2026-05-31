@@ -7,15 +7,82 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/cong-chua-chien-binh-va-vua-da-nhan-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/cong-chua-chien-binh-va-vua-da-nhan.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Câu chuyện xoay quanh Seraphina, một nữ hiệp sĩ tài giỏi và là niềm tự hào của vương quốc. Sau khi thua trận trước bộ tộc \"Barbaroi\" — những người bị coi là man di và tàn bạo — cô bị bắt làm tù binh. Thay vì bị hành quyết, Seraphina bị buộc phải kết hôn với thủ lĩnh của họ là Veol.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=45f52af9c4e076b3a27fb4bc414f14ee",
+      "m3u8Url": "https://sing.phimmoi.net/45f52af9c4e076b3a27fb4bc414f14ee/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=e4e1c4f3b16f1905d09bed605eb60016",
+      "m3u8Url": "https://sing.phimmoi.net/e4e1c4f3b16f1905d09bed605eb60016/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=4fa1f768c7e5a04ed768f93df0e9a591",
+      "m3u8Url": "https://sing.phimmoi.net/4fa1f768c7e5a04ed768f93df0e9a591/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=97d4ecc0e303c68386aca00fe9e17a7d",
+      "m3u8Url": "https://sing.phimmoi.net/97d4ecc0e303c68386aca00fe9e17a7d/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=3b2774d91cd0c48eae37453f9962cc7e",
+      "m3u8Url": "https://sing.phimmoi.net/3b2774d91cd0c48eae37453f9962cc7e/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=388033ce5494e278e172b968a879eb81",
+      "m3u8Url": "https://sing.phimmoi.net/388033ce5494e278e172b968a879eb81/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=3ecb3c9746d9cfe3ef0f356a25b8aebb",
+      "m3u8Url": "https://sing.phimmoi.net/3ecb3c9746d9cfe3ef0f356a25b8aebb/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=23276e9b2b533ac51df3c27ec833bf5a",
+      "m3u8Url": "https://sing.phimmoi.net/23276e9b2b533ac51df3c27ec833bf5a/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "cong-chua-chien-binh-va-vua-da-nhan",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 2
     }
   ],

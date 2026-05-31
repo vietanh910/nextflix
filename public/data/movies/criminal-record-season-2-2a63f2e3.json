@@ -7,15 +7,66 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/1/ho-so-toi-pham-phan-2-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/1/ho-so-toi-pham-phan-2.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Ở trung tâm London, một cuộc điện thoại ẩn danh đã thu hút hai thanh tra tài giỏi — một phụ nữ trẻ đang ở giai đoạn đầu sự nghiệp và một người đàn ông có giao thiệp tốt quyết tâm bảo vệ di sản của mình — tham gia vào cuộc chiến sửa sai một vụ án oan cũ.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=7f76455f82d23ef993659dc16d841bba",
+      "m3u8Url": "https://sing.phimmoi.net/7f76455f82d23ef993659dc16d841bba/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=d00a376e100780cf61c39f6dfbf8b4af",
+      "m3u8Url": "https://sing.phimmoi.net/d00a376e100780cf61c39f6dfbf8b4af/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=24736ef877f4957c32ded88fd1ce0050",
+      "m3u8Url": "https://sing.phimmoi.net/24736ef877f4957c32ded88fd1ce0050/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=83dac7b573f42894b69b3484ac546a25",
+      "m3u8Url": "https://sing.phimmoi.net/83dac7b573f42894b69b3484ac546a25/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=1c98c0daf6c45644d8baf149ea0e70ef",
+      "m3u8Url": "https://sing.phimmoi.net/1c98c0daf6c45644d8baf149ea0e70ef/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=d2fd5d14a03f79407671f339d07132b9",
+      "m3u8Url": "https://sing.phimmoi.net/d2fd5d14a03f79407671f339d07132b9/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ho-so-toi-pham-phan-2",
-      "episodeCount": 0,
+      "episodeCount": 6,
       "priority": 2
     }
   ],

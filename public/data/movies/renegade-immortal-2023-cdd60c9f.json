@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 141",
+  "episodeCurrent": "Tập 142",
   "categories": [
     {
       "name": "Chính kịch",
@@ -1155,6 +1155,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260523/32715_73570133/index.m3u8"
     },
     {
+      "name": "142",
+      "slug": "142",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/691b6924a4de37c9085add4d275b57ea",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33367_691b6924/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Thuyết Minh #1",
@@ -1511,7 +1519,7 @@
     {
       "source": "ophim",
       "slug": "tien-nghich",
-      "episodeCount": 185,
+      "episodeCount": 186,
       "priority": 0
     }
   ],

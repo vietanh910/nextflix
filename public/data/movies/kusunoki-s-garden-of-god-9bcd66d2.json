@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/8/kami-no-niwatsuki-kusunoki-tei-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/kami-no-niwatsuki-kusunoki-tei.jpeg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
   "description": "Câu chuyện xoay quanh Minato Kusunoki, một thanh niên vô tình sở hữu khả năng thanh tẩy linh hồn cực mạnh mà bản thân không hề hay biết. Khi chuyển đến quản lý một ngôi nhà cũ kỹ ở vùng nông thôn, anh đã vô tình quét sạch các tà linh tại đó, biến nơi này thành một \"vùng đất lành\" thu hút các vị thần độc đáo đến tụ tập và sinh sống.",
@@ -76,13 +76,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=415cb8fd7095a8221180f6db8f711209",
       "m3u8Url": "https://sing.phimmoi.net/415cb8fd7095a8221180f6db8f711209/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=95bf951567801d8daed5666ddfbfdfa9",
+      "m3u8Url": "https://sing.phimmoi.net/95bf951567801d8daed5666ddfbfdfa9/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "kami-no-niwatsuki-kusunoki-tei",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 2
     }
   ],

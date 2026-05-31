@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hài Hước",
@@ -73,13 +73,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/c8045671083f48d8d09d1d2523ea8941",
       "m3u8Url": "https://vip.opstream90.com/20260511/31506_c8045671/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/14719e695e2aed484baff9d12f29bd2d",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32820_14719e69/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bb35965b8315f10237b87d2d2d829c0e",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32821_bb35965b/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "hac-mieu-va-lop-hoc-phu-thuy",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 0
     }
   ],

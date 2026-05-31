@@ -1,0 +1,66 @@
+{
+  "id": "brazil-70-the-third-star-5ec0689d",
+  "source": "nguonc",
+  "slug": "brazil-1970-ngoi-sao-thu-ba",
+  "name": "Brazil 1970: Ngôi sao thứ ba",
+  "originName": "Brazil '70: The Third Star",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/5/brazil-1970-ngoi-sao-thu-ba-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/brazil-1970-ngoi-sao-thu-ba.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Hoàn tất (5/5)",
+  "categories": [],
+  "countries": [],
+  "description": "Năm 1970, đội tuyển quốc gia Brazil ra sân với những giấc mơ lớn và một thử thách còn lớn hơn: trở thành đội đầu tiên giành ba chức vô địch thế giới.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=97afc1a51daf66cb2d0c3da21f79578f",
+      "m3u8Url": "https://sing.phimmoi.net/97afc1a51daf66cb2d0c3da21f79578f/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=9324b4eef20c7533cbecf0def57dc4ea",
+      "m3u8Url": "https://sing.phimmoi.net/9324b4eef20c7533cbecf0def57dc4ea/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=a33495387a1d404bfbca66a1d7453d59",
+      "m3u8Url": "https://sing.phimmoi.net/a33495387a1d404bfbca66a1d7453d59/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=90fa323758332843e55cc99a4fa610a9",
+      "m3u8Url": "https://sing.phimmoi.net/90fa323758332843e55cc99a4fa610a9/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=e67f3299650967b9cba879fadcee049b",
+      "m3u8Url": "https://sing.phimmoi.net/e67f3299650967b9cba879fadcee049b/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "brazil-1970-ngoi-sao-thu-ba",
+      "episodeCount": 5,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

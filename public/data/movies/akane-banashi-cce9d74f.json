@@ -7,15 +7,90 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/8/akane-banashi-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/akane-banashi.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Câu chuyện xoay quanh Akane Osaki, một cô gái trẻ khao khát trở thành nghệ sĩ Rakugo (loại hình nghệ thuật kể chuyện truyền thống của Nhật Bản) bậc thầy (gọi là Shin'uchi). Động lực lớn nhất của cô là để minh oan cho cha mình, người đã bị đuổi khỏi giới Rakugo một cách tàn nhẫn ngay trong kỳ thi thăng cấp quan trọng. Akane dấn thân vào thế giới Rakugo đầy cạnh tranh để chứng minh phong cách kể chuyện của cha mình là đúng đắn và đạt đến đỉnh cao của bộ môn nghệ thuật này.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=0ed35a57438c7dde340bddd3c335974b",
+      "m3u8Url": "https://sing.phimmoi.net/0ed35a57438c7dde340bddd3c335974b/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=b49155de9f2ca3eda3739e611552466b",
+      "m3u8Url": "https://sing.phimmoi.net/b49155de9f2ca3eda3739e611552466b/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=9ce182e6d6278419228063d4bea84e4b",
+      "m3u8Url": "https://sing.phimmoi.net/9ce182e6d6278419228063d4bea84e4b/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=b038eec2b927ecdcaa9d2dc379b975ce",
+      "m3u8Url": "https://sing.phimmoi.net/b038eec2b927ecdcaa9d2dc379b975ce/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=13dba7a40b192d1aba97afec066a98c6",
+      "m3u8Url": "https://sing.phimmoi.net/13dba7a40b192d1aba97afec066a98c6/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=a44d3d0e47e90497f17c4752f747e00e",
+      "m3u8Url": "https://sing.phimmoi.net/a44d3d0e47e90497f17c4752f747e00e/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=04b99e4696a64278aa3bc6d0e6798d1a",
+      "m3u8Url": "https://sing.phimmoi.net/04b99e4696a64278aa3bc6d0e6798d1a/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=3b7c1d78943d7c81ca399804c189573f",
+      "m3u8Url": "https://sing.phimmoi.net/3b7c1d78943d7c81ca399804c189573f/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=fe61c050750bc440769b0558f40817b7",
+      "m3u8Url": "https://sing.phimmoi.net/fe61c050750bc440769b0558f40817b7/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "chuyen-ke-cua-akane",
-      "episodeCount": 0,
+      "episodeCount": 9,
       "priority": 2
     }
   ],

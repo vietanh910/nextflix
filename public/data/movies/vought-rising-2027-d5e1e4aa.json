@@ -1,0 +1,60 @@
+{
+  "id": "vought-rising-2027-d5e1e4aa",
+  "source": "ophim",
+  "slug": "vought-rising",
+  "name": "Vought Rising",
+  "originName": "Vought Rising",
+  "posterUrl": "https://img.ophim.live/uploads/movies/vought-rising-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/vought-rising-thumb.jpg",
+  "year": 2027,
+  "type": "series",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>A twisted murder mystery about the origins of Vought in the 1950s, the early exploits of Soldier Boy, and the diabolical maneuvers of a Supe known to fans as Stormfront, who was then going by the name Clara Vought.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "vought-rising",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

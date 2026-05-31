@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (12/12)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -119,6 +119,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260519/2kSQ8RV8/index.m3u8"
     },
     {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/CBIoHapB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/CBIoHapB/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260526/wdeLyOKG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260526/wdeLyOKG/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -199,6 +215,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260519/bpTQA2B4/index.m3u8"
     },
     {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/Q4TVmfrs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/Q4TVmfrs/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260526/Cv0tXhhB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260526/Cv0tXhhB/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -269,19 +301,43 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/5f9491903a313d3a99f8f9bb101d1b89",
       "m3u8Url": "https://vip.opstream90.com/20260519/32338_5f949190/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1f07bbddc628eada053a189cb95d88de",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32907_1f07bbdd/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2d1ee368b42ec2aade02b8fa960d145c",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32908_2d1ee368/index.m3u8"
+    },
+    {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/01412ed2fd903612c7331dfdd46b6ad8",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33041_01412ed2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "bu-nhin-bong-dem",
-      "episodeCount": 9,
+      "episodeCount": 12,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "bu-nhin-bong-dem",
-      "episodeCount": 20,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

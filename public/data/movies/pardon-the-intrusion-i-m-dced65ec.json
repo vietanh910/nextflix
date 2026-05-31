@@ -7,15 +7,82 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/2/tadaima-ojamasaremasu-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/2/tadaima-ojamasaremasu.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Đây có phải là kiểu “ở ghép” thời nay không vậy?!\r\n\r\nRinko – một nhân viên văn phòng 24 tuổi – sống một mình và bí mật là một otaku. Một ngày nọ, căn hộ của cô bất ngờ bị “thông” với hai phòng bên cạnh thông qua một cái lỗ trên tường.\r\n\r\nỞ phòng bên trái là một chàng trai trẻ trung, trông hiền lành nhưng lại đầy bí ẩn, và cực kỳ ngọt ngào với Rinko. Còn phòng bên phải là một người đàn ông có xu hướng bạo lực, cũng bí ẩn không kém...\r\n\r\nNhưng khoan đã! “Mình… mình nghĩ là mình biết anh ta!”\r\n\r\nKhông gian riêng tư duy nhất của Rinko – căn hộ của cô – giờ đã bị đảo lộn hoàn toàn. Từ đó, mỗi ngày của cô đều tràn ngập những tình huống hồi hộp, tim đập nhanh!",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=366911325ebb71c94c550680baa9db13",
+      "m3u8Url": "https://sing.phimmoi.net/366911325ebb71c94c550680baa9db13/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=27d52c14d0af132bed8da267617dca55",
+      "m3u8Url": "https://sing.phimmoi.net/27d52c14d0af132bed8da267617dca55/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=86a9a01ef20c34b7eaf3442ca625cff6",
+      "m3u8Url": "https://sing.phimmoi.net/86a9a01ef20c34b7eaf3442ca625cff6/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=0453a57dbc692445ffb856e7d02b3696",
+      "m3u8Url": "https://sing.phimmoi.net/0453a57dbc692445ffb856e7d02b3696/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=1912f7e96efa08749609539b28409c3a",
+      "m3u8Url": "https://sing.phimmoi.net/1912f7e96efa08749609539b28409c3a/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=aa1021fd5e25056fd4d7f3bbff031b4b",
+      "m3u8Url": "https://sing.phimmoi.net/aa1021fd5e25056fd4d7f3bbff031b4b/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=d2b7d896af9e18a3745af0f0f58e77a9",
+      "m3u8Url": "https://sing.phimmoi.net/d2b7d896af9e18a3745af0f0f58e77a9/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=d2d205db32c266d099ff26b059442b7f",
+      "m3u8Url": "https://sing.phimmoi.net/d2d205db32c266d099ff26b059442b7f/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "tadaima-ojamasaremasu",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 2
     }
   ],

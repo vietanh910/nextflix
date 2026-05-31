@@ -1,0 +1,47 @@
+{
+  "id": "jieling-2026-1b3e3291",
+  "source": "ophim",
+  "slug": "gioi-linh",
+  "name": "Giới Linh",
+  "originName": "JieLing",
+  "posterUrl": "https://img.ophim.live/uploads/movies/gioi-linh-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/gioi-linh-thumb.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (1/1)",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Cố Hoằng Uyên mang trên mình chiếc nhẫn trữ vật như một xiềng xích, giả vờ làm kẻ vô dụng, kiên nhẫn tu luyện ở Vân Tiêu Phong. Anh bị ép phải chỉ dạy tiểu sư muội Đường Ninh nhưng lại tình cờ bị cuốn vào cuộc tranh đoạt nơi huyền bí. Phái Huyền Thiên bắt tay với Bạch Lê và Ngữ Sanh bước vào nơi huyền bí vì linh thạch và khế ước Hỗn Nguyên. Đối mặt với Bạch Trạch cuồng bạo đang thức tỉnh, anh phá vỡ xiềng xích của chiếc nhẫn, đột phá Nguyên Anh, mang khế ước Hỗn Nguyên trở về. Trong khi đó, luồng khí đen tối thấm ra từ bức bích họa báo hiệu ấp ủ một nguy cơ lớn hơn.<br>&nbsp;</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b44bb13a1a7c7fe75b44a21c85b4a035",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32890_b44bb13a/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "gioi-linh",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

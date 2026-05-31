@@ -7,15 +7,90 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/10/mata-korosarete-shimatta-no-desu-ne-tantei-sama-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/10/mata-korosarete-shimatta-no-desu-ne-tantei-sama.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Xoay quanh Sakuya Otsuki, con trai của một thám tử huyền thoại, người luôn nỗ lực nối nghiệp cha mình cùng với cô trợ lý Lilithea. Điểm đặc biệt của Sakuya là anh thường xuyên... bị giết trong quá trình điều tra, nhưng sau đó bằng cách nào đó vẫn có thể tiếp tục phá án.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=a76cbe53e4fbb39b884775da6bc038f3",
+      "m3u8Url": "https://sing.phimmoi.net/a76cbe53e4fbb39b884775da6bc038f3/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=19282f97be852b1c3087783498eb3b61",
+      "m3u8Url": "https://sing.phimmoi.net/19282f97be852b1c3087783498eb3b61/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=c32b8bdea0c511e843a3ed111b298835",
+      "m3u8Url": "https://sing.phimmoi.net/c32b8bdea0c511e843a3ed111b298835/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=e4bb7d6d773d4f59aaf3e80dff0ed97c",
+      "m3u8Url": "https://sing.phimmoi.net/e4bb7d6d773d4f59aaf3e80dff0ed97c/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=ccbfeeada617c73684a8e71338d0e1ff",
+      "m3u8Url": "https://sing.phimmoi.net/ccbfeeada617c73684a8e71338d0e1ff/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=dd654f72180521cca47c254752caecfc",
+      "m3u8Url": "https://sing.phimmoi.net/dd654f72180521cca47c254752caecfc/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=2d9b507101c191b92fce6b6626dc9fe4",
+      "m3u8Url": "https://sing.phimmoi.net/2d9b507101c191b92fce6b6626dc9fe4/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=c70a27c0f69c61cfe5126a9d46af7ced",
+      "m3u8Url": "https://sing.phimmoi.net/c70a27c0f69c61cfe5126a9d46af7ced/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=a0997e4cfe3ea0a0cf66ad72a2d9e3ae",
+      "m3u8Url": "https://sing.phimmoi.net/a0997e4cfe3ea0a0cf66ad72a2d9e3ae/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
-      "episodeCount": 0,
+      "episodeCount": 9,
       "priority": 2
     }
   ],

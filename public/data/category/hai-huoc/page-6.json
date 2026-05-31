@@ -5,6 +5,31 @@
   "totalPages": 7,
   "items": [
     {
+      "id": "everyone-is-doing-great--2021-e6296e69",
+      "source": "ophim",
+      "slug": "moi-nguoi-deu-rat-on-phan-1",
+      "name": "Mọi người đều rất ổn (Phần 1)",
+      "originName": "Everyone Is Doing Great (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/moi-nguoi-deu-rat-on-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/moi-nguoi-deu-rat-on-phan-1-thumb.jpg",
+      "year": 2021,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "2-days-and-1-night-seaso-2019-ff1bb547",
       "source": "ophim",
       "slug": "2-ngay-1-dem-phan-4",
@@ -146,76 +171,6 @@
       ]
     },
     {
-      "id": "the-fiery-priest-season--2019-1a196577",
-      "source": "phimapi",
-      "slug": "linh-muc-nhiet-huyet-phan-1",
-      "name": "Linh Mục Nhiệt Huyết (Phần 1)",
-      "originName": "The Fiery Priest (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240802-1/fde2468045f5354a2aed81a695f94296.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240802-1/3c329516f600426f91ceff1b63525d3f.jpg",
-      "year": 2019,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "bad-investigate-2018-c29888a2",
-      "source": "ophim",
-      "slug": "tham-tu-bat-dac-di",
-      "name": "Thám Tử Bất Đắc Dĩ",
-      "originName": "Bad Investigate",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tham-tu-bat-dac-di-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tham-tu-bat-dac-di-thumb.jpg",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Bồ Đào Nha",
-          "slug": "bo-dao-nha"
-        }
-      ]
-    },
-    {
       "id": "romancing-the-jungle-2017-fb1e29f8",
       "source": "ophim",
       "slug": "chuyen-tinh-rung-xanh",
@@ -345,6 +300,39 @@
       ]
     },
     {
+      "id": "tamako-love-story-2014-e0024b82",
+      "source": "phimapi",
+      "slug": "chuyen-tinh-tamako",
+      "name": "Chuyện Tình Tamako",
+      "originName": "Tamako Love Story",
+      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/85ec83ce6b7c06b5d9bc93285384f8c3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/757b9ed7acd8a272a6dfb2181e858058.jpg",
+      "year": 2014,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "the-middle-season-5-2013-ff4e4e25",
       "source": "ophim",
       "slug": "gia-dinh-heck-phan-5",
@@ -445,39 +433,6 @@
       ]
     },
     {
-      "id": "the-three-stooges-2012-3d715810",
-      "source": "phimapi",
-      "slug": "ba-chang-ngoc",
-      "name": "Ba Chàng Ngốc",
-      "originName": "The Three Stooges",
-      "posterUrl": "https://phimimg.com/upload/vod/20260522-1/47ed2788124067ed3bc911f27e261b0e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260522-1/5d5b8f7ba865cb3246f18b2816e426c0.jpg",
-      "year": 2012,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "the-middle-season-3-2011-3e60db03",
       "source": "ophim",
       "slug": "gia-dinh-heck-phan-3",
@@ -563,7 +518,7 @@
       "year": 2010,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 803",
+      "episodeCurrent": "Tập 804",
       "categories": [
         {
           "name": "Hài Hước",
@@ -643,6 +598,31 @@
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "30-rock-season-2-2007-9c30cf59",
+      "source": "ophim",
+      "slug": "30-rock-phan-2",
+      "name": "30 Rock (Phần 2)",
+      "originName": "30 Rock (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/30-rock-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/30-rock-phan-2-thumb.jpg",
+      "year": 2007,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (15/15)",
       "categories": [
         {
           "name": "Hài Hước",

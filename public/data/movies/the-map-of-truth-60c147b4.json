@@ -1,0 +1,66 @@
+{
+  "id": "the-map-of-truth-60c147b4",
+  "source": "nguonc",
+  "slug": "kham-pha-huyen-bi",
+  "name": "Khám Phá Huyền Bí",
+  "originName": "The Map of Truth",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/5/kham-pha-huyen-bi-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/kham-pha-huyen-bi.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 5",
+  "categories": [],
+  "countries": [],
+  "description": "Sau lần hợp tác đầy ăn ý trong “Sát thủ”, Lê Diệu Tường và Cung Gia Hân có dịp tái hợp trong tác phẩm mới của TVB - “Khám phá huyền bí”.\r\nNgười ta thường nói “Vận mệnh nằm trong tay chính mình”. Thế nhưng, khi rơi vào hoàn cảnh khó khăn, bế tắc, nhiều người lại dễ tìm đến những điều mê tín, dị đoan như một điểm tựa tinh thần, để rồi không ít trường hợp bị lừa đến mức tán gia bại sản.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=765bf79ab9e5c507870264dee056f06c",
+      "m3u8Url": "https://sing.phimmoi.net/765bf79ab9e5c507870264dee056f06c/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=3fed814ab3a10c853bdf40dc051f8b99",
+      "m3u8Url": "https://sing.phimmoi.net/3fed814ab3a10c853bdf40dc051f8b99/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=5ecf1d5ea0c127e688c2011c20e3d4c0",
+      "m3u8Url": "https://sing.phimmoi.net/5ecf1d5ea0c127e688c2011c20e3d4c0/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=194f4bf09365531ce2ce996b9b2e933d",
+      "m3u8Url": "https://sing.phimmoi.net/194f4bf09365531ce2ce996b9b2e933d/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=8e52d945f23d3200c6e00e130d19bc86",
+      "m3u8Url": "https://sing.phimmoi.net/8e52d945f23d3200c6e00e130d19bc86/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "kham-pha-huyen-bi",
+      "episodeCount": 5,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

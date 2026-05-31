@@ -1,0 +1,61 @@
+{
+  "id": "food-truck-stolen-love-a-2025-b9e69e09",
+  "source": "ophim",
+  "slug": "xe-tai-do-an-va-heo-lun-tinh-nghich",
+  "name": "Xe Tải Đồ Ăn: Tình Yêu Đánh Cắp Và... Moo Deng",
+  "originName": "Food Truck: Stolen Love... and Moo Deng",
+  "posterUrl": "https://img.ophim.live/uploads/movies/xe-tai-do-an-va-heo-lun-tinh-nghich-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/xe-tai-do-an-va-heo-lun-tinh-nghich-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Khi một cậu bé lén lên xe bán đồ ăn để tìm cha, ba người bạn bắt đầu chuyến hành trình náo loạn, chạm trán cảnh sát, nhà sư và cả một chú hà mã nổi tiếng.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a8c5a73459631beb2cbe6af3c74628e8",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33192_a8c5a734/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/HjdAhEWA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/HjdAhEWA/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "xe-tai-do-an-va-heo-lun-tinh-nghich",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "xe-tai-do-an-tinh-yeu-danh-cap-va-moo-deng",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

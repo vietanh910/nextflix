@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Chính kịch",
@@ -107,98 +107,20 @@
       "m3u8Url": "https://vip.opstream90.com/20260519/32330_0507ea3f/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260311/PsumluY2/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260311/PsumluY2/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260317/C6gEkKMM/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260317/C6gEkKMM/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260324/NJkXRsgk/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260324/NJkXRsgk/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260331/0IV9SZz2/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260331/0IV9SZz2/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260408/7F4bOtq8/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260408/7F4bOtq8/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260421/N035nO5E/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260421/N035nO5E/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260428/3uRwmI9q/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260428/3uRwmI9q/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260505/mhP8xKKK/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260505/mhP8xKKK/index.m3u8"
-    },
-    {
-      "name": "Tập 09",
-      "slug": "tap-09",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260511/nT7akCPz/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260511/nT7akCPz/index.m3u8"
-    },
-    {
-      "name": "Tập 10",
-      "slug": "tap-10",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/vAtcOrfV/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/vAtcOrfV/index.m3u8"
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/41b69f211dd5617d041802a8813d6d66",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32909_41b69f21/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "girl-rules",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "luat-cam-yeu-em",
-      "episodeCount": 10,
-      "priority": 1
     }
   ],
   "_priority": 0

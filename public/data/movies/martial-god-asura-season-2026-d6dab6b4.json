@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/tu-la-vo-than-phan-2-thumb.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (16/16)",
   "categories": [
     {
       "name": "Hành Động",
@@ -161,13 +161,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/efc7802abcfcabf60cf5abe86e9b0465",
       "m3u8Url": "https://vip.opstream90.com/20260520/32412_efc7802a/index.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e606763b01171afd48e13b91a9cd1307",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33050_e606763b/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tu-la-vo-than-phan-2",
-      "episodeCount": 15,
+      "episodeCount": 16,
       "priority": 0
     }
   ],

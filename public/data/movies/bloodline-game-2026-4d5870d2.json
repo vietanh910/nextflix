@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260411-1/4ae1176e77e7f7593bbf8037d9bbed39.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (23/23)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -193,13 +193,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/aJn147vh/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260520/aJn147vh/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/cmRTlJrq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/cmRTlJrq/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260526/y6RDCfWI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260526/y6RDCfWI/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tro-dua-huyet-thong",
-      "episodeCount": 20,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

@@ -7,15 +7,82 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/7/ingoku-danchi-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/7/ingoku-danchi.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Câu chuyện xoay quanh một khu chung cư tập trung nhiều phụ nữ xinh đẹp. Một ngày nọ, họ bị kích động để mặc những bộ trang phục đặc biệt, từ đó giải phóng những ham muốn thầm kín nhất của bản thân.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=bbc3cfc072b2e6795c6c6a1c63a2ddf2",
+      "m3u8Url": "https://sing.phimmoi.net/bbc3cfc072b2e6795c6c6a1c63a2ddf2/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=8d1a73e06cd73437665e3129f5fce876",
+      "m3u8Url": "https://sing.phimmoi.net/8d1a73e06cd73437665e3129f5fce876/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=8e8be2991230467e3a2cfcdd5507c877",
+      "m3u8Url": "https://sing.phimmoi.net/8e8be2991230467e3a2cfcdd5507c877/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=5ef84b72e84ec2996354402ba24256b4",
+      "m3u8Url": "https://sing.phimmoi.net/5ef84b72e84ec2996354402ba24256b4/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=b90587fa1b62bc75a667f78473224265",
+      "m3u8Url": "https://sing.phimmoi.net/b90587fa1b62bc75a667f78473224265/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=977dd5dfdea99e4868db360ec184a50e",
+      "m3u8Url": "https://sing.phimmoi.net/977dd5dfdea99e4868db360ec184a50e/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=ff048769f65cd70d9b99e0c60a2f4af2",
+      "m3u8Url": "https://sing.phimmoi.net/ff048769f65cd70d9b99e0c60a2f4af2/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=9dc8335c1d1136de83a0882eb2ba6d6a",
+      "m3u8Url": "https://sing.phimmoi.net/9dc8335c1d1136de83a0882eb2ba6d6a/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ingoku-danchi",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 2
     }
   ],

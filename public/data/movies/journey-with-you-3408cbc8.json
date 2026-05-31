@@ -7,15 +7,58 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/3/cung-nguoi-vuot-kiep-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/cung-nguoi-vuot-kiep.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Nhân vật trung tâm là Ân Kỳ – một hoàng tử thất sủng sống trong triều đình đầy âm mưu. Người duy nhất luôn đứng về phía anh là Bùi Ngạn Chi, một cận thần lạnh lùng nhưng trung thành tuyệt đối. Ở kiếp đầu, vì tranh quyền đoạt vị và hiểu lầm trong cung, Bùi Ngạn Chi bị hãm hại rồi chết thảm. Ân Kỳ cũng mất tất cả và mang theo hối hận lớn nhất đời mình.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=bcecf3c5a141915a322ddded014f21ec",
+      "m3u8Url": "https://sing.phimmoi.net/bcecf3c5a141915a322ddded014f21ec/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=663102bc6ef80e3bcd7b8bba887ca065",
+      "m3u8Url": "https://sing.phimmoi.net/663102bc6ef80e3bcd7b8bba887ca065/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=c279fb2c2f4b0acf41b3386369b91246",
+      "m3u8Url": "https://sing.phimmoi.net/c279fb2c2f4b0acf41b3386369b91246/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=17ceb12cfcaf2972436aeca2c26bbebb",
+      "m3u8Url": "https://sing.phimmoi.net/17ceb12cfcaf2972436aeca2c26bbebb/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=764093195853422457e786c59ffb6df4",
+      "m3u8Url": "https://sing.phimmoi.net/764093195853422457e786c59ffb6df4/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "cung-nguoi-vuot-kiep",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 2
     }
   ],

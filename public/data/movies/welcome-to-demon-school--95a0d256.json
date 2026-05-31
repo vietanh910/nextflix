@@ -7,15 +7,90 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/8/mairimashita-iruma-kun-4th-season-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/mairimashita-iruma-kun-4th-season.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Mùa 4 của Mairimashita! Iruma-kun sẽ tập trung vào Arc Lễ hội Âm nhạc, nơi lớp Cá biệt phải đối mặt với thử thách nâng cao thứ hạng lên Level 4 (Daleth) thông qua việc biểu diễn âm nhạc và vũ đạo. Cốt truyện xoay quanh nỗ lực của cả lớp trong việc thuyết phục thành viên bí ẩn thứ 13—Purson Soi—cùng tham gia biểu diễn để tạo nên một tiết mục hoàn hảo, đồng thời khai thác sâu hơn về khả năng lãnh đạo của Iruma và sự đoàn kết của các học sinh quỷ trước những áp lực khắc nghiệt từ nhà trường.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=c86e5a370ecec0542ea08819e58dddfb",
+      "m3u8Url": "https://sing.phimmoi.net/c86e5a370ecec0542ea08819e58dddfb/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=76813dd3a7630b7c4892e762f880b54d",
+      "m3u8Url": "https://sing.phimmoi.net/76813dd3a7630b7c4892e762f880b54d/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=2994ea6fafc3e42b7414f63271a79123",
+      "m3u8Url": "https://sing.phimmoi.net/2994ea6fafc3e42b7414f63271a79123/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=f2942dc6c67bffbca75c9a0248281b92",
+      "m3u8Url": "https://sing.phimmoi.net/f2942dc6c67bffbca75c9a0248281b92/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=aac2890bbb69f20bf5f13a3a6a40c81d",
+      "m3u8Url": "https://sing.phimmoi.net/aac2890bbb69f20bf5f13a3a6a40c81d/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=647726f855c2af02d0f09b3d6d36897e",
+      "m3u8Url": "https://sing.phimmoi.net/647726f855c2af02d0f09b3d6d36897e/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=6dd54176ea5350e3714d747fa0d5ecac",
+      "m3u8Url": "https://sing.phimmoi.net/6dd54176ea5350e3714d747fa0d5ecac/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=b8a57d5c59b7a84ed6b1b0decd4955f0",
+      "m3u8Url": "https://sing.phimmoi.net/b8a57d5c59b7a84ed6b1b0decd4955f0/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=711f9c6e3c3333f4dca68697624a601c",
+      "m3u8Url": "https://sing.phimmoi.net/711f9c6e3c3333f4dca68697624a601c/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "mairimashita-iruma-kun-4th-season",
-      "episodeCount": 0,
+      "episodeCount": 9,
       "priority": 2
     }
   ],

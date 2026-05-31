@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 24",
+  "episodeCurrent": "Tập 25",
   "categories": [
     {
       "name": "Hành Động",
@@ -229,13 +229,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/89d2a536c6219081a9985ba58f5c3ad6",
       "m3u8Url": "https://vip.opstream90.com/20260521/32559_89d2a536/index.m3u8"
+    },
+    {
+      "name": "25",
+      "slug": "25",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5e26566dffe850373e9a5121703034a1",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33153_5e26566d/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "kiem-lai-phan-2",
-      "episodeCount": 24,
+      "episodeCount": 25,
       "priority": 0
     }
   ],

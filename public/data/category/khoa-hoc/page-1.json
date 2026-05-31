@@ -5,62 +5,33 @@
   "totalPages": 5,
   "items": [
     {
-      "id": "my-brother-the-minotaur-2026-069b340c",
+      "id": "vought-rising-2027-d5e1e4aa",
       "source": "ophim",
-      "slug": "anh-trai-cua-toi-la-nhan-nguu",
-      "name": "Anh Trai Của Tôi Là Nhân Ngưu",
-      "originName": "My Brother the Minotaur",
-      "posterUrl": "https://img.ophim.live/uploads/movies/anh-trai-cua-toi-la-nhan-nguu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/anh-trai-cua-toi-la-nhan-nguu-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "doctor-shin-2026-43aef4a8",
-      "source": "ophim",
-      "slug": "bac-si-shin",
-      "name": "Bác Sĩ Shin",
-      "originName": "Doctor Shin",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bac-si-shin-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bac-si-shin-thumb.jpg",
-      "year": 2026,
+      "slug": "vought-rising",
+      "name": "Vought Rising",
+      "originName": "Vought Rising",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vought-rising-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vought-rising-thumb.jpg",
+      "year": 2027,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         },
         {
           "name": "Bí ẩn",
@@ -69,8 +40,8 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -85,7 +56,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -186,47 +157,72 @@
       ]
     },
     {
-      "id": "stranger-things-tales-fr-2026-9f58e266",
+      "id": "star-city-2026-2d5f4353",
       "source": "ophim",
-      "slug": "cau-be-mat-tich-chuyen-nam-85",
-      "name": "Cậu bé mất tích: Chuyện năm 85",
-      "originName": "Stranger Things: Tales from '85",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-chuyen-nam-85-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cau-be-mat-tich-chuyen-nam-85-thumb.jpg",
+      "slug": "can-cu-star-city",
+      "name": "Căn Cứ Star City",
+      "originName": "Star City",
+      "posterUrl": "https://img.ophim.live/uploads/movies/can-cu-star-city-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/can-cu-star-city-thumb.jpg",
       "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
       "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
         },
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
         },
         {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "check-in-to-you-2026-10b05679",
+      "source": "ophim",
+      "slug": "check-in-to-you",
+      "name": "Check In to You",
+      "originName": "Check In to You",
+      "posterUrl": "https://img.ophim.live/uploads/movies/check-in-to-you-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/check-in-to-you-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Úc",
-          "slug": "uc"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -278,7 +274,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -315,7 +311,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
@@ -355,8 +351,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-khong-gianphan-5-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -426,7 +422,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -507,8 +503,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/di-thu-ma-do-phan-2-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (11/11)",
       "categories": [
         {
           "name": "Hành Động",
@@ -549,7 +545,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -568,6 +564,39 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "master-of-the-universe-2026-88da7b8b",
+      "source": "ophim",
+      "slug": "he-man-va-nhung-chien-binh-vu-tru",
+      "name": "He-Man Và Những Chiến Binh Vũ Trụ",
+      "originName": "Master of the Universe",
+      "posterUrl": "https://img.ophim.live/uploads/movies/he-man-va-nhung-chien-binh-vu-tru-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/he-man-va-nhung-chien-binh-vu-tru-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -609,6 +638,39 @@
       ]
     },
     {
+      "id": "wishing-upon-the-shootin-2026-3727bc2e",
+      "source": "ophim",
+      "slug": "huong-ve-sao-bang-cau-nguyen",
+      "name": "Hướng Về Sao Băng Cầu Nguyện",
+      "originName": "Wishing Upon the Shooting Stars",
+      "posterUrl": "https://img.ophim.live/uploads/movies/huong-ve-sao-bang-cau-nguyen-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/huong-ve-sao-bang-cau-nguyen-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
+        }
+      ]
+    },
+    {
       "id": "the-legend-of-kitchen-so-2026-f6b1f175",
       "source": "ophim",
       "slug": "huyen-thoai-linh-bep",
@@ -619,7 +681,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hài Hước",
@@ -656,7 +718,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -730,7 +792,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -800,7 +862,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -827,84 +889,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "monarch-legacy-of-monste-2026-bb08b417",
-      "source": "ophim",
-      "slug": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2",
-      "name": "Monarch: Thế Giới Quái Thú (Phần 2)",
-      "originName": "Monarch: Legacy of Monsters (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "mating-season-2026-e5656047",
-      "source": "ophim",
-      "slug": "mua-giao-phoi",
-      "name": "Mùa Giao Phối",
-      "originName": "Mating Season",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mua-giao-phoi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mua-giao-phoi-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

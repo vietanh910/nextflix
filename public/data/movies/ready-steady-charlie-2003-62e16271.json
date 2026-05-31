@@ -1,0 +1,47 @@
+{
+  "id": "ready-steady-charlie-2003-62e16271",
+  "source": "ophim",
+  "slug": "achtung-fertig-charlie",
+  "name": "Achtung, Fertig, Charlie!",
+  "originName": "Ready, Steady, Charlie!",
+  "posterUrl": "https://img.ophim.live/uploads/movies/achtung-fertig-charlie-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/achtung-fertig-charlie-thumb.jpg",
+  "year": 2003,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thụy Sĩ",
+      "slug": "thuy-si"
+    }
+  ],
+  "description": "<p>In a Swiss church, Antonio Carrera is getting married to the pretty daughter of an Italian Mafioso, when army police officers march in and take him to the 15 week compulsory Swiss military training.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/2611fdd1a2a998be4d3af1466d41d9d1",
+      "m3u8Url": "https://vip.opstream12.com/20260527/32710_2611fdd1/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "achtung-fertig-charlie",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

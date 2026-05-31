@@ -7,15 +7,90 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/9/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/9/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Mùa thứ 2 của anime Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=573090a1c2e0b1908979bc55b2df283d",
+      "m3u8Url": "https://sing.phimmoi.net/573090a1c2e0b1908979bc55b2df283d/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=bab7ca1c6207252caf4fa2a5e4926a11",
+      "m3u8Url": "https://sing.phimmoi.net/bab7ca1c6207252caf4fa2a5e4926a11/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=9e253800cde588cb4daaf91749b28a4f",
+      "m3u8Url": "https://sing.phimmoi.net/9e253800cde588cb4daaf91749b28a4f/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=e3ab21439b1befed62a2a2bc05777c39",
+      "m3u8Url": "https://sing.phimmoi.net/e3ab21439b1befed62a2a2bc05777c39/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=1d107324e69c51bc566ae4f83067c5f7",
+      "m3u8Url": "https://sing.phimmoi.net/1d107324e69c51bc566ae4f83067c5f7/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=c45db0d2a607d5f4c3f3fd75774c02ad",
+      "m3u8Url": "https://sing.phimmoi.net/c45db0d2a607d5f4c3f3fd75774c02ad/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=e80344bf8025aa69060d68e93d8b3948",
+      "m3u8Url": "https://sing.phimmoi.net/e80344bf8025aa69060d68e93d8b3948/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=991d50589dafe58b0de5fec4460c883f",
+      "m3u8Url": "https://sing.phimmoi.net/991d50589dafe58b0de5fec4460c883f/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=2ab1647efa672f432061c80e340689cf",
+      "m3u8Url": "https://sing.phimmoi.net/2ab1647efa672f432061c80e340689cf/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
-      "episodeCount": 0,
+      "episodeCount": 9,
       "priority": 2
     }
   ],

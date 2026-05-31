@@ -7,15 +7,50 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/7/lan-nua-den-ben-em-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/7/lan-nua-den-ben-em.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Câu chuyện về Aran yêu thầm đàn chị Ledarin, nhưng bị từ chối vì mối quan hệ thân thiết như anh em của họ. Đau khổ, Aran bay ra nước ngoài để chữa lành vết thương lòng. Tuy nhiên, anh lại xiêu lòng khi nhận được một bưu kiện bí ẩn chứa một lá thư với nét chữ quen thuộc: \"Anh mong em luôn hạnh phúc.\" Aran quyết định trở về Thái Lan, hy vọng chấm dứt mối quan hệ mập mờ này. Nhưng rồi, điều bất ngờ xảy ra khi anh nhận được tin Ledarin đã chết!!! Tình yêu và cơ hội thứ hai giữa Ledarin và Aran sẽ ra sao? Cảm xúc thật sự đằng sau những lời nói tàn nhẫn là gì? Và ai đã giết Ledarin? Hãy theo dõi câu chuyện của họ và tìm hiểu trong \"Bộ truyện Tình yêu vượt giấc mơ: Vì nàng một lần nữa.\"",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=10c7b542ae23730e7a44fc0bc2257951",
+      "m3u8Url": "https://sing.phimmoi.net/10c7b542ae23730e7a44fc0bc2257951/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=5a287237568cc01926540c80617fde6d",
+      "m3u8Url": "https://sing.phimmoi.net/5a287237568cc01926540c80617fde6d/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=d9c822e5f77488b2d4d4f7538df05c55",
+      "m3u8Url": "https://sing.phimmoi.net/d9c822e5f77488b2d4d4f7538df05c55/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=a7b075f300c75c5471c94f45409e1657",
+      "m3u8Url": "https://sing.phimmoi.net/a7b075f300c75c5471c94f45409e1657/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "lan-nua-den-ben-em",
-      "episodeCount": 0,
+      "episodeCount": 4,
       "priority": 2
     }
   ],

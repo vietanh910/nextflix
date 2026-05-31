@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 43",
+  "episodeCurrent": "Tập 44",
   "categories": [
     {
       "name": "Khoa Học",
@@ -381,6 +381,14 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/Sbuzfd4W/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260519/Sbuzfd4W/index.m3u8"
+    },
+    {
+      "name": "Tập 44",
+      "slug": "tap-44",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260526/eptyL0BC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260526/eptyL0BC/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -813,19 +821,27 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ea991922e5d2d407b59be72152863092",
       "m3u8Url": "https://vip.opstream90.com/20260520/32413_ea991922/index.m3u8"
+    },
+    {
+      "name": "44",
+      "slug": "44",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/eb59dc3e2a13dd31aae68b6da158de30",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33055_eb59dc3e/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tu-xuyen-phan-2-2025",
-      "episodeCount": 43,
+      "episodeCount": 44,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "tu-xuyen-phan-2",
-      "episodeCount": 54,
+      "episodeCount": 55,
       "priority": 1
     }
   ],

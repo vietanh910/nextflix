@@ -1,0 +1,47 @@
+{
+  "id": "fake-fact-lips-2026-52a2e876",
+  "source": "ophim",
+  "slug": "fake-fact-lips",
+  "name": "Fake Fact Lips",
+  "originName": "Fake Fact Lips",
+  "posterUrl": "https://img.ophim.live/uploads/movies/fake-fact-lips-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/fake-fact-lips-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Ryo và Zen, hai đối thủ truyền kiếp, đẩy cuộc chiến văn phòng lên một tầm cao mới—ai khiến người kia yêu trước sẽ thắng trong vụ cá cược cuối cùng.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e10bc88f2a85dbcfd808b001f0bb8d69",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33286_e10bc88f/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "fake-fact-lips",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

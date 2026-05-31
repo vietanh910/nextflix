@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/canh-sat-truong-vung-que-phan-1-thumb.jpg",
   "year": 2025,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (20/20)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -185,13 +185,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/b81129068ebeabccd293d31c99d510f4",
       "m3u8Url": "https://vip.opstream10.com/20260523/33746_b8112906/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/2c41e54c1a31849f56aa0686fa09759d",
+      "m3u8Url": "https://vip.opstream10.com/20260526/33766_2c41e54c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "canh-sat-truong-vung-que-phan-1",
-      "episodeCount": 19,
+      "episodeCount": 20,
       "priority": 0
     }
   ],

@@ -1,0 +1,34 @@
+{
+  "id": "the-uncle-fa7c0902",
+  "source": "nguonc",
+  "slug": "ong-chu-bi-an",
+  "name": "Ông Chú Bí Ẩn",
+  "originName": "The Uncle",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/4HmrygdnAwIq77qyuXfmtYlnDdY.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/dz9eGLATH0Fcb3QbkYkC1GvIEPv.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Cuộc sống của Ipse, một cô gái 19 tuổi không thể rời khỏi chính chiếc giường của mình vì chấn thương tâm lý, tĩnh lặng và bất động như một cái cây. Không có gia đình và cũng không biết gì về quá khứ bí ẩn của gia đình mình, cô sống hoàn toàn phụ thuộc vào những người hàng xóm. Thế nhưng, Ipse dần cảm thấy ngột ngạt trước sự lạm dụng và những ánh nhìn nhòm ngó coi cô như một thứ có thể bị nuốt chửng bất cứ lúc nào.\r\n\r\nRồi một ngày nọ, giữa cuộc sống địa ngục thường nhật ấy, một người lạ xuất hiện trước cửa nhà cô.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=1500cf40839e49c4310bade5d7640341",
+      "m3u8Url": "https://sing.phimmoi.net/1500cf40839e49c4310bade5d7640341/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "ong-chu-bi-an",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

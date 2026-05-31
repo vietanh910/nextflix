@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260502-1/f66a1952cdc0568f2129111f0197737b.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (9/9)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -99,6 +99,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260522/oGKxeXco/index.m3u8"
     },
     {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/p3W01qmY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/p3W01qmY/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -153,19 +161,27 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/01bfa6f22b2ebecc7539536db6ea78f3",
       "m3u8Url": "https://vip.opstream90.com/20260518/32194_01bfa6f2/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b95bf54ce804d41aabbf739a9ed7bb5f",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33285_b95bf54c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dream-stage",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "san-khau-uoc-mo",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

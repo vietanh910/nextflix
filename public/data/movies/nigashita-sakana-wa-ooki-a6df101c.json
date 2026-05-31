@@ -7,15 +7,90 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/8/de-xong-mat-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/8/de-xong-mat-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Maria, con gái út của một công tước, người từ nhỏ đã được định hướng trở thành người thừa kế và do đó tập trung phát triển khả năng võ thuật, bỏ qua chuyện hôn nhân. Tuy nhiên, sự ra đời của em trai khiến cô mất đi vai trò người thừa kế, buộc cô phải vội vàng tìm kiếm một tấm chồng. Maria quyết định đi du học ở vương quốc láng giềng Rubini với hy vọng tìm được một người phù hợp.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=4aef5a9f06c17e3b06211896a1fa33f5",
+      "m3u8Url": "https://sing.phimmoi.net/4aef5a9f06c17e3b06211896a1fa33f5/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=1c6c1ae9997f091367163d600ab7fa2d",
+      "m3u8Url": "https://sing.phimmoi.net/1c6c1ae9997f091367163d600ab7fa2d/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=7d62c542087f518d7bc6e9f412fa8f11",
+      "m3u8Url": "https://sing.phimmoi.net/7d62c542087f518d7bc6e9f412fa8f11/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=0ad26fa8e60861cdc7c3029fa0a2cb5f",
+      "m3u8Url": "https://sing.phimmoi.net/0ad26fa8e60861cdc7c3029fa0a2cb5f/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=f48648a82333276e08050dcf8eb558e5",
+      "m3u8Url": "https://sing.phimmoi.net/f48648a82333276e08050dcf8eb558e5/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=8e0bf71a86c8e1388acc1d07b780dbf4",
+      "m3u8Url": "https://sing.phimmoi.net/8e0bf71a86c8e1388acc1d07b780dbf4/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=9a0fd100e98d3db64918f6e5d9610df9",
+      "m3u8Url": "https://sing.phimmoi.net/9a0fd100e98d3db64918f6e5d9610df9/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=eff25302ca8e2aad7716b43c353f7c78",
+      "m3u8Url": "https://sing.phimmoi.net/eff25302ca8e2aad7716b43c353f7c78/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=f45ead44bedee7fe80976ffc90233f0b",
+      "m3u8Url": "https://sing.phimmoi.net/f45ead44bedee7fe80976ffc90233f0b/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "de-xong-mat-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
-      "episodeCount": 0,
+      "episodeCount": 9,
       "priority": 2
     }
   ],

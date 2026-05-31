@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính kịch",
@@ -53,14 +53,60 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/6326bcc85252edd1439a695f78c96e23",
       "m3u8Url": "https://vip.opstream90.com/20260510/31505_6326bcc8/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fd86085221addaf63ba670a35e027acf",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32809_fd860852/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260428/9J5isvDS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260428/9J5isvDS/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260503/uVx9BYpw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260503/uVx9BYpw/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260510/JkTqxZ2Q/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260510/JkTqxZ2Q/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/WuSWrAxL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/WuSWrAxL/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "loved-one",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "nguoi-than-yeu-nguoi-duoc-yeu-thuong",
+      "episodeCount": 4,
+      "priority": 1
     }
   ],
   "_priority": 0

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Bí ẩn",
@@ -91,74 +91,20 @@
       "m3u8Url": "https://vip.opstream90.com/20260522/32644_7647ad38/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260407/jstwf1FT/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260407/jstwf1FT/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260411/ZdEvCOaI/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260411/ZdEvCOaI/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260418/5denJgKl/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260418/5denJgKl/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260503/jUqV1kXk/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260503/jUqV1kXk/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/Yuwx0ZVC/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/Yuwx0ZVC/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/eawBn3nO/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/eawBn3nO/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/zCsawkEY/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/zCsawkEY/index.m3u8"
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1211f0aa22b0518fcf1694d875ff259e",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33234_1211f0aa/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "lai-co-an-mang-nua-roi-thua-tham-tu",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "lai-bi-giet-nua-a-thua-tham-tu-mata-korosarete-shimatta-no-desu-ne-tanteisama",
-      "episodeCount": 7,
-      "priority": 1
     }
   ],
   "_priority": 0

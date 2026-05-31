@@ -5,39 +5,6 @@
   "totalPages": 7,
   "items": [
     {
-      "id": "cabbage-your-life-2026-1ccc8fdc",
-      "source": "ophim",
-      "slug": "doi-cai-thao",
-      "name": "Đời Cải Thảo",
-      "originName": "Cabbage Your Life",
-      "posterUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "accidental-partners-2026-60897d5f",
       "source": "ophim",
       "slug": "doi-tac-tinh-co",
@@ -100,6 +67,35 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "unexpectedly-naughty-fuk-2026-b8424234",
+      "source": "ophim",
+      "slug": "fukami-nghich-ngom-ngoai-suc-tuong-tuong",
+      "name": "Fukami nghịch ngợm ngoài sức tưởng tượng",
+      "originName": "Unexpectedly Naughty Fukami",
+      "posterUrl": "https://img.ophim.live/uploads/movies/fukami-nghich-ngom-ngoai-suc-tuong-tuong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/fukami-nghich-ngom-ngoai-suc-tuong-tuong-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -176,7 +172,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -208,8 +204,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/hom-nay-lai-ban-het-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -237,8 +233,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-lang-hai-phan-5-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -267,7 +263,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hài Hước",
@@ -294,6 +290,31 @@
       ]
     },
     {
+      "id": "jae-seok-s-b-b-rules-2026-610478d7",
+      "source": "ophim",
+      "slug": "jae-seoks-bandb-rules",
+      "name": "Jae-seok's B&B Rules!",
+      "originName": "Jae-seok's B&B Rules!",
+      "posterUrl": "https://img.ophim.live/uploads/movies/jae-seoks-bandb-rules-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/jae-seoks-bandb-rules-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "my-royal-nemesis-2026-6f078c9f",
       "source": "ophim",
       "slug": "ke-thu-hoang-gia-cua-toi",
@@ -304,7 +325,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -366,7 +387,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -385,31 +406,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "killtonymania-2026-703bbde3",
-      "source": "ophim",
-      "slug": "killtonymania",
-      "name": "KillTonyMania",
-      "originName": "KillTonyMania",
-      "posterUrl": "https://img.ophim.live/uploads/movies/killtonymania-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/killtonymania-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -494,7 +490,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -535,7 +531,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hài Hước",
@@ -564,7 +560,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -684,7 +680,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "episodeCurrent": "Tập 23",
       "categories": [
         {
           "name": "Hành Động",

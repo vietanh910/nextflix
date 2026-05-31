@@ -5,39 +5,6 @@
   "totalPages": 7,
   "items": [
     {
-      "id": "balls-up-2026-34b68dd6",
-      "source": "ophim",
-      "slug": "balls-up",
-      "name": "Balls Up",
-      "originName": "Balls Up",
-      "posterUrl": "https://img.ophim.live/uploads/movies/balls-up-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/balls-up-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "quieres-ser-mi-novia-2026-e80a4274",
       "source": "ophim",
       "slug": "ban-co-muon-lam-ban-gai-cua-toi-khong",
@@ -73,7 +40,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -141,17 +108,17 @@
       ]
     },
     {
-      "id": "bapa-mentuaku-mafia-2026-65de4527",
+      "id": "the-four-seasons-season--2026-4c0b23ab",
       "source": "ophim",
-      "slug": "bo-vo-toi-la-mafia",
-      "name": "Bố Vợ Tôi Là Mafia",
-      "originName": "bapa mentuaku mafia",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bo-vo-toi-la-mafia-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bo-vo-toi-la-mafia-thumb.jpg",
+      "slug": "bon-mua-phan-2",
+      "name": "Bốn mùa (Phần 2)",
+      "originName": "The Four Seasons (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bon-mua-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bon-mua-phan-2-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -160,8 +127,8 @@
       ],
       "countries": [
         {
-          "name": "Malaysia",
-          "slug": "malaysia"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -176,7 +143,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -191,6 +158,35 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "busted-water-pipes-2026-422e7810",
+      "source": "ophim",
+      "slug": "busted-water-pipes",
+      "name": "Busted Water Pipes",
+      "originName": "Busted Water Pipes",
+      "posterUrl": "https://img.ophim.live/uploads/movies/busted-water-pipes-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/busted-water-pipes-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -271,7 +267,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hài Hước",
@@ -365,6 +361,80 @@
       ]
     },
     {
+      "id": "check-in-to-you-2026-10b05679",
+      "source": "ophim",
+      "slug": "check-in-to-you",
+      "name": "Check In to You",
+      "originName": "Check In to You",
+      "posterUrl": "https://img.ophim.live/uploads/movies/check-in-to-you-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/check-in-to-you-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "over-your-dead-body-2026-5fbf8781",
+      "source": "ophim",
+      "slug": "chi-khi-nao-nguoi-chet-di",
+      "name": "Chỉ khi nào ngươi chết đi",
+      "originName": "Over Your Dead Body",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chi-khi-nao-nguoi-chet-di-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chi-khi-nao-nguoi-chet-di-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Na Uy",
+          "slug": "na-uy"
+        },
+        {
+          "name": "Phần Lan",
+          "slug": "phan-lan"
+        }
+      ]
+    },
+    {
       "id": "fifties-professionals-2026-ef3e6bd3",
       "source": "ophim",
       "slug": "chuyen-gia-tuoi-trung-nien",
@@ -375,7 +445,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hành Động",
@@ -423,35 +493,6 @@
         {
           "name": "Quốc Gia Khác",
           "slug": "quoc-gia-khac"
-        }
-      ]
-    },
-    {
-      "id": "the-miniature-wife-2026-77fab571",
-      "source": "ophim",
-      "slug": "co-vo-ti-hon",
-      "name": "Cô Vợ Tí Hon",
-      "originName": "The Miniature Wife",
-      "posterUrl": "https://img.ophim.live/uploads/movies/co-vo-ti-hon-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/co-vo-ti-hon-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -594,7 +635,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -655,8 +696,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/di-thu-ma-do-phan-2-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (11/11)",
       "categories": [
         {
           "name": "Hành Động",
@@ -683,35 +724,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "flunked-2026-1bb2ed8b",
-      "source": "ophim",
-      "slug": "truot",
-      "name": "Điệp Vụ Giáo Viên",
-      "originName": "Flunked",
-      "posterUrl": "https://img.ophim.live/uploads/movies/truot-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/truot-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
         }
       ]
     },

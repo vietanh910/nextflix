@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 20",
   "categories": [
     {
       "name": "Chính kịch",
@@ -121,13 +121,77 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/d5a76ec267ddb7fb3538a6489a342a66",
       "m3u8Url": "https://vip.opstream90.com/20260524/32792_d5a76ec2/index.m3u8"
+    },
+    {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2d405554509c46dd9e6bd1162c9cfb60",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33082_2d405554/index.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/615a666e6472b587f63193032da45961",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33083_615a666e/index.m3u8"
+    },
+    {
+      "name": "15",
+      "slug": "15",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d6974677d201a520dcf63a22455787bb",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33084_d6974677/index.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5b92e4945eb3a04990671a4da604ff17",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33085_5b92e494/index.m3u8"
+    },
+    {
+      "name": "17",
+      "slug": "17",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b565accf0eb5014ea306fc7b1deef0e5",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33086_b565accf/index.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "18",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1bf4038b7ea373aa73493f9ea9d4db6f",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33087_1bf4038b/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/823e7bde3c29d63fc14b1178cfd8d997",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33205_823e7bde/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/726a0cb64be7fda938f73af62259c7e0",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33206_726a0cb6/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thinh-duong-ky-an",
-      "episodeCount": 12,
+      "episodeCount": 20,
       "priority": 0
     }
   ],

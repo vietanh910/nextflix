@@ -5,6 +5,64 @@
   "totalPages": 6,
   "items": [
     {
+      "id": "jieling-2026-1b3e3291",
+      "source": "ophim",
+      "slug": "gioi-linh",
+      "name": "Giới Linh",
+      "originName": "JieLing",
+      "posterUrl": "https://img.ophim.live/uploads/movies/gioi-linh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/gioi-linh-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "oedo-fire-slayer-the-leg-2026-ff7fa970",
+      "source": "ophim",
+      "slug": "hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu",
+      "name": "Hỏa Thực Điểu: Đội cứu hỏa Borotobi vùng Ushu",
+      "originName": "Oedo Fire Slayer -The Legend of Phoenix-",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "release-that-witch-2026-e3f2f27b",
       "source": "ophim",
       "slug": "hoang-tu-luu-day",
@@ -32,6 +90,39 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-final-battle-2026-d3b7640b",
+      "source": "ophim",
+      "slug": "huyen-chien-thanh-long-trai",
+      "name": "Huyến Chiến Thanh Long Trại",
+      "originName": "The Final Battle",
+      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -100,27 +191,31 @@
       ]
     },
     {
-      "id": "the-gates-2026-8ec462b9",
+      "id": "karuppu-2026-8475b044",
       "source": "ophim",
-      "slug": "khu-khep-kin",
-      "name": "Khu Khép Kín",
-      "originName": "The Gates",
-      "posterUrl": "https://img.ophim.live/uploads/movies/khu-khep-kin-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/khu-khep-kin-thumb.jpg",
+      "slug": "karuppu",
+      "name": "Karuppu",
+      "originName": "Karuppu",
+      "posterUrl": "https://img.ophim.live/uploads/movies/karuppu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/karuppu-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Ấn Độ",
+          "slug": "an-do"
         }
       ]
     },
@@ -168,7 +263,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -224,6 +319,39 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "fuze-2026-abc33a67",
+      "source": "ophim",
+      "slug": "kip-no",
+      "name": "Kíp Nổ",
+      "originName": "Fuze",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kip-no-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kip-no-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -316,7 +444,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -357,7 +485,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -390,7 +518,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 19",
       "categories": [
         {
           "name": "Hành Động",
@@ -512,47 +640,6 @@
       ]
     },
     {
-      "id": "man-on-fire-2026-38ff92e7",
-      "source": "ophim",
-      "slug": "nguoi-do-dan-2026",
-      "name": "Người Đỡ Đạn",
-      "originName": "Man on Fire",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-do-dan-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-do-dan-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (7/7)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Mexico",
-          "slug": "mexico"
-        }
-      ]
-    },
-    {
       "id": "hitori-no-shita-the-outc-2026-07b2c214",
       "source": "ophim",
       "slug": "nguoi-tren-van-nguoi-phan-6",
@@ -563,7 +650,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "episodeCurrent": "Tập 23",
       "categories": [
         {
           "name": "Hành Động",
@@ -627,6 +714,80 @@
       ]
     },
     {
+      "id": "ace-female-bodyguard-2026-677a21e3",
+      "source": "ophim",
+      "slug": "nu-ve-si-vuong-bai",
+      "name": "Nữ Vệ Sĩ Vương Bài",
+      "originName": "Ace Female Bodyguard",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nu-ve-si-vuong-bai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-ve-si-vuong-bai-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "rick-and-morty-season-9-2026-048e4cd2",
+      "source": "ophim",
+      "slug": "rick-va-morty-phan-9",
+      "name": "Rick và Morty (Phần 9)",
+      "originName": "Rick and Morty (Season 9)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "rise-of-the-conqueror-2026-1f02d364",
       "source": "ophim",
       "slug": "rise-of-the-conqueror",
@@ -656,155 +817,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "apex-2026-bb79378d",
-      "source": "ophim",
-      "slug": "san-moi-2026",
-      "name": "Săn Mồi",
-      "originName": "Apex",
-      "posterUrl": "https://img.ophim.live/uploads/movies/san-moi-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/san-moi-2026-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "my-dearest-assassin-2026-bf67ff14",
-      "source": "ophim",
-      "slug": "sat-thu-yeu-dau",
-      "name": "Sát Thủ Yêu Dấu",
-      "originName": "My Dearest Assassin",
-      "posterUrl": "https://img.ophim.live/uploads/movies/sat-thu-yeu-dau-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/sat-thu-yeu-dau-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "tom-clancy-s-jack-ryan-g-2026-ea010949",
-      "source": "ophim",
-      "slug": "sieu-diep-vien-jack-ryan-bong-ma-chien-tranh",
-      "name": "Siêu Điệp Viên Jack Ryan: Bóng Ma Chiến Tranh",
-      "originName": "Tom Clancy's Jack Ryan: Ghost War",
-      "posterUrl": "https://img.ophim.live/uploads/movies/sieu-diep-vien-jack-ryan-bong-ma-chien-tranh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-diep-vien-jack-ryan-bong-ma-chien-tranh-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "daemons-of-the-shadow-re-2026-1dad0598",
-      "source": "ophim",
-      "slug": "song-menh-coi-hoang-tuyen",
-      "name": "Song Mệnh Cõi Hoàng Tuyền",
-      "originName": "Daemons of the Shadow Realm",
-      "posterUrl": "https://img.ophim.live/uploads/movies/song-menh-coi-hoang-tuyen-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/song-menh-coi-hoang-tuyen-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "scare-out-2026-25f114db",
-      "source": "ophim",
-      "slug": "su-thuc-tinh-lang-tham",
-      "name": "Sự Thức Tỉnh Lặng Thầm",
-      "originName": "Scare Out",
-      "posterUrl": "https://img.ophim.live/uploads/movies/su-thuc-tinh-lang-tham-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/su-thuc-tinh-lang-tham-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

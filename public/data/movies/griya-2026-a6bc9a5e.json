@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Bí ẩn",
@@ -65,14 +65,92 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/aa6497626eb6fda207fbc03d30f4e77c",
       "m3u8Url": "https://vip.opstream90.com/20260523/32752_aa649762/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c77ca1eca9810917f4c11a449252b048",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32812_c77ca1ec/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3d3f298f60a4333ec4c3916bf59aad87",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33417_3d3f298f/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/TF9cBviN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/TF9cBviN/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/a85KL3fm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/a85KL3fm/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260516/8Rsz0C7o/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260516/8Rsz0C7o/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/CrNfPWHF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/CrNfPWHF/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260524/2T66rsA6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260524/2T66rsA6/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/PSHiPPqH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/PSHiPPqH/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/3wU9AVHy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/3wU9AVHy/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "griya",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "griya-rahsia-seorang-lelaki",
+      "episodeCount": 7,
+      "priority": 1
     }
   ],
   "_priority": 0

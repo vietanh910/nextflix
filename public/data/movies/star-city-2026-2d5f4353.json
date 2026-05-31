@@ -1,0 +1,85 @@
+{
+  "id": "star-city-2026-2d5f4353",
+  "source": "ophim",
+  "slug": "can-cu-star-city",
+  "name": "Căn Cứ Star City",
+  "originName": "Star City",
+  "posterUrl": "https://img.ophim.live/uploads/movies/can-cu-star-city-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/can-cu-star-city-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>In this expansion of the For All Mankind universe, experience the \"what if\" take on the global space race from the Soviet Union perspective. Go behind the Iron Curtain, where it's more dangerous on the ground than in space.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d929b8f8a107d3da0fef86743fe142f2",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33307_d929b8f8/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3bbc8b8ac2f0e75cafa24ec9b9530352",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33308_3bbc8b8a/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/UldBeQRg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/UldBeQRg/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/Hwg8Sca6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/Hwg8Sca6/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "can-cu-star-city",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "thanh-pho-phi-hanh-gia-phan-1-can-cu-star-city",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

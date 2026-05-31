@@ -1,0 +1,87 @@
+{
+  "id": "shades-2026-110344e4",
+  "source": "ophim",
+  "slug": "shades",
+  "name": "Shades",
+  "originName": "Shades",
+  "posterUrl": "https://img.ophim.live/uploads/movies/shades-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/shades-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Sáu học sinh và một giáo viên đều có những bí mật sắp được hé lộ: tình yêu cần được giữ kín, thân phận che giấu và sự thật mà không ai dám đối mặt.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2444fb11f56795030f2a634a56e19042",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32866_2444fb11/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7f95080e8eda3a6ca81ca314500535f8",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32867_7f95080e/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8b21b1c01bd1ec137671219ab3696da6",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32868_8b21b1c0/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ea56b27fc27978cc94666af12740f6f3",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32869_ea56b27f/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9ffe7d903de2691357188406c25cadf8",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32885_9ffe7d90/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ec47f9657c90a6db70e5e4f1cd1f7a02",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32886_ec47f965/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "shades",
+      "episodeCount": 6,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

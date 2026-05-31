@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 78",
+  "episodeCurrent": "Tập 79",
   "categories": [
     {
       "name": "Hành Động",
@@ -663,15 +663,23 @@
       "slug": "tap-78",
       "serverName": "#Hà Nội (Vietsub)",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/jN3c8jnI/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260522/jN3c8jnI/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260524/VoOkjf9s/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260524/VoOkjf9s/index.m3u8"
+    },
+    {
+      "name": "Tập 79",
+      "slug": "tap-79",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/PQbeTbef/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/PQbeTbef/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thuong-nguyen-do",
-      "episodeCount": 78,
+      "episodeCount": 79,
       "priority": 1
     }
   ],

@@ -7,15 +7,82 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/awajima-hyakkei-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/awajima-hyakkei.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Một hành trình nghệ thuật độc đáo tái hiện vẻ đẹp của Awajima qua nhiều góc nhìn khác nhau. Mỗi khung hình như một bức tranh sống động, kết hợp giữa thiên nhiên, văn hóa và cảm xúc, mang đến trải nghiệm thị giác đầy chất thơ.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=b7ad9164207e5edb1c1d6cbfeedc9e34",
+      "m3u8Url": "https://sing.phimmoi.net/b7ad9164207e5edb1c1d6cbfeedc9e34/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=327b9ad49a04d6eb22b92c0b17482ab8",
+      "m3u8Url": "https://sing.phimmoi.net/327b9ad49a04d6eb22b92c0b17482ab8/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=f87ae490a6f894bb1d5f3dca6479577f",
+      "m3u8Url": "https://sing.phimmoi.net/f87ae490a6f894bb1d5f3dca6479577f/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=c8520612efb819bac8848b6a4199bda8",
+      "m3u8Url": "https://sing.phimmoi.net/c8520612efb819bac8848b6a4199bda8/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=481751451664814024f087ae14becacb",
+      "m3u8Url": "https://sing.phimmoi.net/481751451664814024f087ae14becacb/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=f4f784a7f46da251ed8d01bce80963a1",
+      "m3u8Url": "https://sing.phimmoi.net/f4f784a7f46da251ed8d01bce80963a1/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=421c5c838e7d7b01a1a288c37c4e643e",
+      "m3u8Url": "https://sing.phimmoi.net/421c5c838e7d7b01a1a288c37c4e643e/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=ac25d70040bbba2dfebd05fe034ab290",
+      "m3u8Url": "https://sing.phimmoi.net/ac25d70040bbba2dfebd05fe034ab290/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "awajima-hyakkei",
-      "episodeCount": 0,
+      "episodeCount": 8,
       "priority": 2
     }
   ],

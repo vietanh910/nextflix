@@ -7,15 +7,74 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/3/bi-an-thi-tran-widows-bay-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/bi-an-thi-tran-widows-bay.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Một vị thị trưởng hoài nghi lãnh đạo những cư dân mê tín của một hòn đảo New England bị nguyền rủa.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=c862824801c8e1c3f7692768afd1e7cb",
+      "m3u8Url": "https://sing.phimmoi.net/c862824801c8e1c3f7692768afd1e7cb/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=57bea14b8ca2a32b23f2319f07168549",
+      "m3u8Url": "https://sing.phimmoi.net/57bea14b8ca2a32b23f2319f07168549/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=02619b7e5507e54d3957532a3de66ed5",
+      "m3u8Url": "https://sing.phimmoi.net/02619b7e5507e54d3957532a3de66ed5/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=510d8c842611c98f40781562807cf7c7",
+      "m3u8Url": "https://sing.phimmoi.net/510d8c842611c98f40781562807cf7c7/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=19fdb649beaf34fb68b89fec2780d9b3",
+      "m3u8Url": "https://sing.phimmoi.net/19fdb649beaf34fb68b89fec2780d9b3/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=380011586d7cd4ab19f86589c15353f9",
+      "m3u8Url": "https://sing.phimmoi.net/380011586d7cd4ab19f86589c15353f9/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=8c7c3d07337ba01e455e9d729c370ea0",
+      "m3u8Url": "https://sing.phimmoi.net/8c7c3d07337ba01e455e9d729c370ea0/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "bi-an-thi-tran-widows-bay",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 2
     }
   ],

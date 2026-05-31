@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -87,28 +87,36 @@
       "m3u8Url": "https://vip.opstream90.com/20260519/32411_d3ac43d9/index.m3u8"
     },
     {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2f9dabd3b7df074505f362da6a52c389",
+      "m3u8Url": "https://vip.opstream90.com/20260526/33038_2f9dabd3/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260423/N1rLwzyX/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260423/N1rLwzyX/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260415/WRfJOuOi/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260415/WRfJOuOi/index.m3u8"
     },
     {
       "name": "Tập 02",
       "slug": "tap-02",
       "serverName": "#Hà Nội (Vietsub)",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260423/Pmidl7q0/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260423/Pmidl7q0/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260415/xJx5dYTN/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20260415/xJx5dYTN/index.m3u8"
     },
     {
       "name": "Tập 03",
       "slug": "tap-03",
       "serverName": "#Hà Nội (Vietsub)",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260423/wcRvIukW/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260423/wcRvIukW/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260422/Lh4trRuX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260422/Lh4trRuX/index.m3u8"
     },
     {
       "name": "Tập 04",
@@ -141,19 +149,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/KZLO3ePg/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260519/KZLO3ePg/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260526/E0Zyx3yx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260526/E0Zyx3yx/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 0
     },
     {
       "source": "phimapi",
-      "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
-      "episodeCount": 7,
+      "slug": "nu-vuong-trum-cuoi-cung-hung-cuc-ac-se-doc-suc-vi-nguoi-dan-phan-2",
+      "episodeCount": 8,
       "priority": 1
     }
   ],

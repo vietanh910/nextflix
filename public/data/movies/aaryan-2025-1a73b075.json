@@ -1,0 +1,51 @@
+{
+  "id": "aaryan-2025-1a73b075",
+  "source": "ophim",
+  "slug": "aaryan",
+  "name": "Aaryan",
+  "originName": "Aaryan",
+  "posterUrl": "https://img.ophim.live/uploads/movies/aaryan-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/aaryan-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>A struggling writer announces he'll commit the perfect crime, sparking a tense pursuit as police try to prevent his methodically planned killing spree.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/c8e8e237bfc7a4643f9c5f2841f1622f",
+      "m3u8Url": "https://vip.opstream12.com/20260527/32708_c8e8e237/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "aaryan",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

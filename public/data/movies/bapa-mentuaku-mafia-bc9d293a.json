@@ -1,0 +1,74 @@
+{
+  "id": "bapa-mentuaku-mafia-bc9d293a",
+  "source": "nguonc",
+  "slug": "bo-vo-toi-la-mafia",
+  "name": "Bố Vợ Tôi Là Mafia",
+  "originName": "Bapa Mentuaku Mafia",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/5/bo-vo-toi-la-mafia-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/bo-vo-toi-la-mafia.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 6",
+  "categories": [],
+  "countries": [],
+  "description": "Một người đàn ông không chút nghi ngờ bỗng phải tẩy trắng hình ảnh cho một gia tộc tội phạm quyền lực sau khi bị ép cưới con gái của ông trùm.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=4a4e97b549fcbaa109f1ce58076f7fc7",
+      "m3u8Url": "https://sing.phimmoi.net/4a4e97b549fcbaa109f1ce58076f7fc7/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=d5c8f8477860e848629b998c209963ca",
+      "m3u8Url": "https://sing.phimmoi.net/d5c8f8477860e848629b998c209963ca/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=12e2607f6e44d1d5ce88b655d312e4a2",
+      "m3u8Url": "https://sing.phimmoi.net/12e2607f6e44d1d5ce88b655d312e4a2/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=afb7fd27e21eebf0c0c60b187761ac29",
+      "m3u8Url": "https://sing.phimmoi.net/afb7fd27e21eebf0c0c60b187761ac29/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=ae1938d87c33cd0a416f175dfbf90bba",
+      "m3u8Url": "https://sing.phimmoi.net/ae1938d87c33cd0a416f175dfbf90bba/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=34a5f944f43ce28a49f58633a1f5fa60",
+      "m3u8Url": "https://sing.phimmoi.net/34a5f944f43ce28a49f58633a1f5fa60/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "bo-vo-toi-la-mafia",
+      "episodeCount": 6,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

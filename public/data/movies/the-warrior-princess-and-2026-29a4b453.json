@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Khoa Học",
@@ -95,43 +95,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260521/NFEuOVnO/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/87c169ec9594615939b5905714e3c355",
-      "m3u8Url": "https://vip.opstream90.com/20260411/29256_87c169ec/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/e9a0ddc40651a765e246e1f4b8c3d3c8",
-      "m3u8Url": "https://vip.opstream90.com/20260425/30236_e9a0ddc4/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/965052c6a03942b536a3ff2d134d61c1",
-      "m3u8Url": "https://vip.opstream90.com/20260425/30237_965052c6/index.m3u8"
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/4q0rS2xQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/4q0rS2xQ/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "cong-chua-chien-binh-va-vua-da-ma",
-      "episodeCount": 3,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "cong-chua-chien-binh-va-vua-da-nhan-himekishi-wa-barbaroi-no-yome",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

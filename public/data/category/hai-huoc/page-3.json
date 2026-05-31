@@ -208,6 +208,47 @@
       ]
     },
     {
+      "id": "rick-and-morty-season-9-2026-048e4cd2",
+      "source": "ophim",
+      "slug": "rick-va-morty-phan-9",
+      "name": "Rick và Morty (Phần 9)",
+      "originName": "Rick and Morty (Season 9)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "rooster-2026-684b42a7",
       "source": "ophim",
       "slug": "rooster",
@@ -233,89 +274,64 @@
       ]
     },
     {
-      "id": "running-man-thailand-2026-d8b6e4f2",
+      "id": "murder-mindfully-season--2026-e653f1bf",
       "source": "ophim",
-      "slug": "running-man-thai-lan",
-      "name": "Running Man Thái Lan",
-      "originName": "Running Man Thailand",
-      "posterUrl": "https://img.ophim.live/uploads/movies/running-man-thai-lan-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/running-man-thai-lan-thumb.jpg",
+      "slug": "sat-nhan-huu-y-phan-2",
+      "name": "Sát nhân hữu ý (Phần 2)",
+      "originName": "Murder Mindfully (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sat-nhan-huu-y-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sat-nhan-huu-y-phan-2-thumb.jpg",
       "year": 2026,
-      "type": "tvshow",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
+    {
+      "id": "the-monkey-hero-2026-749d0867",
+      "source": "ophim",
+      "slug": "tay-du-ky-dai-nao",
+      "name": "Tây Du Ký Đại Náo",
+      "originName": "The Monkey Hero",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tay-du-ky-dai-nao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tay-du-ky-dai-nao-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         }
       ],
       "countries": [
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "running-point-season-2-2026-a36cf111",
-      "source": "ophim",
-      "slug": "running-point-phan-2",
-      "name": "Running Point (Phần 2)",
-      "originName": "Running Point (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/running-point-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/running-point-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "slanted-2026-ed012c05",
-      "source": "ophim",
-      "slug": "slanted",
-      "name": "Slanted",
-      "originName": "Slanted",
-      "posterUrl": "https://img.ophim.live/uploads/movies/slanted-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/slanted-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -359,7 +375,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hài Hước",
@@ -392,7 +408,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hài Hước",
@@ -483,7 +499,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -531,6 +547,76 @@
       ]
     },
     {
+      "id": "animal-farm-2026-99d693c7",
+      "source": "ophim",
+      "slug": "trai-suc-vat",
+      "name": "Trại Súc Vật",
+      "originName": "Animal Farm",
+      "posterUrl": "https://img.ophim.live/uploads/movies/trai-suc-vat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/trai-suc-vat-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "fulfill-2026-de2f99b2",
+      "source": "ophim",
+      "slug": "tron-ven",
+      "name": "Trọn Vẹn",
+      "originName": "Fulfill",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tron-ven-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tron-ven-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
       "id": "xiang-xu-ji-2026-d1aead4f",
       "source": "ophim",
       "slug": "tuong-tu-ky",
@@ -556,6 +642,35 @@
       ]
     },
     {
+      "id": "my-2-cents-2026-d4827e3c",
+      "source": "ophim",
+      "slug": "vai-xu-nho-rac-roi",
+      "name": "Vài Xu Nhỏ, Rắc Rối Lớn",
+      "originName": "My 2 Cents",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vai-xu-nho-rac-roi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vai-xu-nho-rac-roi-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
       "id": "welcome-to-demon-school--2026-58c4a5ef",
       "source": "ophim",
       "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
@@ -566,7 +681,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -610,105 +725,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ladies-first-2026-aade12f1",
-      "source": "ophim",
-      "slug": "xin-nhuong-phai-dep",
-      "name": "Xin Nhường Phái Đẹp",
-      "originName": "Ladies First",
-      "posterUrl": "https://img.ophim.live/uploads/movies/xin-nhuong-phai-dep-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/xin-nhuong-phai-dep-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "rent-a-girlfriend-season-2026-2be9b27c",
-      "source": "phimapi",
-      "slug": "ban-gai-thue-phan-5",
-      "name": "Bạn Gái Thuê (Phần 5)",
-      "originName": "Rent-A-Girlfriend (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260413-1/0b8e85147ee42a98b98f1c2c8f6f5410.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260413-1/0f7601ab0c569445b69a040dab869f72.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "gals-can-t-be-kind-to-ot-2026-18bfb597",
-      "source": "phimapi",
-      "slug": "chang-otaku-va-hai-nang-gal-bi-an-otaku-ni-yasashii-gal-wa-inai",
-      "name": "Chàng Otaku Và Hai Nàng Gal Bí Ẩn (Otaku ni Yasashii Gal wa Inai!?)",
-      "originName": "Gals Can't Be Kind To Otaku!?",
-      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/b2133457c5c60d9153267fd7c85a3a95.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/e81f759bfaba7e666b1f12287c9b4146.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }

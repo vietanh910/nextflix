@@ -1,0 +1,109 @@
+{
+  "id": "rafa-2026-63a8e43b",
+  "source": "ophim",
+  "slug": "rafa",
+  "name": "Rafa",
+  "originName": "Rafa",
+  "posterUrl": "https://img.ophim.live/uploads/movies/rafa-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/rafa-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (4/4)",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Rafael Nadal, một trong những tay vợt vĩ đại nhất mọi thời đại, chia sẻ những suy ngẫm về sự nghiệp, di sản và mùa giải cuối cùng của mình trên sân đấu.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/404fad250f9e44794bad565785d71bfc",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33404_404fad25/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f01d69a56fe9491dae460bf266ca4998",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33405_f01d69a5/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bed19194637ee3c1d4f4e48ef5308211",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33406_bed19194/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0189eee3401cf07ec0bb15b54859d25e",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33407_0189eee3/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/EFz7GzpV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/EFz7GzpV/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/n3bmeMtd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/n3bmeMtd/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/S2KyFYW0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/S2KyFYW0/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/V0fJkB11/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/V0fJkB11/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "rafa",
+      "episodeCount": 4,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "rafa",
+      "episodeCount": 4,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

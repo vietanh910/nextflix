@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-lang-hai-phan-5-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -79,6 +79,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260508/31328_e82be97d/index.m3u8"
     },
     {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8be9c8f2977bbe85dec249c9c11d8e35",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33288_8be9c8f2/index.m3u8"
+    },
+    {
       "name": "8",
       "slug": "8",
       "serverName": "Vietsub #1",
@@ -93,13 +101,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/8e7e22dad3557b815916a9cb97707f07",
       "m3u8Url": "https://vip.opstream90.com/20260522/32658_8e7e22da/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6cdc8dc1dd8a5460f1798cb9f460fc6b",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33289_6cdc8dc1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "huyen-thoai-lang-hai-phan-5",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

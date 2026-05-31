@@ -1,0 +1,34 @@
+{
+  "id": "the-lotto-winner-8f617a46",
+  "source": "nguonc",
+  "slug": "nguoi-trung-so",
+  "name": "Người Trúng Số",
+  "originName": "The Lotto Winner",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/1YOiNo5vY63ITI5kIHVKcPjmqWe.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/sdPxiTp9bf2muVWyxptC5TSsalU.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Đang đau buồn và ốm yếu, một người đàn ông trúng xổ số, sau đó đoàn tụ với con gái và cháu ngoại đã xa cách, những người thách thức quan điểm của ông về gia đình và cuộc sống.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=c653e28f9ddd0910dc793854de5a4c8c",
+      "m3u8Url": "https://sing.phimmoi.net/c653e28f9ddd0910dc793854de5a4c8c/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "nguoi-trung-so",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

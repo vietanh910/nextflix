@@ -7,15 +7,58 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/3/vu-dieu-lan-su-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/vu-dieu-lan-su.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 5",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Sau tai nạn của cha, một cô gái trẻ vùng Isan tiếp quản đoàn múa lân gia đình và kết hợp với nhạc Mor Lam truyền thống để duy trì hoạt động của đoàn.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=db8a9a3d2aaa6226a031cdfe5d12b25d",
+      "m3u8Url": "https://sing.phimmoi.net/db8a9a3d2aaa6226a031cdfe5d12b25d/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=0ec6c27fa20cfbd73190709fbd785586",
+      "m3u8Url": "https://sing.phimmoi.net/0ec6c27fa20cfbd73190709fbd785586/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=ac62571c247e28f40d69bad13bfef557",
+      "m3u8Url": "https://sing.phimmoi.net/ac62571c247e28f40d69bad13bfef557/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=d840df1c6b56d6e7447f0223bdfb3779",
+      "m3u8Url": "https://sing.phimmoi.net/d840df1c6b56d6e7447f0223bdfb3779/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=4df5ce934db935a616e721ea08cc6294",
+      "m3u8Url": "https://sing.phimmoi.net/4df5ce934db935a616e721ea08cc6294/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "vu-dieu-lan-su",
-      "episodeCount": 0,
+      "episodeCount": 5,
       "priority": 2
     }
   ],

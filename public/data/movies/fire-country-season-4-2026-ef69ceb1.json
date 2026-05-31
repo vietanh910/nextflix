@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/fire-country-phan-4-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (20/20)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -185,13 +185,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/b1c22d171a128f2defc188ce786fbbf8",
       "m3u8Url": "https://vip.opstream10.com/20260521/33716_b1c22d17/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e57323e01dc38ffd09d8d88107468c9e",
+      "m3u8Url": "https://vip.opstream10.com/20260527/33768_e57323e0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "fire-country-phan-4",
-      "episodeCount": 19,
+      "episodeCount": 20,
       "priority": 0
     }
   ],

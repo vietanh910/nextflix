@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "episodeCurrent": "Tập 21",
   "categories": [
     {
       "name": "Hài Hước",
@@ -199,6 +199,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260523/2ZRoRGnS/index.m3u8"
     },
     {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/u0UaZ6mM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/u0UaZ6mM/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -349,6 +357,14 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/RmRgBbAV/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260517/RmRgBbAV/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/2ZRoRGnS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/2ZRoRGnS/index.m3u8"
     },
     {
       "name": "1",
@@ -521,7 +537,7 @@
     {
       "source": "phimapi",
       "slug": "con-ra-the-thong-gi-nua-phan-2",
-      "episodeCount": 39,
+      "episodeCount": 41,
       "priority": 1
     }
   ],

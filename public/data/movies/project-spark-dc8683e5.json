@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/7/toi-nop-tan-the-cho-quoc-gia-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/7/toi-nop-tan-the-cho-quoc-gia.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 21",
+  "episodeCurrent": "Tập 22",
   "categories": [],
   "countries": [],
   "description": "Là người sở hữu thứ siêu năng lực kì dị bằng việc qua lại giữa hai thế giới khác nhau dễ như ăn kẹo, Trần Phong với bản tính thẳng thắn và cương trực nên đã không dùng siêu năng lực của mình cho việc kiếm lời, mà anh thẳng thừng thông báo với chính phủ đất nước về sự tồn tại của một thế giới khác mà anh có thể đến được, mà thế giới ấy chính là một vùng đất hoang dã với đầy rẫy những thây ma và xác sống, những tên bạo chúa biến dị và cả những trùm quân phiệt nguy hiểm nơi ấy. Rất nhanh chóng, chính phủ của đất nước đã thành lập một đội quân với cái tên Kế Hoạch Hỏa Chùng và tạo lập một lối đi riêng, thuận tiện, nhanh chóng để kết nối giữa thế giới hiện đại với vùng đất chết ấy, những vũ khí hạng nặng như xe tăng, tên lửa, pháo xuyên lục địa, … đã được mang đến để chuẩn bị cho một trận đánh quyết định giữa đôi bên. Và đồng thời, nhờ vào những công nghệ dị biệt của thế giới chết chóc ấy mà nền khoa học của đất nước cũng đã được hỏi hỏi và có những tiến bộ lớn, nhưng cũng mang theo những hiểm họa mầm từ các đất nước khác đang ngày đêm đố kỵ.",
@@ -180,13 +180,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=9604e24a518848d4b1079ad639ecbe3a",
       "m3u8Url": "https://sing.phimmoi.net/9604e24a518848d4b1079ad639ecbe3a/hls.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "tap-22",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=76d9baba8b18f94e858b56007ad5ad77",
+      "m3u8Url": "https://sing.phimmoi.net/76d9baba8b18f94e858b56007ad5ad77/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "toi-nop-tan-the-cho-quoc-gia",
-      "episodeCount": 21,
+      "episodeCount": 22,
       "priority": 2
     }
   ],

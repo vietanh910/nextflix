@@ -1,0 +1,105 @@
+{
+  "id": "dance-of-the-lion-2026-ff07d174",
+  "source": "phimapi",
+  "slug": "dieu-mua-lan-su-rong",
+  "name": "Điệu Múa Lân Sư Rồng",
+  "originName": "Dance Of The Lion",
+  "posterUrl": "https://phimimg.com/upload/vod/20260524-1/4b4c3823a4274321a54f96d4ff2840c7.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260524-1/81ce77b655ecaa3c56d135a7cfb67066.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 5",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "Sau tai nạn của cha, một cô gái trẻ vùng Isan tiếp quản đoàn múa lân gia đình và kết hợp với nhạc Mor Lam truyền thống để duy trì hoạt động của đoàn.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260524/7KQBiPoC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260524/7KQBiPoC/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/PX0LuFJn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/PX0LuFJn/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/ESuuNz4O/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/ESuuNz4O/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/MWe6jasm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/MWe6jasm/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/etYux6LQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/etYux6LQ/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/19db090dc300e7c94c75231aa830dfee",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32649_19db090d/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3ee734aef151cd670413a9ce474c814d",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32906_3ee734ae/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "dance-of-the-lion",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "dieu-mua-lan-su-rong",
+      "episodeCount": 5,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

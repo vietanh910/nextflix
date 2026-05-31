@@ -2,24 +2,24 @@
   "slug": "phieu-luu",
   "name": "Phiêu Lưu",
   "page": 4,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
     {
-      "id": "sword-and-fairy-3-2025-c3b5be54",
+      "id": "pets-on-a-train-2025-c7be9a02",
       "source": "ophim",
-      "slug": "tien-kiem-ky-hiep-truyen-3",
-      "name": "Tiên Kiếm Kỳ Hiệp Truyện 3",
-      "originName": "Sword and Fairy 3",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tien-kiem-ky-hiep-truyen-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tien-kiem-ky-hiep-truyen-3-thumb.jpg",
+      "slug": "biet-doi-thu-cung-cuoc-chien-tren-duong-ray",
+      "name": "Biệt Đội Thú Cưng: Cuộc Chiến Trên Đường Ray",
+      "originName": "Pets on a Train",
+      "posterUrl": "https://img.ophim.live/uploads/movies/biet-doi-thu-cung-cuoc-chien-tren-duong-ray-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/biet-doi-thu-cung-cuoc-chien-tren-duong-ray-thumb.jpg",
       "year": 2025,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 23",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Phiêu Lưu",
@@ -28,23 +28,60 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     },
     {
-      "id": "dr-stone-season-4-2025-701dc79b",
+      "id": "buen-camino-2025-6402b5ab",
       "source": "ophim",
-      "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
-      "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
-      "originName": "Dr. STONE (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
+      "slug": "con-duong-dung-dan",
+      "name": "Con đường đúng đắn",
+      "originName": "Buen Camino",
+      "posterUrl": "https://img.ophim.live/uploads/movies/con-duong-dung-dan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/con-duong-dung-dan-thumb.jpg",
       "year": 2025,
-      "type": "anime",
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "kamen-rider-zeztz-2025-c0138e3c",
+      "source": "ophim",
+      "slug": "hiep-si-mat-na-zeztz",
+      "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
+      "originName": "Kamen Rider ZEZTZ",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hiep-si-mat-na-zeztz-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hiep-si-mat-na-zeztz-thumb.jpg",
+      "year": 2025,
+      "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 32",
+      "episodeCurrent": "Tập 36",
       "categories": [
         {
           "name": "Hành Động",
@@ -75,21 +112,95 @@
       ]
     },
     {
-      "id": "kamen-rider-zeztz-2025-c2ebc58d",
-      "source": "phimapi",
-      "slug": "hiep-si-mat-na-zeztz",
-      "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
-      "originName": "Kamen Rider ZEZTZ",
-      "posterUrl": "https://phimimg.com/upload/vod/20250909-1/f24410500ec5132d041c94af7243ade3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250909-1/9687569eb69eb6084238e0c46149fbc0.jpg",
+      "id": "sword-of-coming-season-2-2025-ac11e235",
+      "source": "ophim",
+      "slug": "kiem-lai-phan-2",
+      "name": "Kiếm Lai (Phần 2)",
+      "originName": "Sword of Coming (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kiem-lai-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kiem-lai-phan-2-thumb.jpg",
       "year": 2025,
-      "type": "series",
+      "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 35",
+      "episodeCurrent": "Tập 25",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "one-cent-thief-season-2-2025-77d99fdb",
+      "source": "ophim",
+      "slug": "ten-trom-mot-xu-phan-2",
+      "name": "Tên Trộm Một Xu (Phần 2)",
+      "originName": "One Cent Thief (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ten-trom-mot-xu-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ten-trom-mot-xu-phan-2-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Malaysia",
+          "slug": "malaysia"
+        }
+      ]
+    },
+    {
+      "id": "wormtown-2025-9c1fb119",
+      "source": "ophim",
+      "slug": "thi-tran-giun-dat",
+      "name": "Thị trấn giun đất",
+      "originName": "Wormtown",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thi-tran-giun-dat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thi-tran-giun-dat-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Phiêu Lưu",
@@ -100,16 +211,78 @@
           "slug": "khoa-hoc"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sword-and-fairy-3-2025-c3b5be54",
+      "source": "ophim",
+      "slug": "tien-kiem-ky-hiep-truyen-3",
+      "name": "Tiên Kiếm Kỳ Hiệp Truyện 3",
+      "originName": "Sword and Fairy 3",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tien-kiem-ky-hiep-truyen-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tien-kiem-ky-hiep-truyen-3-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 24",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "dr-stone-season-4-2025-701dc79b",
+      "source": "ophim",
+      "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
+      "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
+      "originName": "Dr. STONE (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 33",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         }
       ],
       "countries": [
@@ -161,43 +334,6 @@
       ]
     },
     {
-      "id": "one-cent-thief-season-2-2025-1e4aba88",
-      "source": "phimapi",
-      "slug": "ten-trom-mot-xu-phan-2",
-      "name": "Tên Trộm Một Xu (Phần 2)",
-      "originName": "One Cent Thief (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260518-1/2737cd02bf156bb61f692ef8741bcc09.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/8933dea795465d3613f50fd2942ff98d.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
       "id": "sword-and-fairy-3-chines-2025-aadb5c6f",
       "source": "phimapi",
       "slug": "tien-kiem-ky-hiep-truyen-3",
@@ -208,7 +344,7 @@
       "year": 2025,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 23",
+      "episodeCurrent": "Tập 24",
       "categories": [
         {
           "name": "Hành Động",
@@ -249,7 +385,7 @@
       "year": 2024,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 180",
+      "episodeCurrent": "Tập 182",
       "categories": [
         {
           "name": "Hành Động",
@@ -286,7 +422,7 @@
       "year": 2024,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 178",
+      "episodeCurrent": "Tập 179",
       "categories": [
         {
           "name": "Hành Động",
@@ -323,7 +459,7 @@
       "year": 2024,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 176",
+      "episodeCurrent": "Tập 178",
       "categories": [
         {
           "name": "Hành Động",
@@ -346,68 +482,84 @@
       ]
     },
     {
-      "id": "bebefinn-season-1-2023-3841856b",
-      "source": "ophim",
-      "slug": "bebefinn-phan-1",
-      "name": "Bebefinn (Phần 1)",
-      "originName": "Bebefinn (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-1-thumb.jpg",
-      "year": 2023,
-      "type": "anime",
+      "id": "s-w-a-t-season-7-2024-f7d8b4ec",
+      "source": "phimapi",
+      "slug": "doi-dac-nhiem-swat-phan-7",
+      "name": "Đội Đặc Nhiệm SWAT (Phần 7)",
+      "originName": "S.W.A.T. (Season 7)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251221-1/298f139cfbba7ef1985ccc679439d686.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251221-1/f81e77e4f532cbbfd97029b388d70a73.jpg",
+      "year": 2024,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (3/3)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "bebefinn-season-2-2023-64a0fed2",
-      "source": "ophim",
-      "slug": "bebefinn-phan-2",
-      "name": "Bebefinn (Phần 2)",
-      "originName": "Bebefinn (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-2-thumb.jpg",
-      "year": 2023,
-      "type": "anime",
+      "id": "s-w-a-t-season-8-2024-29a27c91",
+      "source": "phimapi",
+      "slug": "doi-dac-nhiem-swat-phan-8",
+      "name": "Đội Đặc Nhiệm SWAT (Phần 8)",
+      "originName": "S.W.A.T. (Season 8)",
+      "posterUrl": "https://phimimg.com/upload/vod/20251221-1/47b65d1c38d57abe82948b9eb30d37f1.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251221-1/371114fb5721dc7be6f766c011e90879.jpg",
+      "year": 2024,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (3/3)",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -445,39 +597,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "soul-land-2-the-peerless-2023-c0608b58",
-      "source": "ophim",
-      "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
-      "name": "Đấu La Đại Lục 2: Tuyệt Thế Đường Môn",
-      "originName": "Soul Land 2: The Peerless Tang Clan",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dau-la-dai-luc-2-tuyet-the-duong-mon-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dau-la-dai-luc-2-tuyet-the-duong-mon-thumb.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 154",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Võ Thuật",
-          "slug": "vo-thuat"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -529,7 +648,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 341",
+      "episodeCurrent": "Tập 344",
       "categories": [
         {
           "name": "Hành Động",
@@ -566,7 +685,7 @@
       "year": 2023,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Tập 74",
+      "episodeCurrent": "Tập 75",
       "categories": [
         {
           "name": "Hành Động",
@@ -597,6 +716,39 @@
       ]
     },
     {
+      "id": "soul-land-2-the-peerless-2023-124dc523",
+      "source": "phimapi",
+      "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
+      "name": "Đấu La Đại Lục 2 (Tuyệt Thế Đường Môn)",
+      "originName": "Soul Land 2 (The Peerless Tang Clan)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240103-1/af2ae10bcb72617994f00dce440205dc.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240103-1/bbe888d771d0e6ff0f9935f8f6194c79.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 155",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "against-the-gods-2023-498e1046",
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
@@ -607,7 +759,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 38",
+      "episodeCurrent": "Tập 39",
       "categories": [
         {
           "name": "Hành Động",
@@ -648,7 +800,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 78",
+      "episodeCurrent": "Tập 79",
       "categories": [
         {
           "name": "Hành Động",
@@ -669,6 +821,31 @@
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "sheriff-labrador-2022-527931e4",
+      "source": "ophim",
+      "slug": "canh-sat-truong-labrador",
+      "name": "Cảnh sát trưởng Labrador",
+      "originName": "Sheriff Labrador",
+      "posterUrl": "https://img.ophim.live/uploads/movies/canh-sat-truong-labrador-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/canh-sat-truong-labrador-thumb.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (11/11)",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         }
       ],
       "countries": [
@@ -694,191 +871,6 @@
         {
           "name": "Võ Thuật",
           "slug": "vo-thuat"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "fights-break-sphere-seas-2022-e4bf9962",
-      "source": "phimapi",
-      "slug": "dau-pha-thuong-khung-phan-5",
-      "name": "Đấu Phá Thương Khung (Phần 5)",
-      "originName": "Fights Break Sphere (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240822-1/58a4a1135f235b376641c5171d410b04.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240822-1/27bfb98b2cf23111b0c11e82b0483fc4.jpg",
-      "year": 2022,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 200",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "grid-2022-abccdcc3",
-      "source": "phimapi",
-      "slug": "luoi-dien",
-      "name": "Lưới Điện",
-      "originName": "Grid",
-      "posterUrl": "https://phimimg.com/upload/vod/20260522-1/cdfaf3155ba0371517771e6980efc629.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260522-1/fead1a09a82cb0c647b11ad85d6d75dc.jpg",
-      "year": 2022,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "one-cent-thief-season-1-2022-0bfc5818",
-      "source": "phimapi",
-      "slug": "ten-trom-mot-xu-phan-1",
-      "name": "Tên Trộm Một Xu (Phần 1)",
-      "originName": "One Cent Thief (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260518-1/6d65bc6029b7ff1b5f063af993002a8d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/4b308dd4efb8d32931e731d9a5073cbd.jpg",
-      "year": 2022,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
-      "id": "tomb-of-fallen-gods-2022-69e5b0a0",
-      "source": "phimapi",
-      "slug": "than-mo-2022",
-      "name": "Thần Mộ",
-      "originName": "Tomb Of Fallen Gods",
-      "posterUrl": "https://phimimg.com/upload/vod/20251124-1/b20ca22d56f6ea0c41cdafea81018a64.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251124-1/74ab8505711d0ca1a57d85c0a13fb19f.jpg",
-      "year": 2022,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 86",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "against-the-sky-supreme-2021-2aa96a6d",
-      "source": "ophim",
-      "slug": "nghich-thien-chi-ton",
-      "name": "Nghịch Thiên Chí Tôn",
-      "originName": "Against The Sky Supreme",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nghich-thien-chi-ton-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nghich-thien-chi-ton-thumb.jpg",
-      "year": 2021,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 505",
-      "categories": [
-        {
-          "name": "Võ Thuật",
-          "slug": "vo-thuat"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         },
         {
           "name": "Phiêu Lưu",

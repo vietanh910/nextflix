@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 26",
+  "episodeCurrent": "Tập 35",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -237,15 +237,117 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/I6MniVod/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260523/I6MniVod/index.m3u8"
+    },
+    {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/LsWjiZMW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/LsWjiZMW/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/UhAC8G60/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/UhAC8G60/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/iKZU2UHz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/iKZU2UHz/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/fPweZId7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/fPweZId7/index.m3u8"
+    },
+    {
+      "name": "Tập 31",
+      "slug": "tap-31",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260526/EhmMbSgH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260526/EhmMbSgH/index.m3u8"
+    },
+    {
+      "name": "Tập 32",
+      "slug": "tap-32",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/lw523kQ1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/lw523kQ1/index.m3u8"
+    },
+    {
+      "name": "Tập 33",
+      "slug": "tap-33",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/ahl1FyVB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/ahl1FyVB/index.m3u8"
+    },
+    {
+      "name": "Tập 34",
+      "slug": "tap-34",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/R5mHSmUS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/R5mHSmUS/index.m3u8"
+    },
+    {
+      "name": "Tập 35",
+      "slug": "tap-35",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/Qm0eiPZt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/Qm0eiPZt/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/cd6b529eb682569567e62e86357dc118",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32798_cd6b529e/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/37d7465c1cf6b226541c17d5b92034c1",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32799_37d7465c/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/74a190a673b9880b825416fd36a44eb3",
+      "m3u8Url": "https://vip.opstream90.com/20260524/32800_74a190a6/index.m3u8"
     }
   ],
   "sources": [
     {
+      "source": "ophim",
+      "slug": "chu-giac",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
       "source": "phimapi",
       "slug": "chu-giac",
-      "episodeCount": 26,
+      "episodeCount": 35,
       "priority": 1
     }
   ],
-  "_priority": 1
+  "_priority": 0
 }

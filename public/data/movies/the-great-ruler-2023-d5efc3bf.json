@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "completed",
-  "episodeCurrent": "Tập 74",
+  "episodeCurrent": "Tập 75",
   "categories": [
     {
       "name": "Hành Động",
@@ -633,13 +633,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/Dw4gQw6q/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260521/Dw4gQw6q/index.m3u8"
+    },
+    {
+      "name": "Tập 75",
+      "slug": "tap-75",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/XZljCm0o/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/XZljCm0o/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-chua-te-3d",
-      "episodeCount": 74,
+      "episodeCount": 75,
       "priority": 1
     }
   ],

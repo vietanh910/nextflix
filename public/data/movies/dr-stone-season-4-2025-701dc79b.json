@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 32",
+  "episodeCurrent": "Tập 33",
   "categories": [
     {
       "name": "Hành Động",
@@ -299,6 +299,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260522/32626_6a6a609a/index.m3u8"
     },
     {
+      "name": "33",
+      "slug": "33",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/10dc53afdaa7860aff51b884f303b0df",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33229_10dc53af/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -553,19 +561,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/CY9zUwaW/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260521/CY9zUwaW/index.m3u8"
+    },
+    {
+      "name": "Tập 33",
+      "slug": "tap-33",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/7QoIUSo0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/7QoIUSo0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
-      "episodeCount": 32,
+      "episodeCount": 33,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
-      "episodeCount": 32,
+      "episodeCount": 33,
       "priority": 1
     }
   ],

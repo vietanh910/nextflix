@@ -1,0 +1,47 @@
+{
+  "id": "qifarah-2025-ca2a6407",
+  "source": "ophim",
+  "slug": "qifarah",
+  "name": "Qifarah",
+  "originName": "Qifarah",
+  "posterUrl": "https://img.ophim.live/uploads/movies/qifarah-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/qifarah-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Malaysia",
+      "slug": "malaysia"
+    }
+  ],
+  "description": "<p>Một người con trai xa cách trở về từ nước ngoài để chăm sóc người cha đang hấp hối, nhưng lại phát hiện ra những bí mật đen tối, nham hiểm về gia đình mình, trải dài cả quá khứ và hiện tại.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/15577bd89f95fbe74ff708dd9d3c49a8",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33301_15577bd8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "qifarah",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

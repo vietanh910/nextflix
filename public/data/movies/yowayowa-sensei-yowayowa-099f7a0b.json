@@ -10,12 +10,71 @@
   "episodeCurrent": "Tập 7",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Xoay quanh Abiko-sensei, một nữ giáo viên trẻ có tính cách cực kỳ yếu đuối, vụng về và dễ bị tổn thương (đúng như cái tên \"Yowayowa\" - nghĩa là yếu ớt). Nhân vật nam chính là Hiyori, một học sinh luôn cố gắng giúp đỡ và bảo vệ cô giáo của mình khỏi những tình huống dở khóc dở cười do sự hậu đậu của cô gây ra.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=74286969132962b157dc43f2be54fd39",
+      "m3u8Url": "https://sing.phimmoi.net/74286969132962b157dc43f2be54fd39/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=187b03acc8abe65eb31c5f4574bff330",
+      "m3u8Url": "https://sing.phimmoi.net/187b03acc8abe65eb31c5f4574bff330/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=a4b642ebb1045e32f5bbef5c79cf117f",
+      "m3u8Url": "https://sing.phimmoi.net/a4b642ebb1045e32f5bbef5c79cf117f/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=9cdfde5fc91596220e5b5c65b8a5f1db",
+      "m3u8Url": "https://sing.phimmoi.net/9cdfde5fc91596220e5b5c65b8a5f1db/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=5886dd8129eab9340358b61e6867c738",
+      "m3u8Url": "https://sing.phimmoi.net/5886dd8129eab9340358b61e6867c738/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=d563a75150f06adf21b0c58ee0073b61",
+      "m3u8Url": "https://sing.phimmoi.net/d563a75150f06adf21b0c58ee0073b61/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=e7bc3bacd95efcefd389db074bd52986",
+      "m3u8Url": "https://sing.phimmoi.net/e7bc3bacd95efcefd389db074bd52986/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "co-giao-mong-manh",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 2
     }
   ],

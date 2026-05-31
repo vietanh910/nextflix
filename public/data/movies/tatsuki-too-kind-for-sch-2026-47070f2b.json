@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính kịch",
@@ -75,6 +75,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260523/32725_63aa6680/index.m3u8"
     },
     {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c8d9450ad0f783748512ced1c72c5da3",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33338_c8d9450a/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -121,19 +129,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260521/fEX7wGa6/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260521/fEX7wGa6/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/1cYKkNTB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/1cYKkNTB/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thay-tatsuki-qua-de-tinh",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "thay-tatsuki-qua-de-tinh",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

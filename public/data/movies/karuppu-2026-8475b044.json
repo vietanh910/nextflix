@@ -1,0 +1,48 @@
+{
+  "id": "karuppu-2026-8475b044",
+  "source": "ophim",
+  "slug": "karuppu",
+  "name": "Karuppu",
+  "originName": "Karuppu",
+  "posterUrl": "https://img.ophim.live/uploads/movies/karuppu-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/karuppu-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Trong một thế giới nơi công lý lung lay, vị thần hộ mệnh Vettai Karuppu hóa thân thành luật sư để chiến đấu chống lại hệ thống pháp luật tham nhũng đang bóc lột những người yếu thế. Karuppu kết hợp hành động, công lý và thần thoại thành một bộ phim truyền hình siêu nhiên hấp dẫn.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "karuppu",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

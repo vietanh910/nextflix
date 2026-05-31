@@ -1,0 +1,34 @@
+{
+  "id": "payback-5704a3ff",
+  "source": "nguonc",
+  "slug": "bao-thu-2026",
+  "name": "Báo Thù (2026)",
+  "originName": "Payback",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/6/bao-thu-2026-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/bao-thu-2026.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 1",
+  "categories": [],
+  "countries": [],
+  "description": "Sun là một chàng trai giao hàng 25 tuổi mang trong mình quá khứ đầy biến cố. Bạo lực đã cướp đi người anh trai và mẹ của anh, còn cảm giác tội lỗi thôi thúc anh tìm kiếm sự chuộc lỗi—nhưng không thể khiến anh quên đi những gì đã xảy ra. Việc gia nhập Dream Entertainment đánh dấu khởi đầu cho hành trình báo thù của Sun, đồng thời cũng là cuộc hội ngộ với Jay, vị giám đốc công ty đầy uy quyền, cuốn hút nhưng khó gần.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=3e89ecbe5e8b564f6e248ad23cf74ab6",
+      "m3u8Url": "https://sing.phimmoi.net/3e89ecbe5e8b564f6e248ad23cf74ab6/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "bao-thu-2026",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

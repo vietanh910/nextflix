@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính kịch",
@@ -73,13 +73,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/d537ee491b74b6c989edc42876533028",
       "m3u8Url": "https://vip.opstream10.com/20260521/33715_d537ee49/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/bbd36655e64de9758eb68ccc741176f4",
+      "m3u8Url": "https://vip.opstream10.com/20260525/33761_bbd36655/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nhung-bong-hoa-ac",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 0
     }
   ],

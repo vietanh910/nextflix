@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 23",
+  "episodeCurrent": "Tập 24",
   "categories": [
     {
       "name": "Hành Động",
@@ -213,13 +213,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/2877b49ebb731389a1a583bda03540bd",
       "m3u8Url": "https://vip.opstream90.com/20260519/32345_2877b49e/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/81fc53c51059936bda7ac43bdcb32449",
+      "m3u8Url": "https://vip.opstream90.com/20260526/32923_81fc53c5/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tien-kiem-ky-hiep-truyen-3",
-      "episodeCount": 23,
+      "episodeCount": 24,
       "priority": 0
     }
   ],

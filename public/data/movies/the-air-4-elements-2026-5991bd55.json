@@ -1,0 +1,79 @@
+{
+  "id": "the-air-4-elements-2026-5991bd55",
+  "source": "phimapi",
+  "slug": "gio-thoang-tinh-theo",
+  "name": "Gió Thoảng Tình Theo",
+  "originName": "The Air 4 Elements",
+  "posterUrl": "https://phimimg.com/upload/vod/20260518-1/915794645eafc3f63b90e9a4175bf5f6.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/44e82161567f7c384837926ad3ee9407.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "Công chúa Blue, người thừa kế ngai vàng xứ Madelin, có chuyến công du đến Thái Lan và gặp gỡ Wayo Wathinwanit – một sĩ quan cảnh sát được giao nhiệm vụ bảo vệ an toàn cho cô. Tuy nhiên, chuyến đi nhanh chóng trở thành một cơn ác mộng khi một âm mưu ám sát nổ ra, buộc công chúa phải tháo chạy, và Lom là người duy nhất có thể bảo vệ cô.&nbsp; Trong thời gian lẩn trốn kẻ thù, cả hai phải đối mặt với vô vàn hiểm nguy và những tình huống ngặt nghèo. Chính sự đồng cam cộng khổ ấy đã kéo họ lại gần nhau hơn, làm nảy sinh một thứ tình cảm thân mật và cấm đoán không thể cứu vãn. Dù biết rõ rằng mối tình này là bất khả thi, trái tim của Lom vẫn thúc giục cô phải bảo vệ công chúa bằng mọi giá. Khi kẻ thù tìm ra nơi ẩn náu của họ, một trận chiến sinh tử cuối cùng chuẩn bị bắt đầu.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260517/4eFRlm9F/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260517/4eFRlm9F/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260524/ux9Gy60X/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260524/ux9Gy60X/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/kV5Vevyj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/kV5Vevyj/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "gio-thoang-tinh-theo",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

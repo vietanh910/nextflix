@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hài Hước",
@@ -75,6 +75,22 @@
       "m3u8Url": "https://vip.opstream90.com/20260520/32428_c8e1d3b1/index.m3u8"
     },
     {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3c393443d24e71aeb3557011787c11cd",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33110_3c393443/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8760d018b44febe1c3bbed05489bf9f2",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33111_8760d018/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -113,19 +129,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/hese4Yc0/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260520/hese4Yc0/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/AtiApzcj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/AtiApzcj/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/Y0XIWV67/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/Y0XIWV67/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "bi-an-thi-tran-widows-bay",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "bi-an-thi-tran-widows-bay",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/vung-dat-vang-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -93,13 +93,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/da7966481086a4e3a2dde7c2ccbc49e3",
       "m3u8Url": "https://vip.opstream10.com/20260521/33718_da796648/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/8b48ea597d2862688e4aa8a2b28651a3",
+      "m3u8Url": "https://vip.opstream10.com/20260527/33770_8b48ea59/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/7cffa284a0d3d40546080317906c45eb",
+      "m3u8Url": "https://vip.opstream10.com/20260527/33771_7cffa284/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vung-dat-vang",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

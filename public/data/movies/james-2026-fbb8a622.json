@@ -49,30 +49,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/0789e47353cb91045d7bd8a39bff5d0b",
       "m3u8Url": "https://vip.opstream90.com/20260522/32630_0789e473/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/NuU9VqsQ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/NuU9VqsQ/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/intY8RPW/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/intY8RPW/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260523/WfQRww4O/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260523/WfQRww4O/index.m3u8"
     }
   ],
   "sources": [
@@ -81,12 +57,6 @@
       "slug": "james",
       "episodeCount": 3,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "james",
-      "episodeCount": 3,
-      "priority": 1
     }
   ],
   "_priority": 0

@@ -1,0 +1,51 @@
+{
+  "id": "the-lotto-winner-2026-fed4c38a",
+  "source": "ophim",
+  "slug": "nguoi-trung-so",
+  "name": "Người Trúng Số",
+  "originName": "The Lotto Winner",
+  "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-trung-so-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-trung-so-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Philippines",
+      "slug": "philippines"
+    }
+  ],
+  "description": "<p>Đang đau buồn và ốm yếu, một người đàn ông trúng xổ số, sau đó đoàn tụ với con gái và cháu ngoại đã xa cách, những người thách thức quan điểm của ông về gia đình và cuộc sống.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/632e3ccec223290601ef00e26aa62bd0",
+      "m3u8Url": "https://vip.opstream90.com/20260528/33191_632e3cce/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "nguoi-trung-so",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

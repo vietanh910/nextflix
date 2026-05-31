@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/cia-phan-1-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (12/12)",
   "categories": [
     {
       "name": "Hành Động",
@@ -113,13 +113,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/32931aa4a3c83357456f32cd508a115b",
       "m3u8Url": "https://vip.opstream10.com/20260520/33711_32931aa4/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/7dd63bc018cc1cc492e7d87ac6c3e465",
+      "m3u8Url": "https://vip.opstream10.com/20260525/33759_7dd63bc0/index.m3u8"
+    },
+    {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/8d9aa1e40909b42b758c822003c4b983",
+      "m3u8Url": "https://vip.opstream10.com/20260529/33776_8d9aa1e4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cia-phan-1",
-      "episodeCount": 10,
+      "episodeCount": 12,
       "priority": 0
     }
   ],

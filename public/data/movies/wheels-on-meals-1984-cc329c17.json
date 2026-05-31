@@ -1,0 +1,63 @@
+{
+  "id": "wheels-on-meals-1984-cc329c17",
+  "source": "phimapi",
+  "slug": "quan-an-luu-dong",
+  "name": "Quán Ăn Lưu Động",
+  "originName": "Wheels On Meals",
+  "posterUrl": "https://phimimg.com/upload/vod/20260527-1/0d257845d400b95b3d05b92ba50a3ff3.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/02a8f0de154679fe4f4b443f630264c2.jpg",
+  "year": 1984,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "Thành Long và Hồng Kim Bảo vào vai 2 anh chàng bán thức ăn dạo trên đường phố tình cờ quen được với một cô nàng móc túi Sylvia. Đột nhiên Sylvia bị bắt cóc khi phát hiện ra mình là người thừa kế một gia sản khổng lồ. Hai người đã cùng nhau tìm cách cứu cô thoát khỏi tay bọn xấu.Quán Ăn Lưu Động",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/YXUV3xWe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/YXUV3xWe/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "quan-an-luu-dong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

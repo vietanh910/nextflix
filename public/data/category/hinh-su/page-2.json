@@ -5,17 +5,108 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "r-j-decker-2026-6aa80687",
+      "id": "normal-2026-e1e11384",
       "source": "ophim",
-      "slug": "rj-decker",
-      "name": "Thám Tử R.J. Decker",
-      "originName": "R.J. Decker",
-      "posterUrl": "https://img.ophim.live/uploads/movies/rj-decker-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/rj-decker-thumb.jpg",
+      "slug": "normal",
+      "name": "Normal",
+      "originName": "Normal",
+      "posterUrl": "https://img.ophim.live/uploads/movies/normal-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/normal-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ace-female-bodyguard-2026-677a21e3",
+      "source": "ophim",
+      "slug": "nu-ve-si-vuong-bai",
+      "name": "Nữ Vệ Sĩ Vương Bài",
+      "originName": "Ace Female Bodyguard",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nu-ve-si-vuong-bai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-ve-si-vuong-bai-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-chestnut-man-season--2026-f323ddd6",
+      "source": "ophim",
+      "slug": "sat-nhan-hat-de-phan-2",
+      "name": "Sát Nhân Hạt Dẻ (Phần 2)",
+      "originName": "The Chestnut Man (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sat-nhan-hat-de-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sat-nhan-hat-de-phan-2-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đan Mạch",
+          "slug": "dan-mach"
+        }
+      ]
+    },
+    {
+      "id": "murder-mindfully-season--2026-e653f1bf",
+      "source": "ophim",
+      "slug": "sat-nhan-huu-y-phan-2",
+      "name": "Sát nhân hữu ý (Phần 2)",
+      "originName": "Murder Mindfully (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sat-nhan-huu-y-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sat-nhan-huu-y-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -32,31 +123,39 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Đức",
+          "slug": "duc"
         }
       ]
     },
     {
-      "id": "should-i-marry-a-murdere-2026-84b38d1f",
+      "id": "spider-noir-2026-987ffcf7",
       "source": "ophim",
-      "slug": "toi-co-nen-lay-ke-sat-nhan",
-      "name": "Tôi Có Nên Lấy Kẻ Sát Nhân?",
-      "originName": "Should I Marry A Murderer?",
-      "posterUrl": "https://img.ophim.live/uploads/movies/toi-co-nen-lay-ke-sat-nhan-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/toi-co-nen-lay-ke-sat-nhan-thumb.jpg",
+      "slug": "spider-noir",
+      "name": "Spider-Noir",
+      "originName": "Spider-Noir",
+      "posterUrl": "https://img.ophim.live/uploads/movies/spider-noir-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/spider-noir-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (3/3)",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Tài Liệu",
-          "slug": "tai-lieu"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
@@ -67,13 +166,13 @@
       ]
     },
     {
-      "id": "i-m-undercover-2026-28758c90",
+      "id": "scare-out-2026-25f114db",
       "source": "ophim",
-      "slug": "toi-la-ke-nam-vung",
-      "name": "Tôi Là Kẻ Nằm Vùng",
-      "originName": "I'm Undercover",
-      "posterUrl": "https://img.ophim.live/uploads/movies/toi-la-ke-nam-vung-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/toi-la-ke-nam-vung-thumb.jpg",
+      "slug": "su-thuc-tinh-lang-tham",
+      "name": "Sự Thức Tỉnh Lặng Thầm",
+      "originName": "Scare Out",
+      "posterUrl": "https://img.ophim.live/uploads/movies/su-thuc-tinh-lang-tham-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/su-thuc-tinh-lang-tham-thumb.jpg",
       "year": 2026,
       "type": "single",
       "status": "completed",
@@ -92,6 +191,80 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "sammy-s-children-s-day-2026-f3ce0c4d",
+      "source": "ophim",
+      "slug": "tet-thieu-nhi-cua-so-tam",
+      "name": "Tết Thiếu Nhi của Sơ Tam",
+      "originName": "Sammy's Children's Day",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tet-thieu-nhi-cua-so-tam-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tet-thieu-nhi-cua-so-tam-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (9/9)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "r-j-decker-2026-6aa80687",
+      "source": "ophim",
+      "slug": "rj-decker",
+      "name": "Thám Tử R.J. Decker",
+      "originName": "R.J. Decker",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rj-decker-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rj-decker-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -138,8 +311,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/tracker-phan-3-thumb-1761239638607.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 21",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -287,8 +460,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/fire-country-phan-4-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 19",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -320,8 +493,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/vung-dat-vang-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -340,6 +513,47 @@
       ]
     },
     {
+      "id": "payback-2026-e01b6ac6",
+      "source": "phimapi",
+      "slug": "bao-thu-2026",
+      "name": "Báo Thù",
+      "originName": "Payback",
+      "posterUrl": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        },
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-scarecrow-2026-9060ce7a",
       "source": "phimapi",
       "slug": "bu-nhin-bong-dem",
@@ -349,8 +563,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -377,17 +591,17 @@
       ]
     },
     {
-      "id": "love-of-silom-2026-6515060d",
+      "id": "the-air-4-elements-2026-5991bd55",
       "source": "phimapi",
-      "slug": "chuyen-tinh-silom",
-      "name": "Chuyện Tình Silom",
-      "originName": "Love Of Silom",
-      "posterUrl": "https://phimimg.com/upload/vod/20260428-1/2addc27160eb0c215cf6de244a763823.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260428-1/3dc85f5a14c2f7ad5a06c1a837c14dfb.jpg",
+      "slug": "gio-thoang-tinh-theo",
+      "name": "Gió Thoảng Tình Theo",
+      "originName": "The Air 4 Elements",
+      "posterUrl": "https://phimimg.com/upload/vod/20260518-1/915794645eafc3f63b90e9a4175bf5f6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/44e82161567f7c384837926ad3ee9407.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -398,45 +612,12 @@
           "slug": "hinh-su"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "missing-2026-68e8ac4f",
-      "source": "phimapi",
-      "slug": "mat-trai-cua-mat-tich-ban-thai",
-      "name": "Mặt Trái Của Mất Tích (Bản Thái)",
-      "originName": "Missing",
-      "posterUrl": "https://phimimg.com/upload/vod/20260508-1/d831a279c7601239f09cc867d0c515c3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260508-1/89eebf5df41b8d49a4ca3104fbae8b8d.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Tâm Lý",
@@ -461,7 +642,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -484,6 +665,35 @@
       ]
     },
     {
+      "id": "aaryan-2025-1a73b075",
+      "source": "ophim",
+      "slug": "aaryan",
+      "name": "Aaryan",
+      "originName": "Aaryan",
+      "posterUrl": "https://img.ophim.live/uploads/movies/aaryan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/aaryan-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
       "id": "sheriff-country-2025-577d2231",
       "source": "ophim",
       "slug": "canh-sat-truong-vung-que-phan-1",
@@ -493,8 +703,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/canh-sat-truong-vung-que-phan-1-thumb.jpg",
       "year": 2025,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 19",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -513,39 +723,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "lillys-verschwinden-seas-2025-9153f856",
-      "source": "ophim",
-      "slug": "lilly-mat-tich-phan-1",
-      "name": "Lilly Mất Tích (Phần 1)",
-      "originName": "Lillys Verschwinden (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/lilly-mat-tich-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/lilly-mat-tich-phan-1-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đức",
-          "slug": "duc"
         }
       ]
     },
@@ -612,183 +789,6 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "one-cent-thief-season-2-2025-1e4aba88",
-      "source": "phimapi",
-      "slug": "ten-trom-mot-xu-phan-2",
-      "name": "Tên Trộm Một Xu (Phần 2)",
-      "originName": "One Cent Thief (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260518-1/2737cd02bf156bb61f692ef8741bcc09.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/8933dea795465d3613f50fd2942ff98d.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
-      "id": "under-the-bridge-2024-f07b99b3",
-      "source": "ophim",
-      "slug": "bi-kich-duoi-chan-cau",
-      "name": "Bi Kịch Dưới Chân Cầu",
-      "originName": "Under the Bridge",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bi-kich-duoi-chan-cau-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bi-kich-duoi-chan-cau-thumb.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-fiery-priest-season--2024-bedd8c6f",
-      "source": "phimapi",
-      "slug": "linh-muc-nhiet-huyet-phan-2",
-      "name": "Linh Mục Nhiệt Huyết (Phần 2)",
-      "originName": "The Fiery Priest (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250109-1/8791faa09ddc1310d783dc3e60a8ef5b.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250109-1/b5161dbe68915ec7998d567fb8ae1c21.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "you-will-die-in-6-hours-2024-4ffc99c3",
-      "source": "phimapi",
-      "slug": "tien-tri-tu-than",
-      "name": "Tiên Tri Tử Thần",
-      "originName": "You Will Die In 6 Hours",
-      "posterUrl": "https://phimimg.com/upload/vod/20260524-1/ce4cb2ee8e2161c773a1e311bd9000dd.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250226-1/1125e0b8a8f1d66744bdc1019f2f0e3e.jpg",
-      "year": 2024,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "citadel-2023-6da81287",
-      "source": "ophim",
-      "slug": "citadel",
-      "name": "Citadel (Phần 1)",
-      "originName": "Citadel",
-      "posterUrl": "https://img.ophim.live/uploads/movies/citadel-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/citadel-thumb.jpg",
-      "year": 2023,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

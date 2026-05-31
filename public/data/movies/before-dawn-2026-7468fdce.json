@@ -1,0 +1,47 @@
+{
+  "id": "before-dawn-2026-7468fdce",
+  "source": "ophim",
+  "slug": "canh-chim-nhan-co-doc",
+  "name": "Cánh Chim Nhạn Cô Độc",
+  "originName": "Before Dawn",
+  "posterUrl": "https://img.ophim.live/uploads/movies/canh-chim-nhan-co-doc-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/canh-chim-nhan-co-doc-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Năm 1935 tại Thượng Hải, tổ chức ngầm của Đảng Cộng sản Trung Quốc bị đặc vụ Quốc Dân đảng đả kích nặng nề, hồ sơ tuyệt mật rơi vào tình thế nguy cấp. Đảng viên ngầm Từ Phong và Lý Tịnh nhận nhiệm vụ trong lúc hiểm nguy, mở ra cuộc đấu trí sinh tử với phản đồ và đặc vụ, đồng thời còn phải đối mặt với mối thù anh em trở mặt năm xưa. Trải qua vô số hy sinh và thử thách, cuối cùng họ đã thành công lấy lại hồ sơ tuyệt mật, hoàn thành sứ mệnh cách mạng.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8d2cbe9d22a199026ddcbae5f0f67ef0",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32887_8d2cbe9d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "canh-chim-nhan-co-doc",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

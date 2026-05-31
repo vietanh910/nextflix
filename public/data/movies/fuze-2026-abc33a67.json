@@ -1,0 +1,52 @@
+{
+  "id": "fuze-2026-abc33a67",
+  "source": "ophim",
+  "slug": "kip-no",
+  "name": "Kíp Nổ",
+  "originName": "Fuze",
+  "posterUrl": "https://img.ophim.live/uploads/movies/kip-no-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/kip-no-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Một quả bom chưa phát nổ từ Thế chiến II được phát hiện tại một công trường xây dựng đông đúc ở trung tâm London. Hỗn loạn nhanh chóng bùng nổ khi quân đội và cảnh sát phải tiến hành cuộc sơ tán quy mô lớn trong cuộc chạy đua nghẹt thở với thời gian.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "kip-no",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

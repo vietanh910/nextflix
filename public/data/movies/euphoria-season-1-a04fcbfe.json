@@ -1,0 +1,90 @@
+{
+  "id": "euphoria-season-1-a04fcbfe",
+  "source": "nguonc",
+  "slug": "phe-pha-phan-1",
+  "name": "Phê Pha (Phần 1)",
+  "originName": "Euphoria (Season 1)",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/phe-pha-phan-1-poster.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/phe-pha-phan-1-thumb.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Hoàn tất (8/8)",
+  "categories": [],
+  "countries": [],
+  "description": "<p>Một cái nhìn về cuộc sống cho một nhóm học sinh trung học khi họ vật lộn với các vấn đề về ma túy, tình dục và bạo lực.</p>",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=78a048d2c575b6ebabf1c09caf6958aa",
+      "m3u8Url": "https://sing.phimmoi.net/78a048d2c575b6ebabf1c09caf6958aa/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=e844b012fe5b57b935fc5a52688a0d4b",
+      "m3u8Url": "https://sing.phimmoi.net/e844b012fe5b57b935fc5a52688a0d4b/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=13b1fdc11c2b928ad2d610b827ca5d79",
+      "m3u8Url": "https://sing.phimmoi.net/13b1fdc11c2b928ad2d610b827ca5d79/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=aa2deea05fb66f93a5c5254c1a4d459f",
+      "m3u8Url": "https://sing.phimmoi.net/aa2deea05fb66f93a5c5254c1a4d459f/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=96f97c87ef3ceefdedcb23e86a6b1d6d",
+      "m3u8Url": "https://sing.phimmoi.net/96f97c87ef3ceefdedcb23e86a6b1d6d/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=fb32071997d01c8ba8f9e855509c9f05",
+      "m3u8Url": "https://sing.phimmoi.net/fb32071997d01c8ba8f9e855509c9f05/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=83d83a2e63adc8f3f3f7dd4a66a4e2a2",
+      "m3u8Url": "https://sing.phimmoi.net/83d83a2e63adc8f3f3f7dd4a66a4e2a2/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=08081f17d9a3ac1a65e461a240b2705e",
+      "m3u8Url": "https://sing.phimmoi.net/08081f17d9a3ac1a65e461a240b2705e/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "phe-pha-phan-1",
+      "episodeCount": 8,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

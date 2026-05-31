@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hành Động",
@@ -53,13 +53,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/6499e19d47d7cbd3302a26fdb40d0b41",
       "m3u8Url": "https://vip.opstream90.com/20260523/32769_6499e19d/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/706e79e774e8345ecccc7ed401793d9e",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33414_706e79e7/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "gio-thoang-tinh-theo",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 0
     }
   ],

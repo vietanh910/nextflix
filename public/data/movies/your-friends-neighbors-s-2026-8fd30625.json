@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Hình Sự",
@@ -95,6 +95,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260523/32766_2704910c/index.m3u8"
     },
     {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/cc46f33ee83eb94cea644695f8717c0e",
+      "m3u8Url": "https://vip.opstream90.com/20260529/33310_cc46f33e/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -157,19 +165,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/tmdpzkDt/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260522/tmdpzkDt/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/gKZHlY46/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/gKZHlY46/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ban-be-and-hang-xom-phan-2",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "ban-be-hang-xom-phan-2",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

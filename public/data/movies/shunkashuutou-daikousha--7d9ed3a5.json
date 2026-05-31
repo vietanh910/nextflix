@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/9/su-gia-bon-mua-vu-dieu-mua-xuan-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/9/su-gia-bon-mua-vu-dieu-mua-xuan.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [],
   "countries": [],
   "description": "Trong một thế giới mà các vị thần gọi là Đặc vụ Bốn Mùa mang thời tiết đến cho nhân gian, mùa Xuân đã biến mất suốt 10 năm sau khi Đặc vụ Hinagiku bị bắt cóc. Cốt truyện chính xoay quanh sự trở lại của Hinagiku. Sau một thập kỷ chịu đựng đau khổ, cô phải cùng hộ vệ Sakura thực hiện sứ mệnh kết nối lại vòng quay bốn mùa. Tuy nhiên, họ phải đối mặt với những âm mưu chính trị, các phe phái nổi loạn muốn lật đổ hệ thống thần thánh, và những vết sẹo tâm lý từ quá khứ bi kịch.",
@@ -57,9 +57,7 @@
       "name": "6",
       "slug": "tap-6",
       "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=8368e53e2b9afbe32a1e006b985d0de6",
-      "m3u8Url": "https://sing.phimmoi.net/8368e53e2b9afbe32a1e006b985d0de6/hls.m3u8"
+      "source": "nguonc"
     },
     {
       "name": "7",
@@ -84,13 +82,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=ba6d8e92fd43e9d1fdcf34346bdd3da5",
       "m3u8Url": "https://sing.phimmoi.net/ba6d8e92fd43e9d1fdcf34346bdd3da5/hls.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "tap-10",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=7aa9bb0b322b3964667f747af2f7918a",
+      "m3u8Url": "https://sing.phimmoi.net/7aa9bb0b322b3964667f747af2f7918a/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 2
     }
   ],

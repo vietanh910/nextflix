@@ -1,0 +1,63 @@
+{
+  "id": "in-her-shoes-2005-81be1239",
+  "source": "phimapi",
+  "slug": "chi-em-nha-feller",
+  "name": "Chị Em Nhà Feller",
+  "originName": "In Her Shoes",
+  "posterUrl": "https://phimimg.com/upload/vod/20260530-1/be8b0f62b38a45bf8566aadcf4254943.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/8c252fbdc99a8faa4b5113360d5fe6e9.jpg",
+  "year": 2005,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Maggie – một cô gái tiệc tùng lêu lổng và vô trách nhiệm – bị tống cổ khỏi nhà của bố và mẹ kế, nơi cô bấy lâu nay vẫn ăn bám miễn phí. Sau đó, cô được người chị gái chăm chỉ của mình là Rose – một luật sư đang làm việc tại Philadelphia – cưu mang. Thế nhưng, sau khi lối sống quậy phá và bừa bãi của Maggie làm hủy hoại chuyện tình cảm của chị gái, Rose cũng không thể chịu đựng nổi và buộc phải đuổi cô đi. Bước ngoặt xảy ra khi người bà ngoại mà hai chị em chưa từng biết đến sự tồn tại bất ngờ bước vào cuộc đời họ, buộc hai chị em phải đối mặt với những sự thật phức tạp về chính bản thân mình và gia đình.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/mrzMBzjX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/mrzMBzjX/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chi-em-nha-feller",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

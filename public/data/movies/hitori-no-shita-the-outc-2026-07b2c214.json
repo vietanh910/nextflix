@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 22",
+  "episodeCurrent": "Tập 23",
   "categories": [
     {
       "name": "Hành Động",
@@ -192,7 +192,7 @@
     },
     {
       "name": "19",
-      "slug": "19ep20_-the-out-cast-s6-mainland-china-comic",
+      "slug": "19",
       "serverName": "Vietsub #1",
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/1844bd1b6d59ab61b41e110f72b4ef61",
@@ -221,13 +221,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/2a39b5110caf02b3ca7e545d509be7e6",
       "m3u8Url": "https://vip.opstream90.com/20260523/32718_2a39b511/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/291ed4a3e93cdca112eef1dd0ca26bed",
+      "m3u8Url": "https://vip.opstream90.com/20260530/33370_291ed4a3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nguoi-tren-van-nguoi-phan-6",
-      "episodeCount": 22,
+      "episodeCount": 23,
       "priority": 0
     }
   ],

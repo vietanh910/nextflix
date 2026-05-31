@@ -7,15 +7,42 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/3/cam-ket-thoa-man-tot-cung-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/cam-ket-thoa-man-tot-cung.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=673c9984687e9df9b229e98f243c3a8b",
+      "m3u8Url": "https://sing.phimmoi.net/673c9984687e9df9b229e98f243c3a8b/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=2ad77477317d8f693a986355886b79e3",
+      "m3u8Url": "https://sing.phimmoi.net/2ad77477317d8f693a986355886b79e3/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=ea642879f22f15d0d9660c61fc0538d1",
+      "m3u8Url": "https://sing.phimmoi.net/ea642879f22f15d0d9660c61fc0538d1/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "cam-ket-thoa-man-tot-cung",
-      "episodeCount": 0,
+      "episodeCount": 3,
       "priority": 2
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Hài Hước",
@@ -97,13 +97,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/S2OaNV4f/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260522/S2OaNV4f/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/drcqmYQI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/drcqmYQI/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "thien-su-nha-ben-phan-2",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

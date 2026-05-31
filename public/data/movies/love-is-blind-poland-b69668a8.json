@@ -7,15 +7,106 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/6/yeu-la-mu-quang-ba-lan-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/yeu-la-mu-quang-ba-lan.jpg",
   "status": "unknown",
-  "episodeCurrent": "Hoàn tất (10/10)",
+  "episodeCurrent": "Hoàn tất (11/11)",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Một căn phòng tối, ngăn cách bởi những bức tường vô hình. Những con người xa lạ bắt đầu kể cho nhau nghe về nỗi cô đơn, quá khứ và khát khao được yêu.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=969621dd6e64d72f5b98b04593bda462",
+      "m3u8Url": "https://sing.phimmoi.net/969621dd6e64d72f5b98b04593bda462/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=b34dbc732dee95b46f69401b4dbe3eee",
+      "m3u8Url": "https://sing.phimmoi.net/b34dbc732dee95b46f69401b4dbe3eee/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=1312b7fd39975f004b5346a433fd8ef5",
+      "m3u8Url": "https://sing.phimmoi.net/1312b7fd39975f004b5346a433fd8ef5/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=bfffabec4c986a27f510913cfcdb48ee",
+      "m3u8Url": "https://sing.phimmoi.net/bfffabec4c986a27f510913cfcdb48ee/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=d8cf75304984777825d0d8100fa6a30c",
+      "m3u8Url": "https://sing.phimmoi.net/d8cf75304984777825d0d8100fa6a30c/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=517971cbc28e9adf37863a8dc456e63d",
+      "m3u8Url": "https://sing.phimmoi.net/517971cbc28e9adf37863a8dc456e63d/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=60844d28d489380c077934fef5d093de",
+      "m3u8Url": "https://sing.phimmoi.net/60844d28d489380c077934fef5d093de/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=820dad48e1846e72df13d3e797b8da8e",
+      "m3u8Url": "https://sing.phimmoi.net/820dad48e1846e72df13d3e797b8da8e/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=988d2f356afc8010387f599ad401bd81",
+      "m3u8Url": "https://sing.phimmoi.net/988d2f356afc8010387f599ad401bd81/hls.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "tap-10",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=1d23bd250448e8d3e79e8fdb7a9a9f69",
+      "m3u8Url": "https://sing.phimmoi.net/1d23bd250448e8d3e79e8fdb7a9a9f69/hls.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "tap-11",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=625a1ba633411fc2579363b1b9bd47f0",
+      "m3u8Url": "https://sing.phimmoi.net/625a1ba633411fc2579363b1b9bd47f0/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "yeu-la-mu-quang-ba-lan",
-      "episodeCount": 0,
+      "episodeCount": 11,
       "priority": 2
     }
   ],

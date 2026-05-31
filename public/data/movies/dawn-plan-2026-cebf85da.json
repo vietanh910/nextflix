@@ -1,0 +1,51 @@
+{
+  "id": "dawn-plan-2026-cebf85da",
+  "source": "ophim",
+  "slug": "ke-hoach-binh-minh",
+  "name": "Kế Hoạch Bình Minh",
+  "originName": "DAWN PLAN",
+  "posterUrl": "https://img.ophim.live/uploads/movies/ke-hoach-binh-minh-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/ke-hoach-binh-minh-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Năm 1948, nhằm giành thắng lợi cho Chiến dịch Vượt sông Dương Tử và ổn định chính quyền nhân dân non trẻ, quân dã chiến số ba đã tuyển chọn những sĩ quan ưu tú bí mật thâm nhập vào sào huyệt thống trị của Quốc Dân đảng Nam Kinh. Với sự phối hợp đắc lực của tổ chức ngầm Đảng Cộng sản tại Nam Kinh, họ tiến sâu vào hang hổ, viết nên từng màn đấu trí đấu dũng và chiến đấu sinh tử đầy anh dũng với phe phản động Quốc Dân đảng.<br>&nbsp;</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a784627b0f726b9e6b4bd5ab99904afb",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32892_a784627b/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ke-hoach-binh-minh",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

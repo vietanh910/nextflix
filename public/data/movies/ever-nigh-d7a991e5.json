@@ -7,15 +7,74 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/1/tuong-da-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/1/tuong-da.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [],
   "countries": [],
-  "episodes": [],
+  "description": "Ninh Khuyết, anh chàng bỗng dưng bị kéo vào một chuyến du hành thời gian và đích đến chính là thời kỳ nhà Đường, nơi mà xã hội hoàn toàn xa lạ với những gì trong trí tưởng tượng của anh qua văn học và lịch sử, thật sự thì thời kỳ Đại Đường này là một thế giới tu luyện, nơi mà các võ giả chính là sự hiện thân cho địa vị và quyền lực, sức mạnh chính là lời nói có trọng lượng nhất. Tưởng là xuyên không đến đây thì ít nhiều cũng có tí chút năng lực gì đó khá khẩm, nhưng không, Ninh Khuyết lại hiện ra trong hình hài của một cậu nhóc 4 tuổi vắt mũi chưa sạch, sức mạnh thì chẳng có, bị tụt xuống đáy xã hội khi mà phải chứng kiến gia đình tan nát, tông môn tận diệt, đã vậy mà cứ hở ra là lại bị đuổi đánh không ngừng, bắt buộc Ninh Khuyết phải tự thân đứng lên, vương lên giữa muôn trùng hiểm nguy để vừa tự cứu lấy chính mình, cũng là tự khẳng định bản thân mình.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=fe83d0d93e140e7781ebb5309c5207db",
+      "m3u8Url": "https://sing.phimmoi.net/fe83d0d93e140e7781ebb5309c5207db/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=3bf241d4eea33201555824e51ce70f53",
+      "m3u8Url": "https://sing.phimmoi.net/3bf241d4eea33201555824e51ce70f53/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=24ba685f0adc7c8470af3c1390be57fb",
+      "m3u8Url": "https://sing.phimmoi.net/24ba685f0adc7c8470af3c1390be57fb/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=a232d4e8b7529802cd7d59ba760e1950",
+      "m3u8Url": "https://sing.phimmoi.net/a232d4e8b7529802cd7d59ba760e1950/hls.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "tap-5",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=f96863d52cc63a70118dc79558a26faa",
+      "m3u8Url": "https://sing.phimmoi.net/f96863d52cc63a70118dc79558a26faa/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=a513960e1d7a5140759876b51f16c04e",
+      "m3u8Url": "https://sing.phimmoi.net/a513960e1d7a5140759876b51f16c04e/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=c64c001f9aa83da93bbd4d9e373debe0",
+      "m3u8Url": "https://sing.phimmoi.net/c64c001f9aa83da93bbd4d9e373debe0/hls.m3u8"
+    }
+  ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "tuong-da-3d",
-      "episodeCount": 0,
+      "episodeCount": 7,
       "priority": 2
     }
   ],

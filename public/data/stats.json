@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-05-24T06:33:02.004Z",
-  "totalMovies": 785,
+  "updatedAt": "2026-05-31T06:55:09.391Z",
+  "totalMovies": 787,
   "bySource": {
-    "ophim": 453,
-    "phimapi": 132,
+    "ophim": 452,
+    "phimapi": 135,
     "nguonc": 200
   },
   "byType": {
-    "tvshow": 10,
-    "single": 188,
-    "series": 257,
-    "anime": 130,
+    "series": 275,
+    "tvshow": 14,
+    "single": 160,
+    "anime": 138,
     "unknown": 200
   },
   "byStatus": {
-    "ongoing": 201,
-    "unknown": 241,
-    "completed": 343
+    "unknown": 246,
+    "ongoing": 209,
+    "completed": 332
   },
   "byCategory": [
     {
       "slug": "chinh-kich",
       "name": "Chính kịch",
-      "count": 320
+      "count": 332
     },
     {
       "slug": "khac",
@@ -32,62 +32,67 @@
     {
       "slug": "hai-huoc",
       "name": "Hài Hước",
-      "count": 157
+      "count": 156
     },
     {
       "slug": "hanh-dong",
       "name": "Hành Động",
-      "count": 130
+      "count": 138
     },
     {
       "slug": "phieu-luu",
       "name": "Phiêu Lưu",
-      "count": 117
+      "count": 121
     },
     {
       "slug": "vien-tuong",
       "name": "Viễn Tưởng",
-      "count": 116
+      "count": 114
     },
     {
       "slug": "tam-ly",
       "name": "Tâm Lý",
-      "count": 109
+      "count": 111
     },
     {
       "slug": "khoa-hoc",
       "name": "Khoa Học",
-      "count": 103
+      "count": 104
     },
     {
       "slug": "hinh-su",
       "name": "Hình Sự",
-      "count": 57
+      "count": 66
     },
     {
       "slug": "tinh-cam",
       "name": "Tình Cảm",
-      "count": 53
+      "count": 56
     },
     {
       "slug": "bi-an",
       "name": "Bí ẩn",
-      "count": 51
+      "count": 41
     },
     {
       "slug": "gia-dinh",
       "name": "Gia Đình",
-      "count": 32
+      "count": 28
     },
     {
       "slug": "kinh-di",
       "name": "Kinh Dị",
-      "count": 29
+      "count": 23
     },
     {
       "slug": "tai-lieu",
       "name": "Tài Liệu",
-      "count": 27
+      "count": 23
+    },
+    {
+      "slug": "co-trang",
+      "name": "Cổ Trang",
+      "count": 10
     },
     {
       "slug": "vo-thuat",
@@ -95,19 +100,19 @@
       "count": 7
     },
     {
-      "slug": "co-trang",
-      "name": "Cổ Trang",
+      "slug": "short-drama",
+      "name": "Short Drama",
       "count": 6
     },
     {
-      "slug": "short-drama",
-      "name": "Short Drama",
-      "count": 5
+      "slug": "tre-em",
+      "name": "Trẻ Em",
+      "count": 6
     },
     {
       "slug": "chien-tranh",
       "name": "Chiến Tranh",
-      "count": 4
+      "count": 5
     },
     {
       "slug": "than-thoai",
@@ -115,13 +120,13 @@
       "count": 2
     },
     {
-      "slug": "am-nhac",
-      "name": "Âm Nhạc",
+      "slug": "the-thao",
+      "name": "Thể Thao",
       "count": 1
     },
     {
-      "slug": "tre-em",
-      "name": "Trẻ Em",
+      "slug": "am-nhac",
+      "name": "Âm Nhạc",
       "count": 1
     }
   ]

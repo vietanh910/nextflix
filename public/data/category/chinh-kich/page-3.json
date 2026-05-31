@@ -5,43 +5,6 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "the-air-2026-29e90145",
-      "source": "ophim",
-      "slug": "gio-thoang-tinh-theo",
-      "name": "Gió Thoảng Tình Theo",
-      "originName": "The Air",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gio-thoang-tinh-theo-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gio-thoang-tinh-theo-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 2",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
       "id": "girl-rules-2026-073be15b",
       "source": "ophim",
       "slug": "girl-rules",
@@ -52,7 +15,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính kịch",
@@ -102,7 +65,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Chính kịch",
@@ -167,31 +130,6 @@
       ]
     },
     {
-      "id": "wicked-temptation-2026-cd2a910e",
-      "source": "ophim",
-      "slug": "ho-giau-van",
-      "name": "Hổ Giấu Vằn",
-      "originName": "Wicked Temptation",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ho-giau-van-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ho-giau-van-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
       "id": "criminal-record-season-2-2026-e464fed6",
       "source": "ophim",
       "slug": "ho-so-toi-pham-phan-2",
@@ -202,7 +140,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hình Sự",
@@ -263,8 +201,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/hom-nay-lai-ban-het-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -283,6 +221,72 @@
       ]
     },
     {
+      "id": "wishing-upon-the-shootin-2026-3727bc2e",
+      "source": "ophim",
+      "slug": "huong-ve-sao-bang-cau-nguyen",
+      "name": "Hướng Về Sao Băng Cầu Nguyện",
+      "originName": "Wishing Upon the Shooting Stars",
+      "posterUrl": "https://img.ophim.live/uploads/movies/huong-ve-sao-bang-cau-nguyen-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/huong-ve-sao-bang-cau-nguyen-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đài Loan",
+          "slug": "dai-loan"
+        }
+      ]
+    },
+    {
+      "id": "the-final-battle-2026-d3b7640b",
+      "source": "ophim",
+      "slug": "huyen-chien-thanh-long-trai",
+      "name": "Huyến Chiến Thanh Long Trại",
+      "originName": "The Final Battle",
+      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "hacks-season-5-2026-1a9a0053",
       "source": "ophim",
       "slug": "huyen-thoai-lang-hai-phan-5",
@@ -292,8 +296,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-lang-hai-phan-5-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -322,7 +326,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hài Hước",
@@ -378,6 +382,64 @@
       ]
     },
     {
+      "id": "karuppu-2026-8475b044",
+      "source": "ophim",
+      "slug": "karuppu",
+      "name": "Karuppu",
+      "originName": "Karuppu",
+      "posterUrl": "https://img.ophim.live/uploads/movies/karuppu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/karuppu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "dawn-plan-2026-cebf85da",
+      "source": "ophim",
+      "slug": "ke-hoach-binh-minh",
+      "name": "Kế Hoạch Bình Minh",
+      "originName": "DAWN PLAN",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-hoach-binh-minh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-hoach-binh-minh-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "reverse-2026-da0ab72d",
       "source": "ophim",
       "slug": "ke-thu-chung-giuong",
@@ -417,7 +479,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -514,6 +576,39 @@
       ]
     },
     {
+      "id": "fuze-2026-abc33a67",
+      "source": "ophim",
+      "slug": "kip-no",
+      "name": "Kíp Nổ",
+      "originName": "Fuze",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kip-no-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kip-no-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
       "id": "remarkably-bright-creatu-2026-3dbdafca",
       "source": "ophim",
       "slug": "ky-vat-vo-gia",
@@ -553,7 +648,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính kịch",
@@ -626,109 +721,6 @@
         {
           "name": "Anh",
           "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "the-rookie-season-8-2026-6e6e2d87",
-      "source": "ophim",
-      "slug": "linh-moi-phan-8",
-      "name": "Lính Mới (Phần 8)",
-      "originName": "The Rookie (Season 8)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/linh-moi-phan-8-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/linh-moi-phan-8-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "love-upon-a-time-2026-3eac414f",
-      "source": "ophim",
-      "slug": "love-upon-a-time-duyen-kiep-ben-nguoi",
-      "name": "Love Upon A Time: Duyên Kiếp Bên Người",
-      "originName": "Love Upon a Time",
-      "posterUrl": "https://img.ophim.live/uploads/movies/love-upon-a-time-duyen-kiep-ben-nguoi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/love-upon-a-time-duyen-kiep-ben-nguoi-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "loved-one-2026-04f2297a",
-      "source": "ophim",
-      "slug": "loved-one",
-      "name": "LOVED ONE",
-      "originName": "LOVED ONE",
-      "posterUrl": "https://img.ophim.live/uploads/movies/loved-one-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/loved-one-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     }
