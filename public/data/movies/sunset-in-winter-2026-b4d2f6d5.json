@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -47,6 +47,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260529/UHiPw9U9/index.m3u8"
     },
     {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260602/hGMBnAJW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260602/hGMBnAJW/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/AUxxAZKh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/AUxxAZKh/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -61,6 +77,22 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/muQXS9HQ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260529/muQXS9HQ/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/nmMO1pXR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/nmMO1pXR/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/0HBvF9FR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/0HBvF9FR/index.m3u8"
     },
     {
       "name": "1",
@@ -89,7 +121,7 @@
     {
       "source": "phimapi",
       "slug": "ky-uc-tinh-thu-2026",
-      "episodeCount": 4,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

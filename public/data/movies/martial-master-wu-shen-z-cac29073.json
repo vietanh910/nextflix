@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Film/107609.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Film/107609.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 661",
+  "episodeCurrent": "Tập 663",
   "categories": [],
   "countries": [],
   "description": "Nhân vật chính Tần Trần, vốn là quân khu đứng đầu thiên tài, bị người âm mưu rơi vào đại lục cấm địa trong hẻm núi tử thần. Qin Chen, người không thể tránh khỏi cái chết, không ngờ lại kích hoạt sức mạnh của thanh kiếm cổ bí ẩn.",
@@ -1265,7 +1265,9 @@
       "name": "157",
       "slug": "tap-157",
       "serverName": "Vietsub #1",
-      "source": "nguonc"
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=769d4e8798b1996e27bdaf671782792c",
+      "m3u8Url": "https://sing.phimmoi.net/769d4e8798b1996e27bdaf671782792c/hls.m3u8"
     },
     {
       "name": "158",
@@ -3567,7 +3569,9 @@
       "name": "449",
       "slug": "tap-449",
       "serverName": "Vietsub #1",
-      "source": "nguonc"
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=f4e402733d943b6c0dac72d319577530",
+      "m3u8Url": "https://sing.phimmoi.net/f4e402733d943b6c0dac72d319577530/hls.m3u8"
     },
     {
       "name": "450",
@@ -5264,13 +5268,29 @@
       "source": "nguonc",
       "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=14aaf32fc31bb94fec6849883f00dd62",
       "m3u8Url": "https://sing.phimmoi.net/14aaf32fc31bb94fec6849883f00dd62/hls.m3u8"
+    },
+    {
+      "name": "662",
+      "slug": "tap-662",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=0b746ed2ecca378962197d38368213a5",
+      "m3u8Url": "https://sing.phimmoi.net/0b746ed2ecca378962197d38368213a5/hls.m3u8"
+    },
+    {
+      "name": "663",
+      "slug": "tap-663",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=bb290493fc08224596631ae03cf30377",
+      "m3u8Url": "https://sing.phimmoi.net/bb290493fc08224596631ae03cf30377/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "vo-than-chua-te",
-      "episodeCount": 657,
+      "episodeCount": 659,
       "priority": 2
     }
   ],

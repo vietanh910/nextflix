@@ -1,0 +1,65 @@
+{
+  "id": "mexico-86-2026-d87e7f87",
+  "source": "ophim",
+  "slug": "mexico-86",
+  "name": "World Cup 1986: Chủ Nhà Mexico",
+  "originName": "Mexico 86",
+  "posterUrl": "https://img.ophim.live/uploads/movies/mexico-86-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/mexico-86-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Mexico",
+      "slug": "mexico"
+    }
+  ],
+  "description": "<p>Táo bạo, điên rồ và đầy sáng tạo theo cách rất Mexico. Năm 1986, Mexico đăng cai giải bóng đá quan trọng nhất dù đối mặt muôn vàn khó khăn. Họ đã làm nên kỳ tích ấy như thế nào?</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/672cda1d1b10d66f600e6cadcf102b87",
+      "m3u8Url": "https://vip.opstream90.com/20260605/33890_672cda1d/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/VVHziQRE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/VVHziQRE/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "mexico-86",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "world-cup-1986-chu-nha-mexico",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

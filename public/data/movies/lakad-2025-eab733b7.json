@@ -1,0 +1,51 @@
+{
+  "id": "lakad-2025-eab733b7",
+  "source": "phimapi",
+  "slug": "tinh-nong",
+  "name": "Tình Nồng",
+  "originName": "Lakad",
+  "posterUrl": "https://phimimg.com/upload/vod/20260604-1/c737c117ea25a47242797e8e3ce94a86.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/607827a7d59d8b799a3b1deff3465710.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Phim 18+",
+      "slug": "phim-18"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Philippines",
+      "slug": "philippines"
+    }
+  ],
+  "description": "Một người đàn ông tuyệt vọng, khao khát đòi lại chiếc nhẫn đính hôn của vị hôn thê, quyết định bán chiếc giường của họ—chỉ để nhận ra rằng nó trở thành sân khấu cho những cuộc gặp gỡ nồng nàn, những ham muốn bị cấm đoán và cuộc sống phức tạp của những người yêu nhau bị kẹt giữa tình yêu, dục vọng và sự sinh tồn.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/Pxj4KXXT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/Pxj4KXXT/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tinh-nong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

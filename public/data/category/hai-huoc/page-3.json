@@ -5,31 +5,6 @@
   "totalPages": 7,
   "items": [
     {
-      "id": "pati-patni-aur-woh-do-2026-cd4e2465",
-      "source": "ophim",
-      "slug": "pati-patni-aur-woh-do",
-      "name": "Pati Patni Aur Woh Do",
-      "originName": "Pati Patni Aur Woh Do",
-      "posterUrl": "https://img.ophim.live/uploads/movies/pati-patni-aur-woh-do-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/pati-patni-aur-woh-do-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
-        }
-      ]
-    },
-    {
       "id": "the-super-mario-galaxy-m-2026-28b935ae",
       "source": "ophim",
       "slug": "phim-super-mario-thien-ha",
@@ -92,31 +67,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "pizza-movie-2026-ec703335",
-      "source": "ophim",
-      "slug": "pizza-phe-pha",
-      "name": "Pizza Phê Pha",
-      "originName": "Pizza Movie",
-      "posterUrl": "https://img.ophim.live/uploads/movies/pizza-phe-pha-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/pizza-phe-pha-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -218,7 +168,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Hành Động",
@@ -336,35 +286,6 @@
       ]
     },
     {
-      "id": "je-m-appelle-agneta-2026-b229d88d",
-      "source": "ophim",
-      "slug": "ten-toi-la-agneta",
-      "name": "Tên tôi là Agneta",
-      "originName": "Je m'appelle Agneta",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ten-toi-la-agneta-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ten-toi-la-agneta-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thụy Điển",
-          "slug": "thuy-dien"
-        }
-      ]
-    },
-    {
       "id": "r-j-decker-2026-6aa80687",
       "source": "ophim",
       "slug": "rj-decker",
@@ -375,7 +296,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -407,8 +328,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/thanh-tra-bi-mat-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -489,6 +410,35 @@
       ]
     },
     {
+      "id": "bunnie-2026-fa662d46",
+      "source": "ophim",
+      "slug": "tho-oi",
+      "name": "Thỏ Ơi!!",
+      "originName": "Bunnie!",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tho-oi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tho-oi-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
       "id": "i-want-to-end-this-love--2026-bc28992b",
       "source": "ophim",
       "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
@@ -499,7 +449,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -598,7 +548,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -681,7 +631,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hài Hước",
@@ -711,6 +661,60 @@
       "originName": "Wanda Sykes: Legacy",
       "posterUrl": "https://img.ophim.live/uploads/movies/wanda-sykes-legacy-poster.jpg",
       "thumbUrl": "https://img.ophim.live/uploads/movies/wanda-sykes-legacy-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "mexico-86-2026-d87e7f87",
+      "source": "ophim",
+      "slug": "mexico-86",
+      "name": "World Cup 1986: Chủ Nhà Mexico",
+      "originName": "Mexico 86",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mexico-86-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mexico-86-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Mexico",
+          "slug": "mexico"
+        }
+      ]
+    },
+    {
+      "id": "ladies-first-2026-aade12f1",
+      "source": "ophim",
+      "slug": "xin-nhuong-phai-dep",
+      "name": "Xin Nhường Phái Đẹp",
+      "originName": "Ladies First",
+      "posterUrl": "https://img.ophim.live/uploads/movies/xin-nhuong-phai-dep-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/xin-nhuong-phai-dep-thumb.jpg",
       "year": 2026,
       "type": "single",
       "status": "completed",

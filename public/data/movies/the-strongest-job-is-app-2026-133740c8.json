@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Hành Động",
@@ -125,13 +125,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/c0h1VsRH/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260530/c0h1VsRH/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/eASYK2MU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/eASYK2MU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghe-nghiep-manh-nhat-duong-nhu-khong-phai-la-anh-hung-hay-hien-triet-ma-la-nguoi-tham-dinh-tam-thoi",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

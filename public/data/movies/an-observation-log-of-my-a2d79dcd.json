@@ -7,90 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/6/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [],
   "countries": [],
-  "description": "Câu chuyện được kể dưới góc nhìn của Thái tử Cecil, một thiên tài cảm thấy cuộc sống quá tẻ nhạt vì mọi thứ đều quá dễ dàng. Cuộc đời anh thay đổi khi đính hôn với Bertia, con gái tể tướng. Ngay trong lần đầu gặp mặt, Bertia đã tuyên bố mình là \"nữ phụ phản diện\" được chuyển sinh từ thế giới khác và có nhiệm vụ phá hoại hôn ước để đạt được kết cục bị trục xuất. Tuy nhiên, thay vì ghét bỏ, Cecil lại cảm thấy Bertia vô cùng thú vị và bắt đầu quan sát những nỗ lực \"làm việc ác\" nhưng toàn mang lại kết quả tốt của cô.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=72c59ad35ecab9d3c1400342f23df579",
-      "m3u8Url": "https://sing.phimmoi.net/72c59ad35ecab9d3c1400342f23df579/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=c7381d20b05c05d53dcc1dc07f118aba",
-      "m3u8Url": "https://sing.phimmoi.net/c7381d20b05c05d53dcc1dc07f118aba/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=04e371865ff4d9e77a1eff4171762e6a",
-      "m3u8Url": "https://sing.phimmoi.net/04e371865ff4d9e77a1eff4171762e6a/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=938cbfe5dd3338d5703db3be7dbe3619",
-      "m3u8Url": "https://sing.phimmoi.net/938cbfe5dd3338d5703db3be7dbe3619/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=8815d96d9a478fdaed90e3509a73d1df",
-      "m3u8Url": "https://sing.phimmoi.net/8815d96d9a478fdaed90e3509a73d1df/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=fdf3ffae5cf06c66513c1465d695b62d",
-      "m3u8Url": "https://sing.phimmoi.net/fdf3ffae5cf06c66513c1465d695b62d/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=0f4b2aa6000f637fae79003e284a9b68",
-      "m3u8Url": "https://sing.phimmoi.net/0f4b2aa6000f637fae79003e284a9b68/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=cf042e7b43676da057d9beb93ccfd9e1",
-      "m3u8Url": "https://sing.phimmoi.net/cf042e7b43676da057d9beb93ccfd9e1/hls.m3u8"
-    },
-    {
-      "name": "9",
-      "slug": "tap-9",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=eb272cef493bcc678414b37de569de50",
-      "m3u8Url": "https://sing.phimmoi.net/eb272cef493bcc678414b37de569de50/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
-      "episodeCount": 9,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

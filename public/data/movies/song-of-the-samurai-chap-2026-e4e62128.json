@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hành Động",
@@ -57,13 +57,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/7cf91b300ff3ecef82c59dd47b89253a",
       "m3u8Url": "https://vip.opstream90.com/20260523/32767_7cf91b30/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a0f13bc8e2cd7a8e6c1662aa2bb317e9",
+      "m3u8Url": "https://vip.opstream90.com/20260603/33657_a0f13bc8/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7047653faab87234b4f0d8e9d669fa7c",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34132_7047653f/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "khuc-ca-linh-hon-shinsengumi",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 0
     }
   ],

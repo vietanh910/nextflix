@@ -2,8 +2,132 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 2,
-  "totalPages": 3,
+  "totalPages": 4,
   "items": [
+    {
+      "id": "kartavya-2026-0756d19d",
+      "source": "ophim",
+      "slug": "nghia-vu",
+      "name": "Nghĩa Vụ",
+      "originName": "Kartavya",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nghia-vu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nghia-vu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "the-marked-woman-2026-bfde4af2",
+      "source": "ophim",
+      "slug": "nguoi-phu-nu-han-nhung-vet-thuong",
+      "name": "Người Phụ Nữ Hằn Những Vết Thương",
+      "originName": "The Marked Woman",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-phu-nu-han-nhung-vet-thuong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-phu-nu-han-nhung-vet-thuong-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        },
+        {
+          "name": "Argentina",
+          "slug": "argentina"
+        }
+      ]
+    },
+    {
+      "id": "worst-ex-ever-season-2-2026-4391f84b",
+      "source": "ophim",
+      "slug": "nguoi-yeu-cu-te-nhat-phan-2",
+      "name": "Người yêu cũ tệ nhất (Phần 2)",
+      "originName": "Worst Ex Ever (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-yeu-cu-te-nhat-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-yeu-cu-te-nhat-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (4/4)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "a-good-girl-s-guide-to-m-2026-3c0d564c",
+      "source": "ophim",
+      "slug": "nhan-chung-cuoi-cung-phan-2",
+      "name": "Nhân chứng cuối cùng (Phần 2)",
+      "originName": "A Good Girl's Guide to Murder (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhan-chung-cuoi-cung-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhan-chung-cuoi-cung-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
+        }
+      ]
+    },
     {
       "id": "normal-2026-e1e11384",
       "source": "ophim",
@@ -63,6 +187,43 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "payback-2026-f8be012f",
+      "source": "ophim",
+      "slug": "payback-bao-thu",
+      "name": "PAYBACK: Báo Thù",
+      "originName": "Payback",
+      "posterUrl": "https://img.ophim.live/uploads/movies/payback-bao-thu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/payback-bao-thu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        },
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -246,7 +407,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -360,39 +521,6 @@
       ]
     },
     {
-      "id": "prisoner-2026-86f5f087",
-      "source": "ophim",
-      "slug": "tu-nhan-2026",
-      "name": "Tù Nhân",
-      "originName": "Prisoner",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tu-nhan-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tu-nhan-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
       "id": "nemesis-2026-9b71b64d",
       "source": "ophim",
       "slug": "tu-thu",
@@ -412,6 +540,35 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-murder-of-rachel-nic-2026-9a362751",
+      "source": "ophim",
+      "slug": "vu-an-mang-rachel-nickell",
+      "name": "Vụ án mạng Rachel Nickell",
+      "originName": "The Murder of Rachel Nickell",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vu-an-mang-rachel-nickell-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vu-an-mang-rachel-nickell-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
         }
       ],
       "countries": [
@@ -513,84 +670,6 @@
       ]
     },
     {
-      "id": "payback-2026-e01b6ac6",
-      "source": "phimapi",
-      "slug": "bao-thu-2026",
-      "name": "Báo Thù",
-      "originName": "Payback",
-      "posterUrl": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        },
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-scarecrow-2026-9060ce7a",
-      "source": "phimapi",
-      "slug": "bu-nhin-bong-dem",
-      "name": "Bù Nhìn Bóng Đêm",
-      "originName": "The Scarecrow",
-      "posterUrl": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "the-air-4-elements-2026-5991bd55",
       "source": "phimapi",
       "slug": "gio-thoang-tinh-theo",
@@ -601,7 +680,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -632,22 +711,18 @@
       ]
     },
     {
-      "id": "dedication-2026-2f05eaec",
+      "id": "the-marked-woman-la-desc-2026-435a7389",
       "source": "phimapi",
-      "slug": "tan-hien",
-      "name": "Tận Hiến",
-      "originName": "Dedication",
-      "posterUrl": "https://phimimg.com/upload/vod/20260513-1/51f724508514799548dfaace58be692f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/3048bddd30fbd3f3bc95cb636d67efee.jpg",
+      "slug": "nguoi-phu-nu-han-nhung-vet-thuong",
+      "name": "Người Phụ Nữ Hằn Những Vết Thương",
+      "originName": "The Marked Woman / La desconocida",
+      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/a10482c3c1dd00e4ec6282447b47ef9a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/c039f432798547301bc5c2c84290ebc8.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
@@ -659,136 +734,45 @@
       ],
       "countries": [
         {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "aaryan-2025-1a73b075",
-      "source": "ophim",
-      "slug": "aaryan",
-      "name": "Aaryan",
-      "originName": "Aaryan",
-      "posterUrl": "https://img.ophim.live/uploads/movies/aaryan-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/aaryan-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Argentina",
+          "slug": "argentina"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
         }
       ]
     },
     {
-      "id": "sheriff-country-2025-577d2231",
-      "source": "ophim",
-      "slug": "canh-sat-truong-vung-que-phan-1",
-      "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
-      "originName": "Sheriff Country",
-      "posterUrl": "https://img.ophim.live/uploads/movies/canh-sat-truong-vung-que-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/canh-sat-truong-vung-que-phan-1-thumb.jpg",
-      "year": 2025,
+      "id": "the-witness-2026-96641810",
+      "source": "phimapi",
+      "slug": "nhan-chung-duy-nhat-2026",
+      "name": "Nhân Chứng Duy Nhất",
+      "originName": "The Witness",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/dcf0ae10f522a5cde4aab22daa38f1e1.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/c1b3a15c6e9c50ea597562084e91f5e9.jpg",
+      "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
+      "episodeCurrent": "Hoàn Tất (3/3)",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "first-man-2025-d376fa18",
-      "source": "ophim",
-      "slug": "nguoi-dan-ong-dau-tien",
-      "name": "Người Đàn Ông Đầu Tiên",
-      "originName": "First Man",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-dau-tien-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-dau-tien-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 96",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-last-shot-2025-625d508a",
-      "source": "ophim",
-      "slug": "phi-vu-cuoi-cungg",
-      "name": "Phi Vụ Cuối Cùng",
-      "originName": "The Last Shot",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phi-vu-cuoi-cungg-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phi-vu-cuoi-cungg-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
         },
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     }

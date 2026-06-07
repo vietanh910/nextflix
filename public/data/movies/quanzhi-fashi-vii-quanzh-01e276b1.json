@@ -7,50 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/2/toan-chuc-phap-su-%207-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/2/toan-chuc-phap-su-%207.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [],
   "countries": [],
-  "description": "Sau khi sự kiện Hỏa Diễm Ma Nữ kết thúc, Mạc Phàm quay trở lại với việc tu luyện tại học phủ Ma Đô. Tuy nhiên, ngay vào thời khắc quan trọng nhất, tin dữ bất ngờ ập đến. Người anh em tốt của cậu là Trương Tiểu Hầu đã mất tích. Là một người trọng tình trọng nghĩa, Mạc Phàm ngay lập tức dừng lịch trình thi đấu, cùng với cô bạn huyết tộc Ma Đô là Liễu Nhàn cấp tốc lên đường đến Cổ Đô. Tại đây, họ đã dấn thân vào khu vực trung tâm nguy hiểm – nơi các loài yêu ma đang trong thời kỳ hoạt động mạnh mẽ nhất.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=519e618a7773ad8aaefa994360dde3ea",
-      "m3u8Url": "https://sing.phimmoi.net/519e618a7773ad8aaefa994360dde3ea/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=ef87c3a344a9cbff856869c8fb005a74",
-      "m3u8Url": "https://sing.phimmoi.net/ef87c3a344a9cbff856869c8fb005a74/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=2b8c81c66cb75b648259ff63bca08e9d",
-      "m3u8Url": "https://sing.phimmoi.net/2b8c81c66cb75b648259ff63bca08e9d/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=de1cbc8798211a02622bd585d5c99cfc",
-      "m3u8Url": "https://sing.phimmoi.net/de1cbc8798211a02622bd585d5c99cfc/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "toan-chuc-phap-su-7",
-      "episodeCount": 4,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/5/cuoi-roi-moi-dong-long-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/cuoi-roi-moi-dong-long.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 14",
+  "episodeCurrent": "Tập 21",
   "categories": [],
   "countries": [],
   "description": "Vì muốn kéo dài thời gian tốt nghiệp, tiến sĩ y học Hứa Nam Ca đã thỏa thuận kết hôn cùng ông trùm kinh doanh Hoắc Bắc Yến, anh ta muốn nhân cơ hội này củng cố quyền lực gia tộc, hai người đều đạt được mục đích của mình. Trước mặt người ngoài, họ đóng vai cặp vợ chồng yêu thương thắm thiết, nhưng sau lưng, mỗi người lại có bí mật riêng, cô âm thầm điều tra công ty anh, còn anh treo thưởng để truy tìm thân phận thật của cô. Một cuộc hôn nhân bắt đầu từ toan tính, liệu có thể hóa giả thành thật không?",
@@ -124,13 +124,69 @@
       "source": "nguonc",
       "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=28769ab1dad4036e8742e584bc8ffcf0",
       "m3u8Url": "https://sing.phimmoi.net/28769ab1dad4036e8742e584bc8ffcf0/hls.m3u8"
+    },
+    {
+      "name": "15",
+      "slug": "tap-15",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=7a0ce8c511eac1994cd3b35abde9f435",
+      "m3u8Url": "https://sing.phimmoi.net/7a0ce8c511eac1994cd3b35abde9f435/hls.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "tap-16",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=856c1aa8795e7694de6e608a8aaf3f0f",
+      "m3u8Url": "https://sing.phimmoi.net/856c1aa8795e7694de6e608a8aaf3f0f/hls.m3u8"
+    },
+    {
+      "name": "17",
+      "slug": "tap-17",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=443ac416627d388163e1116d24cab2a1",
+      "m3u8Url": "https://sing.phimmoi.net/443ac416627d388163e1116d24cab2a1/hls.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "tap-18",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=6e2c25ffc76d7a2a4b8caac1acf2ea15",
+      "m3u8Url": "https://sing.phimmoi.net/6e2c25ffc76d7a2a4b8caac1acf2ea15/hls.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "tap-19",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=57bb0b03b964139f7efa110947686fa4",
+      "m3u8Url": "https://sing.phimmoi.net/57bb0b03b964139f7efa110947686fa4/hls.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "tap-20",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=b7d4f070d2c715976f9821ed8d772668",
+      "m3u8Url": "https://sing.phimmoi.net/b7d4f070d2c715976f9821ed8d772668/hls.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "tap-21",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=fc1312a2593b2fb24b14a9bf0292493a",
+      "m3u8Url": "https://sing.phimmoi.net/fc1312a2593b2fb24b14a9bf0292493a/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "cuoi-roi-moi-dong-long",
-      "episodeCount": 14,
+      "episodeCount": 21,
       "priority": 2
     }
   ],

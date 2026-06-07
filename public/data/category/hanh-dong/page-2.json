@@ -5,6 +5,43 @@
   "totalPages": 6,
   "items": [
     {
+      "id": "the-air-2026-29e90145",
+      "source": "ophim",
+      "slug": "gio-thoang-tinh-theo",
+      "name": "Gió Thoảng Tình Theo",
+      "originName": "The Air",
+      "posterUrl": "https://img.ophim.live/uploads/movies/gio-thoang-tinh-theo-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/gio-thoang-tinh-theo-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
       "id": "jieling-2026-1b3e3291",
       "source": "ophim",
       "slug": "gioi-linh",
@@ -59,43 +96,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "release-that-witch-2026-e3f2f27b",
-      "source": "ophim",
-      "slug": "hoang-tu-luu-day",
-      "name": "Hoàng Tử Lưu Đày",
-      "originName": "Release that Witch",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hoang-tu-luu-day-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hoang-tu-luu-day-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -230,7 +230,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hành Động",
@@ -263,7 +263,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -444,7 +444,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -485,7 +485,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -508,50 +508,25 @@
       ]
     },
     {
-      "id": "the-secret-of-the-lost-p-2026-7a9f932a",
+      "id": "milky-subway-the-galacti-2026-f475b501",
       "source": "ophim",
-      "slug": "minh-chau-ky-dam-phan-3",
-      "name": "Minh Châu Kỳ Đàm (Phần 3)",
-      "originName": "The Secret of the Lost Pearl (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/minh-chau-ky-dam-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/minh-chau-ky-dam-phan-3-thumb.jpg",
+      "slug": "milky-subway-tau-toc-hanh-thien-ha-phim-dien-anh",
+      "name": "Milky☆Subway: Tàu tốc hành thiên hà – Phim điện ảnh",
+      "originName": "Milky☆Subway: The Galactic Limited Express - the Movie",
+      "posterUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-thumb.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 19",
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "monarch-legacy-of-monste-2026-bb08b417",
-      "source": "ophim",
-      "slug": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2",
-      "name": "Monarch: Thế Giới Quái Thú (Phần 2)",
-      "originName": "Monarch: Legacy of Monsters (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Viễn Tưởng",
@@ -564,20 +539,41 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "monster-eater-2026-367bf32b",
+      "source": "ophim",
+      "slug": "monster-eater",
+      "name": "Monster Eater",
+      "originName": "Monster Eater",
+      "posterUrl": "https://img.ophim.live/uploads/movies/monster-eater-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/monster-eater-thumb-1775895614969.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -615,31 +611,6 @@
       ]
     },
     {
-      "id": "protector-2026-97863e2a",
-      "source": "ophim",
-      "slug": "nguoi-bao-ve-2026",
-      "name": "Người bảo vệ",
-      "originName": "Protector",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-bao-ve-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-bao-ve-2026-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "hitori-no-shita-the-outc-2026-07b2c214",
       "source": "ophim",
       "slug": "nguoi-tren-van-nguoi-phan-6",
@@ -650,7 +621,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 23",
+      "episodeCurrent": "Tập 24",
       "categories": [
         {
           "name": "Hành Động",
@@ -757,7 +728,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Hành Động",
@@ -817,6 +788,35 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "my-dearest-assassin-2026-bf67ff14",
+      "source": "ophim",
+      "slug": "sat-thu-yeu-dau",
+      "name": "Sát Thủ Yêu Dấu",
+      "originName": "My Dearest Assassin",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sat-thu-yeu-dau-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sat-thu-yeu-dau-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     }

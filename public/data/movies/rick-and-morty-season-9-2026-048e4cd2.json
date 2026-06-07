@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 2",
   "categories": [
     {
       "name": "Hành Động",
@@ -49,14 +49,44 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/8edc69aa76b7aac408ba3c248aa8d7d4",
       "m3u8Url": "https://vip.opstream90.com/20260525/32858_8edc69aa/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0d8a89515fe89cd53cdedd3c039a15b0",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33614_0d8a8951/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/3cxg2S4j/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/3cxg2S4j/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/ekFx3mdL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/ekFx3mdL/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "rick-va-morty-phan-9",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "rick-va-morty-phan-9",
+      "episodeCount": 2,
+      "priority": 1
     }
   ],
   "_priority": 0

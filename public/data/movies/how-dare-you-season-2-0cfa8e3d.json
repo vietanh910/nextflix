@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/9/con-ra-the-thong-gi-nua-phan-2-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/9/con-ra-the-thong-gi-nua-phan-2.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 21",
+  "episodeCurrent": "Tập 22",
   "categories": [],
   "countries": [],
   "description": "Còn Ra Thể Thống Gì Nữa? (How Dare You?!) kể về câu chuyện xoay quanh Dữu Vãn Âm. Một ngày nọ, Dữu Vãn Âm bỗng xuyên không vào tiểu thuyết cung đấu. Vì để đảo ngược số phận mà cô đã chọn hợp lực với một tên bạo chúa nhưng lại không thể ngờ rằng hoàng đế và nữ chính trong truyện cũng là xuyên sách mà tới. Cô vẫn luôn hy vọng rằng ba người hiện đại có thể gác lại những tranh chấp trong hoàng cung và ngồi lại cùng nhau để cùng chơi đấu địa chủ và ăn lẩu. Tuy nhiên, nữ chính trong truyện tin rằng mình là người được chọn và lựa chọn chống lại hoàng đế và Vãn Âm... Dữu Vãn Âm vì để có thể sống sót mà phải ra chiêu, cũng vừa là cứu mình mà cũng là giúp Đại Hạ tránh khỏi cuộc kiếp nạn.",
@@ -182,6 +182,14 @@
       "m3u8Url": "https://sing.phimmoi.net/37258ab4e1523f2c0f1721a3a75c076a/hls.m3u8"
     },
     {
+      "name": "22",
+      "slug": "tap-22",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=1104df50da71d697be61c8b66850430d",
+      "m3u8Url": "https://sing.phimmoi.net/1104df50da71d697be61c8b66850430d/hls.m3u8"
+    },
+    {
       "name": "1",
       "slug": "tap-1",
       "serverName": "Thuyết minh #1",
@@ -348,13 +356,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=16fc3abe2525d055de9b8514d37766ba",
       "m3u8Url": "https://sing.phimmoi.net/16fc3abe2525d055de9b8514d37766ba/hls.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "tap-22",
+      "serverName": "Thuyết minh #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=340762b3a166b0ade6b1cfb41107e4af",
+      "m3u8Url": "https://sing.phimmoi.net/340762b3a166b0ade6b1cfb41107e4af/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "con-ra-the-thong-gi-nua-phan-2",
-      "episodeCount": 42,
+      "episodeCount": 44,
       "priority": 2
     }
   ],

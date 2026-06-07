@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/thanh-tra-bi-mat-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (12/12)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -111,98 +111,28 @@
       "m3u8Url": "https://vip.opstream10.com/20260525/33763_f485dffb/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260502/6Xxa9Tfi/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260502/6Xxa9Tfi/index.m3u8"
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/ae51446a6a667c8c052dfd22e68339e0",
+      "m3u8Url": "https://vip.opstream10.com/20260601/33786_ae51446a/index.m3u8"
     },
     {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260502/1cyYE3Up/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260502/1cyYE3Up/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260505/ySTkWlcu/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260505/ySTkWlcu/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260505/aJpHO0dL/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260505/aJpHO0dL/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/63bnpVlp/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/63bnpVlp/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260513/zYEHuz49/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260513/zYEHuz49/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/jvwRZ2cg/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260522/jvwRZ2cg/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260522/LThhd0lb/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260522/LThhd0lb/index.m3u8"
-    },
-    {
-      "name": "Tập 09",
-      "slug": "tap-09",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/uKAMXB78/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/uKAMXB78/index.m3u8"
-    },
-    {
-      "name": "Tập 10",
-      "slug": "tap-10",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/cN6m8LrO/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/cN6m8LrO/index.m3u8"
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/4c53d00c81ea2b9258bee0e3695b6ca1",
+      "m3u8Url": "https://vip.opstream10.com/20260601/33788_4c53d00c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thanh-tra-bi-mat",
-      "episodeCount": 10,
+      "episodeCount": 12,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
-      "episodeCount": 10,
-      "priority": 1
     }
   ],
   "_priority": 0

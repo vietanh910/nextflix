@@ -5,35 +5,6 @@
   "totalPages": 7,
   "items": [
     {
-      "id": "accidental-partners-2026-60897d5f",
-      "source": "ophim",
-      "slug": "doi-tac-tinh-co",
-      "name": "Đối tác tình cờ",
-      "originName": "Accidental Partners",
-      "posterUrl": "https://img.ophim.live/uploads/movies/doi-tac-tinh-co-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-tac-tinh-co-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Mexico",
-          "slug": "mexico"
-        }
-      ]
-    },
-    {
       "id": "fight-against-evil-3-2026-dc6007c5",
       "source": "ophim",
       "slug": "fight-against-evil-3",
@@ -81,7 +52,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -263,7 +234,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -299,8 +270,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/jae-seoks-bandb-rules-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -325,7 +296,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hài Hước",
@@ -387,7 +358,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -406,35 +377,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "naughty-business-2026-c3e8a18d",
-      "source": "ophim",
-      "slug": "kinh-doanh-tao-bao",
-      "name": "Kinh Doanh Táo Bạo",
-      "originName": "Naughty Business",
-      "posterUrl": "https://img.ophim.live/uploads/movies/kinh-doanh-tao-bao-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/kinh-doanh-tao-bao-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
         }
       ]
     },
@@ -490,7 +432,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -521,6 +463,35 @@
       ]
     },
     {
+      "id": "maa-behen-2026-b78e2a86",
+      "source": "ophim",
+      "slug": "maa-behen",
+      "name": "Maa Behen",
+      "originName": "Maa Behen",
+      "posterUrl": "https://img.ophim.live/uploads/movies/maa-behen-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/maa-behen-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
       "id": "magic-move-2026-53bfe27b",
       "source": "ophim",
       "slug": "magic-move-tien-tri-tinh-yeu",
@@ -531,7 +502,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hài Hước",
@@ -560,7 +531,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -579,6 +550,80 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "milky-subway-the-galacti-2026-f475b501",
+      "source": "ophim",
+      "slug": "milky-subway-tau-toc-hanh-thien-ha-phim-dien-anh",
+      "name": "Milky☆Subway: Tàu tốc hành thiên hà – Phim điện ảnh",
+      "originName": "Milky☆Subway: The Galactic Limited Express - the Movie",
+      "posterUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "minions-monsters-2026-e0b1b9bd",
+      "source": "ophim",
+      "slug": "minions-and-quai-vat",
+      "name": "Minions & Quái Vật",
+      "originName": "Minions & Monsters",
+      "posterUrl": "https://img.ophim.live/uploads/movies/minions-and-quai-vat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/minions-and-quai-vat-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -641,35 +686,6 @@
       ]
     },
     {
-      "id": "this-is-a-gardening-show-2026-d79d47f0",
-      "source": "ophim",
-      "slug": "nao-ta-cung-lam-vuon",
-      "name": "Nào ta cùng làm vườn",
-      "originName": "This Is a Gardening Show",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nao-ta-cung-lam-vuon-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nao-ta-cung-lam-vuon-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tài Liệu",
-          "slug": "tai-lieu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "hitori-no-shita-the-outc-2026-07b2c214",
       "source": "ophim",
       "slug": "nguoi-tren-van-nguoi-phan-6",
@@ -680,7 +696,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 23",
+      "episodeCurrent": "Tập 24",
       "categories": [
         {
           "name": "Hành Động",
@@ -740,31 +756,27 @@
       ]
     },
     {
-      "id": "tripping-with-my-family-2026-d008d0f8",
+      "id": "pati-patni-aur-woh-do-2026-cd4e2465",
       "source": "ophim",
-      "slug": "nha-minh-di-thoi",
-      "name": "Nhà Mình Đi Thôi",
-      "originName": "Tripping With My Family",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nha-minh-di-thoi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nha-minh-di-thoi-thumb.jpg",
+      "slug": "pati-patni-aur-woh-do",
+      "name": "Pati Patni Aur Woh Do",
+      "originName": "Pati Patni Aur Woh Do",
+      "posterUrl": "https://img.ophim.live/uploads/movies/pati-patni-aur-woh-do-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/pati-patni-aur-woh-do-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
         }
       ],
       "countries": [
         {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
+          "name": "Ấn Độ",
+          "slug": "an-do"
         }
       ]
     }

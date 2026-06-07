@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/1/xuyen-khong-thanh-tien-de-he-thong-den-muon-tam-van-nam.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/1/xuyen-khong-thanh-tien-de-he-thong-den-muon-tam-van-nam.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 25",
+  "episodeCurrent": "Tập 30",
   "categories": [],
   "countries": [],
   "description": "Sau hàng ngàn năm khổ tu vẫn không thể tiến thêm một bước, Triệu Anh Hùng bắt đầu hoài nghi con đường mình đang đi. Sự xuất hiện của hệ thống mang đến một cơ hội, nhưng cũng đặt ra những câu hỏi lớn. Nhiệm vụ kỳ lạ, phần thưởng hiếm có, tất cả dường như không đơn giản chỉ là cơ duyên. Khi trở về Thanh Vân Tông, chứng kiến sự suy tàn và những biến đổi của người cũ, anh càng nhận ra thời gian có thể thay đổi mọi thứ. Qua từng biến cố, từng trận chiến, anh dần hiểu rằng tu hành không chỉ là truy cầu sức mạnh, mà còn là việc nhìn thấu bản chất của vận mệnh. Và khi Hồng Mông Đạo Vận tích lũy đủ nhiều, câu hỏi lớn nhất hiện ra, liệu anh đang tự do bước đi, hay chỉ đang lần theo một con đường đã được vạch sẵn từ tám vạn năm trước?",
@@ -212,13 +212,53 @@
       "source": "nguonc",
       "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=b7c20fccf37cb417af14f627caf67e22",
       "m3u8Url": "https://sing.phimmoi.net/b7c20fccf37cb417af14f627caf67e22/hls.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "tap-26",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=9aa25be6dd12b8a01ae99e93ddd25590",
+      "m3u8Url": "https://sing.phimmoi.net/9aa25be6dd12b8a01ae99e93ddd25590/hls.m3u8"
+    },
+    {
+      "name": "27",
+      "slug": "tap-27",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=7248a9ffe6a7f231db0aba07a1f750fd",
+      "m3u8Url": "https://sing.phimmoi.net/7248a9ffe6a7f231db0aba07a1f750fd/hls.m3u8"
+    },
+    {
+      "name": "28",
+      "slug": "tap-28",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=546a2e21b01b593a53f31fd28e5b05c6",
+      "m3u8Url": "https://sing.phimmoi.net/546a2e21b01b593a53f31fd28e5b05c6/hls.m3u8"
+    },
+    {
+      "name": "29",
+      "slug": "tap-29",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=eb866e2fee47bb7dbd61a925e2913cd0",
+      "m3u8Url": "https://sing.phimmoi.net/eb866e2fee47bb7dbd61a925e2913cd0/hls.m3u8"
+    },
+    {
+      "name": "30",
+      "slug": "tap-30",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=db2080c85eafe28c9cbde0e7de7b650c",
+      "m3u8Url": "https://sing.phimmoi.net/db2080c85eafe28c9cbde0e7de7b650c/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "xuyen-khong-thanh-tien-de-he-thong-den-muon-tam-van-nam",
-      "episodeCount": 25,
+      "episodeCount": 30,
       "priority": 2
     }
   ],

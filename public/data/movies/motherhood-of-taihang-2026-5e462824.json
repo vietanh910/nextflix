@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Chính kịch",
@@ -49,13 +49,69 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/39d6c36ac66b6dc4ad16dbc82b572a96",
       "m3u8Url": "https://vip.opstream90.com/20260529/33283_39d6c36a/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b02ec300f88363cac4572b8084bad604",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34221_b02ec300/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/01f11b1dc7251b4dad589e664e28aaf6",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34222_01f11b1d/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/90f2041eeb835d118c1b6d02904b6e3a",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34223_90f2041e/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/94ae78261adc94a727c0a99edd823f7d",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34224_94ae7826/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0febd8884d4018ef0f494a74d24b63a3",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34225_0febd888/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3741c35b468fdcbcb872b68404a28ae9",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34226_3741c35b/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/13d1c2594854fff5460e37368dde26f5",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34227_13d1c259/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thai-hanh-dao",
-      "episodeCount": 3,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

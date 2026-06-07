@@ -1,0 +1,47 @@
+{
+  "id": "pemuja-2026-43aa7828",
+  "source": "ophim",
+  "slug": "pemuja",
+  "name": "Ảo giác máu",
+  "originName": "Pemuja",
+  "posterUrl": "https://img.ophim.live/uploads/movies/pemuja-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/pemuja-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Malaysia",
+      "slug": "malaysia"
+    }
+  ],
+  "description": "<p>Vợ chồng Qistina và Aqil có cuộc sống dường như thành công. Qistina là một tác giả sách thiếu nhi nổi tiếng, trong khi Aqil là một doanh nhân đang nỗ lực xây dựng công ty khởi nghiệp của mình. Tuy nhiên, những khó khăn về tài chính và một biến cố gia đình bi thảm khiến họ không còn lựa chọn nào khác ngoài việc chuyển đến sống tại ngôi nhà tổ tiên của người cha quá cố của Qistina ở làng quê, cùng với con gái Laila. Ban đầu, mọi thứ có vẻ yên bình. Aqil coi đây là cơ hội để gây dựng lại công việc kinh doanh của mình, trong khi Qistina hy vọng sẽ vượt qua được chứng trầm cảm. Tuy nhiên, những sự việc kỳ lạ và không thể giải thích bắt đầu xảy ra trong nhà.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ca3f6e75176256acc0e0756a3f8eccea",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33514_ca3f6e75/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "pemuja",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

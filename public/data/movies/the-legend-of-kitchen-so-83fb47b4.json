@@ -7,66 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/2/huyen-thoai-linh-bep-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/2/huyen-thoai-linh-bep.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
-  "description": "Xoay quanh một chàng lính trẻ bình thường được phân vào đội nhà bếp trong quân đội. Ban đầu anh bị xem thường vì không có năng lực chiến đấu nổi bật, nhưng lại sở hữu tài nấu ăn cực kỳ đặc biệt. Nhờ khả năng này, anh dần trở thành “huyền thoại nhà bếp” trong doanh trại.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=f75f81179656c0d1b0d2e885d9906a46",
-      "m3u8Url": "https://sing.phimmoi.net/f75f81179656c0d1b0d2e885d9906a46/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=7f5d22a1c6fef6eaf1a6f0c24c067e1c",
-      "m3u8Url": "https://sing.phimmoi.net/7f5d22a1c6fef6eaf1a6f0c24c067e1c/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=5031add78201484d9b6fc17bf395dd6c",
-      "m3u8Url": "https://sing.phimmoi.net/5031add78201484d9b6fc17bf395dd6c/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=396b0d0a670bcd42ab36eff587925e96",
-      "m3u8Url": "https://sing.phimmoi.net/396b0d0a670bcd42ab36eff587925e96/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=2e3cb3ce31d9b68ac59e5f68c42b97eb",
-      "m3u8Url": "https://sing.phimmoi.net/2e3cb3ce31d9b68ac59e5f68c42b97eb/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=3891785fd6e2d6ec2b095087e3e9b771",
-      "m3u8Url": "https://sing.phimmoi.net/3891785fd6e2d6ec2b095087e3e9b771/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "huyen-thoai-linh-bep",
-      "episodeCount": 6,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

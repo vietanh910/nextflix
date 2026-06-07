@@ -5,31 +5,6 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "the-stranded-2024-c377f4f6",
-      "source": "ophim",
-      "slug": "nhung-manh-doi-vo-dinh",
-      "name": "Những Mảnh Đời Vô Định",
-      "originName": "The Stranded",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-manh-doi-vo-dinh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-manh-doi-vo-dinh-thumb.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Tập 51",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
-        }
-      ]
-    },
-    {
       "id": "the-expect-love-2024-65193e2e",
       "source": "ophim",
       "slug": "phu-quan-dai-nhan-dung-so-thiep",
@@ -55,228 +30,31 @@
       ]
     },
     {
-      "id": "s-w-a-t-season-7-2024-f7d8b4ec",
+      "id": "a-few-moments-of-cheers-2024-73f033cf",
       "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-7",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 7)",
-      "originName": "S.W.A.T. (Season 7)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251221-1/298f139cfbba7ef1985ccc679439d686.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251221-1/f81e77e4f532cbbfd97029b388d70a73.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-8-2024-29a27c91",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-8",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 8)",
-      "originName": "S.W.A.T. (Season 8)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251221-1/47b65d1c38d57abe82948b9eb30d37f1.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251221-1/371114fb5721dc7be6f766c011e90879.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "a-good-girl-s-guide-to-m-2024-7885cdf1",
-      "source": "phimapi",
-      "slug": "nhan-chung-cuoi-cung-phan-1",
-      "name": "Nhân Chứng Cuối Cùng (Phần 1)",
-      "originName": "A Good Girl's Guide To Murder (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/807212d06d31c0cbab862a0c9ba95f70.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/8df505658114330735572033237f5cc7.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đức",
-          "slug": "duc"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "perfect-match-season-2-2024-a5feede9",
-      "source": "phimapi",
-      "slug": "nua-kia-hoan-hao-phan-2",
-      "name": "Nửa Kia Hoàn Hảo (Phần 2)",
-      "originName": "Perfect Match (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/3dec5d08ec33d927186694388a4066c0.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260505-1/24ca48bae847d23f09e07bc3d66b9560.jpg",
-      "year": 2024,
-      "type": "tvshow",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "murder-mindfully-season--2024-93c9e35d",
-      "source": "phimapi",
-      "slug": "sat-nhan-huu-y-phan-1",
-      "name": "Sát Nhân Hữu Ý (Phần 1)",
-      "originName": "Murder Mindfully (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/b29076e136d289e5ca82f223bf559dbc.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241103-1/a81cc8d51657ce16318f2a9254707e06.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đức",
-          "slug": "duc"
-        }
-      ]
-    },
-    {
-      "id": "peerless-soul-2024-4ae724eb",
-      "source": "phimapi",
-      "slug": "tuyet-the-chien-hon",
-      "name": "Tuyệt Thế Chiến Hồn",
-      "originName": "Peerless Soul",
-      "posterUrl": "https://phimimg.com/upload/vod/20250219-1/b880c627b5571d9afd22e58d056e772a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250219-1/b2facbf6cebbf66d0c728df0b75ad5b9.jpg",
+      "slug": "suufunkan-no-yell-wo",
+      "name": "Suu-funkan no Yell wo",
+      "originName": "A Few Moments of Cheers",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/08fd618cd4217a41ead88245c854dc27.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/9b1ed665c71dc07bf3967862f367fc99.jpg",
       "year": 2024,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 179",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Thần Thoại",
-          "slug": "than-thoai"
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -357,7 +135,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 142",
+      "episodeCurrent": "Tập 143",
       "categories": [
         {
           "name": "Chính kịch",
@@ -372,244 +150,27 @@
       ]
     },
     {
-      "id": "perfect-match-season-1-2023-a7b30948",
-      "source": "phimapi",
-      "slug": "nua-kia-hoan-hao-phan-1",
-      "name": "Nửa Kia Hoàn Hảo (Phần 1)",
-      "originName": "Perfect Match (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/99340af9a792d9b77c95c40e828b63e9.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260505-1/4faec3c031fd9c550d9b27c7c8597271.jpg",
-      "year": 2023,
-      "type": "tvshow",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-demon-hunter-2023-0274ab09",
-      "source": "phimapi",
-      "slug": "thuong-nguyen-do",
-      "name": "Thương Nguyên Đồ",
-      "originName": "The Demon Hunter",
-      "posterUrl": "https://phimimg.com/upload/vod/20250530-1/435941e1bbd5462ab142b2d1d03b608e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250530-1/9c37d265d1409b9652a7a7afeb35fd6f.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 79",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "apotheosis-2022-9319f4fd",
-      "source": "phimapi",
-      "slug": "bach-luyen-thanh-than",
-      "name": "Bách Luyện Thành Thần",
-      "originName": "Apotheosis",
-      "posterUrl": "https://phimimg.com/upload/vod/20260325-1/3d6c40ac7e223fe989e8c2f3ae1b7671.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260325-1/4b4ec9d8f1d7a4f263c1e73c51abac47.jpg",
+      "id": "ann-2022-15128ed5",
+      "source": "ophim",
+      "slug": "ann",
+      "name": "Ann",
+      "originName": "Ann",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ann-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ann-thumb.jpg",
       "year": 2022,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 130",
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
+          "name": "Chính kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-6-2022-9ba2edb2",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-6",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 6)",
-      "originName": "S.W.A.T. (Season 6)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251221-1/e5939c61eeef1e2b5b972496c2aeb492.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251221-1/dc16ca45e2f272232688e98cb3dd8bd7.jpg",
-      "year": 2022,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "tomb-of-fallen-gods-2022-69e5b0a0",
-      "source": "phimapi",
-      "slug": "than-mo-2022",
-      "name": "Thần Mộ",
-      "originName": "Tomb Of Fallen Gods",
-      "posterUrl": "https://phimimg.com/upload/vod/20251124-1/b20ca22d56f6ea0c41cdafea81018a64.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251124-1/74ab8505711d0ca1a57d85c0a13fb19f.jpg",
-      "year": 2022,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 87",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-5-2021-c7c1acd7",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-5",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 5)",
-      "originName": "S.W.A.T. (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/26c5e0c8db7127c0f09edd045beb56aa.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/aa928b2c9122652aab12dc4dcfbd5aa6.jpg",
-      "year": 2021,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Ireland",
+          "slug": "ireland"
         }
       ]
     },
@@ -624,7 +185,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 452",
+      "episodeCurrent": "Tập 454",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -680,80 +241,6 @@
       ]
     },
     {
-      "id": "s-w-a-t-season-4-2020-3bb9f80a",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-4",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 4)",
-      "originName": "S.W.A.T. (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/e053d0092911a148b6fbaec3194725bf.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/e6960daa505bbd3f64458b6876d841c7.jpg",
-      "year": 2020,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "find-yourself-2020-d370518e",
-      "source": "phimapi",
-      "slug": "tram-ke-tiep-la-hanh-phuc",
-      "name": "Trạm Kế Tiếp Là Hạnh Phúc",
-      "originName": "Find Yourself",
-      "posterUrl": "https://phimimg.com/upload/vod/20260528-1/8e1c2ae660a550e004099195e4782847.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241118-1/0530519fdc3b38c1c4b42931673f69e3.jpg",
-      "year": 2020,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (41/41)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "dedicated-to-my-ex-2019-354dd87d",
       "source": "ophim",
       "slug": "danh-rieng-cho-nguoi-yeu-cu-cua-toi",
@@ -787,43 +274,31 @@
       ]
     },
     {
-      "id": "s-w-a-t-season-3-2019-2fcdea9a",
+      "id": "day-and-night-2019-12b308c3",
       "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-3",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 3)",
-      "originName": "S.W.A.T. (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/31e53f169664b85da792bf7521c25523.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/c996274e25a3ea81bf97927e27849dc2.jpg",
+      "slug": "ranh-gioi-ngay-dem",
+      "name": "Ranh Giới Ngày Đêm",
+      "originName": "Day and Night",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/392c2bab346dbab2f8dea2044c3c27c8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/deef420679097223d5374a74ed2fcd2b.jpg",
       "year": 2019,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (21/21)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -849,6 +324,431 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "hirugao-2017-292e01ed",
+      "source": "ophim",
+      "slug": "hirugao",
+      "name": "Hirugao",
+      "originName": "Hirugao",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hirugao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hirugao-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "michael-jackson-searchin-2017-736dbf3d",
+      "source": "ophim",
+      "slug": "michael-jackson-di-tim-xu-so-neverland",
+      "name": "Michael Jackson: Đi tìm xứ sở Neverland",
+      "originName": "Michael Jackson: Searching for Neverland",
+      "posterUrl": "https://img.ophim.live/uploads/movies/michael-jackson-di-tim-xu-so-neverland-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/michael-jackson-di-tim-xu-so-neverland-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "on-the-beach-at-night-al-2017-f1ff9ba6",
+      "source": "ophim",
+      "slug": "mot-minh-giua-bien-dem",
+      "name": "Một Mình Giữa Biển Đêm",
+      "originName": "On the Beach at Night Alone",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mot-minh-giua-bien-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-minh-giua-bien-dem-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "from-straight-a-s-to-xxx-2017-34d3c870",
+      "source": "ophim",
+      "slug": "tu-diem-a-tuyet-doi-den-xxx",
+      "name": "Từ điểm A tuyệt đối đến XXX",
+      "originName": "From Straight A's to XXX",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tu-diem-a-tuyet-doi-den-xxx-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tu-diem-a-tuyet-doi-den-xxx-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Hà Lan",
+          "slug": "ha-lan"
+        }
+      ]
+    },
+    {
+      "id": "heaven-in-the-dark-2016-590b4712",
+      "source": "ophim",
+      "slug": "thien-duong-trong-bong-toi",
+      "name": "Thiên đường trong bóng tối",
+      "originName": "Heaven in the Dark",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thien-duong-trong-bong-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thien-duong-trong-bong-toi-thumb.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "the-gigolo-2-2016-33b78d7a",
+      "source": "phimapi",
+      "slug": "trai-bao-2",
+      "name": "Trai Bao 2",
+      "originName": "The Gigolo 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/3c31867d9764b972d42d8c239dfa262e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/14953c42c97ae04e5863f7111d465ba8.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-5-2015-b321dc19",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-5",
+      "name": "Bầu Trời Sụp Đổ (Phần 5)",
+      "originName": "Falling Skies (Season 5)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-thumb.jpg",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "boss-hunt-2015-be0d628e",
+      "source": "ophim",
+      "slug": "san-lung-nhung-ong-trum",
+      "name": "Săn Lùng Những Ông Trùm",
+      "originName": "Boss Hunt",
+      "posterUrl": "https://img.ophim.live/uploads/movies/san-lung-nhung-ong-trum-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/san-lung-nhung-ong-trum-thumb.jpg",
+      "year": 2015,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-4-2014-920db729",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-4",
+      "name": "Bầu Trời Sụp Đổ (Phần 4)",
+      "originName": "Falling Skies (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-thumb.jpg",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "paradise-in-heart-2014-9a6b0974",
+      "source": "phimapi",
+      "slug": "lac-gioi",
+      "name": "Lạc Giới",
+      "originName": "Paradise In Heart",
+      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/731643d5c7304d6ef47c634bcf4c0654.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/98cf15e95bb6f5a20134fa1f7b6ee534.jpg",
+      "year": 2014,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2014-6dc562c5",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-16",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 16)",
+      "originName": "Law & Order: Special Victims Unit (Season 16)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5d6fece59538c4fc717beed5c2039b51.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/225d6962223215676f9d46c1788c5671.jpg",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-3-2013-c17ea498",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-3",
+      "name": "Bầu Trời Sụp Đổ (Phần 3)",
+      "originName": "Falling Skies (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-thumb.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "empire-state-2013-a29a49fa",
+      "source": "ophim",
+      "slug": "empire-state",
+      "name": "Empire State",
+      "originName": "Empire State",
+      "posterUrl": "https://img.ophim.live/uploads/movies/empire-state-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/empire-state-thumb.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     }

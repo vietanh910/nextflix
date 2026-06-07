@@ -5,112 +5,42 @@
   "totalPages": 2,
   "items": [
     {
-      "id": "angry-birds-makerspace-s-2019-f8c0eb32",
-      "source": "ophim",
-      "slug": "angry-birds-vu-tru-sang-tao-phan-2",
-      "name": "Angry Birds: Vũ Trụ Sáng Tạo (Phần 2)",
-      "originName": "Angry Birds Makerspace (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/angry-birds-vu-tru-sang-tao-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/angry-birds-vu-tru-sang-tao-phan-2-thumb.jpg",
-      "year": 2019,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (20/20)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Phần Lan",
-          "slug": "phan-lan"
-        }
-      ]
-    },
-    {
-      "id": "angry-birds-makerspace-s-2019-ff9eabd7",
-      "source": "ophim",
-      "slug": "angry-birds-vu-tru-sang-tao-phan-3",
-      "name": "Angry Birds: Vũ Trụ Sáng Tạo (Phần 3)",
-      "originName": "Angry Birds Makerspace (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/angry-birds-vu-tru-sang-tao-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/angry-birds-vu-tru-sang-tao-phan-3-thumb.jpg",
-      "year": 2019,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (20/20)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Phần Lan",
-          "slug": "phan-lan"
-        }
-      ]
-    },
-    {
-      "id": "nanny-mcphee-2005-7ff44832",
-      "source": "ophim",
-      "slug": "bao-mau-phu-thuy",
-      "name": "Bảo Mẫu Phù Thủy",
-      "originName": "Nanny McPhee",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bao-mau-phu-thuy-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bao-mau-phu-thuy-thumb.jpg",
-      "year": 2005,
+      "id": "giac-mo-my-2017-1e97bed0",
+      "source": "phimapi",
+      "slug": "giac-mo-my-2017",
+      "name": "Giấc Mơ Mỹ",
+      "originName": "Giấc Mơ Mỹ",
+      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/d13374a3d0dd2e7b58c0d88382cdb109.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/93080dce44af9513173c32643dc65a7e.jpg",
+      "year": 2017,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
           "name": "Gia Đình",
           "slug": "gia-dinh"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Pháp",
-          "slug": "phap"
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     },
     {
-      "id": "candleshoe-1977-49a1de06",
-      "source": "ophim",
-      "slug": "chan-nen",
-      "name": "Chân nến",
-      "originName": "Candleshoe",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chan-nen-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chan-nen-thumb.jpg",
-      "year": 1977,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "id": "monsters-university-2013-fc29cd88",
+      "source": "phimapi",
+      "slug": "lo-dao-tao-quai-vat",
+      "name": "Lò Đào Tạo Quái Vật",
+      "originName": "Monsters University",
+      "posterUrl": "https://phimimg.com/upload/vod/20250327-1/825f227bb0a3cd8a94f7e78d4be22684.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250327-1/35133f045f3cf2541866c708819b9f86.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Gia Đình",
@@ -121,10 +51,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
         }
       ]
     }

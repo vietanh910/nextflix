@@ -2,7 +2,7 @@
   "slug": "phieu-luu",
   "name": "Phiêu Lưu",
   "page": 1,
-  "totalPages": 6,
+  "totalPages": 5,
   "items": [
     {
       "id": "vought-rising-2027-d5e1e4aa",
@@ -46,35 +46,39 @@
       ]
     },
     {
-      "id": "bebefinn-season-4-2026-b6b90237",
+      "id": "teach-you-a-lesson-2026-3cf506e0",
       "source": "ophim",
-      "slug": "bebefinn-phan-4",
-      "name": "Bebefinn (Phần 4)",
-      "originName": "Bebefinn (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bebefinn-phan-4-thumb.jpg",
+      "slug": "bai-hoc-dang-doi",
+      "name": "Bài Học Đáng Đời",
+      "originName": "Teach You a Lesson",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bai-hoc-dang-doi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bai-hoc-dang-doi-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (2/2)",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -297,6 +301,39 @@
       ]
     },
     {
+      "id": "propeller-one-way-night--2026-ae3ca1aa",
+      "source": "ophim",
+      "slug": "chuyen-bay-mot-chieu-den-hollywood-mo-uoc",
+      "name": "Chuyến Bay Một Chiều Đến Hollywood Mơ Ước",
+      "originName": "Propeller One-Way Night Coach",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-mot-chieu-den-hollywood-mo-uoc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-mot-chieu-den-hollywood-mo-uoc-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "fifties-professionals-2026-ef3e6bd3",
       "source": "ophim",
       "slug": "chuyen-gia-tuoi-trung-nien",
@@ -307,7 +344,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hành Động",
@@ -412,43 +449,6 @@
       ]
     },
     {
-      "id": "star-wars-maul-shadow-lo-2026-2f04d025",
-      "source": "ophim",
-      "slug": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi",
-      "name": "Cuộc Chiến Ngân Hà: Maul - Chúa Tể Bóng Tối (Phần 1)",
-      "originName": "Star Wars: Maul - Shadow Lord",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-ngan-ha-maul-chua-te-bong-toi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-ngan-ha-maul-chua-te-bong-toi-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "mortal-kombat-ii-2026-76a437e2",
       "source": "ophim",
       "slug": "cuoc-chien-sinh-tu-ii",
@@ -507,43 +507,6 @@
         {
           "name": "Anh",
           "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "swapped-2026-b501cd5e",
-      "source": "ophim",
-      "slug": "cuoc-phieu-luu-bien-hoa",
-      "name": "Cuộc phiêu lưu biến hóa",
-      "originName": "Swapped",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-phieu-luu-bien-hoa-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-phieu-luu-bien-hoa-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
         }
       ]
     },
@@ -677,7 +640,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hành Động",
@@ -770,43 +733,6 @@
       ]
     },
     {
-      "id": "release-that-witch-2026-e3f2f27b",
-      "source": "ophim",
-      "slug": "hoang-tu-luu-day",
-      "name": "Hoàng Tử Lưu Đày",
-      "originName": "Release that Witch",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hoang-tu-luu-day-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hoang-tu-luu-day-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "fist-of-the-north-star-h-2026-d58b22ba",
       "source": "ophim",
       "slug": "huyen-thoai-quyen-phap-bac-dau",
@@ -846,7 +772,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hành Động",
@@ -865,6 +791,76 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "kill-blue-2026-925c0c3e",
+      "source": "ophim",
+      "slug": "kill-blue",
+      "name": "KILL BLUE",
+      "originName": "KILL BLUE",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kill-blue-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kill-blue-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "legends-2026-589261e1",
+      "source": "ophim",
+      "slug": "legends",
+      "name": "Legends",
+      "originName": "Legends",
+      "posterUrl": "https://img.ophim.live/uploads/movies/legends-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/legends-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     }

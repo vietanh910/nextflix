@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 35",
+  "episodeCurrent": "Tập 44",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -311,6 +311,78 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260530/Qm0eiPZt/index.m3u8"
     },
     {
+      "name": "Tập 36",
+      "slug": "tap-36",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260531/Ml7VPhBM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260531/Ml7VPhBM/index.m3u8"
+    },
+    {
+      "name": "Tập 37",
+      "slug": "tap-37",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260531/2mIfawYN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260531/2mIfawYN/index.m3u8"
+    },
+    {
+      "name": "Tập 38",
+      "slug": "tap-38",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260602/2D1rDOnU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260602/2D1rDOnU/index.m3u8"
+    },
+    {
+      "name": "Tập 39",
+      "slug": "tap-39",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260602/QfPqnOu2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260602/QfPqnOu2/index.m3u8"
+    },
+    {
+      "name": "Tập 40",
+      "slug": "tap-40",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260602/r4cnIoMD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260602/r4cnIoMD/index.m3u8"
+    },
+    {
+      "name": "Tập 41",
+      "slug": "tap-41",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260602/wNc1DRsi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260602/wNc1DRsi/index.m3u8"
+    },
+    {
+      "name": "Tập 42",
+      "slug": "tap-42",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/20MYWeW6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/20MYWeW6/index.m3u8"
+    },
+    {
+      "name": "Tập 43",
+      "slug": "tap-43",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/JSZ59D6s/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/JSZ59D6s/index.m3u8"
+    },
+    {
+      "name": "Tập 44",
+      "slug": "tap-44",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/sfzvPJ6H/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/sfzvPJ6H/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -345,7 +417,7 @@
     {
       "source": "phimapi",
       "slug": "chu-giac",
-      "episodeCount": 35,
+      "episodeCount": 44,
       "priority": 1
     }
   ],

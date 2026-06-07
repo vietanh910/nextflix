@@ -5,33 +5,25 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "s-w-a-t-season-2-2018-6dcc3187",
+      "id": "southland-season-5-2013-cc4bb802",
       "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-2",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 2)",
-      "originName": "S.W.A.T. (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/5e427fe96f24944c1895bfd593488613.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/2625b3fb3f5ce86ecfc364b6a62e79ed.jpg",
-      "year": 2018,
+      "slug": "goc-toi-southland-phan-5",
+      "name": "Góc Tối Southland (Phần 5)",
+      "originName": "Southland (Season 5)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/df223c7e8b132656fa1998c84c744bb6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/50c2501efdec92eb2b24e9589e6b80df.jpg",
+      "year": 2013,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Tâm Lý",
@@ -40,498 +32,39 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
+          "name": "Âu Mỹ",
           "slug": "au-my"
         }
       ]
     },
     {
-      "id": "hirugao-2017-292e01ed",
-      "source": "ophim",
-      "slug": "hirugao",
-      "name": "Hirugao",
-      "originName": "Hirugao",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hirugao-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hirugao-thumb.jpg",
-      "year": 2017,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "michael-jackson-searchin-2017-736dbf3d",
-      "source": "ophim",
-      "slug": "michael-jackson-di-tim-xu-so-neverland",
-      "name": "Michael Jackson: Đi tìm xứ sở Neverland",
-      "originName": "Michael Jackson: Searching for Neverland",
-      "posterUrl": "https://img.ophim.live/uploads/movies/michael-jackson-di-tim-xu-so-neverland-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/michael-jackson-di-tim-xu-so-neverland-thumb.jpg",
-      "year": 2017,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "on-the-beach-at-night-al-2017-f1ff9ba6",
-      "source": "ophim",
-      "slug": "mot-minh-giua-bien-dem",
-      "name": "Một Mình Giữa Biển Đêm",
-      "originName": "On the Beach at Night Alone",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mot-minh-giua-bien-dem-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-minh-giua-bien-dem-thumb.jpg",
-      "year": 2017,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-fixer-2017-0e08ddbb",
-      "source": "ophim",
-      "slug": "nguoi-sua-chua",
-      "name": "Người sửa chữa",
-      "originName": "The Fixer",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-sua-chua-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-sua-chua-thumb.jpg",
-      "year": 2017,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
-      "id": "from-straight-a-s-to-xxx-2017-34d3c870",
-      "source": "ophim",
-      "slug": "tu-diem-a-tuyet-doi-den-xxx",
-      "name": "Từ điểm A tuyệt đối đến XXX",
-      "originName": "From Straight A's to XXX",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tu-diem-a-tuyet-doi-den-xxx-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tu-diem-a-tuyet-doi-den-xxx-thumb.jpg",
-      "year": 2017,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        },
-        {
-          "name": "Hà Lan",
-          "slug": "ha-lan"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-1-2017-ce759901",
+      "id": "law-order-special-victim-2013-5401756f",
       "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-1",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 1)",
-      "originName": "S.W.A.T. (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/c933024f559624524479d0840cb56b06.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/f472c18d7ef84211ab6e7571ea515486.jpg",
-      "year": 2017,
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-15",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 15)",
+      "originName": "Law & Order: Special Victims Unit (Season 15)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/6eddf4b40e13de2e6dc3bc01ed919d3c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/9d3b07da0fd48c194b6257a36b92fe4a.jpg",
+      "year": 2013,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "if-cats-disappeared-from-2016-1ea7fa49",
-      "source": "ophim",
-      "slug": "if-cats-disappeared-from-the-world",
-      "name": "If Cats Disappeared from the World",
-      "originName": "If Cats Disappeared from the World",
-      "posterUrl": "https://img.ophim.live/uploads/movies/if-cats-disappeared-from-the-world-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/if-cats-disappeared-from-the-world-thumb.jpg",
-      "year": 2016,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "heaven-in-the-dark-2016-590b4712",
-      "source": "ophim",
-      "slug": "thien-duong-trong-bong-toi",
-      "name": "Thiên đường trong bóng tối",
-      "originName": "Heaven in the Dark",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thien-duong-trong-bong-toi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thien-duong-trong-bong-toi-thumb.jpg",
-      "year": 2016,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-5-2015-b321dc19",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-5",
-      "name": "Bầu Trời Sụp Đổ (Phần 5)",
-      "originName": "Falling Skies (Season 5)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-thumb.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "boss-hunt-2015-be0d628e",
-      "source": "ophim",
-      "slug": "san-lung-nhung-ong-trum",
-      "name": "Săn Lùng Những Ông Trùm",
-      "originName": "Boss Hunt",
-      "posterUrl": "https://img.ophim.live/uploads/movies/san-lung-nhung-ong-trum-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/san-lung-nhung-ong-trum-thumb.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ý",
-          "slug": "y"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-4-2014-920db729",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-4",
-      "name": "Bầu Trời Sụp Đổ (Phần 4)",
-      "originName": "Falling Skies (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-thumb.jpg",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "parenthood-season-6-2014-21e2a8d7",
-      "source": "ophim",
-      "slug": "parenthood-phan-6",
-      "name": "Làm cha mẹ (Phần 6)",
-      "originName": "Parenthood (Season 6)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/parenthood-phan-6-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/parenthood-phan-6-thumb.jpg",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (13/13)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "triangle-2014-585536cd",
-      "source": "phimapi",
-      "slug": "bo-ba-quyen-luc",
-      "name": "Bộ Ba Quyền Lực",
-      "originName": "Triangle",
-      "posterUrl": "https://phimimg.com/upload/vod/20260528-1/7e90fe2ac88eb1dcb8122223678be5b1.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260528-1/9627bb3bbcc33039ea79345a10208422.jpg",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (52/52)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-3-2013-c17ea498",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-3",
-      "name": "Bầu Trời Sụp Đổ (Phần 3)",
-      "originName": "Falling Skies (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-thumb.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "parenthood-season-5-2013-fc086d50",
-      "source": "ophim",
-      "slug": "lam-cha-me-phan-5",
-      "name": "Làm cha mẹ (Phần 5)",
-      "originName": "Parenthood (Season 5)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/lam-cha-me-phan-5-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/lam-cha-me-phan-5-thumb.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (22/22)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "white-rabbit-2013-c9ae987f",
-      "source": "ophim",
-      "slug": "tho-trang",
-      "name": "Thỏ trắng",
-      "originName": "White Rabbit",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tho-trang-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tho-trang-thumb.jpg",
-      "year": 2013,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -587,18 +120,22 @@
       ]
     },
     {
-      "id": "parenthood-season-4-2012-1aa87027",
+      "id": "damsels-in-distress-2012-252fdb99",
       "source": "ophim",
-      "slug": "lam-cha-me-phan-4",
-      "name": "Làm cha mẹ (Phần 4)",
-      "originName": "Parenthood (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/lam-cha-me-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/lam-cha-me-phan-4-thumb.jpg",
+      "slug": "binh-dang-gioi",
+      "name": "Bình Đẳng Giới",
+      "originName": "Damsels in Distress",
+      "posterUrl": "https://img.ophim.live/uploads/movies/binh-dang-gioi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/binh-dang-gioi-thumb.jpg",
       "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (15/15)",
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -612,29 +149,66 @@
       ]
     },
     {
-      "id": "one-tree-hill-season-9-2012-9805c2a9",
+      "id": "southland-season-4-2012-7ecdb136",
       "source": "phimapi",
-      "slug": "danh-du-phan-9",
-      "name": "Danh Dự (Phần 9)",
-      "originName": "One Tree Hill (Season 9)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/3ea746dc41e50447349a7e04a57a6882.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/038500001b1bd1309d7a08855ac4a342.jpg",
+      "slug": "goc-toi-southland-phan-4",
+      "name": "Góc Tối Southland (Phần 4)",
+      "originName": "Southland (Season 4)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/4527875d4def7a91b05aaf936ed2d950.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/dc622b0b3136ee62d434bdc2909570b0.jpg",
       "year": 2012,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2012-6b407894",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-14",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 14)",
+      "originName": "Law & Order: Special Victims Unit (Season 14)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/d2249a5afed1f11af35d28ddf7028ec0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/655b47ab9e8c5ef5b7858dca5215e762.jpg",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -690,21 +264,66 @@
       ]
     },
     {
-      "id": "parenthood-season-3-2011-2411224a",
-      "source": "ophim",
-      "slug": "lam-cha-me-phan-3",
-      "name": "Làm cha mẹ (Phần 3)",
-      "originName": "Parenthood (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/lam-cha-me-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/lam-cha-me-phan-3-thumb.jpg",
+      "id": "southland-season-3-2011-a919b671",
+      "source": "phimapi",
+      "slug": "goc-toi-southland-phan-3",
+      "name": "Góc Tối Southland (Phần 3)",
+      "originName": "Southland (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/9111565b6c4e10d41a64bd04ae0361d9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/889986fffdbae2e49fb3532b8a4626b3.jpg",
       "year": 2011,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (18/18)",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
-          "name": "Chính kịch",
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2011-8e67f3bd",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-13",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 13)",
+      "originName": "Law & Order: Special Victims Unit (Season 13)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/9055071da3d9dd75f499e4b9b7271f83.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/46bfd160a69b6272d3f5d6d5a7a5009c.jpg",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -715,21 +334,66 @@
       ]
     },
     {
-      "id": "parenthood-season-2-2010-64b3f3c2",
-      "source": "ophim",
-      "slug": "lam-cha-me-phan-2",
-      "name": "Làm cha mẹ (Phần 2)",
-      "originName": "Parenthood (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/lam-cha-me-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/lam-cha-me-phan-2-thumb.jpg",
+      "id": "southland-season-2-2010-fbbf1e5b",
+      "source": "phimapi",
+      "slug": "goc-toi-southland-phan-2",
+      "name": "Góc Tối Southland (Phần 2)",
+      "originName": "Southland (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/90e7c200bd00521bd55f2b3c232c397f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/83a007b79cedb0a22b1e166b2af996e9.jpg",
       "year": 2010,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (22/22)",
+      "episodeCurrent": "Hoàn Tất (6/6)",
       "categories": [
         {
-          "name": "Chính kịch",
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2010-5767b95a",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-12",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 12)",
+      "originName": "Law & Order: Special Victims Unit (Season 12)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5bdff1259dd7588a876b4eb8d3d57a87.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/1b27da0265148f99f8a5fbbd0f5a443c.jpg",
+      "year": 2010,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -740,18 +404,408 @@
       ]
     },
     {
-      "id": "one-tree-hill-season-8-2010-3e7263b7",
+      "id": "american-bandits-frank-a-2010-5353d36f",
       "source": "phimapi",
-      "slug": "danh-du-phan-8",
-      "name": "Danh Dự (Phần 8)",
-      "originName": "One Tree Hill (Season 8)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/00a16c5dde4412364b9efd9905e8060d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/87d5d11fba47cdfae87535ddedfaf0c9.jpg",
+      "slug": "nhung-ten-cuop-nguoi-my-frank-va-jesse-james",
+      "name": "Những Tên Cướp Người Mỹ: Frank Và Jesse James",
+      "originName": "American Bandits: Frank And Jesse James",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/748bf61c96b139cc54646bc27747d1b4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/a17a97a5b6b47b00b682f757e576bb7a.jpg",
+      "year": 2010,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Miền Tây",
+          "slug": "mien-tay"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "smallville-season-10-2010-7c9edd7c",
+      "source": "phimapi",
+      "slug": "thi-tran-smallville-phan-10",
+      "name": "Thị Trấn Smallville (Phần 10)",
+      "originName": "Smallville (Season 10)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250604-1/1baa6b314afb3f891db6265c51d81676.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250604-1/d639d15920ed7e1c59e2d05dcfdac775.jpg",
       "year": 2010,
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (22/22)",
       "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "southland-season-1-2009-034844ca",
+      "source": "phimapi",
+      "slug": "goc-toi-southland-phan-1",
+      "name": "Góc Tối Southland (Phần 1)",
+      "originName": "Southland (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/f8ff1a66a0ea9ec8ee9b4616e34f6e2e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/d6b2c6c9a13cba8a5bae54744dd127e7.jpg",
+      "year": 2009,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "smallville-season-9-2009-77163159",
+      "source": "phimapi",
+      "slug": "thi-tran-smallville-phan-9",
+      "name": "Thị Trấn Smallville (Phần 9)",
+      "originName": "Smallville (Season 9)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250604-1/0215938e93cf85fbad38e1c16b6e9481.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250604-1/2e6954fe65d1c9d9a144746e9479b8da.jpg",
+      "year": 2009,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sex-of-golden-plums-2008-07dc9b81",
+      "source": "phimapi",
+      "slug": "phan-kim-lien-di-ban",
+      "name": "Phan Kim Liên dị bản",
+      "originName": "Sex Of Golden Plums",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/c2154f11d07fd46a6bd79a3f4f802d40.jpg",
+      "thumbUrl": "",
+      "year": 2008,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Phim 18+",
+          "slug": "phim-18"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "smallville-season-8-2008-02c1392a",
+      "source": "phimapi",
+      "slug": "thi-tran-smallville-phan-8",
+      "name": "Thị Trấn Smallville (Phần 8)",
+      "originName": "Smallville (Season 8)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250604-1/50a567f5bb00aa50c627832aa4c5cd80.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250604-1/b5d6e67fc3f6b851e199f9d5b87eeeab.jpg",
+      "year": 2008,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "after-sex-2007-51bd0e9b",
+      "source": "ophim",
+      "slug": "du-am-sau-cuoc-yeu",
+      "name": "Dư Âm Sau Cuộc Yêu",
+      "originName": "After Sex",
+      "posterUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-thumb.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "smallville-season-7-2007-141e462e",
+      "source": "phimapi",
+      "slug": "thi-tran-smallville-phan-7",
+      "name": "Thị Trấn Smallville (Phần 7)",
+      "originName": "Smallville (Season 7)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250604-1/1bc137099ce8435ef2f3957bcbfe59f2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250604-1/fbb8c9319736a944435dc48de187fef0.jpg",
+      "year": 2007,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-conquest-2006-877406b1",
+      "source": "ophim",
+      "slug": "song-hung-tranh-ba",
+      "name": "Song Hùng Tranh Bá",
+      "originName": "The Conquest",
+      "posterUrl": "https://img.ophim.live/uploads/movies/song-hung-tranh-ba-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/song-hung-tranh-ba-thumb.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (42/42)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "smallville-season-6-2006-08a23300",
+      "source": "phimapi",
+      "slug": "thi-tran-smallville-phan-6",
+      "name": "Thị Trấn Smallville (Phần 6)",
+      "originName": "Smallville (Season 6)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250604-1/1cb7abd863540cdfbcbd2599cf33c06c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250604-1/3fb3b38871f4a9d5cafc96a2c42c1d4f.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2006-108c3c43",
+      "source": "phimapi",
+      "slug": "vua-cua-cac-nu-hoang-phan-9",
+      "name": "Vua Của Các Nữ Hoàng (Phần 9)",
+      "originName": "The King Of Queens (Season 9)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/37492cb78c2bbbcf6634c72079eb9a8b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240928-1/9bb4b007ce4f4cf76e036bf74e7bc375.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
@@ -769,6 +823,68 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2005-1e47e0a6",
+      "source": "phimapi",
+      "slug": "vua-cua-cac-nu-hoang-phan-8",
+      "name": "Vua Của Các Nữ Hoàng (Phần 8)",
+      "originName": "The King Of Queens (Season 8)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/1d2134d2b2c87c089feead9cc9cd6168.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240928-1/e504b91b359ce95c4f35b500da86a8b1.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-landfill-king-2002-cb040e9d",
+      "source": "phimapi",
+      "slug": "vua-bai-rac",
+      "name": "Vua Bãi Rác",
+      "originName": "The Landfill King",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5e8e1003ff434564d40fe6d2d29b8e2e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/283e66e2f4759fef82f368694d135ba2.jpg",
+      "year": 2002,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     }

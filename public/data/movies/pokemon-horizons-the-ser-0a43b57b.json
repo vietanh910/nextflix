@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Film/133946.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Film/133946.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 138",
+  "episodeCurrent": "Tập 139",
   "categories": [],
   "countries": [],
   "description": "Theo dõi Liko và Roy khi họ làm sáng tỏ những bí ẩn xung quanh họ và chạm trán với Friede, Thuyền trưởng Pikachu, Amethio và những người khác trong cuộc phiêu lưu thú vị của họ!",
@@ -569,7 +569,9 @@
       "name": "70",
       "slug": "tap-70",
       "serverName": "Vietsub #1",
-      "source": "nguonc"
+      "source": "nguonc",
+      "embedUrl": "https://embed1.streamc.xyz/embed.php?hash=6a4a0f2ada6b6589a53212b3cf6cc390",
+      "m3u8Url": "https://sing.phimmoi.net/6a4a0f2ada6b6589a53212b3cf6cc390/hls.m3u8"
     },
     {
       "name": "71",
@@ -1114,13 +1116,53 @@
       "source": "nguonc",
       "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=a637e9b62a1826eee6ad8001a9ca2d9e",
       "m3u8Url": "https://sing.phimmoi.net/a637e9b62a1826eee6ad8001a9ca2d9e/hls.m3u8"
+    },
+    {
+      "name": "139",
+      "slug": "tap-139",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=5720777d56165d57b09cb49271a0fd87",
+      "m3u8Url": "https://sing.phimmoi.net/5720777d56165d57b09cb49271a0fd87/hls.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=234a5feb110cd1dc38ee990093910962",
+      "m3u8Url": "https://sing.phimmoi.net/234a5feb110cd1dc38ee990093910962/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=8cdd02f3cb71f7ef3be6e27ef2fd224f",
+      "m3u8Url": "https://sing.phimmoi.net/8cdd02f3cb71f7ef3be6e27ef2fd224f/hls.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "tap-3",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=550beb8c3e2192ba7e1dec1af1a7dbfb",
+      "m3u8Url": "https://sing.phimmoi.net/550beb8c3e2192ba7e1dec1af1a7dbfb/hls.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "tap-4",
+      "serverName": "Lồng Tiếng #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=307076088a9ac443661da0600b2a309f",
+      "m3u8Url": "https://sing.phimmoi.net/307076088a9ac443661da0600b2a309f/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "pokemon-2023",
-      "episodeCount": 138,
+      "episodeCount": 143,
       "priority": 2
     }
   ],

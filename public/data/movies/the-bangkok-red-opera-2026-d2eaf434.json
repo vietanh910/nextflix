@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 14",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -131,6 +131,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260528/PltzSzou/index.m3u8"
     },
     {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/vQF18z0g/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/vQF18z0g/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/XLPQPgdK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/XLPQPgdK/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -227,6 +243,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260528/hzmAPE1m/index.m3u8"
     },
     {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/Gb9bp8vZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/Gb9bp8vZ/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/XpSyewSO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/XpSyewSO/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -321,19 +353,27 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/e889e352e2a432ebbc0d11b3329dc723",
       "m3u8Url": "https://vip.opstream90.com/20260528/33227_e889e352/index.m3u8"
+    },
+    {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/620d925e18a28af2e785028a63486a35",
+      "m3u8Url": "https://vip.opstream90.com/20260603/33692_620d925e/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vu-dieu-tinh-thu",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "vu-dieu-tinh-thu",
-      "episodeCount": 24,
+      "episodeCount": 28,
       "priority": 1
     }
   ],

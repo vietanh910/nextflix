@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/5/bo-vo-toi-la-mafia-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/bo-vo-toi-la-mafia.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
   "description": "Một người đàn ông không chút nghi ngờ bỗng phải tẩy trắng hình ảnh cho một gia tộc tội phạm quyền lực sau khi bị ép cưới con gái của ông trùm.",
@@ -60,13 +60,29 @@
       "source": "nguonc",
       "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=34a5f944f43ce28a49f58633a1f5fa60",
       "m3u8Url": "https://sing.phimmoi.net/34a5f944f43ce28a49f58633a1f5fa60/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=19be8fa33678d803bd0c9f32b4347e6c",
+      "m3u8Url": "https://sing.phimmoi.net/19be8fa33678d803bd0c9f32b4347e6c/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=ac9a1b4d72fc34b65610e71a7386fdb5",
+      "m3u8Url": "https://sing.phimmoi.net/ac9a1b4d72fc34b65610e71a7386fdb5/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "bo-vo-toi-la-mafia",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 2
     }
   ],

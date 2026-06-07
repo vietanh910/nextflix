@@ -1,0 +1,51 @@
+{
+  "id": "in-the-grey-2026-92731298",
+  "source": "ophim",
+  "slug": "trong-vung-xam",
+  "name": "Trong Vùng Xám",
+  "originName": "In the Grey",
+  "posterUrl": "https://img.ophim.live/uploads/movies/trong-vung-xam-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/trong-vung-xam-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Khi một tên bạo chúa tàn nhẫn cướp đi khối tài sản trị giá 1 tỷ đô la, một đội đặc nhiệm tinh nhuệ hoạt động bí mật trong bóng tối toàn cầu được giao nhiệm vụ đoạt lại số tiền đó trong một phi vụ mà với bất kỳ ai khác cũng gần như là nhiệm vụ tự sát. Thành thạo thao túng quyền lực và tầm ảnh hưởng không kém gì sử dụng vũ khí tự động và thuốc nổ hạng nặng, họ bước vào một vụ cướp tưởng chừng bất khả thi rồi nhanh chóng bị cuốn vào một cuộc chiến toàn diện của chiến lược, lừa dối và sinh tồn.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8c226e712430372111f4fe3244742466",
+      "m3u8Url": "https://vip.opstream90.com/20260603/33731_8c226e71/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "trong-vung-xam",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

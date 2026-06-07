@@ -7,82 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/10/ban-gai-thue-5-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/10/ban-gai-thue-5.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "description": "Mùa 5 sẽ tập trung hoàn toàn vào&nbsp;đỉnh điểm của chuyến du lịch Hawaii, nơi lời nói dối về mối quan hệ giữa Kazuya và Chizuru chính thức bị dồn vào đường cùng. Mami Nanami&nbsp;sẽ thực hiện kế hoạch vạch trần thân phận thực sự của Chizuru trước mặt gia đình Kinoshita, buộc Chizuru và Kazuya phải đưa ra một quyết định mang tính bước ngoặt để bảo vệ bí mật và tình cảm của chính mình.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=31ddf0dc7dce8b9e3cf86d7cfaa30a2a",
-      "m3u8Url": "https://sing.phimmoi.net/31ddf0dc7dce8b9e3cf86d7cfaa30a2a/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=cf63769deca4079cd27a01ab28ca4c4b",
-      "m3u8Url": "https://sing.phimmoi.net/cf63769deca4079cd27a01ab28ca4c4b/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=d7ba691b42f1b017bd99017d4b6277ce",
-      "m3u8Url": "https://sing.phimmoi.net/d7ba691b42f1b017bd99017d4b6277ce/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=70809882a338d75f09de482a96a8d104",
-      "m3u8Url": "https://sing.phimmoi.net/70809882a338d75f09de482a96a8d104/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=218bfce9cc3a00f01cdc9a17f0a0f66f",
-      "m3u8Url": "https://sing.phimmoi.net/218bfce9cc3a00f01cdc9a17f0a0f66f/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=9821d805b873d5796b227b04ca7a3976",
-      "m3u8Url": "https://sing.phimmoi.net/9821d805b873d5796b227b04ca7a3976/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=3c26e688f05e23ac0be63a83af4dd336",
-      "m3u8Url": "https://sing.phimmoi.net/3c26e688f05e23ac0be63a83af4dd336/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=add2a1d308d7b3d632cb73460e174d1a",
-      "m3u8Url": "https://sing.phimmoi.net/add2a1d308d7b3d632cb73460e174d1a/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "ban-gai-thue-5",
-      "episodeCount": 8,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

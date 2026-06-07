@@ -2,78 +2,8 @@
   "slug": "phieu-luu",
   "name": "Phiêu Lưu",
   "page": 2,
-  "totalPages": 6,
+  "totalPages": 5,
   "items": [
-    {
-      "id": "kill-blue-2026-925c0c3e",
-      "source": "ophim",
-      "slug": "kill-blue",
-      "name": "KILL BLUE",
-      "originName": "KILL BLUE",
-      "posterUrl": "https://img.ophim.live/uploads/movies/kill-blue-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/kill-blue-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "legends-2026-589261e1",
-      "source": "ophim",
-      "slug": "legends",
-      "name": "Legends",
-      "originName": "Legends",
-      "posterUrl": "https://img.ophim.live/uploads/movies/legends-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/legends-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
     {
       "id": "that-time-i-got-reincarn-2026-cd773733",
       "source": "ophim",
@@ -85,7 +15,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -126,7 +56,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -149,50 +79,25 @@
       ]
     },
     {
-      "id": "the-secret-of-the-lost-p-2026-7a9f932a",
+      "id": "milky-subway-the-galacti-2026-f475b501",
       "source": "ophim",
-      "slug": "minh-chau-ky-dam-phan-3",
-      "name": "Minh Châu Kỳ Đàm (Phần 3)",
-      "originName": "The Secret of the Lost Pearl (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/minh-chau-ky-dam-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/minh-chau-ky-dam-phan-3-thumb.jpg",
+      "slug": "milky-subway-tau-toc-hanh-thien-ha-phim-dien-anh",
+      "name": "Milky☆Subway: Tàu tốc hành thiên hà – Phim điện ảnh",
+      "originName": "Milky☆Subway: The Galactic Limited Express - the Movie",
+      "posterUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-thumb.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 19",
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "monarch-legacy-of-monste-2026-bb08b417",
-      "source": "ophim",
-      "slug": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2",
-      "name": "Monarch: Thế Giới Quái Thú (Phần 2)",
-      "originName": "Monarch: Legacy of Monsters (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Viễn Tưởng",
@@ -205,20 +110,74 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "minions-monsters-2026-e0b1b9bd",
+      "source": "ophim",
+      "slug": "minions-and-quai-vat",
+      "name": "Minions & Quái Vật",
+      "originName": "Minions & Monsters",
+      "posterUrl": "https://img.ophim.live/uploads/movies/minions-and-quai-vat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/minions-and-quai-vat-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "monster-eater-2026-367bf32b",
+      "source": "ophim",
+      "slug": "monster-eater",
+      "name": "Monster Eater",
+      "originName": "Monster Eater",
+      "posterUrl": "https://img.ophim.live/uploads/movies/monster-eater-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/monster-eater-thumb-1775895614969.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -233,7 +192,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 23",
+      "episodeCurrent": "Tập 24",
       "categories": [
         {
           "name": "Hành Động",
@@ -381,7 +340,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Hành Động",
@@ -455,7 +414,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -519,6 +478,43 @@
       ]
     },
     {
+      "id": "supergirl-2026-81badbaa",
+      "source": "ophim",
+      "slug": "supergirl",
+      "name": "Supergirl",
+      "originName": "Supergirl",
+      "posterUrl": "https://img.ophim.live/uploads/movies/supergirl-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/supergirl-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "in-search-of-gods-2026-a0ac057b",
       "source": "ophim",
       "slug": "suu-than-ky",
@@ -529,7 +525,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Hành Động",
@@ -655,39 +651,6 @@
       ]
     },
     {
-      "id": "swallowed-star-the-movie-2026-e5b32d17",
-      "source": "ophim",
-      "slug": "thon-phe-tinh-khong-movie-quyet-chien-nguyen-thuy-tinh",
-      "name": "Thôn Phệ Tinh Không Movie: Quyết Chiến Nguyên Thủy Tinh",
-      "originName": "Swallowed Star The Movie: Decisive Battle on the Primordial Star",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thon-phe-tinh-khong-movie-quyet-chien-nguyen-thuy-tinh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thon-phe-tinh-khong-movie-quyet-chien-nguyen-thuy-tinh-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "fighter-of-the-destiny-3-2026-28794156",
       "source": "ophim",
       "slug": "trach-thien-ky-2026",
@@ -698,7 +661,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 21",
       "categories": [
         {
           "name": "Hành Động",
@@ -739,7 +702,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -807,39 +770,6 @@
       ]
     },
     {
-      "id": "prisoner-2026-86f5f087",
-      "source": "ophim",
-      "slug": "tu-nhan-2026",
-      "name": "Tù Nhân",
-      "originName": "Prisoner",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tu-nhan-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tu-nhan-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
       "id": "the-beginning-after-the--2026-ab0ff2be",
       "source": "ophim",
       "slug": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2",
@@ -850,7 +780,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -869,6 +799,84 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "wistoria-wand-and-sword--2026-4dcb6007",
+      "source": "ophim",
+      "slug": "wistoria-truong-va-kiem-phan-2",
+      "name": "Wistoria: Trượng và Kiếm (Phần 2)",
+      "originName": "Wistoria: Wand and Sword (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/wistoria-truong-va-kiem-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/wistoria-truong-va-kiem-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "wu-2026-32b7c273",
+      "source": "ophim",
+      "slug": "wu",
+      "name": "WU",
+      "originName": "WU",
+      "posterUrl": "https://img.ophim.live/uploads/movies/wu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/wu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     }

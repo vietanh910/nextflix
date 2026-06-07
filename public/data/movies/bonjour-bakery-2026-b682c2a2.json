@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Tình Cảm",
@@ -41,13 +41,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/adcf964dc675106763e656dcd371299f",
       "m3u8Url": "https://vip.opstream10.com/20260524/33757_adcf964d/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/88757d44d1e0a2bf33e366fe78461e31",
+      "m3u8Url": "https://vip.opstream10.com/20260601/33792_88757d44/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e9da253f577b6879e057eaf0ed7fea4e",
+      "m3u8Url": "https://vip.opstream10.com/20260601/33793_e9da253f/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tiem-banh-bonjour",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 0
     }
   ],

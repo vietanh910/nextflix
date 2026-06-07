@@ -5,6 +5,113 @@
   "totalPages": 2,
   "items": [
     {
+      "id": "spider-noir-2026-987ffcf7",
+      "source": "ophim",
+      "slug": "spider-noir",
+      "name": "Spider-Noir",
+      "originName": "Spider-Noir",
+      "posterUrl": "https://img.ophim.live/uploads/movies/spider-noir-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/spider-noir-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "from-season-4-2026-7cb6ea65",
+      "source": "ophim",
+      "slug": "thi-tran-ac-mong-phan-4",
+      "name": "Thị Trấn Ác Mộng (Phần 4)",
+      "originName": "FROM (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thi-tran-ac-mong-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thi-tran-ac-mong-phan-4-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "disclosure-day-2026-8a6bcd65",
+      "source": "ophim",
+      "slug": "thoi-khac-cong-bo",
+      "name": "Thời Khắc Công Bố",
+      "originName": "Disclosure Day",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thoi-khac-cong-bo-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thoi-khac-cong-bo-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "echoes-of-evidence-2026-18c802f8",
       "source": "ophim",
       "slug": "toi-an-han-tich",
@@ -88,117 +195,6 @@
       ]
     },
     {
-      "id": "glory-2026-ecedae62",
-      "source": "ophim",
-      "slug": "vinh-quang-2026",
-      "name": "Vinh Quang",
-      "originName": "Glory",
-      "posterUrl": "https://img.ophim.live/uploads/movies/vinh-quang-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/vinh-quang-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (7/7)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
-        }
-      ]
-    },
-    {
-      "id": "beyond-twilight-2026-31ed956f",
-      "source": "phimapi",
-      "slug": "bach-quy-da-hanh-ky-hyakki-yagshosho",
-      "name": "Bách Quỷ Dạ Hành Ký (Hyakki Yagshosho)",
-      "originName": "Beyond Twilight",
-      "posterUrl": "https://phimimg.com/upload/vod/20260412-1/fd3245f9897105ea0358a833300400c9.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260412-1/b4a448e7f4a5822cb197228d0e83cc48.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-scarecrow-2026-9060ce7a",
-      "source": "phimapi",
-      "slug": "bu-nhin-bong-dem",
-      "name": "Bù Nhìn Bóng Đêm",
-      "originName": "The Scarecrow",
-      "posterUrl": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "petals-of-reincarnation-2026-0aa10dab",
       "source": "phimapi",
       "slug": "canh-hoa-luan-hoi",
@@ -209,7 +205,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -236,43 +232,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-gift-2026-a690d3c6",
-      "source": "phimapi",
-      "slug": "mon-qua-cua-kluay",
-      "name": "Món Quà Của Kluay",
-      "originName": "The Gift",
-      "posterUrl": "https://phimimg.com/upload/vod/20260206-1/c9ef6e808516789d85fcb8cfe129dd61.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260206-1/c0f61e5294c67477c09cd9754717affc.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (34/34)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
         }
       ]
     },
@@ -287,7 +246,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -318,93 +277,35 @@
       ]
     },
     {
-      "id": "reborn-saigo-no-hero-2026-04b9d1e6",
+      "id": "detective-chen-2-2026-b23e476e",
       "source": "phimapi",
-      "slug": "tai-sinh-nguoi-hung-cuoi-cung",
-      "name": "Tái sinh: Người hùng cuối cùng",
-      "originName": "Reborn: Saigo no Hero",
-      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/6f395b1c6c65465490384a0664c09cf4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/b031d8773cc4ac88f68ed9e03ab575f8.jpg",
+      "slug": "than-tham-tron-hoc-2",
+      "name": "Thần Thám Trốn Học 2",
+      "originName": "Detective Chen 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/1490eaa7f1335029774af0d2d8c9b347.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/f218e7e6c1a5e36791344bf1f2d629c9.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "suzuki-bakudan-2025-41f5abce",
-      "source": "ophim",
-      "slug": "boc-dan",
-      "name": "Bộc Đạn",
-      "originName": "Suzuki=Bakudan",
-      "posterUrl": "https://img.ophim.live/uploads/movies/boc-dan-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/boc-dan-thumb.jpg",
-      "year": 2025,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "a-breed-apart-2025-f09f5177",
-      "source": "ophim",
-      "slug": "mot-giong-ngoai",
-      "name": "Một giống ngoài",
-      "originName": "A Breed Apart",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mot-giong-ngoai-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-giong-ngoai-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Bí ẩn",
+          "name": "Bí Ẩn",
           "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -419,7 +320,7 @@
       "year": 2025,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính kịch",
@@ -442,72 +343,39 @@
       ]
     },
     {
-      "id": "smothered-2025-8f6abbdd",
-      "source": "ophim",
-      "slug": "truyen-thuyet-hac-am-ve-malin-kundang",
-      "name": "Truyền Thuyết Hắc Ám Về Malin Kundang",
-      "originName": "Smothered",
-      "posterUrl": "https://img.ophim.live/uploads/movies/truyen-thuyet-hac-am-ve-malin-kundang-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/truyen-thuyet-hac-am-ve-malin-kundang-thumb.jpg",
-      "year": 2025,
+      "id": "detective-chen-2022-290b8dc3",
+      "source": "phimapi",
+      "slug": "than-tham-tron-hoc",
+      "name": "Thần Thám Trốn Học",
+      "originName": "Detective Chen",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/8f4677665c1cbd1d71d0087e3072beb2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/985fcd44cab4ae60d0beb5e90cdf13bf.jpg",
+      "year": 2022,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Indonesia",
-          "slug": "indonesia"
-        }
-      ]
-    },
-    {
-      "id": "a-good-girl-s-guide-to-m-2024-7885cdf1",
-      "source": "phimapi",
-      "slug": "nhan-chung-cuoi-cung-phan-1",
-      "name": "Nhân Chứng Cuối Cùng (Phần 1)",
-      "originName": "A Good Girl's Guide To Murder (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/807212d06d31c0cbab862a0c9ba95f70.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/8df505658114330735572033237f5cc7.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
           "name": "Bí Ẩn",
           "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Đức",
-          "slug": "duc"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -522,7 +390,7 @@
       "year": 2016,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -549,6 +417,191 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2014-6dc562c5",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-16",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 16)",
+      "originName": "Law & Order: Special Victims Unit (Season 16)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5d6fece59538c4fc717beed5c2039b51.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/225d6962223215676f9d46c1788c5671.jpg",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2013-5401756f",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-15",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 15)",
+      "originName": "Law & Order: Special Victims Unit (Season 15)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/6eddf4b40e13de2e6dc3bc01ed919d3c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/9d3b07da0fd48c194b6257a36b92fe4a.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2012-6b407894",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-14",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 14)",
+      "originName": "Law & Order: Special Victims Unit (Season 14)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/d2249a5afed1f11af35d28ddf7028ec0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/655b47ab9e8c5ef5b7858dca5215e762.jpg",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2011-8e67f3bd",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-13",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 13)",
+      "originName": "Law & Order: Special Victims Unit (Season 13)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/9055071da3d9dd75f499e4b9b7271f83.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/46bfd160a69b6272d3f5d6d5a7a5009c.jpg",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2010-5767b95a",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-12",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 12)",
+      "originName": "Law & Order: Special Victims Unit (Season 12)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5bdff1259dd7588a876b4eb8d3d57a87.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/1b27da0265148f99f8a5fbbd0f5a443c.jpg",
+      "year": 2010,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -586,6 +639,76 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "pulse-2001-084a030d",
+      "source": "phimapi",
+      "slug": "noi-am-anh-tam-linh",
+      "name": "Nỗi Ám Ảnh Tâm Linh",
+      "originName": "Pulse",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/c3dfde20da4f9347ffab8300403e6b1e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/8d8391ae184977ea1f7a829b234ba9ff.jpg",
+      "year": 2001,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-ninth-gate-1999-f69dbfa3",
+      "source": "phimapi",
+      "slug": "tang-dia-nguc-thu-chin-canh-cong-thu-chin",
+      "name": "Tầng Địa Ngục Thứ Chín (Cánh Cổng Thứ Chín)",
+      "originName": "The Ninth Gate",
+      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/edb2f6a7612ae598e2672bc3da24a903.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/68fb88a798a8cfd615f0fd802fe10565.jpg",
+      "year": 1999,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
         }
       ]
     }

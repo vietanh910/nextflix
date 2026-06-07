@@ -1,0 +1,103 @@
+{
+  "id": "the-gaze-2026-0d64c0dc",
+  "source": "ophim",
+  "slug": "the-gaze",
+  "name": "The Gaze",
+  "originName": "The Gaze",
+  "posterUrl": "https://img.ophim.live/uploads/movies/the-gaze-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/the-gaze-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 8",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Một bản hợp đồng lạnh lùng ràng buộc \"Người điều khiển\" Zhai Qiuyu và \"Người phụ thuộc\" Li Youen. Điều bắt đầu như một thỏa thuận giao dịch dần vượt khỏi tầm kiểm soát trong những bức tường tĩnh lặng của phòng khám. Khi sự thống trị biến thành lòng tận tụy, và một trò đùa biến thành sự bảo vệ suốt đời—khi nhìn vào em, cuối cùng anh cũng thấy được con người thật của mình.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6bcbf359dd1fca3e6b281096abb24303",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33754_6bcbf359/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/913f7da49fa19c66a96f14d2c9c60185",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33760_913f7da4/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f485dffb4597230ac63901784d2917ff",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33763_f485dffb/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2c41e54c1a31849f56aa0686fa09759d",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33766_2c41e54c/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dfa7868c9f76acaf214a28eaea294b08",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33773_dfa7868c/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ef11c94847ffdaae6df84356ee27cf20",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33780_ef11c948/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/95276ef6535840ec6e432a7fc28688cb",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33782_95276ef6/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/402dd25bdc2170ee2912e503f8df9e2f",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33783_402dd25b/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "the-gaze",
+      "episodeCount": 8,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

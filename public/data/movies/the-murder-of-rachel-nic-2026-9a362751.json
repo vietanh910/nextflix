@@ -1,0 +1,62 @@
+{
+  "id": "the-murder-of-rachel-nic-2026-9a362751",
+  "source": "ophim",
+  "slug": "vu-an-mang-rachel-nickell",
+  "name": "Vụ án mạng Rachel Nickell",
+  "originName": "The Murder of Rachel Nickell",
+  "posterUrl": "https://img.ophim.live/uploads/movies/vu-an-mang-rachel-nickell-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/vu-an-mang-rachel-nickell-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Một người mẹ trẻ bị sát hại giữa ban ngày trên quảng trường Wimbledon Common ở London — ngay trước mặt đứa con nhỏ của cô. Bộ phim tài liệu này xem xét vụ án giết người kéo dài nhiều năm.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/7G1xIaEG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/7G1xIaEG/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "vu-an-mang-rachel-nickell",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "vu-an-mang-rachel-nickell",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

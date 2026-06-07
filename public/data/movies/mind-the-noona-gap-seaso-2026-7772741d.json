@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 2",
   "categories": [
     {
       "name": "Tình Cảm",
@@ -33,13 +33,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/913f7da49fa19c66a96f14d2c9c60185",
       "m3u8Url": "https://vip.opstream10.com/20260525/33760_913f7da4/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/3b029d4810ab62194de14d4e511ba6fa",
+      "m3u8Url": "https://vip.opstream10.com/20260601/33789_3b029d48/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chi-oi-anh-yeu-em-phan-2",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 0
     }
   ],

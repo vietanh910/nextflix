@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hành Động",
@@ -105,13 +105,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/297b51d372955449d68d0b67ffda8c80",
       "m3u8Url": "https://vip.opstream90.com/20260528/33155_297b51d3/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5f8f8b4ab96b842515bfe342cf196929",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33745_5f8f8b4a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

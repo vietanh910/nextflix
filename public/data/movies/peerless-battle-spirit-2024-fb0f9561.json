@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 179",
+  "episodeCurrent": "Tập 180",
   "categories": [
     {
       "name": "Hành Động",
@@ -1465,13 +1465,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/523d6984fa5aa355c0f4b63b564ce892",
       "m3u8Url": "https://vip.opstream90.com/20260526/32917_523d6984/index.m3u8"
+    },
+    {
+      "name": "180",
+      "slug": "180",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/60b7f5df725c5166ab342f2eeb9244ad",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33596_60b7f5df/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tuyet-the-chien-hon",
-      "episodeCount": 179,
+      "episodeCount": 180,
       "priority": 0
     }
   ],

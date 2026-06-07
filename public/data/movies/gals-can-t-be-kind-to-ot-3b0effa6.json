@@ -7,82 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/otaku-ni-yasashii-gal-wa-inai-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/otaku-ni-yasashii-gal-wa-inai.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "description": "Câu chuyện xoay quanh Takuya Seo, một nam sinh sống khép kín và là \"otaku ngầm\" cực kỳ yêu thích các bộ anime dành cho bé gái. Vì sợ bị trêu chọc, cậu luôn cố gắng che giấu sở thích của mình, đặc biệt là trước hai cô nàng \"gyaru\" nổi tiếng trong lớp ngồi phía trước mình là Kei Amane và Kotoko Ijichi. Một lần tình cờ, Takuya vô tình để lộ sở thích của mình. Trái ngược với lo sợ của cậu, Ijichi tỏ ra rất tò mò và muốn tìm hiểu, trong khi Amane hóa ra cũng là một otaku ngầm có kiến thức sâu rộng về anime. Từ đây, mối quan hệ giữa một chàng trai otaku và hai cô nàng gyaru bắt đầu phát triển thông qua những sở thích chung về văn hóa anime.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=d341d9c9514d51b7da2aacb96b42cd36",
-      "m3u8Url": "https://sing.phimmoi.net/d341d9c9514d51b7da2aacb96b42cd36/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=5e29899329dafff6505099e27588981b",
-      "m3u8Url": "https://sing.phimmoi.net/5e29899329dafff6505099e27588981b/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=afec10de2e9dacd17356ce610ac23b57",
-      "m3u8Url": "https://sing.phimmoi.net/afec10de2e9dacd17356ce610ac23b57/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=5090391b7b218d12bfec2c0e92d63cb9",
-      "m3u8Url": "https://sing.phimmoi.net/5090391b7b218d12bfec2c0e92d63cb9/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=0b3c9b9b591d6fb5ada88fbccff4ece0",
-      "m3u8Url": "https://sing.phimmoi.net/0b3c9b9b591d6fb5ada88fbccff4ece0/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=802ff588cfa1196e4a828aaae5ee8fe3",
-      "m3u8Url": "https://sing.phimmoi.net/802ff588cfa1196e4a828aaae5ee8fe3/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=5d384e785acd00fa3c65451727339434",
-      "m3u8Url": "https://sing.phimmoi.net/5d384e785acd00fa3c65451727339434/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=7d92bb57344bdc58cbfb87944e92deaf",
-      "m3u8Url": "https://sing.phimmoi.net/7d92bb57344bdc58cbfb87944e92deaf/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "otaku-ni-yasashii-gal-wa-inai",
-      "episodeCount": 8,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

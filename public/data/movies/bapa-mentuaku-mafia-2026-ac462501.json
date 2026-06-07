@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "completed",
-  "episodeCurrent": "Hoàn Tất (6/6)",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -95,6 +95,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260529/5b6KJSQl/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/MzYT5ed7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/MzYT5ed7/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/Nxcpx4DH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/Nxcpx4DH/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -137,7 +153,7 @@
     {
       "source": "phimapi",
       "slug": "bo-vo-toi-la-mafia",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

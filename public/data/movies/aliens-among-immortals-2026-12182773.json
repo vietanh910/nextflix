@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 31",
+  "episodeCurrent": "Tập 33",
   "categories": [
     {
       "name": "Hành Động",
@@ -297,13 +297,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/6hEoRhEJ/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260528/6hEoRhEJ/index.m3u8"
+    },
+    {
+      "name": "Tập 32",
+      "slug": "tap-32",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260602/CBNbtiMR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260602/CBNbtiMR/index.m3u8"
+    },
+    {
+      "name": "Tập 33",
+      "slug": "tap-33",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/JenHsdLo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/JenHsdLo/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dao-yeu-hanh",
-      "episodeCount": 31,
+      "episodeCount": 33,
       "priority": 1
     }
   ],

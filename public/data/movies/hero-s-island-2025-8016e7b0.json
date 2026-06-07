@@ -1,0 +1,51 @@
+{
+  "id": "hero-s-island-2025-8016e7b0",
+  "source": "ophim",
+  "slug": "heros-island",
+  "name": "Hero's Island",
+  "originName": "Hero's Island",
+  "posterUrl": "https://img.ophim.live/uploads/movies/heros-island-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/heros-island-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Set in post-war Okinawa, Japan, Gusuku had 3 close childhood friends: On, Yamako and On's younger brother Rei. On was the oldest of the group and he was like a leader to everybody else. He was also a heroic figure to them. On led his friends into the U.S. military base and they stole supplies to give away to the local residents. Everybody in the neighborhood praised On. One night, they entered the U.S. military based to steal supplies. During their raid, On was chased by U.S. soldiers and went missing. Years later, Gusuku now works as a police officer. Yamako is an elementary school teacher. Rei is a member of the yakuza. These three people are still unable to get over the disappearance of On. They chase after the truth behind On's disappearance and uncover a shocking answer.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/96c4e55b0a015b4d860c4af4c9f1eea7",
+      "m3u8Url": "https://vip.opstream12.com/20260604/32713_96c4e55b/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "heros-island",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

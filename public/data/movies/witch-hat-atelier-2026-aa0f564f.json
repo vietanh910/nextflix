@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -105,13 +105,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/f4d135e23bccef02aedebf969915d885",
       "m3u8Url": "https://vip.opstream90.com/20260526/32912_f4d135e2/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/29c3fda370b6ebfff6005c6ed2a35ce2",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33553_29c3fda3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "xuong-phep-thuat",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

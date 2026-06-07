@@ -1,0 +1,55 @@
+{
+  "id": "monsters-university-2013-fc29cd88",
+  "source": "phimapi",
+  "slug": "lo-dao-tao-quai-vat",
+  "name": "Lò Đào Tạo Quái Vật",
+  "originName": "Monsters University",
+  "posterUrl": "https://phimimg.com/upload/vod/20250327-1/825f227bb0a3cd8a94f7e78d4be22684.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20250327-1/35133f045f3cf2541866c708819b9f86.jpg",
+  "year": 2013,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Ngay từ lúc vào trường đại học đào tạo cách dọa nạt trẻ con, Mike và Sully được xếp cùng phòng nhau. “Cặp đũa lệch” không thể chịu nổi nhau và hay gây gổ, tuy nhiên trải qua nhiều biến cố, cả hai đã thay đổi cách nhìn về người bạn quái vật của mình.",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/HyoVb3Sf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/HyoVb3Sf/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260502/aP06vrSC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260502/aP06vrSC/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "lo-dao-tao-quai-vat",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -99,6 +99,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260529/bHkJAcPk/index.m3u8"
     },
     {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/HOGOjRt4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/HOGOjRt4/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -149,7 +157,7 @@
     {
       "source": "phimapi",
       "slug": "giot-ruou-than-thanh-2026",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

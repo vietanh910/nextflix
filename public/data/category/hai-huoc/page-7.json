@@ -5,46 +5,17 @@
   "totalPages": 7,
   "items": [
     {
-      "id": "after-sex-2007-51bd0e9b",
-      "source": "ophim",
-      "slug": "du-am-sau-cuoc-yeu",
-      "name": "Dư Âm Sau Cuộc Yêu",
-      "originName": "After Sex",
-      "posterUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-thumb.jpg",
-      "year": 2007,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "30-rock-season-1-2006-e91b22b8",
-      "source": "ophim",
-      "slug": "30-rock-phan-1",
-      "name": "30 Rock (Phần 1)",
-      "originName": "30 Rock (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/30-rock-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/30-rock-phan-1-thumb.jpg",
+      "id": "the-office-season-3-2006-f8166335",
+      "source": "phimapi",
+      "slug": "chuyen-van-phong-phan-3",
+      "name": "Chuyện Văn Phòng (Phần 3)",
+      "originName": "The Office (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/cebd040ce973799e8da036c9fdaa977d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/c3dc8fce7c2a92f658bef149de515ec5.jpg",
       "year": 2006,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (21/21)",
+      "episodeCurrent": "Hoàn Tất (23/23)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -59,39 +30,39 @@
       ]
     },
     {
-      "id": "nanny-mcphee-2005-7ff44832",
-      "source": "ophim",
-      "slug": "bao-mau-phu-thuy",
-      "name": "Bảo Mẫu Phù Thủy",
-      "originName": "Nanny McPhee",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bao-mau-phu-thuy-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bao-mau-phu-thuy-thumb.jpg",
-      "year": 2005,
-      "type": "single",
+      "id": "the-king-of-queens-seaso-2006-108c3c43",
+      "source": "phimapi",
+      "slug": "vua-cua-cac-nu-hoang-phan-9",
+      "name": "Vua Của Các Nữ Hoàng (Phần 9)",
+      "originName": "The King Of Queens (Season 9)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/37492cb78c2bbbcf6634c72079eb9a8b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240928-1/9bb4b007ce4f4cf76e036bf74e7bc375.jpg",
+      "year": 2006,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Pháp",
-          "slug": "phap"
         }
       ]
     },
@@ -133,17 +104,67 @@
       ]
     },
     {
-      "id": "in-her-shoes-2005-81be1239",
+      "id": "the-office-season-1-2005-48ef1b3a",
       "source": "phimapi",
-      "slug": "chi-em-nha-feller",
-      "name": "Chị Em Nhà Feller",
-      "originName": "In Her Shoes",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/be8b0f62b38a45bf8566aadcf4254943.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/8c252fbdc99a8faa4b5113360d5fe6e9.jpg",
+      "slug": "chuyen-van-phong-phan-1",
+      "name": "Chuyện Văn Phòng (Phần 1)",
+      "originName": "The Office (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/41f628b4291c4bd2de08c5a63586c406.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/134ff009cbda97b4cf812543496abbbd.jpg",
       "year": 2005,
-      "type": "single",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-office-season-2-2005-53348a8d",
+      "source": "phimapi",
+      "slug": "chuyen-van-phong-phan-2",
+      "name": "Chuyện Văn Phòng (Phần 2)",
+      "originName": "The Office (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/14c088a5df14a90328a4844ed3cdd8c0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/0e6722fbb82fb0d18f1c5c46edb82a48.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (22/22)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2005-1e47e0a6",
+      "source": "phimapi",
+      "slug": "vua-cua-cac-nu-hoang-phan-8",
+      "name": "Vua Của Các Nữ Hoàng (Phần 8)",
+      "originName": "The King Of Queens (Season 8)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/1d2134d2b2c87c089feead9cc9cd6168.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240928-1/e504b91b359ce95c4f35b500da86a8b1.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -164,9 +185,30 @@
       ],
       "countries": [
         {
-          "name": "Anh",
-          "slug": "anh"
-        },
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2004-17de8174",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-7",
+      "name": "The King of Queens (Phần 7)",
+      "originName": "The King of Queens (Season 7)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-7-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-7-thumb.jpg",
+      "year": 2004,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -199,6 +241,135 @@
       ]
     },
     {
+      "id": "the-king-of-queens-seaso-2003-66b58bc3",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-6",
+      "name": "The King of Queens (Phần 6)",
+      "originName": "The King of Queens (Season 6)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-6-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-6-thumb.jpg",
+      "year": 2003,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (24/24)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2002-045f90ff",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-5",
+      "name": "The King of Queens (Phần 5)",
+      "originName": "The King of Queens (Season 5)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-5-thumb.jpg",
+      "year": 2002,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2001-1ec0e62a",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-4",
+      "name": "The King of Queens (Phần 4)",
+      "originName": "The King of Queens (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-4-thumb.jpg",
+      "year": 2001,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2000-9664ac8f",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-3",
+      "name": "The King of Queens (Phần 3)",
+      "originName": "The King of Queens (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-3-thumb.jpg",
+      "year": 2000,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "and-i-hate-you-so-2000-449f79d8",
+      "source": "phimapi",
+      "slug": "nam-than-nu-ai",
+      "name": "Nam Thân Nữ Ái",
+      "originName": "And I Hate You So",
+      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/9d6dbfa36e9bd80c6f0bc74b6d1c5995.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/7b188aea33d7e515e1a84782bec29b9a.jpg",
+      "year": 2000,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
       "id": "one-piece-luffy-1999-ea35662f",
       "source": "ophim",
       "slug": "one-piece",
@@ -209,7 +380,7 @@
       "year": 1999,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1163",
+      "episodeCurrent": "Tập 1164",
       "categories": [
         {
           "name": "Hành Động",
@@ -232,14 +403,64 @@
       ]
     },
     {
-      "id": "sneakers-1992-629940c3",
+      "id": "the-king-of-queens-seaso-1999-7a37ad40",
       "source": "ophim",
-      "slug": "nhung-ke-dot-nhap",
-      "name": "Những Kẻ Đột Nhập",
-      "originName": "Sneakers",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-ke-dot-nhap-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-ke-dot-nhap-thumb.jpg",
-      "year": 1992,
+      "slug": "the-king-of-queens-phan-2",
+      "name": "The King of Queens (Phần 2)",
+      "originName": "The King of Queens (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-2-thumb.jpg",
+      "year": 1999,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-1998-fe7c651c",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-1",
+      "name": "The King of Queens (Phần 1)",
+      "originName": "The King of Queens (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-thumb.jpg",
+      "year": 1998,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "anna-magdalena-1998-bab94de4",
+      "source": "phimapi",
+      "slug": "tinh-doi-mong",
+      "name": "Tình Đợi Mong",
+      "originName": "Anna Magdalena",
+      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/5cb753e6fe3061eedfef6f8396d6ac77.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/3597a51c11a2a7c8704474c0bb9bc2b0.jpg",
+      "year": 1998,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -249,18 +470,47 @@
           "slug": "hai-huoc"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "doctor-mack-1995-28e4ab32",
+      "source": "phimapi",
+      "slug": "bac-si-luu-manh",
+      "name": "Bác Sĩ Lưu Manh",
+      "originName": "Doctor Mack",
+      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/11ad8e67aa3f534885270d019ca65428.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/3b8b22f9fdd935ec3542cf2edd11346f.jpg",
+      "year": 1995,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     },
@@ -294,47 +544,6 @@
       ]
     },
     {
-      "id": "wheels-on-meals-1984-cc329c17",
-      "source": "phimapi",
-      "slug": "quan-an-luu-dong",
-      "name": "Quán Ăn Lưu Động",
-      "originName": "Wheels On Meals",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/0d257845d400b95b3d05b92ba50a3ff3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/02a8f0de154679fe4f4b443f630264c2.jpg",
-      "year": 1984,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
       "id": "we-all-loved-each-other--1974-e93e4f7c",
       "source": "ophim",
       "slug": "chung-toi-yeu-thuong-nhau-rat-nhieu",
@@ -360,31 +569,6 @@
         {
           "name": "Ý",
           "slug": "y"
-        }
-      ]
-    },
-    {
-      "id": "i-do-1921-9514598b",
-      "source": "ophim",
-      "slug": "i-do",
-      "name": "I Do",
-      "originName": "I Do",
-      "posterUrl": "https://img.ophim.live/uploads/movies/i-do-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/i-do-thumb.jpg",
-      "year": 1921,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

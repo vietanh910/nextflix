@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính kịch",
@@ -63,50 +63,20 @@
       "m3u8Url": "https://vip.opstream90.com/20260524/32809_fd860852/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260428/9J5isvDS/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260428/9J5isvDS/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260503/uVx9BYpw/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260503/uVx9BYpw/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260510/JkTqxZ2Q/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260510/JkTqxZ2Q/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/WuSWrAxL/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/WuSWrAxL/index.m3u8"
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7f61d36c9a87ccb4776231dd48d45a79",
+      "m3u8Url": "https://vip.opstream90.com/20260531/33512_7f61d36c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "loved-one",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "nguoi-than-yeu-nguoi-duoc-yeu-thuong",
-      "episodeCount": 4,
-      "priority": 1
     }
   ],
   "_priority": 0

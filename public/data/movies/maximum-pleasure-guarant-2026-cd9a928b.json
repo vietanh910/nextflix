@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hài Hước",
@@ -51,6 +51,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260527/33109_fe985472/index.m3u8"
     },
     {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/74349b2e19170fe0bbb4feb6f5720c5a",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33748_74349b2e/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -73,19 +81,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/KBHHJwaL/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260529/KBHHJwaL/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/rkF28abZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/rkF28abZ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cam-ket-thoa-man-tot-cung",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "cam-ket-thoa-man-tot-cung",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

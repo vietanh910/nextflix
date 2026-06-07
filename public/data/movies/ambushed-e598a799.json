@@ -1,0 +1,34 @@
+{
+  "id": "ambushed-e598a799",
+  "source": "nguonc",
+  "slug": "mat-vu-giua-vong-vay",
+  "name": "Mật Vụ Giữa Vòng Vây",
+  "originName": "Ambushed",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/1fQ3xZ0kAnAhGK6TpGwUN0eG66A.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/r7BKxa5auOnvbEMD1SNaQObQ5Nn.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Cuộc chiến giữa DEA, cảnh sát biến chất và các băng đảng ma túy tại Los Angeles, với nhiều màn phản bội, thanh toán và gài bẫy lẫn nhau.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=955ca72dcd9e098fc33b3531c14fff61",
+      "m3u8Url": "https://sing.phimmoi.net/955ca72dcd9e098fc33b3531c14fff61/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "mat-vu-giua-vong-vay",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

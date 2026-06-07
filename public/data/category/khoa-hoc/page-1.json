@@ -56,7 +56,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -167,7 +167,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -274,7 +274,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -375,43 +375,6 @@
       ]
     },
     {
-      "id": "star-wars-maul-shadow-lo-2026-2f04d025",
-      "source": "ophim",
-      "slug": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi",
-      "name": "Cuộc Chiến Ngân Hà: Maul - Chúa Tể Bóng Tối (Phần 1)",
-      "originName": "Star Wars: Maul - Shadow Lord",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-ngan-ha-maul-chua-te-bong-toi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cuoc-chien-ngan-ha-maul-chua-te-bong-toi-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "always-a-catch-2026-618d7c99",
       "source": "ophim",
       "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
@@ -422,7 +385,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hài Hước",
@@ -568,6 +531,47 @@
       ]
     },
     {
+      "id": "backrooms-2026-63490990",
+      "source": "ophim",
+      "slug": "hau-phong-vo-tan",
+      "name": "Hậu Phòng Vô Tận",
+      "originName": "Backrooms",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hau-phong-vo-tan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hau-phong-vo-tan-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
       "id": "master-of-the-universe-2026-88da7b8b",
       "source": "ophim",
       "slug": "he-man-va-nhung-chien-binh-vu-tru",
@@ -601,43 +605,6 @@
       ]
     },
     {
-      "id": "release-that-witch-2026-e3f2f27b",
-      "source": "ophim",
-      "slug": "hoang-tu-luu-day",
-      "name": "Hoàng Tử Lưu Đày",
-      "originName": "Release that Witch",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hoang-tu-luu-day-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hoang-tu-luu-day-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "wishing-upon-the-shootin-2026-3727bc2e",
       "source": "ophim",
       "slug": "huong-ve-sao-bang-cau-nguyen",
@@ -647,8 +614,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/huong-ve-sao-bang-cau-nguyen-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -681,7 +648,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -718,7 +685,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hài Hước",
@@ -792,7 +759,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -815,17 +782,58 @@
       ]
     },
     {
-      "id": "phantom-lawyer-2026-a1e3887a",
+      "id": "that-time-i-got-reincarn-2026-cd773733",
       "source": "ophim",
-      "slug": "luat-su-bong-ma",
-      "name": "Luật Sư Bóng Ma",
-      "originName": "Phantom Lawyer",
-      "posterUrl": "https://img.ophim.live/uploads/movies/luat-su-bong-ma-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/luat-su-bong-ma-thumb.jpg",
+      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+      "originName": "That Time I Got Reincarnated as a Slime (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "always-meet-again-2026-9be5c5bc",
+      "source": "ophim",
+      "slug": "luc-nao-ta-cung-se-gap-lai",
+      "name": "Lúc Nào Ta Cũng Sẽ Gặp Lại",
+      "originName": "Always Meet Again",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luc-nao-ta-cung-se-gap-lai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-nao-ta-cung-se-gap-lai-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (16/16)",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -838,10 +846,6 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
         }
       ],
       "countries": [
@@ -852,17 +856,17 @@
       ]
     },
     {
-      "id": "that-time-i-got-reincarn-2026-cd773733",
+      "id": "milky-subway-the-galacti-2026-f475b501",
       "source": "ophim",
-      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
-      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
-      "originName": "That Time I Got Reincarnated as a Slime (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+      "slug": "milky-subway-tau-toc-hanh-thien-ha-phim-dien-anh",
+      "name": "Milky☆Subway: Tàu tốc hành thiên hà – Phim điện ảnh",
+      "originName": "Milky☆Subway: The Galactic Limited Express - the Movie",
+      "posterUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",

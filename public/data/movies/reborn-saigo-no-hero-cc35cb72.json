@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/6/tai-sinh-nguoi-hung-cuoi-cung-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/tai-sinh-nguoi-hung-cuoi-cung.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [],
   "countries": [],
   "description": "Kể về Neo Kosei, một CEO công ty IT cực kỳ thành công nhưng cũng lạnh lùng và tàn nhẫn. Anh sẵn sàng lợi dụng và loại bỏ người khác để đạt mục tiêu trở thành số 1 trong ngành. Một ngày nọ, Kosei bị đẩy xuống cầu thang và chết. Tuy nhiên, anh bất ngờ tỉnh lại vào năm 2012, trong cơ thể của một người khác tên Nomoto Eito – một người hoàn toàn trái ngược với anh.",
@@ -60,13 +60,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=696db122db692e054ffee6c24b059d0a",
       "m3u8Url": "https://sing.phimmoi.net/696db122db692e054ffee6c24b059d0a/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=b1f7c46a982cbbd4ad9cb57fa3af11c8",
+      "m3u8Url": "https://sing.phimmoi.net/b1f7c46a982cbbd4ad9cb57fa3af11c8/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "tai-sinh-nguoi-hung-cuoi-cung",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 2
     }
   ],

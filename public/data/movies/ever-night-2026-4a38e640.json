@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hành Động",
@@ -101,13 +101,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/lAbLz3Dc/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260528/lAbLz3Dc/index.m3u8"
+    },
+    {
+      "name": "Tập 8",
+      "slug": "tap-8",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/vlJHtQ5p/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/vlJHtQ5p/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tuong-da-3d",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

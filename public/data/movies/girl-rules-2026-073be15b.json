@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/girl-rules-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (12/12)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -113,13 +113,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/41b69f211dd5617d041802a8813d6d66",
       "m3u8Url": "https://vip.opstream90.com/20260525/32909_41b69f21/index.m3u8"
+    },
+    {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/358793cf5d9f8a4842a137486ef6bf29",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33547_358793cf/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "girl-rules",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 0
     }
   ],

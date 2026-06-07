@@ -65,46 +65,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ecf398e72d98e8060502ac6b98f1ccd4",
       "m3u8Url": "https://vip.opstream90.com/20260529/33337_ecf398e7/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/axkYFSTt/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/axkYFSTt/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/CNSMccmT/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/CNSMccmT/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/Wd0VvmMU/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/Wd0VvmMU/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/mJYyk4W7/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/mJYyk4W7/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/DoJKhdQ1/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260529/DoJKhdQ1/index.m3u8"
     }
   ],
   "sources": [
@@ -113,12 +73,6 @@
       "slug": "brazil-1970-ngoi-sao-thu-ba",
       "episodeCount": 5,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "brazil-1970-ngoi-sao-thu-ba",
-      "episodeCount": 5,
-      "priority": 1
     }
   ],
   "_priority": 0

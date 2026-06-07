@@ -7,42 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/3/kill-it-slay-toi-ben-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/kill-it-slay-toi-ben.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [],
   "countries": [],
-  "description": "Show thời trang quy tụ các nhà thiết kế dẫn đầu xu hướng Hàn Quốc, cạnh tranh bằng những bộ cánh ấn tượng và phong cách nổi bật.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=4e52464bd6068be046ecf88a8a585bcb",
-      "m3u8Url": "https://sing.phimmoi.net/4e52464bd6068be046ecf88a8a585bcb/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=c8c5dcd66ef62f38c47bdddebcf04690",
-      "m3u8Url": "https://sing.phimmoi.net/c8c5dcd66ef62f38c47bdddebcf04690/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=07ef8c81ac9e7177db280569122d47e7",
-      "m3u8Url": "https://sing.phimmoi.net/07ef8c81ac9e7177db280569122d47e7/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "kill-it-slay-toi-ben",
-      "episodeCount": 3,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

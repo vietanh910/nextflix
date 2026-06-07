@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Khoa Học",
@@ -43,8 +43,8 @@
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260508/kbHVI5HP/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260508/kbHVI5HP/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/yAh2AOQR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/yAh2AOQR/index.m3u8"
     },
     {
       "name": "Tập 02",
@@ -69,13 +69,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/V8I5PmnO/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260527/V8I5PmnO/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/0vj0JhQA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/0vj0JhQA/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lan-nua-den-ben-em",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

@@ -7,40 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/3/nua-co-hoi-song-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/nua-co-hoi-song.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [],
   "countries": [],
-  "description": "Ba người đàn ông từng là huyền thoại trong giới tình báo, xã hội đen và quân sự bị cuốn vào một vụ án ma túy bí ẩn từ 10 năm trước. Khi chiếc USB chứa bằng chứng thất lạc bất ngờ xuất hiện trở lại, họ phải hợp tác để sống sót, tìm lại ký ức và phanh phui âm mưu đã hủy hoại cuộc đời mình. Phim pha trộn hành động, hài đen và tình anh em tuổi trung niên.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=dad05cdcbe542f138973f44c7aa27372",
-      "m3u8Url": "https://sing.phimmoi.net/dad05cdcbe542f138973f44c7aa27372/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=c2535d895c946a74d21c5d2a5f24bc8e",
-      "m3u8Url": "https://sing.phimmoi.net/c2535d895c946a74d21c5d2a5f24bc8e/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "nua-co-hoi-song",
-      "episodeCount": 3,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

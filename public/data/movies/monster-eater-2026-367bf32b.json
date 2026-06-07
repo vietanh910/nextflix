@@ -1,0 +1,91 @@
+{
+  "id": "monster-eater-2026-367bf32b",
+  "source": "ophim",
+  "slug": "monster-eater",
+  "name": "Monster Eater",
+  "originName": "Monster Eater",
+  "posterUrl": "https://img.ophim.live/uploads/movies/monster-eater-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/monster-eater-thumb-1775895614969.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Càng ăn nhiều quái vật, ta càng trở nên mạnh mẽ hơn! Rude, một nhà thám hiểm hạng E. Kỹ năng duy nhất của anh ta, &nbsp;\"Hóa bỏ trạng thái bất lợi,\" là một khả năng đặc biệt chỉ được coi là hữu ích khi thu thập thảo dược trong các hầm ngục đầy khí độc.&nbsp;<br>Với khả năng chiến đấu gần như bằng không, các nhà thám hiểm đồng hành chế giễu anh ta bằng biệt danh \"Kẻ nhặt rác khí độc.\" Trong một nỗ lực tuyệt vọng để thay đổi cuộc đời, Rude mạo hiểm vào một hầm ngục mới—chỉ để bị đồng đội phản bội và bỏ mặc cho chết. Hết lương thực và sinh mạng dần cạn kiệt, anh ta đưa ra một lựa chọn bị cấm: ăn thịt một con quái vật. Và thế là câu chuyện về cuộc phiêu lưu \"Ăn thịt quái vật\" của Rude bắt đầu, nơi anh ta có được những kỹ năng mới chỉ bằng cách ăn thịt kẻ thù của mình!</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/542bf0e35efe1a69007162b6219ea4c6",
+      "m3u8Url": "https://vip.opstream90.com/20260411/29253_542bf0e3/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5ca429b0056550eab08bcfe770eaf98e",
+      "m3u8Url": "https://vip.opstream90.com/20260411/29254_5ca429b0/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/282b71a86a960e117b12b24d88aff20e",
+      "m3u8Url": "https://vip.opstream90.com/20260417/29654_282b71a8/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/69a00482c2cdb3143b81404c6258f316",
+      "m3u8Url": "https://vip.opstream90.com/20260511/31516_69a00482/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8ccac9113628ef98fb521ea5ca319a70",
+      "m3u8Url": "https://vip.opstream90.com/20260511/31517_8ccac911/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bc7ee059ae7fecbf11cc7a8855671b6e",
+      "m3u8Url": "https://vip.opstream90.com/20260511/31518_bc7ee059/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "monster-eater",
+      "episodeCount": 6,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

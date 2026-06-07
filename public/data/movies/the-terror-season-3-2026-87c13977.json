@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -69,13 +69,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/731f9cd690d0b31e36353cb70553f541",
       "m3u8Url": "https://vip.opstream10.com/20260530/33777_731f9cd6/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/8291147824f5712d2c342d34df21f193",
+      "m3u8Url": "https://vip.opstream10.com/20260605/33806_82911478/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chuyen-kinh-hoang-phan-3",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
     }
   ],

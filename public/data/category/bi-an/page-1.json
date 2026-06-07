@@ -56,7 +56,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hình Sự",
@@ -85,7 +85,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -141,6 +141,39 @@
       ]
     },
     {
+      "id": "the-scarecrow-2026-8c7c414e",
+      "source": "ophim",
+      "slug": "bu-nhin-bong-dem",
+      "name": "Bù Nhìn Bóng Đêm",
+      "originName": "The Scarecrow",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bu-nhin-bong-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bu-nhin-bong-dem-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "classroom-of-the-elite-s-2026-9c495d99",
       "source": "ophim",
       "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
@@ -151,7 +184,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Chính kịch",
@@ -184,7 +217,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -221,7 +254,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 17",
+      "episodeCurrent": "Tập 21",
       "categories": [
         {
           "name": "Chính kịch",
@@ -240,6 +273,39 @@
       ]
     },
     {
+      "id": "detective-conan-fallen-a-2026-424e0c62",
+      "source": "ophim",
+      "slug": "dien-anh-conan-29-thien-than-sa-nga-tren-xa-lo",
+      "name": "Điện Ảnh Conan 29 - Thiên Thần Sa Ngã Trên Xa Lộ",
+      "originName": "Detective Conan: Fallen Angel of the Highway",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dien-anh-conan-29-thien-than-sa-nga-tren-xa-lo-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dien-anh-conan-29-thien-than-sa-nga-tren-xa-lo-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "griya-2026-a6bc9a5e",
       "source": "ophim",
       "slug": "griya",
@@ -250,7 +316,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Bí ẩn",
@@ -265,21 +331,29 @@
       ]
     },
     {
-      "id": "light-to-the-night-2026-03bf1748",
+      "id": "backrooms-2026-63490990",
       "source": "ophim",
-      "slug": "hac-da-cao-bach",
-      "name": "Hắc Dạ Cáo Bạch",
-      "originName": "Light to the Night",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hac-da-cao-bach-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hac-da-cao-bach-thumb.jpg",
+      "slug": "hau-phong-vo-tan",
+      "name": "Hậu Phòng Vô Tận",
+      "originName": "Backrooms",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hau-phong-vo-tan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hau-phong-vo-tan-thumb.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Bí ẩn",
@@ -288,8 +362,12 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
         }
       ]
     },
@@ -362,7 +440,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Bí ẩn",
@@ -387,7 +465,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính kịch",
@@ -402,43 +480,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "phantom-lawyer-2026-a1e3887a",
-      "source": "ophim",
-      "slug": "luat-su-bong-ma",
-      "name": "Luật Sư Bóng Ma",
-      "originName": "Phantom Lawyer",
-      "posterUrl": "https://img.ophim.live/uploads/movies/luat-su-bong-ma-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/luat-su-bong-ma-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (16/16)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -459,6 +500,35 @@
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "the-gift-2026-808d190d",
+      "source": "ophim",
+      "slug": "mon-qua-cua-kluay",
+      "name": "Món Quà Của Kluay",
+      "originName": "The Gift",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mon-qua-cua-kluay-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mon-qua-cua-kluay-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (34/34)",
+      "categories": [
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -680,7 +750,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Bí ẩn",
@@ -691,80 +761,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "spider-noir-2026-987ffcf7",
-      "source": "ophim",
-      "slug": "spider-noir",
-      "name": "Spider-Noir",
-      "originName": "Spider-Noir",
-      "posterUrl": "https://img.ophim.live/uploads/movies/spider-noir-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/spider-noir-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "from-season-4-2026-7cb6ea65",
-      "source": "ophim",
-      "slug": "thi-tran-ac-mong-phan-4",
-      "name": "Thị Trấn Ác Mộng (Phần 4)",
-      "originName": "FROM (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thi-tran-ac-mong-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thi-tran-ac-mong-phan-4-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

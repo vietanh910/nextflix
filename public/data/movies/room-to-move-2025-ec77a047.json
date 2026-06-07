@@ -33,14 +33,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/f9a7f25376f10e98cf7c33c582d2c3b8",
       "m3u8Url": "https://vip.opstream90.com/20260527/33113_f9a7f253/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/SlmZxG7a/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/SlmZxG7a/index.m3u8"
     }
   ],
   "sources": [
@@ -49,12 +41,6 @@
       "slug": "khong-gian-de-tung-canh",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "khong-gian-de-tung-canh",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

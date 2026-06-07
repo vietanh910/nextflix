@@ -2,8 +2,161 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 3,
-  "totalPages": 3,
+  "totalPages": 4,
   "items": [
+    {
+      "id": "aaryan-2025-1a73b075",
+      "source": "ophim",
+      "slug": "aaryan",
+      "name": "Aaryan",
+      "originName": "Aaryan",
+      "posterUrl": "https://img.ophim.live/uploads/movies/aaryan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/aaryan-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "sheriff-country-2025-577d2231",
+      "source": "ophim",
+      "slug": "canh-sat-truong-vung-que-phan-1",
+      "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
+      "originName": "Sheriff Country",
+      "posterUrl": "https://img.ophim.live/uploads/movies/canh-sat-truong-vung-que-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/canh-sat-truong-vung-que-phan-1-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "first-man-2025-d376fa18",
+      "source": "ophim",
+      "slug": "nguoi-dan-ong-dau-tien",
+      "name": "Người Đàn Ông Đầu Tiên",
+      "originName": "First Man",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-dau-tien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-dan-ong-dau-tien-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 96",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "times-of-peril-2025-06773e56",
+      "source": "ophim",
+      "slug": "nguy-tinh-phong-van",
+      "name": "Nguy Tình Phong Vân",
+      "originName": "Times of Peril",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguy-tinh-phong-van-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguy-tinh-phong-van-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-tigers-2025-da473949",
+      "source": "ophim",
+      "slug": "phi-vu-duoi-day-bien",
+      "name": "Phi Vụ Dưới Đáy Biển",
+      "originName": "The Tigers",
+      "posterUrl": "https://img.ophim.live/uploads/movies/phi-vu-duoi-day-bien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/phi-vu-duoi-day-bien-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
     {
       "id": "one-cent-thief-season-2-2025-77d99fdb",
       "source": "ophim",
@@ -71,154 +224,31 @@
       ]
     },
     {
-      "id": "dexter-resurrection-2025-dccdbc36",
-      "source": "phimapi",
-      "slug": "dexter-hoi-sinh",
-      "name": "Dexter: Hồi Sinh",
-      "originName": "Dexter: Resurrection",
-      "posterUrl": "https://phimimg.com/upload/vod/20250719-1/a20268535fe70784e36d7a98983a1ad2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250719-1/b8a74a7c6276afe9bcea2225e95d233d.jpg",
+      "id": "the-guest-2025-8b08c42f",
+      "source": "ophim",
+      "slug": "vi-khach-phan-1",
+      "name": "Vị Khách (Phần 1)",
+      "originName": "The Guest",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-thumb.jpg",
       "year": 2025,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
       "categories": [
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Chính Kịch",
+          "name": "Chính kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-7-2024-f7d8b4ec",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-7",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 7)",
-      "originName": "S.W.A.T. (Season 7)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251221-1/298f139cfbba7ef1985ccc679439d686.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251221-1/f81e77e4f532cbbfd97029b388d70a73.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-8-2024-29a27c91",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-8",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 8)",
-      "originName": "S.W.A.T. (Season 8)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251221-1/47b65d1c38d57abe82948b9eb30d37f1.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251221-1/371114fb5721dc7be6f766c011e90879.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "a-good-girl-s-guide-to-m-2024-7885cdf1",
-      "source": "phimapi",
-      "slug": "nhan-chung-cuoi-cung-phan-1",
-      "name": "Nhân Chứng Cuối Cùng (Phần 1)",
-      "originName": "A Good Girl's Guide To Murder (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/807212d06d31c0cbab862a0c9ba95f70.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/8df505658114330735572033237f5cc7.jpg",
-      "year": 2024,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đức",
-          "slug": "duc"
         },
         {
           "name": "Anh",
@@ -227,39 +257,35 @@
       ]
     },
     {
-      "id": "murder-mindfully-season--2024-93c9e35d",
+      "id": "the-jester-2-2025-f6a52747",
       "source": "phimapi",
-      "slug": "sat-nhan-huu-y-phan-1",
-      "name": "Sát Nhân Hữu Ý (Phần 1)",
-      "originName": "Murder Mindfully (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/b29076e136d289e5ca82f223bf559dbc.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241103-1/a81cc8d51657ce16318f2a9254707e06.jpg",
-      "year": 2024,
-      "type": "series",
+      "slug": "ac-mong-ga-he-2",
+      "name": "Ác Mộng Gã Hề 2",
+      "originName": "The Jester 2",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/5e5f2ec5743759e16e60158ac892a565.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/59b769692eedd2360c057f103fe30456.jpg",
+      "year": 2025,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         }
       ],
       "countries": [
         {
-          "name": "Đức",
-          "slug": "duc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -326,248 +352,68 @@
       ]
     },
     {
-      "id": "s-w-a-t-season-6-2022-9ba2edb2",
+      "id": "detective-chen-2022-290b8dc3",
       "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-6",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 6)",
-      "originName": "S.W.A.T. (Season 6)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251221-1/e5939c61eeef1e2b5b972496c2aeb492.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251221-1/dc16ca45e2f272232688e98cb3dd8bd7.jpg",
+      "slug": "than-tham-tron-hoc",
+      "name": "Thần Thám Trốn Học",
+      "originName": "Detective Chen",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/8f4677665c1cbd1d71d0087e3072beb2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/985fcd44cab4ae60d0beb5e90cdf13bf.jpg",
       "year": 2022,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
+      "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-5-2021-c7c1acd7",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-5",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 5)",
-      "originName": "S.W.A.T. (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/26c5e0c8db7127c0f09edd045beb56aa.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/aa928b2c9122652aab12dc4dcfbd5aa6.jpg",
-      "year": 2021,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
     {
-      "id": "s-w-a-t-season-4-2020-3bb9f80a",
+      "id": "day-and-night-2019-12b308c3",
       "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-4",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 4)",
-      "originName": "S.W.A.T. (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/e053d0092911a148b6fbaec3194725bf.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/e6960daa505bbd3f64458b6876d841c7.jpg",
-      "year": 2020,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-3-2019-2fcdea9a",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-3",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 3)",
-      "originName": "S.W.A.T. (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/31e53f169664b85da792bf7521c25523.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/c996274e25a3ea81bf97927e27849dc2.jpg",
+      "slug": "ranh-gioi-ngay-dem",
+      "name": "Ranh Giới Ngày Đêm",
+      "originName": "Day and Night",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/392c2bab346dbab2f8dea2044c3c27c8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/deef420679097223d5374a74ed2fcd2b.jpg",
       "year": 2019,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (21/21)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-2-2018-6dcc3187",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-2",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 2)",
-      "originName": "S.W.A.T. (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/5e427fe96f24944c1895bfd593488613.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/2625b3fb3f5ce86ecfc364b6a62e79ed.jpg",
-      "year": 2018,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "s-w-a-t-season-1-2017-ce759901",
-      "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-1",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 1)",
-      "originName": "S.W.A.T. (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/c933024f559624524479d0840cb56b06.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/f472c18d7ef84211ab6e7571ea515486.jpg",
-      "year": 2017,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -601,29 +447,33 @@
       ]
     },
     {
-      "id": "sneakers-1992-629940c3",
-      "source": "ophim",
-      "slug": "nhung-ke-dot-nhap",
-      "name": "Những Kẻ Đột Nhập",
-      "originName": "Sneakers",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-ke-dot-nhap-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-ke-dot-nhap-thumb.jpg",
-      "year": 1992,
-      "type": "single",
+      "id": "law-order-special-victim-2014-6dc562c5",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-16",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 16)",
+      "originName": "Law & Order: Special Victims Unit (Season 16)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5d6fece59538c4fc717beed5c2039b51.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/225d6962223215676f9d46c1788c5671.jpg",
+      "year": 2014,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (23/23)",
       "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Chính kịch",
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -634,29 +484,21 @@
       ]
     },
     {
-      "id": "wheels-on-meals-1984-cc329c17",
+      "id": "southland-season-5-2013-cc4bb802",
       "source": "phimapi",
-      "slug": "quan-an-luu-dong",
-      "name": "Quán Ăn Lưu Động",
-      "originName": "Wheels On Meals",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/0d257845d400b95b3d05b92ba50a3ff3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/02a8f0de154679fe4f4b443f630264c2.jpg",
-      "year": 1984,
-      "type": "single",
+      "slug": "goc-toi-southland-phan-5",
+      "name": "Góc Tối Southland (Phần 5)",
+      "originName": "Southland (Season 5)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/df223c7e8b132656fa1998c84c744bb6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/50c2501efdec92eb2b24e9589e6b80df.jpg",
+      "year": 2013,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Hình Sự",
@@ -669,8 +511,288 @@
       ],
       "countries": [
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2013-5401756f",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-15",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 15)",
+      "originName": "Law & Order: Special Victims Unit (Season 15)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/6eddf4b40e13de2e6dc3bc01ed919d3c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/9d3b07da0fd48c194b6257a36b92fe4a.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "southland-season-4-2012-7ecdb136",
+      "source": "phimapi",
+      "slug": "goc-toi-southland-phan-4",
+      "name": "Góc Tối Southland (Phần 4)",
+      "originName": "Southland (Season 4)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/4527875d4def7a91b05aaf936ed2d950.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/dc622b0b3136ee62d434bdc2909570b0.jpg",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2012-6b407894",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-14",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 14)",
+      "originName": "Law & Order: Special Victims Unit (Season 14)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/d2249a5afed1f11af35d28ddf7028ec0.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/655b47ab9e8c5ef5b7858dca5215e762.jpg",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "southland-season-3-2011-a919b671",
+      "source": "phimapi",
+      "slug": "goc-toi-southland-phan-3",
+      "name": "Góc Tối Southland (Phần 3)",
+      "originName": "Southland (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/9111565b6c4e10d41a64bd04ae0361d9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/889986fffdbae2e49fb3532b8a4626b3.jpg",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2011-8e67f3bd",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-13",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 13)",
+      "originName": "Law & Order: Special Victims Unit (Season 13)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/9055071da3d9dd75f499e4b9b7271f83.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/46bfd160a69b6272d3f5d6d5a7a5009c.jpg",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "southland-season-2-2010-fbbf1e5b",
+      "source": "phimapi",
+      "slug": "goc-toi-southland-phan-2",
+      "name": "Góc Tối Southland (Phần 2)",
+      "originName": "Southland (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/90e7c200bd00521bd55f2b3c232c397f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/83a007b79cedb0a22b1e166b2af996e9.jpg",
+      "year": 2010,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "law-order-special-victim-2010-5767b95a",
+      "source": "phimapi",
+      "slug": "luat-phap-va-trat-tu-nan-nhan-dac-biet-phan-12",
+      "name": "Luật Pháp Và Trật Tự: Nạn Nhân Đặc Biệt (Phần 12)",
+      "originName": "Law & Order: Special Victims Unit (Season 12)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5bdff1259dd7588a876b4eb8d3d57a87.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/1b27da0265148f99f8a5fbbd0f5a443c.jpg",
+      "year": 2010,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "southland-season-1-2009-034844ca",
+      "source": "phimapi",
+      "slug": "goc-toi-southland-phan-1",
+      "name": "Góc Tối Southland (Phần 1)",
+      "originName": "Southland (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20250701-1/f8ff1a66a0ea9ec8ee9b4616e34f6e2e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/d6b2c6c9a13cba8a5bae54744dd127e7.jpg",
+      "year": 2009,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (7/7)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

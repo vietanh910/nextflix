@@ -5,18 +5,47 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "dream-stage-2026-79a3b74c",
-      "source": "phimapi",
-      "slug": "san-khau-uoc-mo",
-      "name": "Sân Khấu Ước Mơ",
-      "originName": "DREAM STAGE",
-      "posterUrl": "https://phimimg.com/upload/vod/20260502-1/1cb65ce5abb839eaf78bdbe74dbebe63.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260502-1/f66a1952cdc0568f2129111f0197737b.jpg",
+      "id": "bts-world-tour-arirang-i-2026-82d24d2e",
+      "source": "ophim",
+      "slug": "bts-world-tour-arirang-tai-busan-xem-truc-tiep",
+      "name": "BTS World Tour ‘Arirang’ tại Busan: Xem trực tiếp",
+      "originName": "BTS World Tour ‘Arirang’ in Busan: Live Viewing",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bts-world-tour-arirang-tai-busan-xem-truc-tiep-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bts-world-tour-arirang-tai-busan-xem-truc-tiep-thumb.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-ballad-of-wallis-isl-2025-485d8d22",
+      "source": "phimapi",
+      "slug": "ban-nhac-tinh-o-dao-wallis",
+      "name": "Bản Nhạc Tình ở Đảo Wallis",
+      "originName": "The Ballad Of Wallis Island",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/bc46888d60322fd78e790dea0feda3bf.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/0268645d7d52104900af9372bf49cd9b.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
@@ -32,8 +61,103 @@
       ],
       "countries": [
         {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "zombie-land-saga-yumegin-2025-90d9640a",
+      "source": "phimapi",
+      "slug": "zombie-land-saga-movie-thien-duong-ngan-ha-mong-tuong",
+      "name": "Zombie Land Saga Movie: Thiên Đường Ngân Hà Mộng Tưởng",
+      "originName": "Zombie Land Saga: Yumeginga Paradise",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/d9664a5f44618ac421a47a07999543ae.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/fc6c30d5caa6416fe705c9f017162bd6.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "a-few-moments-of-cheers-2024-73f033cf",
+      "source": "phimapi",
+      "slug": "suufunkan-no-yell-wo",
+      "name": "Suu-funkan no Yell wo",
+      "originName": "A Few Moments of Cheers",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/08fd618cd4217a41ead88245c854dc27.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/9b1ed665c71dc07bf3967862f367fc99.jpg",
+      "year": 2024,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "anna-magdalena-1998-bab94de4",
+      "source": "phimapi",
+      "slug": "tinh-doi-mong",
+      "name": "Tình Đợi Mong",
+      "originName": "Anna Magdalena",
+      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/5cb753e6fe3061eedfef6f8396d6ac77.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/3597a51c11a2a7c8704474c0bb9bc2b0.jpg",
+      "year": 1998,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     }

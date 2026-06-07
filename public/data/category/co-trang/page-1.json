@@ -30,29 +30,29 @@
       ]
     },
     {
-      "id": "cage-of-shadows-2026-e640d089",
+      "id": "the-heir-2026-40216702",
       "source": "phimapi",
-      "slug": "long-giam-2026",
-      "name": "Lồng Giam",
-      "originName": "Cage Of Shadows",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/915600ba656eabe07318828e3ed99166.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/684a5fa72bc466c54faf39a83819b6ae.jpg",
+      "slug": "gia-nghiep",
+      "name": "Gia Nghiệp",
+      "originName": "The Heir",
+      "posterUrl": "https://phimimg.com/upload/vod/20260517-1/00e0c93f1e771c99a81489ca57e15c44.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260517-1/e597d3c023ece6133782fa92b37e1b30.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
+      "episodeCurrent": "Hoàn Tất (42/42)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
           "name": "Cổ Trang",
           "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -63,17 +63,17 @@
       ]
     },
     {
-      "id": "a-splendid-match-2026-b65e09ce",
+      "id": "linglong-s-ferry-2026-36052901",
       "source": "phimapi",
-      "slug": "luong-tran-my-cam",
-      "name": "Lương Trần Mỹ Cẩm",
-      "originName": "A Splendid Match",
-      "posterUrl": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
+      "slug": "linh-lung-do",
+      "name": "Linh Lung Độ",
+      "originName": "Linglong's Ferry",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/7553dd347ab4191774d421c25da1f2fa.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/6503705e997ece5d84a0d98c6c6d776f.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -82,10 +82,6 @@
         {
           "name": "Cổ Trang",
           "slug": "co-trang"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -133,17 +129,50 @@
       ]
     },
     {
-      "id": "soft-hearted-god-2026-3a688063",
+      "id": "a-thousand-miles-to-your-2026-cbc9563e",
       "source": "phimapi",
-      "slug": "tam-nhuyen-dich-than-khi-than-mem-long",
-      "name": "Tâm Nhuyễn Đích Thần (Khi Thần Mềm Lòng)",
-      "originName": "Soft-Hearted God",
-      "posterUrl": "https://phimimg.com/upload/vod/20260524-1/11c5f80d9e55c2050d0f4e42439753b4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260524-1/128163c2939ea8f5e3b4608393bdd21d.jpg",
+      "slug": "qua-muon-thanh-tri-moi-gap-dung-nguoi",
+      "name": "Qua Muôn Thành Trì Mới Gặp Đúng Người",
+      "originName": "A Thousand Miles To Your Heart",
+      "posterUrl": "https://phimimg.com/upload/vod/20260601-1/f6d8d4dcdd1ed4d8e3f79ec4da210e5f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260601-1/b611dc2811e84186e3030753e697ac75.jpg",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (28/28)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 22",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-reborn-young-lord-2026-62b7ea61",
+      "source": "phimapi",
+      "slug": "tieu-dao-tu-cong-tu",
+      "name": "Tiêu Dao Tứ Công Tử",
+      "originName": "The Reborn Young Lord",
+      "posterUrl": "https://phimimg.com/upload/vod/20260601-1/7227f672a8292f542dda4ea75277fda5.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260601-1/9657c32dbec0837439d0ef3c5b31bac9.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 22",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -175,8 +204,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 33",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (37/37)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -213,7 +242,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 200",
+      "episodeCurrent": "Tập 202",
       "categories": [
         {
           "name": "Hành Động",
@@ -230,43 +259,6 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "shrouding-the-heavens-2023-b5fa7366",
-      "source": "phimapi",
-      "slug": "gia-thien",
-      "name": "Già Thiên",
-      "originName": "Shrouding The Heavens",
-      "posterUrl": "https://phimimg.com/upload/vod/20240411-1/0a4084fdfad19ecab9f1f53d629bf422.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240411-1/bbf5847cc8ae2ce6528d5b51ef6f877a.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 164",
-      "categories": [
-        {
-          "name": "Võ Thuật",
-          "slug": "vo-thuat"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Thần Thoại",
-          "slug": "than-thoai"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
         }
       ],
       "countries": [
@@ -287,7 +279,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 270",
+      "episodeCurrent": "Tập 271",
       "categories": [
         {
           "name": "Hành Động",
@@ -314,26 +306,51 @@
       ]
     },
     {
-      "id": "against-the-sky-supreme--2021-965e6c68",
+      "id": "sex-of-golden-plums-2008-07dc9b81",
       "source": "phimapi",
-      "slug": "nghich-thien-chi-ton",
-      "name": "Nghịch Thiên Chí Tôn",
-      "originName": "Against The Sky Supreme / Ni Tian Zhi Zun",
-      "posterUrl": "https://phimimg.com/upload/vod/20250903-1/fe12e74047daf65d58b996a82987f6aa.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250903-1/cc1e9fd59cf70b050455ceb0bf183bf3.jpg",
-      "year": 2021,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 518",
+      "slug": "phan-kim-lien-di-ban",
+      "name": "Phan Kim Liên dị bản",
+      "originName": "Sex Of Golden Plums",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/c2154f11d07fd46a6bd79a3f4f802d40.jpg",
+      "thumbUrl": "",
+      "year": 2008,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Phim 18+",
+          "slug": "phim-18"
         },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "the-fearless-duo-1984-f252556d",
+      "source": "ophim",
+      "slug": "thien-su-ky-mon",
+      "name": "Thiên Sư Kỳ Môn",
+      "originName": "The Fearless Duo",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thien-su-ky-mon-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thien-su-ky-mon-thumb.jpg",
+      "year": 1984,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
         {
           "name": "Cổ Trang",
           "slug": "co-trang"
@@ -343,6 +360,10 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     }

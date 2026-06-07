@@ -1,0 +1,63 @@
+{
+  "id": "the-guest-2025-8b08c42f",
+  "source": "ophim",
+  "slug": "vi-khach-phan-1",
+  "name": "Vị Khách (Phần 1)",
+  "originName": "The Guest",
+  "posterUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-thumb.jpg",
+  "year": 2025,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>The Guest là một series tâm lý giật gân, pha trộn bí ẩn và đấu trí, xoay quanh mối quan hệ độc hại giữa một nữ doanh nhân giàu có và người giúp việc mới vào nghề. Khởi đầu như một sự kết nối đầy thiện cảm, câu chuyện nhanh chóng trượt dốc thành một trò chơi thao túng tâm lý đầy bí mật và tàn nhẫn. Đằng sau vẻ ngoài hào nhoáng là những góc khuất đen tối, tình bạn tưởng chừng thân thiết giữa hai người phụ nữ bắt đầu rạn vỡ khi họ vô tình bị cuốn vào một vụ án mạng, kéo theo hàng loạt sự kiện khó tin. Bối cảnh tại một trang viên hoang vắng ở xứ Wales càng tô đậm bầu không khí u ám, cô lập - một nét đặc trưng của thể loại Gothic thời hiện đại. Nếu bạn đã từng yêu thích Killing Eve, Behind Her Eyes hoặc Gone Girl, The Guest chắc chắn là bộ phim mà bạn không thể bỏ qua.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/9faf494a168e02772dfb2a2414b8309e",
+      "m3u8Url": "https://vip.opstream10.com/20260603/33797_9faf494a/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/2859d4b47bfe5c717dd76d74a888ee5a",
+      "m3u8Url": "https://vip.opstream10.com/20260607/33818_2859d4b4/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "vi-khach-phan-1",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

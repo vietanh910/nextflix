@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Film/65t4t566565.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Film/65t4t566565.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 179",
+  "episodeCurrent": "Tập 182",
   "categories": [],
   "countries": [],
   "description": "Diệp Bất Phàm là một sinh viên năm 3, để kiếm đủ tiền nằm viện cho mẹ mà đi ăn vạ, giả vờ tai nạn để bắt người khác bồi thường. Nào ngờ lại gặp phải một cô tài xế không làm theo những gì người ta hay làm. Sau khi bị đâm, Diệp bất Phàm vô tình xuyên không vào một ảo cảnh, và có được truyền thừa của một môn phái về y học thời cổ đại. Từ đó, anh ta thông thạo y thuật, tu luyện công pháp, và được rất nhiều cô gái xinh đẹp chú ý đến.",
@@ -1444,13 +1444,37 @@
       "source": "nguonc",
       "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=f28ed5a4893c12752371cc333a4a0b62",
       "m3u8Url": "https://sing.phimmoi.net/f28ed5a4893c12752371cc333a4a0b62/hls.m3u8"
+    },
+    {
+      "name": "180",
+      "slug": "tap-180",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=56bc4723289c75b606b415b70944d225",
+      "m3u8Url": "https://sing.phimmoi.net/56bc4723289c75b606b415b70944d225/hls.m3u8"
+    },
+    {
+      "name": "181",
+      "slug": "tap-181",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=8cf75aa0ff00834fa6f420ba4a399c9f",
+      "m3u8Url": "https://sing.phimmoi.net/8cf75aa0ff00834fa6f420ba4a399c9f/hls.m3u8"
+    },
+    {
+      "name": "182",
+      "slug": "tap-182",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=746e58e91b20ab10fc1ddec6d0d18d67",
+      "m3u8Url": "https://sing.phimmoi.net/746e58e91b20ab10fc1ddec6d0d18d67/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "than-y-co-dai-o-do-thi-do-thi-co-tien-y",
-      "episodeCount": 179,
+      "episodeCount": 182,
       "priority": 2
     }
   ],

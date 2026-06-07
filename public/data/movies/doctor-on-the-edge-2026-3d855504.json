@@ -1,0 +1,59 @@
+{
+  "id": "doctor-on-the-edge-2026-3d855504",
+  "source": "ophim",
+  "slug": "bac-si-dao-hoang",
+  "name": "Bác Sĩ Đảo Hoang",
+  "originName": "Doctor on the Edge",
+  "posterUrl": "https://img.ophim.live/uploads/movies/bac-si-dao-hoang-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/bac-si-dao-hoang-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Một bác sĩ y tế công cộng trên một hòn đảo bị xa lánh và một nữ y tá bí ẩn bắt đầu một mối tình lãng mạn giữa con người và y khoa.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/f188c8091aa36af839db188507983bdd",
+      "m3u8Url": "https://vip.opstream10.com/20260602/33795_f188c809/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/a67b5b83f4dfe5c971655fa7e06bbca3",
+      "m3u8Url": "https://vip.opstream10.com/20260603/33798_a67b5b83/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "bac-si-dao-hoang",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

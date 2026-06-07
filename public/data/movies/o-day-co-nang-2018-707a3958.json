@@ -1,0 +1,47 @@
+{
+  "id": "o-day-co-nang-2018-707a3958",
+  "source": "phimapi",
+  "slug": "o-day-co-nang",
+  "name": "Ở Đây Có Nắng",
+  "originName": "Ở Đây Có Nắng",
+  "posterUrl": "https://phimimg.com/upload/vod/20260605-1/ef681897e5927f43c62e0b947c83740a.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/6189ae40a1c93d8e08bdd6ef633a5a58.jpg",
+  "year": 2018,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "Ở Đây Có Nắng xoay quanh nhân vật Tùng Nhân – một MC, đạo diễn chương trình truyền hình nổi tiếng đang sống yên vui với người yêu. Bỗng một ngày Tùng Nhân bàng hoàng phát hiện mình có đứa con trai “trên trời rơi xuống” - kết quả mối tình nhiều năm trước với người yêu cũ. Thừa nhận đứa trẻ đồng nghĩa với việc sẽ vướng vào tai tiếng, sự nghiệp có thể tiêu tan, nhưng nhìn thấy con sống bơ vơ, nhớ lại thân cảnh mồ côi của chính mình, Tùng Nhân quyết định nuôi con. Tình phụ tử vừa ấm áp thì éo le bất ngờ xảy đến.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/EDWk47g8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/EDWk47g8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "o-day-co-nang",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

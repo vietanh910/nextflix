@@ -129,94 +129,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/2a11da4581b3801a09326efe6cf2af23",
       "m3u8Url": "https://vip.opstream90.com/20260528/33220_2a11da45/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260402/4mwBkuXH/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260402/4mwBkuXH/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260402/56KEjIXt/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260402/56KEjIXt/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260402/vdU9rHHk/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260402/vdU9rHHk/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260409/uV1YTPVi/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260409/uV1YTPVi/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260418/nh8IN5mP/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260418/nh8IN5mP/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260428/0GSo6gqq/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260428/0GSo6gqq/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260430/S1xQX7BJ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260430/S1xQX7BJ/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260507/KbipPF5x/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260507/KbipPF5x/index.m3u8"
-    },
-    {
-      "name": "Tập 09",
-      "slug": "tap-09",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/DS1OwPir/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/DS1OwPir/index.m3u8"
-    },
-    {
-      "name": "Tập 10",
-      "slug": "tap-10",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260520/6hyX0SkA/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260520/6hyX0SkA/index.m3u8"
-    },
-    {
-      "name": "Tập 11",
-      "slug": "tap-11",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/8nGZVZfQ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/8nGZVZfQ/index.m3u8"
     }
   ],
   "sources": [
@@ -225,12 +137,6 @@
       "slug": "di-thu-ma-do-phan-2",
       "episodeCount": 11,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "di-thu-ma-do-phan-2",
-      "episodeCount": 11,
-      "priority": 1
     }
   ],
   "_priority": 0

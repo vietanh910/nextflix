@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 200",
+  "episodeCurrent": "Tập 202",
   "categories": [
     {
       "name": "Hành Động",
@@ -1637,13 +1637,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ae522f6bae7d8d4c640974e88c4c1b2a",
       "m3u8Url": "https://vip.opstream90.com/20260524/32778_ae522f6b/index.m3u8"
+    },
+    {
+      "name": "201",
+      "slug": "201",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4b9ba87e0fa64737feea24fe89169f3e",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34141_4b9ba87e/index.m3u8"
+    },
+    {
+      "name": "202",
+      "slug": "202",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/33807476351b4d1295b34aa9dce30273",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34142_33807476/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dau-pha-thuong-khung-ngoai-truyen",
-      "episodeCount": 200,
+      "episodeCount": 202,
       "priority": 0
     }
   ],

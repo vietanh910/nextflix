@@ -1,0 +1,91 @@
+{
+  "id": "half-man-2026-48744186",
+  "source": "phimapi",
+  "slug": "ke-khong-tron-ven",
+  "name": "Kẻ Không Trọn Vẹn",
+  "originName": "Half Man",
+  "posterUrl": "https://phimimg.com/upload/vod/20260604-1/fb4dbd69cdf8e98a0af8e19071f1e2c9.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/44e58723b5483b909ebaf986d821eb6c.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "Phim xoay quanh hai người đàn ông Niall và Ruben, lớn lên như anh em dù không cùng huyết thống. Sau 30 năm, họ gặp lại nhau tại đám cưới của Niall. Cuộc hội ngộ tưởng chừng bình thường lại dẫn đến một vụ bạo lực bất ngờ, từ đó câu chuyện quay ngược về quá khứ để hé lộ.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=null",
+      "m3u8Url": "null"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/7J81iWBb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/7J81iWBb/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/FuycRVKR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/FuycRVKR/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/yXyrwPDB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/yXyrwPDB/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/RPpXa426/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/RPpXa426/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/ZAgCDXhp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/ZAgCDXhp/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ke-khong-tron-ven",
+      "episodeCount": 6,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

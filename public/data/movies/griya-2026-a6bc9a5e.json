@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Bí ẩn",
@@ -83,6 +83,22 @@
       "m3u8Url": "https://vip.opstream90.com/20260530/33417_3d3f298f/index.m3u8"
     },
     {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6d84ed6d6da45f4e5286237e4e32f21a",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33533_6d84ed6d/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c1537c9ed39baee3476c6fdd666b5fd8",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34126_c1537c9e/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -137,19 +153,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/3wU9AVHy/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260530/3wU9AVHy/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260531/dBo2auNf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260531/dBo2auNf/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/9wKgQrSQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/9wKgQrSQ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "griya",
-      "episodeCount": 7,
+      "episodeCount": 9,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "griya-rahsia-seorang-lelaki",
-      "episodeCount": 7,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

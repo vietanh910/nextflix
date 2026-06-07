@@ -1,0 +1,51 @@
+{
+  "id": "bunnie-2026-fa662d46",
+  "source": "ophim",
+  "slug": "tho-oi",
+  "name": "Thỏ Ơi!!",
+  "originName": "Bunnie!",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tho-oi-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tho-oi-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "<p>Thỏ Ơi!! là một dự án điện ảnh ra mắt năm 2026 của Trấn Thành. Phim điện ảnh Việt Nam ra mắt vào năm 2026 do Trấn Thành làm đạo diễn.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/aa721632f9066fae441aa6f0b09bd9e4",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33526_aa721632/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tho-oi",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

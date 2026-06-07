@@ -1,0 +1,55 @@
+{
+  "id": "all-i-need-for-christmas-2024-56025834",
+  "source": "phimapi",
+  "slug": "mot-dieu-toi-can-cho-giang-sinh",
+  "name": "Một Điều Tôi Cần Cho Giáng Sinh",
+  "originName": "All I Need for Christmas",
+  "posterUrl": "https://phimimg.com/upload/vod/20260606-1/4a26cf2c27dd537542adc262482d2110.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/3c42caf0b0bd17a1d81aac0fb6ea0027.jpg",
+  "year": 2024,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "Vào Giáng sinh, một nhạc sĩ đang chật vật trong thế giới số gặp một doanh nhân công nghệ. Cô căm ghét công việc của anh, nhưng rồi chính sự khác biệt kéo họ lại gần nhau.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/60lwI2ZW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/60lwI2ZW/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "mot-dieu-toi-can-cho-giang-sinh",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

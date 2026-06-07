@@ -1,0 +1,47 @@
+{
+  "id": "lavender-2000-0dd7bfd0",
+  "source": "phimapi",
+  "slug": "hoa-oai-huong-oai-huong-tim",
+  "name": "Hoa Oải Hương (Oải Hương Tím)",
+  "originName": "Lavender",
+  "posterUrl": "https://phimimg.com/upload/vod/20260605-1/0f88c1d41ebc92bfe19d90782c83672f.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/4a8e5f48a80b626c3e792f857cdb8402.jpg",
+  "year": 2000,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "Oải Hương Tím - Lavender là một câu chuyện tình nhẹ nhàng, hài hước của Athena (Trần Tuệ Lâm) một chuyên gia trị liệu bằng hương liệu và một thiên sứ ngây ngô (Kim Thành Vũ) rơi xuống sân thượng nhà cô trong một đêm mưa bão. Phim đẹp một cách kì lạ, đặc biệt là cánh đồng hoa Lavender đẹp như hư vô.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/qVYcnq04/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/qVYcnq04/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "hoa-oai-huong-oai-huong-tim",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

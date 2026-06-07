@@ -7,104 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/9/yeu-duoc-chua-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/9/yeu-duoc-chua.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 13",
   "categories": [],
   "countries": [],
-  "description": "Cô là mẹ đơn thân không còn tin vào tình yêu. Anh là CEO trẻ, thành đạt. Định mệnh khiến họ gặp nhau, liệu cô có thể vượt qua quá khứ và sự chênh lệch tuổi tác để yêu?",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=727c84fae6d8b9db3a6ba210725de18e",
-      "m3u8Url": "https://sing.phimmoi.net/727c84fae6d8b9db3a6ba210725de18e/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=b4387903b5a2017560d0ab94c3acd882",
-      "m3u8Url": "https://sing.phimmoi.net/b4387903b5a2017560d0ab94c3acd882/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=5d7c0c1bc7b959122add879ec34f4e27",
-      "m3u8Url": "https://sing.phimmoi.net/5d7c0c1bc7b959122add879ec34f4e27/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=99766035005727ac7d47042d8430d222",
-      "m3u8Url": "https://sing.phimmoi.net/99766035005727ac7d47042d8430d222/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=37c206c53b4edcb854f913ebda82f971",
-      "m3u8Url": "https://sing.phimmoi.net/37c206c53b4edcb854f913ebda82f971/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=eceebe76841fa93296096f04928c678d",
-      "m3u8Url": "https://sing.phimmoi.net/eceebe76841fa93296096f04928c678d/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=78991f86e925ee08b7adb627c4433724",
-      "m3u8Url": "https://sing.phimmoi.net/78991f86e925ee08b7adb627c4433724/hls.m3u8"
-    },
-    {
-      "name": "9",
-      "slug": "tap-9",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=1df49ed50a481de7f9da7a6ab9a448ab",
-      "m3u8Url": "https://sing.phimmoi.net/1df49ed50a481de7f9da7a6ab9a448ab/hls.m3u8"
-    },
-    {
-      "name": "10",
-      "slug": "tap-10",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=c25200f9d10bb19405bf5ad4f8409b58",
-      "m3u8Url": "https://sing.phimmoi.net/c25200f9d10bb19405bf5ad4f8409b58/hls.m3u8"
-    },
-    {
-      "name": "11",
-      "slug": "tap-11",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=55c26f30a0e2fdf476d1125acafe3270",
-      "m3u8Url": "https://sing.phimmoi.net/55c26f30a0e2fdf476d1125acafe3270/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "yeu-duoc-chua",
-      "episodeCount": 11,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

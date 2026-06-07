@@ -1,0 +1,44 @@
+{
+  "id": "ann-2022-15128ed5",
+  "source": "ophim",
+  "slug": "ann",
+  "name": "Ann",
+  "originName": "Ann",
+  "posterUrl": "https://img.ophim.live/uploads/movies/ann-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/ann-thumb.jpg",
+  "year": 2022,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ireland",
+      "slug": "ireland"
+    }
+  ],
+  "description": "<p>Dựa trên những gì đã xảy ra với Ann Lovett, một cô gái 15 tuổi, vào năm 1984. Khi thức dậy sáng hôm đó, Ann cảm thấy mình sắp sinh con. Cô mặc đồng phục học sinh, nhưng thay vì đến trường, cô lại kinh hãi trước những gì sắp xảy ra và lặng lẽ lang thang trên đường phố, hy vọng nhận được lòng tốt và sự giúp đỡ của con người, hy vọng vào một phép màu, trong khi vẫn sợ hãi không dám đến gần bất cứ ai.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ann",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

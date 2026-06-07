@@ -1,0 +1,61 @@
+{
+  "id": "office-romance-2026-f8171216",
+  "source": "ophim",
+  "slug": "yeu-noi-cong-so",
+  "name": "Yêu Nơi Công Sở",
+  "originName": "Office Romance",
+  "posterUrl": "https://img.ophim.live/uploads/movies/yeu-noi-cong-so-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/yeu-noi-cong-so-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Jennifer Lopez và Brett Goldstein đóng chính trong bộ phim hài lãng mạn táo bạo về mối tình công sở bí mật và hỗn loạn mà hai kẻ cuồng công việc vướng vào khi nghe theo trái tim.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e0652a0045dbc0b14d016619158789ce",
+      "m3u8Url": "https://vip.opstream90.com/20260605/33891_e0652a00/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/w3uC271W/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/w3uC271W/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "yeu-noi-cong-so",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "yeu-noi-cong-so",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

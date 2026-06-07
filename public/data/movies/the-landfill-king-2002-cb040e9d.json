@@ -1,0 +1,47 @@
+{
+  "id": "the-landfill-king-2002-cb040e9d",
+  "source": "phimapi",
+  "slug": "vua-bai-rac",
+  "name": "Vua Bãi Rác",
+  "originName": "The Landfill King",
+  "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5e8e1003ff434564d40fe6d2d29b8e2e.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/283e66e2f4759fef82f368694d135ba2.jpg",
+  "year": 2002,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "Vua Bãi Rác kể về những số phận dưới đáy xã hội, từ các ngả khác nhau quần tụ về bãi rác, hình thành một cộng đồng với đủ niềm vui, nỗi buồn lẫn đau khổ.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/Z97ptYm0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/Z97ptYm0/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "vua-bai-rac",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,51 @@
+{
+  "id": "a-few-moments-of-cheers-2024-73f033cf",
+  "source": "phimapi",
+  "slug": "suufunkan-no-yell-wo",
+  "name": "Suu-funkan no Yell wo",
+  "originName": "A Few Moments of Cheers",
+  "posterUrl": "https://phimimg.com/upload/vod/20260607-1/08fd618cd4217a41ead88245c854dc27.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/9b1ed665c71dc07bf3967862f367fc99.jpg",
+  "year": 2024,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Âm Nhạc",
+      "slug": "am-nhac"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "Kanata Asaya, một cậu học sinh trung học say mê làm video âm nhạc, một ngày nọ đã bị cuốn hút sâu sắc bởi một buổi biểu diễn đường phố. Cậu khao khát được làm một video MV cho bài hát đó. Tuy nhiên, người đang hát lại là Yuu Orie, một cô giáo từng từ bỏ con đường theo đuổi sự nghiệp âm nhạc.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/5xctVist/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/5xctVist/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "suufunkan-no-yell-wo",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

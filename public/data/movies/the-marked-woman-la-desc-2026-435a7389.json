@@ -1,0 +1,55 @@
+{
+  "id": "the-marked-woman-la-desc-2026-435a7389",
+  "source": "phimapi",
+  "slug": "nguoi-phu-nu-han-nhung-vet-thuong",
+  "name": "Người Phụ Nữ Hằn Những Vết Thương",
+  "originName": "The Marked Woman / La desconocida",
+  "posterUrl": "https://phimimg.com/upload/vod/20260605-1/a10482c3c1dd00e4ec6282447b47ef9a.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/c039f432798547301bc5c2c84290ebc8.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Argentina",
+      "slug": "argentina"
+    },
+    {
+      "name": "Tây Ban Nha",
+      "slug": "tay-ban-nha"
+    }
+  ],
+  "description": "Khi người phụ nữ nọ được tìm thấy trong một chiếc container mà không nhớ mình là ai, hai thám tử phải chạy đua với thời gian để tìm ra danh tính của cô và kẻ đang muốn lấy mạng cô.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/lW35kgYZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/lW35kgYZ/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nguoi-phu-nu-han-nhung-vet-thuong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

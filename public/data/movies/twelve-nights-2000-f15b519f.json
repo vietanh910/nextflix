@@ -1,0 +1,51 @@
+{
+  "id": "twelve-nights-2000-f15b519f",
+  "source": "phimapi",
+  "slug": "muoi-hai-dem",
+  "name": "Mười Hai Đêm",
+  "originName": "Twelve Nights",
+  "posterUrl": "https://phimimg.com/upload/vod/20260605-1/fb6fc51f57895806452e797db00c604b.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/5dae49c33754b75251a3a9f83b1c3334.jpg",
+  "year": 2000,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "Bộ phim này trải qua 12 đêm quan trọng (không phải những đêm liên tiếp) trong mối quan hệ giữa hai nhân vật. Bộ phim cung cấp một số thông tin chi tiết về sự lặp lại liên quan đến các chu kỳ mối quan hệ từ sự quan tâm thông qua các căng thẳng khác nhau đến sự không quan tâm cuối cùng",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/MACqMsAj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/MACqMsAj/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "muoi-hai-dem",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

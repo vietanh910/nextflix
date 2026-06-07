@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/2/hitori-no-shita-the-outcast-6rd-season-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/2/hitori-no-shita-the-outcast-6rd-season.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 22",
+  "episodeCurrent": "Tập 23",
   "categories": [],
   "countries": [],
   "description": "Sau sự kiện Bích Du thôn, Trương Sở Lam tiếp tục giúp Phùng Bảo Bảo điều tra thân thế của cô, vì vậy anh đã đến thăm Lục Cẩn.Từ Lục Cẩn, Trương Sở Lam lấy được danh sách Tam Thập Lục Tặc, đồng thời vô tình biết được nguyên nhân Kim Phượng bị bắt cóc.Để những di vật của Vô Căn Sinh không rơi vào tay kẻ xấu, cả nhóm bắt đầu lên đường tiến vào Nhị Thập Tứ Cốc, nằm sâu trong dãy núi Tần Lĩnh…",
@@ -188,13 +188,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=d73cef8270af5b3c21732ad1e9f617fe",
       "m3u8Url": "https://sing.phimmoi.net/d73cef8270af5b3c21732ad1e9f617fe/hls.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "tap-23",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=1d719ea53027769a9c7ef7ce403fbddb",
+      "m3u8Url": "https://sing.phimmoi.net/1d719ea53027769a9c7ef7ce403fbddb/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "nhat-nhan-chi-ha-phan-6",
-      "episodeCount": 22,
+      "episodeCount": 23,
       "priority": 2
     }
   ],

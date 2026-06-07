@@ -1,0 +1,44 @@
+{
+  "id": "casa-grande-2026-b5ad71c2",
+  "source": "ophim",
+  "slug": "casa-grande",
+  "name": "Casa Grande",
+  "originName": "Casa Grande",
+  "posterUrl": "https://img.ophim.live/uploads/movies/casa-grande-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/casa-grande-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>A prodigal daughter rejoins her family at their farm during a difficult time, as her ailing father faces both a terminal diagnosis and mounting pressure from competitors. Old wounds resurface as they grapple with what lies ahead.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "casa-grande",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

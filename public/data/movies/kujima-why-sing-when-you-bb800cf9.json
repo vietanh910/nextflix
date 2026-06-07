@@ -7,82 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/kujima-utaeba-ie-hororo-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/kujima-utaeba-ie-hororo.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "description": "Là một câu chuyện hài hước và ấm áp xoay quanh Arata Kouda, một cậu học sinh lớp 9 đang phải đối mặt với áp lực thi cử căng thẳng. Cuộc sống bình lặng của Arata bỗng chốc bị đảo lộn khi cậu tình cờ gặp gỡ Kujima – một sinh vật kỳ lạ có ngoại hình giống chim khổng lồ đến từ Nga và biết nói tiếng người. Kujima không chỉ \"đột nhập\" vào nhà Kouda mà còn nhanh chóng trở thành một thành viên không chính thức trong gia đình nhờ tính cách hồn nhiên, ham ăn và những hành động vô cùng \"vô tri\". Dù ban đầu Arata cảm thấy phiền phức, nhưng chính sự xuất hiện của người bạn kỳ quặc này đã giúp cậu giải tỏa những lo âu tuổi mới lớn, gắn kết các thành viên trong gia đình lại với nhau và mang đến những tràng cười sảng khoái trong những ngày ôn thi mệt mỏi.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=4d1d86cf31085028716d98ee47731106",
-      "m3u8Url": "https://sing.phimmoi.net/4d1d86cf31085028716d98ee47731106/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=87435d6ca1da0d695560378ac45387d8",
-      "m3u8Url": "https://sing.phimmoi.net/87435d6ca1da0d695560378ac45387d8/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=f9a4effacc3f28f728dc1d2b5fbaefa9",
-      "m3u8Url": "https://sing.phimmoi.net/f9a4effacc3f28f728dc1d2b5fbaefa9/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=995860a06f1e38878e0f543bd506cde6",
-      "m3u8Url": "https://sing.phimmoi.net/995860a06f1e38878e0f543bd506cde6/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=62165d9f66a76b4cc621e1e2d2dfb5d2",
-      "m3u8Url": "https://sing.phimmoi.net/62165d9f66a76b4cc621e1e2d2dfb5d2/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=06cf4cbaae0ca4eccce214fb722d49e1",
-      "m3u8Url": "https://sing.phimmoi.net/06cf4cbaae0ca4eccce214fb722d49e1/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=84f183b586ea1aa417c70457e794fbb6",
-      "m3u8Url": "https://sing.phimmoi.net/84f183b586ea1aa417c70457e794fbb6/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=316be310e45f38eb3f9d64f5f5b4cd05",
-      "m3u8Url": "https://sing.phimmoi.net/316be310e45f38eb3f9d64f5f5b4cd05/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "kujima-utaeba-ie-hororo",
-      "episodeCount": 8,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

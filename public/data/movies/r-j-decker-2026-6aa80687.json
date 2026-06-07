@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hài Hước",
@@ -73,13 +73,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/95276ef6535840ec6e432a7fc28688cb",
       "m3u8Url": "https://vip.opstream10.com/20260531/33782_95276ef6/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/cdebf2bdf97feb83d4ecdc46f7c4630a",
+      "m3u8Url": "https://vip.opstream10.com/20260602/33796_cdebf2bd/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/f7c5213a8ce1cfc32b697f9e70e1b3b7",
+      "m3u8Url": "https://vip.opstream10.com/20260605/33815_f7c5213a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "rj-decker",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 0
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 36",
+  "episodeCurrent": "Tập 37",
   "categories": [
     {
       "name": "Hành Động",
@@ -329,13 +329,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/b16947110d97dd4c33a51d173a220b77",
       "m3u8Url": "https://vip.opstream90.com/20260525/32836_b1694711/index.m3u8"
+    },
+    {
+      "name": "37",
+      "slug": "37",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/30ab5b76bd1a6c3828ffa0b20a9b18e3",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33530_30ab5b76/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "hiep-si-mat-na-zeztz",
-      "episodeCount": 36,
+      "episodeCount": 37,
       "priority": 0
     }
   ],

@@ -1,0 +1,69 @@
+{
+  "id": "affection-2026-df05fad7",
+  "source": "ophim",
+  "slug": "vong-lap-ky-uc",
+  "name": "Vòng Lặp Ký Ức",
+  "originName": "Affection",
+  "posterUrl": "https://img.ophim.live/uploads/movies/vong-lap-ky-uc-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/vong-lap-ky-uc-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Ellie mắc một căn bệnh bí ẩn khiến ký ức của cô liên tục bị xóa sạch. Mỗi lần tỉnh lại, cô không nhận ra người đàn ông tự xưng là chồng mình hay cô bé gọi cô là mẹ. Trong hành trình ghép nối những mảnh ký ức rời rạc, Ellie dần phát hiện những bí mật kinh hoàng về cuộc đời mình và sự thật đằng sau những lần mất trí nhớ lặp đi lặp lại. Khi thời gian ngày càng cạn kiệt, cô phải tìm ra chân tướng trước khi mọi ký ức một lần nữa biến mất.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/39a3bf984fee57c76835745e7e59a062",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34117_39a3bf98/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/N0jDFN2I/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/N0jDFN2I/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "vong-lap-ky-uc",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ky-uc-lap-lai",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

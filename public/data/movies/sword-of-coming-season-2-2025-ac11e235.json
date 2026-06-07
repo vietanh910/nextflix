@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/kiem-lai-phan-2-thumb.jpg",
   "year": 2025,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 25",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (26/26)",
   "categories": [
     {
       "name": "Hành Động",
@@ -237,13 +237,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/5e26566dffe850373e9a5121703034a1",
       "m3u8Url": "https://vip.opstream90.com/20260528/33153_5e26566d/index.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "26",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7f840c55acb900f8045d7ba0b670927b",
+      "m3u8Url": "https://vip.opstream90.com/20260604/33744_7f840c55/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "kiem-lai-phan-2",
-      "episodeCount": 25,
+      "episodeCount": 26,
       "priority": 0
     }
   ],

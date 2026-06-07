@@ -1,0 +1,47 @@
+{
+  "id": "wharf-of-widows-2001-6065ebb6",
+  "source": "phimapi",
+  "slug": "ben-khong-chong",
+  "name": "Bến Không Chồng",
+  "originName": "Wharf Of Widows",
+  "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5d295c8f1a7720144277f98178151d1e.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/68a719d6b68611def3358d96c8318a56.jpg",
+  "year": 2001,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "Bến không chồng là bộ phim tình cảm Việt Nam được chuyển thể từ tiểu thuyết cùng tên của nhà văn Dương Hướng. Bộ phim là câu chuyện về làng Đông – một làng quê được đặc tả với những nét văn hóa điển hình Bắc Bộ.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/BLCLO2n0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/BLCLO2n0/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ben-khong-chong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

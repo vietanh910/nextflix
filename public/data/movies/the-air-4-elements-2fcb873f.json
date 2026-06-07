@@ -7,42 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/5/gio-thoang-tinh-theo-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/gio-thoang-tinh-theo.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [],
   "countries": [],
-  "description": "Câu chuyện kể về người thừa kế ngai vàng Madelin, Công chúa Blue, đến thăm Thái Lan và gặp Wayo Wathinwanit, một cảnh sát được giao nhiệm vụ bảo vệ sự an toàn của cô. Tuy nhiên, chuyến đi của họ trở thành cơn ác mộng khi một vụ ám sát buộc công chúa phải chạy trốn, và Lom là người duy nhất có thể bảo vệ cô. Trong quá trình trốn tránh kẻ thù, hai người phải đối mặt với nguy hiểm và những tình huống thách thức, dẫn đến một mối quan hệ thân mật và những cảm xúc bị cấm đoán không thể ngăn cản. Mặc dù biết rõ rằng lần này, tình yêu có thể là điều không thể, nhưng trái tim Lom thôi thúc cô phải bảo vệ công chúa bằng mọi giá. Khi kẻ thù phát hiện ra nơi ẩn náu của họ, một trận chiến cuối cùng sắp diễn ra.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=03ea625ebc4a775bc9c8dd0577ae9d43",
-      "m3u8Url": "https://sing.phimmoi.net/03ea625ebc4a775bc9c8dd0577ae9d43/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=4367f1a96650cd40c08ddcf589f20622",
-      "m3u8Url": "https://sing.phimmoi.net/4367f1a96650cd40c08ddcf589f20622/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=f1afe0237ea2b9f5ca546223d9e5bf61",
-      "m3u8Url": "https://sing.phimmoi.net/f1afe0237ea2b9f5ca546223d9e5bf61/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "gio-thoang-tinh-theo",
-      "episodeCount": 3,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

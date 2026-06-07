@@ -1,0 +1,55 @@
+{
+  "id": "sex-of-golden-plums-2008-07dc9b81",
+  "source": "phimapi",
+  "slug": "phan-kim-lien-di-ban",
+  "name": "Phan Kim Liên dị bản",
+  "originName": "Sex Of Golden Plums",
+  "posterUrl": "https://phimimg.com/upload/vod/20260604-1/c2154f11d07fd46a6bd79a3f4f802d40.jpg",
+  "thumbUrl": "",
+  "year": 2008,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Phim 18+",
+      "slug": "phim-18"
+    },
+    {
+      "name": "Cổ Trang",
+      "slug": "co-trang"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "Phim gồm 2 đĩa với sub Việt chuẩn. Nội dung phim kể về một thương gia giàu có đời nhà Bắc Tống. Khi chết trẻ, ông được quỷ vô thường lôi đến điện Diêm La gặp Diêm Vương hỏi tội. Diêm Vương đưa ra những bản cáo trạng về tội lỗi của hắn, nào là cướp vợ nhà lành, mua bán trinh tiết, gian dâm với phụ nữ, người hầu, gái già, gái trẻ dù trong gia trang hắn đầy vợ và thê thiếp… đặc biệt là vụ hắn giết chồng của Kim Liên. Hắn một mực chối tội và ở tận cùng sự khinh bỉ tên đê tiện, Diêm Vương tiết lộ một bí mật động trời mà hắn không ngờ đến…",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/fITG9zef/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/fITG9zef/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "phan-kim-lien-di-ban",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,34 @@
+{
+  "id": "agent-mr-chan-a39e8f36",
+  "source": "nguonc",
+  "slug": "dac-vu-bat-chap",
+  "name": "Đặc Vụ Bất Chấp",
+  "originName": "Agent Mr. Chan",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/ebQW6U5BakqE3EsuVvk4AGV6DRH.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/1HbrLDihjs8Y8QjpxLo4kfBVMXT.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Hào hoa và lịch lãm chẳng kém gì James Bond, Mr.Chan là một điệp viên đẳng cấp hàng đầu. Anh chàng được một nữ cảnh sát ngỏ lời giúp đỡ cô trong một vụ án đầy gian nan. Trong suốt hành trình truy tìm ra câu trả lời, cả hai đã gặp phải vô số những pha đụng độ nguy hiểm nhưng cũng không kém phần hài hước.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed14.streamc.xyz/embed.php?hash=f0a7c522fe43957bd41cb0b6527120ef",
+      "m3u8Url": "https://sing.phimmoi.net/f0a7c522fe43957bd41cb0b6527120ef/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "dac-vu-bat-chap",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

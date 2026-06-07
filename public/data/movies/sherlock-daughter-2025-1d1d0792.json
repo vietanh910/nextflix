@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính kịch",
@@ -30,7 +30,7 @@
       "slug": "anh"
     }
   ],
-  "description": "<p>Lấy bối cảnh London năm 1896, Sherlock Holmes (David Thewlis) bị cuốn vào một âm mưu đen tối của tổ chức tội phạm bí ẩn mang tên \"Red Thread”. Tổ chức này đã bắt cóc hai người bạn thân nhất của ông, bác sĩ Watson và bà chủ nhà Hudson, khiến Sherlock bị đe dọa và không thể tự do điều tra như thường lệ. Cô gái trẻ Amelia bất ngờ xuất hiện tự nhận là con gái của Sherlock Holmes và dần trở thành cộng sự bất đắc dĩ của ông.<br><i>Sherlock &amp; Daughter</i> là một tác phẩm đáng chú ý cho những ai hâm mộ dòng phim trinh thám muốn tìm kiếm một làn gió mới trong thế giới của Sherlock Holmes, một Sherlock phiên bản già nua, trải đời và cay nghiệt hơn nhưng vẫn giữ được sự hóm hỉnh, tài trí vốn có của Sherlock Homes.</p>",
+  "description": "<p>Lấy bối cảnh London năm 1896, Sherlock Holmes (David Thewlis) bị cuốn vào một âm mưu đen tối của tổ chức tội phạm bí ẩn mang tên \"Red Thread”. Tổ chức này đã bắt cóc hai người bạn thân nhất của ông, bác sĩ Watson và bà quản gia Hudson, khiến Sherlock bị đe dọa và không thể tự do điều tra như thường lệ. Cô gái trẻ Amelia, với tính cách bướng bỉnh, nổi loạn nhưng đầy thông minh, bất ngờ xuất hiện tự nhận là con gái của Sherlock Holmes và dần trở thành cộng sự bất đắc dĩ của ông.<br><i>Sherlock &amp; Daughter</i> là một tác phẩm đáng chú ý cho những ai hâm mộ dòng phim trinh thám muốn tìm kiếm một làn gió mới trong thế giới của Sherlock Holmes, một Sherlock phiên bản già nua, trải đời và cay nghiệt hơn nhưng vẫn giữ được sự hóm hỉnh, tài trí vốn có của Sherlock Homes.</p>",
   "quality": "HD",
   "lang": "Vietsub",
   "episodes": [
@@ -41,13 +41,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/dfa7868c9f76acaf214a28eaea294b08",
       "m3u8Url": "https://vip.opstream10.com/20260528/33773_dfa7868c/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/bcd738dc8f20a6df8f40c4490e2053b0",
+      "m3u8Url": "https://vip.opstream10.com/20260601/33787_bcd738dc/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/30999ce1f0a35aeff9a456e4487f9924",
+      "m3u8Url": "https://vip.opstream10.com/20260603/33800_30999ce1/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/14ef00902e6cd5feb4cb182b173545d9",
+      "m3u8Url": "https://vip.opstream10.com/20260604/33805_14ef0090/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "sherlock-va-con-gai",
-      "episodeCount": 1,
+      "episodeCount": 4,
       "priority": 0
     }
   ],

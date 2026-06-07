@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Hài Hước",
@@ -101,13 +101,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260526/jn4DUMFE/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260526/jn4DUMFE/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/ZihhQGpw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/ZihhQGpw/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "cuoc-song-nong-dan-o-the-gioi-khac-phan-2",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

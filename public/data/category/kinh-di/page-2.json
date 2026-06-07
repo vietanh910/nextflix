@@ -5,101 +5,14 @@
   "totalPages": 2,
   "items": [
     {
-      "id": "insidious-inferno-2024-d158d432",
-      "source": "ophim",
-      "slug": "dia-nguc-hiem-ac",
-      "name": "Địa ngục hiểm ác",
-      "originName": "Insidious Inferno",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-thumb.jpg",
-      "year": 2024,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "monster-on-a-plane-2024-cca817af",
-      "source": "ophim",
-      "slug": "quai-vat-tren-may-bay",
-      "name": "Quái vật trên máy bay",
-      "originName": "Monster on a Plane",
-      "posterUrl": "https://img.ophim.live/uploads/movies/quai-vat-tren-may-bay-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/quai-vat-tren-may-bay-thumb.jpg",
-      "year": 2024,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đức",
-          "slug": "duc"
-        }
-      ]
-    },
-    {
-      "id": "beetlejuice-beetlejuice-2024-7908c29a",
+      "id": "pulse-2001-084a030d",
       "source": "phimapi",
-      "slug": "beetlejuice-ma-sieu-quay",
-      "name": "Beetlejuice: Ma Siêu Quậy",
-      "originName": "Beetlejuice Beetlejuice",
-      "posterUrl": "https://phimimg.com/upload/vod/20260519-1/216dcacafc61f9c8294a79530ca58790.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260519-1/c1781f1908ab93d6848b87a9cd5bee87.jpg",
-      "year": 2024,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-farm-2019-048178c9",
-      "source": "phimapi",
-      "slug": "nong-trai-chet-nguoi",
-      "name": "Nông Trại Chết Người",
-      "originName": "The Farm",
-      "posterUrl": "https://phimimg.com/upload/vod/20260522-1/1ccd54e285ff95d10f3cb4202307e1cd.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260522-1/221dc036f7edd66af9a13d1cfdf054ed.jpg",
-      "year": 2019,
+      "slug": "noi-am-anh-tam-linh",
+      "name": "Nỗi Ám Ảnh Tâm Linh",
+      "originName": "Pulse",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/c3dfde20da4f9347ffab8300403e6b1e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/8d8391ae184977ea1f7a829b234ba9ff.jpg",
+      "year": 2001,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -107,53 +20,86 @@
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ghost-mountaineer-2015-b7af8b81",
-      "source": "ophim",
-      "slug": "hon-ma-nguoi-leo-nui",
-      "name": "Hồn Ma Người Leo Núi",
-      "originName": "Ghost Mountaineer",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hon-ma-nguoi-leo-nui-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hon-ma-nguoi-leo-nui-thumb.jpg",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
         },
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Bí ẩn",
+          "name": "Bí Ẩn",
           "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Ý",
-          "slug": "y"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-ninth-gate-1999-f69dbfa3",
+      "source": "phimapi",
+      "slug": "tang-dia-nguc-thu-chin-canh-cong-thu-chin",
+      "name": "Tầng Địa Ngục Thứ Chín (Cánh Cổng Thứ Chín)",
+      "originName": "The Ninth Gate",
+      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/edb2f6a7612ae598e2672bc3da24a903.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/68fb88a798a8cfd615f0fd802fe10565.jpg",
+      "year": 1999,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
+      "id": "the-imp-1996-28b0d543",
+      "source": "phimapi",
+      "slug": "ta-sat",
+      "name": "Tà Sát",
+      "originName": "The Imp",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/635f0cb8aab134bfb3f123c2912ec990.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/3a89ef82fece3766d25b204b430a3b5a.jpg",
+      "year": 1996,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     }

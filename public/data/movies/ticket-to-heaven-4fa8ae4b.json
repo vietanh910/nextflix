@@ -1,0 +1,42 @@
+{
+  "id": "ticket-to-heaven-4fa8ae4b",
+  "source": "nguonc",
+  "slug": "cau-be-khong-len-thien-duong",
+  "name": "Cậu Bé Không Lên Thiên Đường",
+  "originName": "Ticket To Heaven",
+  "posterUrl": "https://phim.nguonc.com/public/images/Post/6/cau-be-khong-len-thien-duong-1.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/cau-be-khong-len-thien-duong.jpg",
+  "status": "unknown",
+  "episodeCurrent": "Tập 2",
+  "categories": [],
+  "countries": [],
+  "description": "Khi chàng trai đầy tâm sự Barth chuyển đến trường chủng viện, chủng sinh trẻ Tanrak được giao nhiệm vụ chăm sóc và giúp cậu đi đúng hướng. Thế nhưng, sự xuất hiện của Barth lại vô tình trở thành phép thử đối với Tanrak, khi anh phải vật lộn giữa những cảm xúc chân thật trong lòng mình với đức tin, cùng nỗi lo sợ về tương lai phía trước.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "tap-1",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=39cba073e9dd82826f26253c0735c222",
+      "m3u8Url": "https://sing.phimmoi.net/39cba073e9dd82826f26253c0735c222/hls.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "tap-2",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=db208b769d3598c91ae71c1ef695b63b",
+      "m3u8Url": "https://sing.phimmoi.net/db208b769d3598c91ae71c1ef695b63b/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "cau-be-khong-len-thien-duong",
+      "episodeCount": 2,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

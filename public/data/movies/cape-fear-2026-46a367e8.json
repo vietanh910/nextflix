@@ -1,0 +1,59 @@
+{
+  "id": "cape-fear-2026-46a367e8",
+  "source": "ophim",
+  "slug": "dong-song-toi-ac-2026",
+  "name": "Dòng Sông Tội Ác",
+  "originName": "Cape Fear",
+  "posterUrl": "https://img.ophim.live/uploads/movies/dong-song-toi-ac-2026-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/dong-song-toi-ac-2026-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Bão tố đang kéo đến với hai luật sư tưởng như đang có cuộc hôn nhân hoàn hảo, khi kẻ sát nhân khét tiếng trong quá khứ của họ được trả tự do.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b3a43b25c749c0af22ba14f87794479f",
+      "m3u8Url": "https://vip.opstream90.com/20260605/33867_b3a43b25/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/407f5bc47339074637a289fb2b000805",
+      "m3u8Url": "https://vip.opstream90.com/20260605/33868_407f5bc4/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "dong-song-toi-ac-2026",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

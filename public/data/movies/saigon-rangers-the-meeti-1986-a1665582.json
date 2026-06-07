@@ -1,0 +1,47 @@
+{
+  "id": "saigon-rangers-the-meeti-1986-a1665582",
+  "source": "phimapi",
+  "slug": "biet-dong-sai-gon-diem-hen",
+  "name": "Biệt động Sài Gòn: Điểm Hẹn",
+  "originName": "Saigon Rangers: The Meeting Place",
+  "posterUrl": "https://phimimg.com/upload/vod/20260604-1/d1ac753755c7fb0a7f8458d69cf03464.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/2314bb34bddc4027a8b8240fe4554a50.jpg",
+  "year": 1986,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "Tư lệnh trưởng Biệt động Sài Gòn Tư Chung (hiện hoạt động công khai với tư cách là đứa cháu cưng của ông chủ hãng sơn Đông Á giàu có) lên kế hoạch với các đồng đội để bí mật tiếp đón một cán bộ Việt Cộng sắp tới Sài Gòn.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/NDFcoz7k/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/NDFcoz7k/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "biet-dong-sai-gon-diem-hen",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

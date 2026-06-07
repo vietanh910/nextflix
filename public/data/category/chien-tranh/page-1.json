@@ -129,18 +129,51 @@
       ]
     },
     {
-      "id": "the-buccaneer-1958-7e3c286a",
-      "source": "ophim",
-      "slug": "ten-cuop-bien",
-      "name": "Tên cướp biển",
-      "originName": "The Buccaneer",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ten-cuop-bien-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ten-cuop-bien-thumb.jpg",
-      "year": 1958,
+      "id": "dead-to-rights-2025-2ea11d37",
+      "source": "phimapi",
+      "slug": "tiem-anh-nam-kinh",
+      "name": "Tiệm Ảnh Nam Kinh",
+      "originName": "Dead To Rights",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/d4178d1a80678339427e992ec00a473f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/a38ebc5b85a766afcf234ed1bb95d920.jpg",
+      "year": 2025,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "sisters-in-arms-2019-9be454a8",
+      "source": "phimapi",
+      "slug": "chi-em-sinh-tu",
+      "name": "Chị Em Sinh Tử",
+      "originName": "Sisters in Arms",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/695ae8c9f51d443f8bcfaf024fdb4995.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/f43aed248ae3e6a461f852b168511cc4.jpg",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
         {
           "name": "Chiến Tranh",
           "slug": "chien-tranh"
@@ -148,16 +181,49 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
+          "name": "Bỉ",
+          "slug": "bi"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Ý",
+          "slug": "y"
+        },
+        {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "saigon-rangers-the-meeti-1986-a1665582",
+      "source": "phimapi",
+      "slug": "biet-dong-sai-gon-diem-hen",
+      "name": "Biệt động Sài Gòn: Điểm Hẹn",
+      "originName": "Saigon Rangers: The Meeting Place",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/d1ac753755c7fb0a7f8458d69cf03464.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/2314bb34bddc4027a8b8240fe4554a50.jpg",
+      "year": 1986,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     }

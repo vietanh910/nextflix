@@ -1,0 +1,82 @@
+{
+  "id": "the-witness-2026-96641810",
+  "source": "phimapi",
+  "slug": "nhan-chung-duy-nhat-2026",
+  "name": "Nhân Chứng Duy Nhất",
+  "originName": "The Witness",
+  "posterUrl": "https://phimimg.com/upload/vod/20260604-1/dcf0ae10f522a5cde4aab22daa38f1e1.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/c1b3a15c6e9c50ea597562084e91f5e9.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (3/3)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "Khi cậu con trai 2 tuổi là nhân chứng duy nhất cho vụ sát hại cô, chồng của Rachel Nickell chiến đấu để bảo vệ con giữa cuộc điều tra đầy sai sót. Loạt phim dựa trên sự kiện thật.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/6WX79rn4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/6WX79rn4/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/bEfvqA7p/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/bEfvqA7p/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/PmpTtsgG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/PmpTtsgG/index.m3u8"
+    },
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "nhan-chung-duy-nhat",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "nhan-chung-duy-nhat-2026",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

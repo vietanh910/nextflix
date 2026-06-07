@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -113,13 +113,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/596e14c90f7e665cef811c43fd8f2b87",
       "m3u8Url": "https://vip.opstream90.com/20260531/33424_596e14c9/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6917e6014aa45687457b8e6cf3713515",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34122_6917e601/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 0
     }
   ],

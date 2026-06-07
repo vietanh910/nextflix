@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hành Động",
@@ -75,50 +75,20 @@
       "m3u8Url": "https://vip.opstream90.com/20260527/33043_6338c24b/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260506/iBbTviY1/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260506/iBbTviY1/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/EhmYPsMg/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/EhmYPsMg/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260519/qgG9KR1k/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260519/qgG9KR1k/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260526/ijKX3T2W/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260526/ijKX3T2W/index.m3u8"
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/31b5d381e26e80b0ece18dc1c5af0579",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33635_31b5d381/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "wu",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "nam-phu-thuy",
-      "episodeCount": 4,
-      "priority": 1
     }
   ],
   "_priority": 0

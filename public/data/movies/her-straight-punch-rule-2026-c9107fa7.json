@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/quy-tac-dam-thang-cua-co-ay-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (24/24)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -27,16 +27,203 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "1",
+      "slug": "1",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6b8f07de11c0e35342e3b77bfea692ed",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34166_6b8f07de/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8f5d0e3b6f94ffa323e84b47fb03c260",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34167_8f5d0e3b/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8b159f0c33071ee7811ca65a505be650",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34168_8b159f0c/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/457ad4116bcf490031a8293927edca88",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34169_457ad411/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a8de5273039f3fc34b037d1d35cd5674",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34170_a8de5273/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/586ef1246d9a7c964ad8bda24c2ba581",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34171_586ef124/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9db51b02326080eb6fd02e4097725f86",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34172_9db51b02/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/acd8d58c7c352df2d1d729701488f54f",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34173_acd8d58c/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/62c8d075dc4cffa2b9e0796f43bc1c2a",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34174_62c8d075/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/aa22b2803b8e7d32e53ac9c29e14845e",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34175_aa22b280/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4d28e74f86094725e098c6b7d10b449c",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34176_4d28e74f/index.m3u8"
+    },
+    {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/200edb216d1a2e3e08b69b903d6608fc",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34177_200edb21/index.m3u8"
+    },
+    {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1921e14349820cc66e19220da2839247",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34207_1921e143/index.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/be5ebf2a77cde6f3cea317989a3c2de5",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34208_be5ebf2a/index.m3u8"
+    },
+    {
+      "name": "15",
+      "slug": "15",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/460d5587441bf82dbf2acd8a7f56ef86",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34209_460d5587/index.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f2162f0713c4aa4c3c9a843febf03e56",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34210_f2162f07/index.m3u8"
+    },
+    {
+      "name": "17",
+      "slug": "17",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a331c27331682da1666f6f230fce79d8",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34211_a331c273/index.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "18",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/65b2bc9eb35261e785fdb1a9bc02b6b1",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34212_65b2bc9e/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/46b0a7a1beb72216e5c82b3cf32253f0",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34213_46b0a7a1/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/92bb070d6bb28ed865642b5721b91b11",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34214_92bb070d/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bc5248bec66e472f11f85710936fe03c",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34215_bc5248be/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/532c149348a870668e12c8abb53bf651",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34216_532c1493/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/385166c2515d9fb7d6e7901f20adf8f6",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34217_385166c2/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dbfc43b5a635df63a2448f9c979d9bf5",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34218_dbfc43b5/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "quy-tac-dam-thang-cua-co-ay",
-      "episodeCount": 1,
+      "episodeCount": 24,
       "priority": 0
     }
   ],

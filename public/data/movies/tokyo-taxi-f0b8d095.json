@@ -1,0 +1,34 @@
+{
+  "id": "tokyo-taxi-f0b8d095",
+  "source": "nguonc",
+  "slug": "hanh-trinh-cua-ky-uc",
+  "name": "Hành Trình Của Ký Ức",
+  "originName": "Tokyo Taxi",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/ay6qigYQARIOoxZUj0i9YtVlhou.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/iJHARu7sCkQy419txqTwKCgQQWQ.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Một tài xế taxi đang chật vật với cuộc sống nhận chở một cụ bà 85 tuổi đến viện dưỡng lão. Trên đường đi, bà liên tục yêu cầu ghé qua những nơi từng gắn liền với cuộc đời mình. Mỗi điểm dừng là một mảnh ký ức về tình yêu, mất mát và những biến cố đã tạo nên con người bà hôm nay. Chuyến xe tưởng như bình thường dần trở thành hành trình chữa lành, làm thay đổi cuộc đời của cả hai con người xa lạ.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=d6417c5649374cc35659121aa5a408e7",
+      "m3u8Url": "https://sing.phimmoi.net/d6417c5649374cc35659121aa5a408e7/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "hanh-trinh-cua-ky-uc",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

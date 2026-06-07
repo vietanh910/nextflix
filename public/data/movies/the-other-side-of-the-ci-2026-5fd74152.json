@@ -1,0 +1,95 @@
+{
+  "id": "the-other-side-of-the-ci-2026-5fd74152",
+  "source": "phimapi",
+  "slug": "phia-ben-kia-thanh-pho",
+  "name": "Phía Bên Kia Thành Phố",
+  "originName": "The Other Side Of The City",
+  "posterUrl": "https://phimimg.com/upload/vod/20260603-1/7fd55181a699c9473ea154a9cd45b33c.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260603-1/b5e7f3373b9a442f09b65c2234db86cd.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "Phim lấy bối cảnh một khu phố lao động ven đô, xoay quanh đôi bạn thân trái tính trái nết là Cương và Khuê. Cả hai cùng trải qua những biến động tâm lý tuổi học đường, áp lực thành tích và rạn nứt tình cảm khi một cô bạn mới xuất hiện, khơi lại những bí mật quá khứ của gia đình họ.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/myHowYhn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/myHowYhn/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/SUyY2OpE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/SUyY2OpE/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/8SZQI8YQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/8SZQI8YQ/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/I37sWNpB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/I37sWNpB/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/bTtz2LPf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/bTtz2LPf/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/L5vrTbi2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/L5vrTbi2/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "phia-ben-kia-thanh-pho",
+      "episodeCount": 6,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -5,35 +5,6 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "my-dearest-assassin-2026-bf67ff14",
-      "source": "ophim",
-      "slug": "sat-thu-yeu-dau",
-      "name": "Sát Thủ Yêu Dấu",
-      "originName": "My Dearest Assassin",
-      "posterUrl": "https://img.ophim.live/uploads/movies/sat-thu-yeu-dau-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/sat-thu-yeu-dau-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
       "id": "tom-clancy-s-jack-ryan-g-2026-ea010949",
       "source": "ophim",
       "slug": "sieu-diep-vien-jack-ryan-bong-ma-chien-tranh",
@@ -73,7 +44,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -166,6 +137,43 @@
       ]
     },
     {
+      "id": "supergirl-2026-81badbaa",
+      "source": "ophim",
+      "slug": "supergirl",
+      "name": "Supergirl",
+      "originName": "Supergirl",
+      "posterUrl": "https://img.ophim.live/uploads/movies/supergirl-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/supergirl-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "in-search-of-gods-2026-a0ac057b",
       "source": "ophim",
       "slug": "suu-than-ky",
@@ -176,7 +184,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Hành Động",
@@ -283,7 +291,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 20",
+      "episodeCurrent": "Tập 21",
       "categories": [
         {
           "name": "Hành Động",
@@ -357,7 +365,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -380,6 +388,35 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "in-the-grey-2026-92731298",
+      "source": "ophim",
+      "slug": "trong-vung-xam",
+      "name": "Trong Vùng Xám",
+      "originName": "In the Grey",
+      "posterUrl": "https://img.ophim.live/uploads/movies/trong-vung-xam-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/trong-vung-xam-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -425,68 +462,6 @@
       ]
     },
     {
-      "id": "prisoner-2026-86f5f087",
-      "source": "ophim",
-      "slug": "tu-nhan-2026",
-      "name": "Tù Nhân",
-      "originName": "Prisoner",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tu-nhan-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tu-nhan-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "vengeance-2026-5bee2356",
-      "source": "ophim",
-      "slug": "venganza",
-      "name": "Venganza",
-      "originName": "Vengeance",
-      "posterUrl": "https://img.ophim.live/uploads/movies/venganza-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/venganza-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
-        }
-      ]
-    },
-    {
       "id": "the-beginning-after-the--2026-ab0ff2be",
       "source": "ophim",
       "slug": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2",
@@ -497,7 +472,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -516,43 +491,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "glory-2026-ecedae62",
-      "source": "ophim",
-      "slug": "vinh-quang-2026",
-      "name": "Vinh Quang",
-      "originName": "Glory",
-      "posterUrl": "https://img.ophim.live/uploads/movies/vinh-quang-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/vinh-quang-2026-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (7/7)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
         }
       ]
     },
@@ -600,7 +538,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -637,7 +575,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hành Động",
@@ -678,7 +616,7 @@
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -723,7 +661,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -764,7 +702,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hài Hước",
@@ -785,47 +723,6 @@
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "my-ribdiculous-reincarna-2026-5a4b4c16",
-      "source": "phimapi",
-      "slug": "chuyen-sinh-thanh-xuong-suon-cua-dung-si",
-      "name": "Chuyển Sinh Thành Xương Sườn Của Dũng Sĩ",
-      "originName": "My Ribdiculous Reincarnation",
-      "posterUrl": "https://phimimg.com/upload/vod/20260420-1/2c2cf03c6ca0da1a3c07ccef9ad9ca03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/1e00b55b2c565774b0c608230682a429.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
         }
       ],
       "countries": [
@@ -846,7 +743,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -861,6 +758,137 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-ferry-man-10th-anniv-2026-d5eef0d5",
+      "source": "phimapi",
+      "slug": "dan-do-linh-hon-muoi-nam",
+      "name": "Dẫn Độ Linh Hồn: Mười Năm",
+      "originName": "The Ferry Man 10th Anniversary",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/4dddf2cc78d960be45b74db8c0c51969.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/e865d297ad11b573883ba3a11e0c6f12.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "aliens-among-immortals-2026-12182773",
+      "source": "phimapi",
+      "slug": "dao-yeu-hanh",
+      "name": "Đạo Yêu Hành",
+      "originName": "Aliens Among Immortals",
+      "posterUrl": "https://phimimg.com/upload/vod/20260312-1/2821d43d21af1b468167989aa1774fa8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260312-1/1fd77b198bbcfc53b17dd17f75d70899.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 33",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-air-4-elements-2026-5991bd55",
+      "source": "phimapi",
+      "slug": "gio-thoang-tinh-theo",
+      "name": "Gió Thoảng Tình Theo",
+      "originName": "The Air 4 Elements",
+      "posterUrl": "https://phimimg.com/upload/vod/20260518-1/915794645eafc3f63b90e9a4175bf5f6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/44e82161567f7c384837926ad3ee9407.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     }

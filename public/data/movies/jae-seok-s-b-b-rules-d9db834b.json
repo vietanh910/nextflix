@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/5/nha-nghi-bb-tuyet-voi-cua-jae-seok-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/nha-nghi-bb-tuyet-voi-cua-jae-seok.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [],
   "countries": [],
   "description": "Khách hàng là thượng đế — nhưng chủ nhà cũng quyền lực không kém! Yu Jae-seok chính thức khai trương homestay (B&B) đầu tiên của riêng mình, nơi anh vận hành mọi thứ theo phong cách cá nhân độc nhất và \"chiêu đãi\" các vị khách bằng những trò chơi mang thương hiệu đặc trưng của mình.",
@@ -52,13 +52,53 @@
       "source": "nguonc",
       "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=24a8e2b4c7a0fdf6a42cb2e3916a2e0f",
       "m3u8Url": "https://sing.phimmoi.net/24a8e2b4c7a0fdf6a42cb2e3916a2e0f/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=e83e282cc1ac9b1c5c29c81cfc52cd93",
+      "m3u8Url": "https://sing.phimmoi.net/e83e282cc1ac9b1c5c29c81cfc52cd93/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=9f010424f2d7b84e9b4fb4831e50ad58",
+      "m3u8Url": "https://sing.phimmoi.net/9f010424f2d7b84e9b4fb4831e50ad58/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=92d92a4fe5e15834deb51e78934e0abb",
+      "m3u8Url": "https://sing.phimmoi.net/92d92a4fe5e15834deb51e78934e0abb/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=fa94977c7614731cd647a98c3d5f2694",
+      "m3u8Url": "https://sing.phimmoi.net/fa94977c7614731cd647a98c3d5f2694/hls.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "tap-10",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=bd3f0b9628d828f62ca35447f0a9da7d",
+      "m3u8Url": "https://sing.phimmoi.net/bd3f0b9628d828f62ca35447f0a9da7d/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "nha-nghi-bb-tuyet-voi-cua-jae-seok",
-      "episodeCount": 5,
+      "episodeCount": 10,
       "priority": 2
     }
   ],

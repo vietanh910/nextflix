@@ -1,0 +1,59 @@
+{
+  "id": "the-ninth-gate-1999-f69dbfa3",
+  "source": "phimapi",
+  "slug": "tang-dia-nguc-thu-chin-canh-cong-thu-chin",
+  "name": "Tầng Địa Ngục Thứ Chín (Cánh Cổng Thứ Chín)",
+  "originName": "The Ninth Gate",
+  "posterUrl": "https://phimimg.com/upload/vod/20260605-1/edb2f6a7612ae598e2672bc3da24a903.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/68fb88a798a8cfd615f0fd802fe10565.jpg",
+  "year": 1999,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Tây Ban Nha",
+      "slug": "tay-ban-nha"
+    },
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "Một người buôn sách quý được thuê để tìm hai bản sao cuối cùng của một cuốn sách có tên &quot;Chín Cánh Cổng của Vương Quốc Bóng Tối&quot;, cuốn sách có khả năng triệu hồi Ác Quỷ.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/jry9Pf3e/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/jry9Pf3e/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tang-dia-nguc-thu-chin-canh-cong-thu-chin",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

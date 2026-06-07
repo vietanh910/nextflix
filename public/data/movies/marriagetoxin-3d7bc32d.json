@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/7/mai-moi-cho-doc-su-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/7/mai-moi-cho-doc-su.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
   "description": "Trong thế giới đầy rẫy hiểm nguy của *Marriagetoxin*, chúng ta theo chân Gero, một sát thủ hàng đầu với vẻ ngoài kém thu hút nhưng kỹ năng chiến đấu vượt trội. Định mệnh trớ trêu đẩy Gero vào một nhiệm vụ tưởng chừng bất khả thi: phải tìm vợ và sinh con để cứu lấy dòng tộc thoát khỏi lời nguyền diệt vong. Nếu thất bại, anh buộc phải tự kết liễu đời mình. Cuộc tìm kiếm người bạn đời hóa thành một hành trình đầy cam go, khi mỗi buổi hẹn hò đều tiềm ẩn những mối nguy hiểm chết người từ các thế lực ngầm thù địch, những kẻ không muốn dòng tộc Gero được tiếp nối. May mắn thay, Gero không đơn độc. Anh nhận được sự giúp đỡ của Kinosaki, một chuyên gia mai mối xinh đẹp và bí ẩn, người sở hữu kiến thức uyên bác về tình yêu lẫn khả năng chiến đấu đáng gờm. Cùng nhau, họ phải đối mặt với vô số thử thách, từ những kẻ thù truyền kiếp đến những \"độc tố hôn nhân\" theo đúng nghĩa đen, đe dọa phá hủy mọi cơ hội hạnh phúc của Gero. Liệu chàng sát thủ vụng về trong tình yêu nhưng thiện chiến trên chiến trường có thể hoàn thành sứ mệnh kép này? Với những yếu tố *Hành động* kịch tính, các tình huống *Nhân vật người lớn* phức tạp và tinh thần kiên cường của một câu chuyện *Shounen*, *Marriagetoxin* hứa hẹn mang đến một trải nghiệm độc đáo. Hãy cùng khám phá hành trình đầy bất ngờ này.",
@@ -76,13 +76,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=aada5eb07160026a9a18b2bceee3edf6",
       "m3u8Url": "https://sing.phimmoi.net/aada5eb07160026a9a18b2bceee3edf6/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=0d96bea0114aa4e29a2b5840a9191c43",
+      "m3u8Url": "https://sing.phimmoi.net/0d96bea0114aa4e29a2b5840a9191c43/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "mai-moi-cho-doc-su",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 2
     }
   ],

@@ -1,0 +1,47 @@
+{
+  "id": "deaf-president-now-2025-da7e3f1a",
+  "source": "phimapi",
+  "slug": "hieu-truong-khiem-thinh-dau-tien",
+  "name": "Hiệu Trưởng Khiếm Thính Đầu Tiên",
+  "originName": "Deaf President Now!",
+  "posterUrl": "https://phimimg.com/upload/vod/20260606-1/21a480fda4364f3b2970c232e6d2d8b9.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/2983fbcefaa682a7d89a0fada4b5dd09.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Khám phá câu chuyện về phong trào quyền dân sự lớn nhất từng được biết. Trong tám ngày rúng động năm 1988 ở trường đại học duy nhất cho người điếc trên thế giới, bốn sinh viên phải tìm cách lãnh đạo một cuộc cách mạng - và thay đổi tiến trình lịch sử.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/c5AzopLx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/c5AzopLx/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "hieu-truong-khiem-thinh-dau-tien",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

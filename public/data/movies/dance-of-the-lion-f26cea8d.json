@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/3/vu-dieu-lan-su-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/3/vu-dieu-lan-su.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 7",
   "categories": [],
   "countries": [],
   "description": "Sau tai nạn của cha, một cô gái trẻ vùng Isan tiếp quản đoàn múa lân gia đình và kết hợp với nhạc Mor Lam truyền thống để duy trì hoạt động của đoàn.",
@@ -52,13 +52,29 @@
       "source": "nguonc",
       "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=4df5ce934db935a616e721ea08cc6294",
       "m3u8Url": "https://sing.phimmoi.net/4df5ce934db935a616e721ea08cc6294/hls.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "tap-6",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed15.streamc.xyz/embed.php?hash=e5e01745ed41b068b0c5944c917bdc87",
+      "m3u8Url": "https://sing.phimmoi.net/e5e01745ed41b068b0c5944c917bdc87/hls.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "tap-7",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=2dfd3c039d7b6a885d72089d20b11e10",
+      "m3u8Url": "https://sing.phimmoi.net/2dfd3c039d7b6a885d72089d20b11e10/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "vu-dieu-lan-su",
-      "episodeCount": 5,
+      "episodeCount": 7,
       "priority": 2
     }
   ],

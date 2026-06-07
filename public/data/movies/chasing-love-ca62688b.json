@@ -7,26 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/6/tron-tim-tinh-yeu-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/6/tron-tim-tinh-yeu.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 2",
   "categories": [],
   "countries": [],
-  "description": "Ba người phụ nữ đang trốn chạy tình yêu gặp gỡ ba người khác luôn dũng cảm theo đuổi cảm xúc của mình. Những cuộc đời giao nhau khiến họ nhận ra rằng tình yêu chính là thứ giữ cho con người tiếp tục sống và hy vọng. Dù cố né tránh đến đâu, sâu thẳm trong lòng, ai cũng khao khát được yêu và được yêu thương.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=0f42cb13c41677a2b8f3498f54a433e4",
-      "m3u8Url": "https://sing.phimmoi.net/0f42cb13c41677a2b8f3498f54a433e4/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "tron-tim-tinh-yeu",
-      "episodeCount": 1,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

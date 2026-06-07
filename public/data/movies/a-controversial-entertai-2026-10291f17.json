@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/321b62cae031f7cec9cdd591c07ea9cf.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (8/8)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -83,6 +83,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260529/TsnaAqQn/index.m3u8"
     },
     {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/MuHQbxi1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/MuHQbxi1/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/5brbTW7U/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/5brbTW7U/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -109,7 +125,7 @@
     {
       "source": "phimapi",
       "slug": "nam-cong-quan",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

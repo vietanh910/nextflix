@@ -1,0 +1,95 @@
+{
+  "id": "southland-season-2-2010-fbbf1e5b",
+  "source": "phimapi",
+  "slug": "goc-toi-southland-phan-2",
+  "name": "Góc Tối Southland (Phần 2)",
+  "originName": "Southland (Season 2)",
+  "posterUrl": "https://phimimg.com/upload/vod/20250701-1/90e7c200bd00521bd55f2b3c232c397f.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20250701-1/83a007b79cedb0a22b1e166b2af996e9.jpg",
+  "year": 2010,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Một cái nhìn chân thực và thô mộc về thế giới tội phạm ở Los Angeles, bộ phim đi sâu vào cuộc sống của cảnh sát, tội phạm, nạn nhân và gia đình của họ. Câu chuyện xoay quanh bốn nhân vật chính: Cảnh sát John Cooper, một cựu binh dày dạn kinh nghiệm, người phải chứng minh năng lực một lần nữa sau ca phẫu thuật hồi phục; Cảnh sát Ben Sherman, người vẫn còn nhiều điều phải học hỏi sau khi vừa hoàn thành chương trình đào tạo; Thám tử Lydia Adams, người có khối lượng công việc không ngừng nghỉ, và các vụ án ngày càng gần gũi với cuộc sống cá nhân; Sammy Bryant, một cựu thám tử đã quyết định quay lại làm cảnh sát thường phục sau cái chết bi thảm của đồng nghiệp thân thiết.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/6dRrSiFe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/6dRrSiFe/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/5CZrakut/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/5CZrakut/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/PVXGRYlp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/PVXGRYlp/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/dl6xQZJE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/dl6xQZJE/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/1j8O8l8W/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/1j8O8l8W/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/kgnZMxcD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/kgnZMxcD/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "goc-toi-southland-phan-2",
+      "episodeCount": 6,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

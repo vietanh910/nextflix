@@ -1,0 +1,62 @@
+{
+  "id": "maa-behen-2026-b78e2a86",
+  "source": "ophim",
+  "slug": "maa-behen",
+  "name": "Maa Behen",
+  "originName": "Maa Behen",
+  "posterUrl": "https://img.ophim.live/uploads/movies/maa-behen-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/maa-behen-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ấn Độ",
+      "slug": "an-do"
+    }
+  ],
+  "description": "<p>Khi rắc rối gõ cửa, một người mẹ cùng hai cô con gái vốn xa cách tìm cách che giấu một tội ác trong khu tập thể hay tọc mạch, nơi chẳng bí mật nào có thể giữ kín.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/cBZzGUvf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/cBZzGUvf/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "maa-behen",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "maa-behen",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

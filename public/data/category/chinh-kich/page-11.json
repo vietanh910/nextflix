@@ -5,6 +5,39 @@
   "totalPages": 14,
   "items": [
     {
+      "id": "fate-chooses-you-2025-028aef70",
+      "source": "ophim",
+      "slug": "giai-ngau-thien-thanh",
+      "name": "Giai Ngẫu Thiên Thành",
+      "originName": "Fate Chooses You",
+      "posterUrl": "https://img.ophim.live/uploads/movies/giai-ngau-thien-thanh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/giai-ngau-thien-thanh-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Tập 40",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "bahagia-yang-tertangguh-2025-ccba507d",
       "source": "ophim",
       "slug": "hanh-phuc-bi-tri-hoan",
@@ -26,6 +59,35 @@
         {
           "name": "Malaysia",
           "slug": "malaysia"
+        }
+      ]
+    },
+    {
+      "id": "hero-s-island-2025-8016e7b0",
+      "source": "ophim",
+      "slug": "heros-island",
+      "name": "Hero's Island",
+      "originName": "Hero's Island",
+      "posterUrl": "https://img.ophim.live/uploads/movies/heros-island-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/heros-island-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -117,39 +179,6 @@
       ]
     },
     {
-      "id": "the-last-shot-2025-625d508a",
-      "source": "ophim",
-      "slug": "phi-vu-cuoi-cungg",
-      "name": "Phi Vụ Cuối Cùng",
-      "originName": "The Last Shot",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phi-vu-cuoi-cungg-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phi-vu-cuoi-cungg-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
       "id": "bound-by-fate-2025-e3eec953",
       "source": "ophim",
       "slug": "ranh-gioi-dinh-menh",
@@ -189,7 +218,7 @@
       "year": 2025,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính kịch",
@@ -266,6 +295,31 @@
       ]
     },
     {
+      "id": "brilliant-minds-season-2-2025-fd47310b",
+      "source": "ophim",
+      "slug": "tam-tri-ruc-ro-phan-2",
+      "name": "Tâm Trí Rực Rỡ (Phần 2)",
+      "originName": "Brilliant Minds (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tam-tri-ruc-ro-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tam-tri-ruc-ro-phan-2-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 16",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "one-cent-thief-season-2-2025-77d99fdb",
       "source": "ophim",
       "slug": "ten-trom-mot-xu-phan-2",
@@ -328,31 +382,6 @@
       ]
     },
     {
-      "id": "the-world-of-love-2025-d20eb5dd",
-      "source": "ophim",
-      "slug": "the-gioi-cua-tinh-yeu",
-      "name": "Thế giới của tình yêu",
-      "originName": "The World of Love",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-gioi-cua-tinh-yeu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-gioi-cua-tinh-yeu-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "generasi-perfect-10-2025-21ef31c5",
       "source": "ophim",
       "slug": "the-he-diem-10",
@@ -378,21 +407,46 @@
       ]
     },
     {
-      "id": "the-last-beergin-2025-1ed24d9b",
+      "id": "tokyo-taxi-2025-f2bb5900",
       "source": "ophim",
-      "slug": "the-last-beergin",
-      "name": "The Last Beergin",
-      "originName": "The Last Beergin",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-last-beergin-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-last-beergin-thumb.jpg",
+      "slug": "tokyo-taxi",
+      "name": "Tokyo Taxi",
+      "originName": "Tokyo Taxi",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tokyo-taxi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tokyo-taxi-thumb.jpg",
       "year": 2025,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "summer-school-2001-2025-acec3cc4",
+      "source": "ophim",
+      "slug": "truong-he-2001",
+      "name": "Trường hè, 2001",
+      "originName": "Summer School, 2001",
+      "posterUrl": "https://img.ophim.live/uploads/movies/truong-he-2001-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/truong-he-2001-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
         },
         {
           "name": "Chính kịch",
@@ -401,8 +455,41 @@
       ],
       "countries": [
         {
-          "name": "Philippines",
-          "slug": "philippines"
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "the-guest-2025-8b08c42f",
+      "source": "ophim",
+      "slug": "vi-khach-phan-1",
+      "name": "Vị Khách (Phần 1)",
+      "originName": "The Guest",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-thumb.jpg",
+      "year": 2025,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -444,95 +531,58 @@
       ]
     },
     {
-      "id": "the-four-seasons-season--2025-c4de50d2",
+      "id": "the-ballad-of-wallis-isl-2025-485d8d22",
       "source": "phimapi",
-      "slug": "bon-mua-phan-1",
-      "name": "Bốn Mùa (Phần 1)",
-      "originName": "The Four Seasons (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/c03055c5acb2fbe110976f5a2d6f440a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/5d5b4697f01e686189c7ddf91186ecd0.jpg",
+      "slug": "ban-nhac-tinh-o-dao-wallis",
+      "name": "Bản Nhạc Tình ở Đảo Wallis",
+      "originName": "The Ballad Of Wallis Island",
+      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/bc46888d60322fd78e790dea0feda3bf.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/0268645d7d52104900af9372bf49cd9b.jpg",
       "year": 2025,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
     {
-      "id": "dexter-resurrection-2025-dccdbc36",
+      "id": "dead-to-rights-2025-2ea11d37",
       "source": "phimapi",
-      "slug": "dexter-hoi-sinh",
-      "name": "Dexter: Hồi Sinh",
-      "originName": "Dexter: Resurrection",
-      "posterUrl": "https://phimimg.com/upload/vod/20250719-1/a20268535fe70784e36d7a98983a1ad2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250719-1/b8a74a7c6276afe9bcea2225e95d233d.jpg",
+      "slug": "tiem-anh-nam-kinh",
+      "name": "Tiệm Ảnh Nam Kinh",
+      "originName": "Dead To Rights",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/d4178d1a80678339427e992ec00a473f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/a38ebc5b85a766afcf234ed1bb95d920.jpg",
       "year": 2025,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "soul-of-the-dragon-2025-cdff8e82",
-      "source": "phimapi",
-      "slug": "long-than-van-tuong-long-hon",
-      "name": "Long Thần Vạn Tượng: Long Hồn",
-      "originName": "Soul of the Dragon",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/8bf33b409a4f4a90e26fb32e9854c8e3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/2a55c645e977116649eb540025b32e88.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
         },
         {
           "name": "Chính Kịch",
@@ -547,146 +597,31 @@
       ]
     },
     {
-      "id": "perfect-match-season-3-2025-5df11b2d",
+      "id": "lakad-2025-eab733b7",
       "source": "phimapi",
-      "slug": "nua-kia-hoan-hao-phan-3",
-      "name": "Nửa Kia Hoàn Hảo (Phần 3)",
-      "originName": "Perfect Match (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260505-1/a51587d7a6329a77025ce510c0589c31.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260505-1/0e2e665cae2c2b9490ab548d3e1a8699.jpg",
+      "slug": "tinh-nong",
+      "name": "Tình Nồng",
+      "originName": "Lakad",
+      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/c737c117ea25a47242797e8e3ce94a86.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/607827a7d59d8b799a3b1deff3465710.jpg",
       "year": 2025,
-      "type": "tvshow",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Phim 18+",
+          "slug": "phim-18"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "sword-and-fairy-3-chines-2025-aadb5c6f",
-      "source": "phimapi",
-      "slug": "tien-kiem-ky-hiep-truyen-3",
-      "name": "Tiên Kiếm Kỳ Hiệp Truyện 3",
-      "originName": "Sword And Fairy 3 (Chinese Paladin 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251230-1/369d8444034098215ab537a4bd859582.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251230-1/868ae9dcda90a490b619fb5cddfb166c.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 24",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "bad-thoughts-season-1-2025-c4d6d10e",
-      "source": "phimapi",
-      "slug": "tom-segura-nhung-y-nghi-xau-phan-1",
-      "name": "Tom Segura: Những Ý Nghĩ Xấu (Phần 1)",
-      "originName": "Bad Thoughts (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/5329c003766860eba018632f8d4dfd2a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250515-1/10c24a2c745141a65b138e0dda1dde69.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "purple-river-season-2-2025-fe64b8fe",
-      "source": "phimapi",
-      "slug": "tu-xuyen-phan-2",
-      "name": "Tử Xuyên (Phần 2)",
-      "originName": "Purple River (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20250813-1/f4d31a926b46f7bfd809527d9df711ae.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250813-1/073c45e99877cd52574b86cc3c0baba1.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 44",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Philippines",
+          "slug": "philippines"
         }
       ]
     },
@@ -726,7 +661,7 @@
       "year": 2024,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính kịch",
@@ -737,6 +672,31 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-stranded-2024-c377f4f6",
+      "source": "ophim",
+      "slug": "nhung-manh-doi-vo-dinh",
+      "name": "Những Mảnh Đời Vô Định",
+      "originName": "The Stranded",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-manh-doi-vo-dinh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-manh-doi-vo-dinh-thumb.jpg",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Tập 51",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
         }
       ]
     }

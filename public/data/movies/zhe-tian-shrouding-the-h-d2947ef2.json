@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Film/121487.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Film/121487.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 164",
+  "episodeCurrent": "Tập 165",
   "categories": [],
   "countries": [],
   "description": "Già Thiên - Che Phủ Bầu Trời được chuyển hóa từ cuốn tiểu thuyết giả tưởng với hơn 1800 chương của tác giả Trần Đông. Bộ phim đang được Star Art Interactive Entertainment sản xuất và hứa hẹn sẽ mang đến những sự khám phám, thách thức mới mẻ.",
@@ -1324,13 +1324,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=c2bb5e939a0863e52f2f17ddd2de855a",
       "m3u8Url": "https://sing.phimmoi.net/c2bb5e939a0863e52f2f17ddd2de855a/hls.m3u8"
+    },
+    {
+      "name": "165",
+      "slug": "tap-165",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=17ce2eebde44275226bb36bb77008db8",
+      "m3u8Url": "https://sing.phimmoi.net/17ce2eebde44275226bb36bb77008db8/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "gia-thien",
-      "episodeCount": 164,
+      "episodeCount": 165,
       "priority": 2
     }
   ],

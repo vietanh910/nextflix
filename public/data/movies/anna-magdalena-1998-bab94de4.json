@@ -1,0 +1,55 @@
+{
+  "id": "anna-magdalena-1998-bab94de4",
+  "source": "phimapi",
+  "slug": "tinh-doi-mong",
+  "name": "Tình Đợi Mong",
+  "originName": "Anna Magdalena",
+  "posterUrl": "https://phimimg.com/upload/vod/20260605-1/5cb753e6fe3061eedfef6f8396d6ac77.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/3597a51c11a2a7c8704474c0bb9bc2b0.jpg",
+  "year": 1998,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Âm Nhạc",
+      "slug": "am-nhac"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "Tình Đợi Mong - Anna Magdalena kể về anh thợ sửa đàn piano Trần Gia Phú (Kim Thành Vũ) nhút nhát, vốn quen sống cô đơn, buồn tẻ. Rồi một ngày Dư Vinh Phú (Quách Phú Thành) - Một anh chàng ăn chơi trác táng, lôi thôi nhưng có hấp dẫn không thể cưỡng lại, chuyển đến sống cùng Gia Phú. Cả hai bị quấy rầy, rồi bị ám ảnh bởi tiếng đàn piano nghiệp dư cô gái trên lầu Mạc Mẫn Nhi (Trần Tuệ Lâm). Từ đây một “tam giác tình yêu” dần hình thành!",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/aKcqtnKg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/aKcqtnKg/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tinh-doi-mong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

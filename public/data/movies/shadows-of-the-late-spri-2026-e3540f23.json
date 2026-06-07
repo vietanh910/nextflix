@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/xuan-dang-dang-sap-tan-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (16/16)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -121,13 +121,45 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/1036079c5db0f08d55c7d6edf05eafe7",
       "m3u8Url": "https://vip.opstream90.com/20260529/33299_1036079c/index.m3u8"
+    },
+    {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b3d535661b8f07d8a9fc36fa6c7b05c8",
+      "m3u8Url": "https://vip.opstream90.com/20260605/33863_b3d53566/index.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a890e973e0be40ad566636b229ded3c8",
+      "m3u8Url": "https://vip.opstream90.com/20260605/33864_a890e973/index.m3u8"
+    },
+    {
+      "name": "15",
+      "slug": "15",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a4a87e583804c00a14032b615ae88f53",
+      "m3u8Url": "https://vip.opstream90.com/20260605/33865_a4a87e58/index.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0602cae8eddc659a9064d8c7fb2bfaed",
+      "m3u8Url": "https://vip.opstream90.com/20260605/33866_0602cae8/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "xuan-dang-dang-sap-tan",
-      "episodeCount": 12,
+      "episodeCount": 16,
       "priority": 0
     }
   ],

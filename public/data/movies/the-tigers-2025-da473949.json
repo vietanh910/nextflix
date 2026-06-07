@@ -1,0 +1,51 @@
+{
+  "id": "the-tigers-2025-da473949",
+  "source": "ophim",
+  "slug": "phi-vu-duoi-day-bien",
+  "name": "Phi Vụ Dưới Đáy Biển",
+  "originName": "The Tigers",
+  "posterUrl": "https://img.ophim.live/uploads/movies/phi-vu-duoi-day-bien-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/phi-vu-duoi-day-bien-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    },
+    {
+      "name": "Tây Ban Nha",
+      "slug": "tay-ban-nha"
+    }
+  ],
+  "description": "<p>Antonio and Estrella are diving siblings. He works in maritime works, she studies underwater life and assists him. Its precarious economy could improve after finding cocaine hidden in the hull of a ship anchored in Huelva.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/663cbae89ccfbb0ab05119a672fb1b9e",
+      "m3u8Url": "https://vip.opstream12.com/20260604/32714_663cbae8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "phi-vu-duoi-day-bien",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

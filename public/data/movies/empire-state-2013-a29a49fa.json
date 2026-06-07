@@ -1,0 +1,52 @@
+{
+  "id": "empire-state-2013-a29a49fa",
+  "source": "ophim",
+  "slug": "empire-state",
+  "name": "Empire State",
+  "originName": "Empire State",
+  "posterUrl": "https://img.ophim.live/uploads/movies/empire-state-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/empire-state-thumb.jpg",
+  "year": 2013,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>After failing to get into the police academy, Chris Potamitis settles for a security guard job with an armoured truck company. After he makes the mistake of mentioning the company's lax security to his best friend, He's unwittingly drawn into an elaborate scheme to rob the abundant amounts of cash being stored on their premises—resulting in the largest cash heist in U.S.history.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "empire-state",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

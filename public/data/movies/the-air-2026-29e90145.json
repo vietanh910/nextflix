@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hành Động",
@@ -61,13 +61,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/706e79e774e8345ecccc7ed401793d9e",
       "m3u8Url": "https://vip.opstream90.com/20260530/33414_706e79e7/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9bc58bc3091b1f0928bb67c19a62bf61",
+      "m3u8Url": "https://vip.opstream90.com/20260606/34111_9bc58bc3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "gio-thoang-tinh-theo",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 0
     }
   ],

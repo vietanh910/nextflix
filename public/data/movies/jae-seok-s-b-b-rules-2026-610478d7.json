@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/jae-seoks-bandb-rules-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -67,58 +67,52 @@
       "m3u8Url": "https://vip.opstream90.com/20260529/33280_0bb27595/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/nW52ooT9/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/nW52ooT9/index.m3u8"
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/06eba2d012953dea388012e907110fc4",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33605_06eba2d0/index.m3u8"
     },
     {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/SeCpalgX/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/SeCpalgX/index.m3u8"
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2d226ae8b7799415116096af48f96579",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33606_2d226ae8/index.m3u8"
     },
     {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/wwTfXy0W/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/wwTfXy0W/index.m3u8"
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/317d5338c2dd1182bd094370a1121ee4",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33607_317d5338/index.m3u8"
     },
     {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/3QrCmkMI/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/3QrCmkMI/index.m3u8"
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/804d1c035371d0119be83a57d690b58f",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33612_804d1c03/index.m3u8"
     },
     {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260527/r79TZipb/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260527/r79TZipb/index.m3u8"
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d957c740b68c99460027ce006a09d2ba",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33613_d957c740/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "jae-seoks-bandb-rules",
-      "episodeCount": 5,
+      "episodeCount": 10,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "nha-nghi-bb-tuyet-voi-cua-jae-seok",
-      "episodeCount": 5,
-      "priority": 1
     }
   ],
   "_priority": 0

@@ -1,0 +1,58 @@
+{
+  "id": "poldi-2026-a7ccac57",
+  "source": "ophim",
+  "slug": "poldi",
+  "name": "Poldi",
+  "originName": "Poldi",
+  "posterUrl": "https://img.ophim.live/uploads/movies/poldi-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/poldi-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đức",
+      "slug": "duc"
+    }
+  ],
+  "description": "<p>Cầu thủ bóng đá, doanh nhân, người được người hâm mộ yêu mến và người hùng thực sự của cộng đồng — Lukas Podolski chia sẻ về hành trình của mình và những dự định tiếp theo trong bộ phim tài liệu chân thực này.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/0UU8Vugr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/0UU8Vugr/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "poldi",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "poldi",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 591",
+  "episodeCurrent": "Tập 593",
   "categories": [
     {
       "name": "Võ Thuật",
@@ -4761,13 +4761,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/55e5ee49a5fc483feb86b0718e1d3716",
       "m3u8Url": "https://vip.opstream90.com/20260530/33371_55e5ee49/index.m3u8"
+    },
+    {
+      "name": "592",
+      "slug": "592",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/22faad819c7d2f9739083b503674694e",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34144_22faad81/index.m3u8"
+    },
+    {
+      "name": "593",
+      "slug": "593",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b0f47015b6ace4492dd96d63e515e779",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34145_b0f47015/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vo-thuong-than-de",
-      "episodeCount": 591,
+      "episodeCount": 593,
       "priority": 0
     }
   ],

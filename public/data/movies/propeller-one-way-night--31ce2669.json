@@ -1,0 +1,34 @@
+{
+  "id": "propeller-one-way-night--31ce2669",
+  "source": "nguonc",
+  "slug": "chuyen-bay-mot-chieu-den-hollywood-mo-uoc",
+  "name": "Chuyến Bay Một Chiều Đến Hollywood Mơ Ước",
+  "originName": "Propeller One-Way Night Coach",
+  "posterUrl": "https://phim.nguonc.com/public/images/Film/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
+  "thumbUrl": "https://phim.nguonc.com/public/images/Film/sKDb7ojYSQtzXts2YQQ7nphATIu.jpg",
+  "status": "completed",
+  "episodeCurrent": "FULL",
+  "categories": [],
+  "countries": [],
+  "description": "Trong kỷ nguyên vàng của ngành hàng không, một cậu bé có niềm đam mê với máy bay cùng mẹ bước vào một hành trình đi ngang đất nước để đến Hollywood, và chuyến bay bình thường của họ biến thành một chuyến đi để đời.",
+  "quality": "HD",
+  "episodes": [
+    {
+      "name": "FULL",
+      "slug": "tap-full",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=d5bb435004654ae3aca4562339f1aa0e",
+      "m3u8Url": "https://sing.phimmoi.net/d5bb435004654ae3aca4562339f1aa0e/hls.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "nguonc",
+      "slug": "chuyen-bay-mot-chieu-den-hollywood-mo-uoc",
+      "episodeCount": 1,
+      "priority": 2
+    }
+  ],
+  "_priority": 2
+}

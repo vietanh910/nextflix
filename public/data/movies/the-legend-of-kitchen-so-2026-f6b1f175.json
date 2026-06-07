@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hài Hước",
@@ -85,13 +85,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/226d3fde8cc7cbbb2067395e806570a6",
       "m3u8Url": "https://vip.opstream10.com/20260527/33767_226d3fde/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/4bad54feaa9a3fbbd7aac13b740fc041",
+      "m3u8Url": "https://vip.opstream10.com/20260602/33794_4bad54fe/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/9b67ca4146e15f7e22010924ae0d038c",
+      "m3u8Url": "https://vip.opstream10.com/20260603/33799_9b67ca41/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "huyen-thoai-linh-bep",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 0
     }
   ],

@@ -1,0 +1,87 @@
+{
+  "id": "azure-spring-2026-bf6398e7",
+  "source": "ophim",
+  "slug": "xanh-cham-day-troi",
+  "name": "Xanh Chạm Đáy Trời",
+  "originName": "Azure Spring",
+  "posterUrl": "https://img.ophim.live/uploads/movies/xanh-cham-day-troi-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/xanh-cham-day-troi-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (6/6)",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại.<br>&nbsp;</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b3df435f52be5287d9ace3b28e2dcac9",
+      "m3u8Url": "https://vip.opstream90.com/20260514/31775_b3df435f/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1c0708af4331df1a35dfbdaf8e252d6e",
+      "m3u8Url": "https://vip.opstream90.com/20260514/31776_1c0708af/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/26e3dcb90aa10011db5b660c463f325f",
+      "m3u8Url": "https://vip.opstream90.com/20260521/32562_26e3dcb9/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b8a7a43c42b54ca12d847eaff8f7c9e8",
+      "m3u8Url": "https://vip.opstream90.com/20260521/32563_b8a7a43c/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fe4d301c85d0283539fa913502072ad7",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32911_fe4d301c/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1f10d1dde00f5f0067ea4243c44a5028",
+      "m3u8Url": "https://vip.opstream90.com/20260527/33051_1f10d1dd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "xanh-cham-day-troi",
+      "episodeCount": 6,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

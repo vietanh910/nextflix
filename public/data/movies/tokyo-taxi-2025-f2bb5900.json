@@ -1,0 +1,47 @@
+{
+  "id": "tokyo-taxi-2025-f2bb5900",
+  "source": "ophim",
+  "slug": "tokyo-taxi",
+  "name": "Tokyo Taxi",
+  "originName": "Tokyo Taxi",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tokyo-taxi-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tokyo-taxi-thumb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<p>Một ngày nọ, tài xế taxi Koji Usami được giao nhiệm vụ chở bà Sumire Takano, 85 tuổi, từ Shibamata, Tokyo đến một viện dưỡng lão ở Hayama, Kanagawa. Bà Sumire yêu cầu Koji đi đường vòng một vài lần. Dần dần cởi mở hơn, bà Sumire bắt đầu kể câu chuyện về quá khứ huy hoàng của mình...</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/54e0f485f4daf036e45e7ec3e246ef67",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33602_54e0f485/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tokyo-taxi",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

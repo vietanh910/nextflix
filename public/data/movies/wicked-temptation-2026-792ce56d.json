@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 14",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -123,6 +123,30 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260529/q2Mut5F6/index.m3u8"
     },
     {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260601/bApNxBlT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260601/bApNxBlT/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/i2ciCrXG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/i2ciCrXG/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/WVouOtMi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/WVouOtMi/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -201,19 +225,43 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/16a7aaa3749e194b34172ac400da40b0",
       "m3u8Url": "https://vip.opstream90.com/20260529/33319_16a7aaa3/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5aad38004a6546b2382974698dbcb264",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33545_5aad3800/index.m3u8"
+    },
+    {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2bf720f77d3874e07949cfcd1f75e91e",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33546_2bf720f7/index.m3u8"
+    },
+    {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3c8ae4a57a79f55c656501865e252ae9",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33631_3c8ae4a5/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ho-giau-van",
-      "episodeCount": 10,
+      "episodeCount": 13,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "ho-giau-van-payak-raai-sorn-laai",
-      "episodeCount": 11,
+      "episodeCount": 14,
       "priority": 1
     }
   ],

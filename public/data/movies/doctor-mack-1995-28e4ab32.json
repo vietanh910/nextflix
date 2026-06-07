@@ -1,0 +1,51 @@
+{
+  "id": "doctor-mack-1995-28e4ab32",
+  "source": "phimapi",
+  "slug": "bac-si-luu-manh",
+  "name": "Bác Sĩ Lưu Manh",
+  "originName": "Doctor Mack",
+  "posterUrl": "https://phimimg.com/upload/vod/20260605-1/11ad8e67aa3f534885270d019ca65428.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/3b8b22f9fdd935ec3542cf2edd11346f.jpg",
+  "year": 1995,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "Từ khi bỏ học trường y, Lau Mack sống một cuộc sống khiêm nhường nhưng viên mãn, điều hành một phòng khám nhỏ trong một khu ổ chuột, chữa trị cho người dân địa phương và những cô gái mại dâm nghèo khổ làm việc tại đó. Một đêm nọ, anh hộ tống một tên cướp súng bị thương đến bệnh viện công, nơi anh bất ngờ gặp lại người bạn cũ thời đại học, Tiến sĩ Jaw, giờ là một bác sĩ phẫu thuật nổi tiếng với tham vọng trở thành quản lý cấp cao. Trước sự ngạc nhiên cay đắng của Jaw, anh thấy mình bị lu mờ bởi tài năng y khoa và lòng tốt của Lau đối với bệnh nhân. Tuy nhiên, Jaw quyết tâm đẩy nhanh sự nghiệp của mình bằng cách gây tổn hại cho Lau. Âm mưu của anh diễn ra hoàn hảo, cho đến khi một tai nạn giao mạng anh vào tay Lau.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/NEo6ZAy8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/NEo6ZAy8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "bac-si-luu-manh",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

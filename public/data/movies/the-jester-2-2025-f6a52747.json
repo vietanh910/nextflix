@@ -1,0 +1,55 @@
+{
+  "id": "the-jester-2-2025-f6a52747",
+  "source": "phimapi",
+  "slug": "ac-mong-ga-he-2",
+  "name": "Ác Mộng Gã Hề 2",
+  "originName": "The Jester 2",
+  "posterUrl": "https://phimimg.com/upload/vod/20260606-1/5e5f2ec5743759e16e60158ac892a565.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/59b769692eedd2360c057f103fe30456.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Tiếp nối phần đầu, tên hề bí ẩn The Jester tiếp tục xuất hiện trong đêm Halloween và nhắm đến những nạn nhân mới. Lần này, một cặp đôi trẻ vô tình chạm mặt hắn. Những trò ảo thuật và hành động tưởng như vô hại nhanh chóng biến thành các màn đe dọa đáng sợ khi The Jester bộc lộ bản chất sát nhân siêu nhiên của mình. Cuộc gặp gỡ ngắn ngủi dần trở thành một trò chơi sinh tử mà nạn nhân khó có thể thoát khỏi.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/fgM4QriQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/fgM4QriQ/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ac-mong-ga-he-2",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,93 @@
+{
+  "id": "michael-jackson-the-verd-2026-492fb546",
+  "source": "ophim",
+  "slug": "michael-jackson-loi-tuyen-an",
+  "name": "Michael Jackson: Lời Tuyên Án",
+  "originName": "Michael Jackson: The Verdict",
+  "posterUrl": "https://img.ophim.live/uploads/movies/michael-jackson-loi-tuyen-an-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/michael-jackson-loi-tuyen-an-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (3/3)",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Được kể bởi những nhân vật chủ chốt có mặt bên trong phòng xử án, bộ phim tài liệu toàn diện này mổ xẻ phiên tòa của Michael Jackson cùng di sản phức tạp của ông.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/735701335a53e5b70d7465c28eed4088",
+      "m3u8Url": "https://vip.opstream12.com/20260604/32715_73570133/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/3e80fb1c17b97791d5bcdd3e91c617a7",
+      "m3u8Url": "https://vip.opstream12.com/20260604/32716_3e80fb1c/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/7b5ad0c52e58076e34f393efe9019ed2",
+      "m3u8Url": "https://vip.opstream12.com/20260604/32717_7b5ad0c5/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/haVbJG3w/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/haVbJG3w/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/6gCICnAH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/6gCICnAH/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/UF36brl6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/UF36brl6/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "michael-jackson-loi-tuyen-an",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "michael-jackson-loi-tuyen-an",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

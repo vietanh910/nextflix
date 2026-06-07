@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính kịch",
@@ -41,13 +41,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/27f850ce7e93ab7a6d5a60ce96090094",
       "m3u8Url": "https://vip.opstream90.com/20260525/32865_27f850ce/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a2a52743471fc9d71744e35fa3625217",
+      "m3u8Url": "https://vip.opstream90.com/20260603/33652_a2a52743/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "double-helix",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 0
     }
   ],

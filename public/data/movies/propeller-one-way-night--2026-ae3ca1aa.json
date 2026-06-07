@@ -1,0 +1,55 @@
+{
+  "id": "propeller-one-way-night--2026-ae3ca1aa",
+  "source": "ophim",
+  "slug": "chuyen-bay-mot-chieu-den-hollywood-mo-uoc",
+  "name": "Chuyến Bay Một Chiều Đến Hollywood Mơ Ước",
+  "originName": "Propeller One-Way Night Coach",
+  "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-mot-chieu-den-hollywood-mo-uoc-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-bay-mot-chieu-den-hollywood-mo-uoc-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Trong kỷ nguyên vàng của ngành hàng không, một cậu bé có niềm đam mê với máy bay cùng mẹ bước vào một hành trình đi ngang đất nước để đến Hollywood, và chuyến bay bình thường của họ biến thành một chuyến đi để đời.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d15505e6d277a01b10c86b9137f57d69",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33601_d15505e6/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "chuyen-bay-mot-chieu-den-hollywood-mo-uoc",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

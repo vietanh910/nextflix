@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Hài Hước",
@@ -37,13 +37,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/9a159616e77ecc3db8449214fddbc43e",
       "m3u8Url": "https://vip.opstream90.com/20260526/33027_9a159616/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7923554f3401e7aaadf9466f121ce1a4",
+      "m3u8Url": "https://vip.opstream90.com/20260603/33658_7923554f/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "fukami-nghich-ngom-ngoai-suc-tuong-tuong",
-      "episodeCount": 1,
+      "episodeCount": 2,
       "priority": 0
     }
   ],

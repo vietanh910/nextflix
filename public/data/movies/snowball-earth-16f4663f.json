@@ -7,90 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/7/snowball-earth-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/7/snowball-earth.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [],
   "countries": [],
-  "description": "Câu chuyện xoay quanh Tetsuo, một cậu bé nhút nhát có người bạn duy nhất là robot khổng lồ tên là Yukio. Cả hai đã cùng nhau chiến đấu chống lại các quái vật ngoài hành tinh để bảo vệ nhân loại. Sau trận chiến cuối cùng khốc liệt, Tetsuo rơi vào giấc ngủ đông trong kén thoát hiểm suốt 8 đến 10 năm. Khi tỉnh dậy và trở về Trái Đất, cậu bàng hoàng nhận ra hành tinh quê hương đã trở thành một vùng đất hoang tàn, bị bao phủ hoàn toàn bởi băng tuyết—một \"Trái Đất quả cầu tuyết\" (Snowball Earth). Tại đây, Tetsuo bắt đầu hành trình tìm kiếm những người còn sống sót và thực hiện lời hứa cuối cùng với Yukio.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=5296035863418cd7bc788104cb1bad46",
-      "m3u8Url": "https://sing.phimmoi.net/5296035863418cd7bc788104cb1bad46/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=7b02ef18149478eefa7458d47cb2205e",
-      "m3u8Url": "https://sing.phimmoi.net/7b02ef18149478eefa7458d47cb2205e/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=05741e979a3c0046513814736977fd9b",
-      "m3u8Url": "https://sing.phimmoi.net/05741e979a3c0046513814736977fd9b/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=d899b070c214a88c98b14adc4c10d59a",
-      "m3u8Url": "https://sing.phimmoi.net/d899b070c214a88c98b14adc4c10d59a/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=d6a7f0f5c6d79225fe63e1bdb989fc92",
-      "m3u8Url": "https://sing.phimmoi.net/d6a7f0f5c6d79225fe63e1bdb989fc92/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=373e3fd8bac884da5e976ea053bc7ea7",
-      "m3u8Url": "https://sing.phimmoi.net/373e3fd8bac884da5e976ea053bc7ea7/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=5c5d18005d8e9948642ef9e4c929ec35",
-      "m3u8Url": "https://sing.phimmoi.net/5c5d18005d8e9948642ef9e4c929ec35/hls.m3u8"
-    },
-    {
-      "name": "8",
-      "slug": "tap-8",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=2ba87735a99ed367fc450758e74f2250",
-      "m3u8Url": "https://sing.phimmoi.net/2ba87735a99ed367fc450758e74f2250/hls.m3u8"
-    },
-    {
-      "name": "9",
-      "slug": "tap-9",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=35ef3900f946008885c0f341dfd9e417",
-      "m3u8Url": "https://sing.phimmoi.net/35ef3900f946008885c0f341dfd9e417/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "trai-dat-dong-bang",
-      "episodeCount": 9,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

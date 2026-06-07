@@ -1,0 +1,47 @@
+{
+  "id": "stolen-love-2001-fbcf1a58",
+  "source": "phimapi",
+  "slug": "biet-luyen",
+  "name": "Biệt Luyến",
+  "originName": "Stolen Love",
+  "posterUrl": "https://phimimg.com/upload/vod/20260605-1/07860f7b1181b6a42a320cd2c98258a5.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/5158442d9d02061ea086664d0da18fb2.jpg",
+  "year": 2001,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hồng Kông",
+      "slug": "hong-kong"
+    }
+  ],
+  "description": "Kể về một kiến trúc sư thành công Rick (Raymond Lam đóng vai), người phát hiện ra anh ta có thể có một quá khứ bị lãng quên. Anh ấy bị một chiếc ô tô đâm khi đang chìm đắm trong suy nghĩ về một quảng cáo có sự góp mặt của Angela Lok (Rain Li), một tiểu thuyết gia nổi tiếng. Khi tỉnh dậy, anh ấy phát hiện ra mình đã mất khả năng sáng tạo. Chỉ khi anh ấy ở gần Angela thì tia lửa mới quay trở lại. Vậy anh ta làm gì? Tất nhiên, anh ta chuyển vào tòa nhà của cô ấy.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/tUZaHnwh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/tUZaHnwh/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "biet-luyen",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

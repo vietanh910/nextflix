@@ -7,74 +7,15 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/9/griya-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/9/griya.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 9",
   "categories": [],
   "countries": [],
-  "description": "Nữ thanh tra nọ hợp tác cùng một nữ luật sư để điều tra một nghệ sĩ đầy cuốn hút – đồng thời là nghi phạm chính trong vụ mất tích bí ẩn của hai người vợ của anh ta.",
-  "quality": "HD",
-  "episodes": [
-    {
-      "name": "1",
-      "slug": "tap-1",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=ba9413126b904365c9c9bccffc8bad11",
-      "m3u8Url": "https://sing.phimmoi.net/ba9413126b904365c9c9bccffc8bad11/hls.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "tap-2",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=6f374aec0499d327728e0f21176526c2",
-      "m3u8Url": "https://sing.phimmoi.net/6f374aec0499d327728e0f21176526c2/hls.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "tap-3",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed11.streamc.xyz/embed.php?hash=b95a8c5b12b2369ab9626ad23b53fafa",
-      "m3u8Url": "https://sing.phimmoi.net/b95a8c5b12b2369ab9626ad23b53fafa/hls.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "tap-4",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=18dbde457f1ef144c8df1ee2ff60c37d",
-      "m3u8Url": "https://sing.phimmoi.net/18dbde457f1ef144c8df1ee2ff60c37d/hls.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "tap-5",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed18.streamc.xyz/embed.php?hash=481a312ddada691c73657a3db5bfd1a8",
-      "m3u8Url": "https://sing.phimmoi.net/481a312ddada691c73657a3db5bfd1a8/hls.m3u8"
-    },
-    {
-      "name": "6",
-      "slug": "tap-6",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=8424b99708d61693fc1ceddcaec6a818",
-      "m3u8Url": "https://sing.phimmoi.net/8424b99708d61693fc1ceddcaec6a818/hls.m3u8"
-    },
-    {
-      "name": "7",
-      "slug": "tap-7",
-      "serverName": "Vietsub #1",
-      "source": "nguonc",
-      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=42e4bc43d7e3256ce54794aa63ac1bf1",
-      "m3u8Url": "https://sing.phimmoi.net/42e4bc43d7e3256ce54794aa63ac1bf1/hls.m3u8"
-    }
-  ],
+  "episodes": [],
   "sources": [
     {
       "source": "nguonc",
       "slug": "griya",
-      "episodeCount": 7,
+      "episodeCount": 0,
       "priority": 2
     }
   ],

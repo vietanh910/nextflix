@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/5/aishiteru-game-wo-owarasetai-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/5/aishiteru-game-wo-owarasetai.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [],
   "countries": [],
   "description": "Xoay quanh hai người bạn thân từ thuở nhỏ là Asagiya Yukiya và Sakura Miku. Họ đã chơi trò \"I Love You\" từ khi còn bé, một trò chơi mà ai đỏ mặt hoặc lúng túng trước câu nói \"anh yêu em/em yêu anh\" của đối phương sẽ thua. Khi lên cấp ba, cảm xúc thật bắt đầu xen lẫn vào trò chơi, khiến ranh giới giữa giả vờ và thật lòng trở nên mong manh.",
@@ -68,13 +68,21 @@
       "source": "nguonc",
       "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=edc38ccc747e47f7e5e54ae48588a8f5",
       "m3u8Url": "https://sing.phimmoi.net/edc38ccc747e47f7e5e54ae48588a8f5/hls.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "tap-8",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=5a97322b9c4cbfbf0b8bf9ef2c17f3e1",
+      "m3u8Url": "https://sing.phimmoi.net/5a97322b9c4cbfbf0b8bf9ef2c17f3e1/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "aishiteru-game-wo-owarasetai",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 2
     }
   ],

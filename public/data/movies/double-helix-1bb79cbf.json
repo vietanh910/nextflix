@@ -7,7 +7,7 @@
   "posterUrl": "https://phim.nguonc.com/public/images/Post/4/song-trinh-1.jpg",
   "thumbUrl": "https://phim.nguonc.com/public/images/Post/4/song-trinh.jpg",
   "status": "unknown",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 10",
   "categories": [],
   "countries": [],
   "description": "Phim kể về hai người yêu nhau từ thời trung học nhưng mối quan hệ bí mật của họ bị bại lộ, khiến cả hai buộc phải chia tay trong đau đớn. Nhiều năm sau, họ tình cờ gặp lại nhau khi mỗi người đã mang theo những tổn thương và bí mật riêng. Dù tình cảm cũ vẫn còn, quá khứ đầy phản bội, sự ám ảnh và những hiểu lầm chưa được giải quyết tiếp tục đe dọa cơ hội hàn gắn mong manh của họ.",
@@ -76,13 +76,29 @@
       "source": "nguonc",
       "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=9ec576ba9ddf4a6bbba3a8f072c5e2c6",
       "m3u8Url": "https://sing.phimmoi.net/9ec576ba9ddf4a6bbba3a8f072c5e2c6/hls.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "tap-9",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed12.streamc.xyz/embed.php?hash=f7dd8797017c91ff0e00b5350fb1665c",
+      "m3u8Url": "https://sing.phimmoi.net/f7dd8797017c91ff0e00b5350fb1665c/hls.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "tap-10",
+      "serverName": "Vietsub #1",
+      "source": "nguonc",
+      "embedUrl": "https://embed13.streamc.xyz/embed.php?hash=ad07b531c9ad914fc1f00071b5daeccf",
+      "m3u8Url": "https://sing.phimmoi.net/ad07b531c9ad914fc1f00071b5daeccf/hls.m3u8"
     }
   ],
   "sources": [
     {
       "source": "nguonc",
       "slug": "song-trinh",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 2
     }
   ],

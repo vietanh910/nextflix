@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hài Hước",
@@ -103,6 +103,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260529/33235_c5b43238/index.m3u8"
     },
     {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2f60d946251d2dfd719925f3fa1fed01",
+      "m3u8Url": "https://vip.opstream90.com/20260605/33835_2f60d946/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -173,19 +181,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/yQkhfqHc/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260528/yQkhfqHc/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/mde6yIwK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/mde6yIwK/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "buc-tuong-bang",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "buc-tuong-bang",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

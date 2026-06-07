@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hành Động",
@@ -111,6 +111,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260529/33332_116e268d/index.m3u8"
     },
     {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d53747ccb7ee68461cdce44eca7eca9b",
+      "m3u8Url": "https://vip.opstream90.com/20260606/33988_d53747cc/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -181,19 +189,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260529/Bc8kdv2c/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260529/Bc8kdv2c/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/UKlPEXu2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/UKlPEXu2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "trai-dat-dong-bang",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "snowball-earth-trai-dat-dong-bang",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

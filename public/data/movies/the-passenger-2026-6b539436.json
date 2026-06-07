@@ -1,0 +1,51 @@
+{
+  "id": "the-passenger-2026-6b539436",
+  "source": "ophim",
+  "slug": "hanh-khach",
+  "name": "Hành Khách",
+  "originName": "The Passenger",
+  "posterUrl": "https://img.ophim.live/uploads/movies/hanh-khach-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/hanh-khach-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "<p>Hassan, một tài xế đưa đón sân bay người Mỹ gốc Somali ở Minneapolis, đang phải vật lộn để kiếm sống. Khi Lloyd, một thanh niên 20 tuổi bị mắc kẹt ở sân bay, đề nghị trả tiền cho Hassan để đưa anh ta bằng đường bộ tới Chicago, điều đó có vẻ đáng để mạo hiểm. Nhưng khi nhận ra rằng hành khách của mình không giống như vẻ ngoài của mình, Hassan thấy mình bị mắc kẹt trong một chuyến đi kinh hoàng mà anh không thể trốn thoát, biết rằng việc cứu mình có thể khiến vô số người khác gặp nguy hiểm.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6ca757657eb93d1f04d87b4de35f4a7e",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34125_6ca75765/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "hanh-khach",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

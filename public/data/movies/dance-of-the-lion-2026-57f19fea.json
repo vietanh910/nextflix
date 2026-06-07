@@ -1,0 +1,87 @@
+{
+  "id": "dance-of-the-lion-2026-57f19fea",
+  "source": "ophim",
+  "slug": "dance-of-the-lion",
+  "name": "Dance of the Lion",
+  "originName": "Dance of the Lion",
+  "posterUrl": "https://img.ophim.live/uploads/movies/dance-of-the-lion-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/dance-of-the-lion-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Sau tai nạn của cha, một cô gái trẻ vùng Isan tiếp quản đoàn múa lân gia đình và kết hợp với nhạc Mor Lam truyền thống để duy trì hoạt động của đoàn.</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/19db090dc300e7c94c75231aa830dfee",
+      "m3u8Url": "https://vip.opstream90.com/20260522/32649_19db090d/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3ee734aef151cd670413a9ce474c814d",
+      "m3u8Url": "https://vip.opstream90.com/20260525/32906_3ee734ae/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d0c9acab2dcb6aaa94c495fd6f58a2ec",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33541_d0c9acab/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/22f344bc2f5e9d8a2738fca7459ab810",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33542_22f344bc/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6095b12ecdfcd301bf571ff6ca7a9edb",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33543_6095b12e/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/be5b7dd09833f473d70afbf4c2f8642b",
+      "m3u8Url": "https://vip.opstream90.com/20260601/33544_be5b7dd0/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "dance-of-the-lion",
+      "episodeCount": 6,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}
