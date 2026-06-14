@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính kịch",
@@ -81,13 +81,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/bbd36655e64de9758eb68ccc741176f4",
       "m3u8Url": "https://vip.opstream10.com/20260525/33761_bbd36655/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/3c8caa1e965921a89815a28123be4692",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33877_3c8caa1e/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/746bfc235e548f1f5ccce70fb9589d56",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33878_746bfc23/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nhung-bong-hoa-ac",
-      "episodeCount": 7,
+      "episodeCount": 9,
       "priority": 0
     }
   ],

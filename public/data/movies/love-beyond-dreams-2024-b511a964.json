@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Chính kịch",
@@ -65,13 +65,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/553b5b9ed7e16c3f3d6bcb4094024b27",
       "m3u8Url": "https://vip.opstream90.com/20260603/33710_553b5b9e/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/42f67ee6edf8958816e38b124609c38f",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34526_42f67ee6/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "lan-nua-den-ben-em",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 0
     }
   ],

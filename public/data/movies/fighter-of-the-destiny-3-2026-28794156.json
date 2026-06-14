@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "episodeCurrent": "Tập 22",
   "categories": [
     {
       "name": "Hành Động",
@@ -211,6 +211,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260607/34147_d33fc35d/index.m3u8"
     },
     {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/902a621ebb8a96c516d34a58334eb0ee",
+      "m3u8Url": "https://vip.opstream90.com/20260613/34768_902a621e/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -377,19 +385,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/Tu4Rfx5v/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/Tu4Rfx5v/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/F7EDPbWb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/F7EDPbWb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "trach-thien-ky-2026",
-      "episodeCount": 21,
+      "episodeCount": 22,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "trach-thien-ky",
-      "episodeCount": 21,
+      "episodeCount": 22,
       "priority": 1
     }
   ],

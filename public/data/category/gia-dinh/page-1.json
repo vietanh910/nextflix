@@ -2,45 +2,8 @@
   "slug": "gia-dinh",
   "name": "Gia Đình",
   "page": 1,
-  "totalPages": 2,
+  "totalPages": 1,
   "items": [
-    {
-      "id": "the-pout-pout-fish-2026-d2befe3c",
-      "source": "ophim",
-      "slug": "ca-con-cau-co",
-      "name": "Cá Con Cau Có",
-      "originName": "The Pout-Pout Fish",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ca-con-cau-co-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ca-con-cau-co-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Úc",
-          "slug": "uc"
-        }
-      ]
-    },
     {
       "id": "the-magic-faraway-tree-2026-39838032",
       "source": "ophim",
@@ -108,6 +71,72 @@
       ]
     },
     {
+      "id": "recipe-for-love-2026-fae87879",
+      "source": "ophim",
+      "slug": "cong-thuc-tinh-yeu",
+      "name": "Công Thức Tình Yêu",
+      "originName": "Recipe For Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cong-thuc-tinh-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cong-thuc-tinh-yeu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 36",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "cabbage-your-life-2026-1ccc8fdc",
+      "source": "ophim",
+      "slug": "doi-cai-thao",
+      "name": "Đời Cải Thảo",
+      "originName": "Cabbage Your Life",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-cai-thao-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "accidental-partners-2026-60897d5f",
       "source": "ophim",
       "slug": "doi-tac-tinh-co",
@@ -133,35 +162,6 @@
         {
           "name": "Mexico",
           "slug": "mexico"
-        }
-      ]
-    },
-    {
-      "id": "doraemon-the-movie-new-n-2026-c51b52ee",
-      "source": "ophim",
-      "slug": "doraemon-phien-ban-moi-nobita-va-lau-dai-duoi-day-bien",
-      "name": "Doraemon: Phiên bản mới - Nobita Và Lâu Đài Dưới Đáy Biển",
-      "originName": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
-      "posterUrl": "https://img.ophim.live/uploads/movies/doraemon-phien-ban-moi-nobita-va-lau-dai-duoi-day-bien-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/doraemon-phien-ban-moi-nobita-va-lau-dai-duoi-day-bien-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -267,7 +267,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 27",
+      "episodeCurrent": "Tập 45",
       "categories": [
         {
           "name": "Gia Đình",
@@ -282,43 +282,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-super-mario-galaxy-m-2026-28b935ae",
-      "source": "ophim",
-      "slug": "phim-super-mario-thien-ha",
-      "name": "Phim Super Mario Thiên Hà",
-      "originName": "The Super Mario Galaxy Movie",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phim-super-mario-thien-ha-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phim-super-mario-thien-ha-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -381,39 +344,6 @@
       ]
     },
     {
-      "id": "the-water-2026-94dacf51",
-      "source": "ophim",
-      "slug": "the-water-4-elements-dong-song-muu-meo",
-      "name": "The Water 4 Elements: Dòng Sông Mưu Mẹo",
-      "originName": "The Water",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-water-4-elements-dong-song-muu-meo-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-water-4-elements-dong-song-muu-meo-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
       "id": "animal-farm-2026-99d693c7",
       "source": "ophim",
       "slug": "trai-suc-vat",
@@ -451,80 +381,6 @@
         {
           "name": "Anh",
           "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "bapa-mentuaku-mafia-2026-ac462501",
-      "source": "phimapi",
-      "slug": "bo-vo-toi-la-mafia",
-      "name": "Bố Vợ Tôi Là Mafia",
-      "originName": "Bapa Mentuaku Mafia",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/49f2ecff904434957696dc8a48d676e0.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/b0b753ff71f8b4cb2feeafe00a55687a.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
-      "id": "light-of-the-world-2025-49575c53",
-      "source": "ophim",
-      "slug": "anh-sang-cua-the-gioi",
-      "name": "Ánh sáng của thế giới",
-      "originName": "Light of the World",
-      "posterUrl": "https://img.ophim.live/uploads/movies/anh-sang-cua-the-gioi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/anh-sang-cua-the-gioi-thumb.jpg",
-      "year": 2025,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -576,7 +432,7 @@
       "year": 2025,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 96",
+      "episodeCurrent": "Tập 118",
       "categories": [
         {
           "name": "Hình Sự",
@@ -609,7 +465,7 @@
       "year": 2025,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 34",
+      "episodeCurrent": "Tập 40",
       "categories": [
         {
           "name": "Gia Đình",
@@ -624,6 +480,39 @@
         {
           "name": "Thổ Nhĩ Kỳ",
           "slug": "tho-nhi-ky"
+        }
+      ]
+    },
+    {
+      "id": "i-am-frankelda-2025-b2ede385",
+      "source": "ophim",
+      "slug": "toi-la-frankelda",
+      "name": "Tôi là Frankelda",
+      "originName": "I Am Frankelda",
+      "posterUrl": "https://img.ophim.live/uploads/movies/toi-la-frankelda-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/toi-la-frankelda-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mexico",
+          "slug": "mexico"
         }
       ]
     },
@@ -657,39 +546,6 @@
       ]
     },
     {
-      "id": "booba-season-4-2023-26dac22f",
-      "source": "ophim",
-      "slug": "buba-phan-4",
-      "name": "Booba (Phần 4)",
-      "originName": "Booba (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/buba-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/buba-phan-4-thumb.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Nga",
-          "slug": "nga"
-        }
-      ]
-    },
-    {
       "id": "i-live-alone-2020-79d527b4",
       "source": "ophim",
       "slug": "toi-song-mot-minh",
@@ -700,7 +556,7 @@
       "year": 2020,
       "type": "tvshow",
       "status": "ongoing",
-      "episodeCurrent": "Tập 644",
+      "episodeCurrent": "Tập 648",
       "categories": [
         {
           "name": "Gia Đình",
@@ -715,21 +571,21 @@
       ]
     },
     {
-      "id": "bao-gio-het-e-2018-f12fb2c3",
-      "source": "phimapi",
-      "slug": "bao-gio-het-e",
-      "name": "Bao Giờ Hết Ế",
-      "originName": "Bao Giờ Hết Ế",
-      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/9f0d3f26961fb7c82211c22c007cd326.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/781c0eab30c7c214a85762e632fd58f6.jpg",
-      "year": 2018,
-      "type": "single",
+      "id": "nhung-co-nang-doc-than-l-2014-493d7d42",
+      "source": "ophim",
+      "slug": "nhung-co-nang-doc-than-lam-me",
+      "name": "Những Cô Nàng Độc Thân Làm Mẹ ",
+      "originName": "Những Cô Nàng Độc Thân Làm Mẹ ",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-co-nang-doc-than-lam-me-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-co-nang-doc-than-lam-me-thumb.jpg",
+      "year": 2014,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất(41/41)",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
           "name": "Gia Đình",
@@ -744,27 +600,76 @@
       ]
     },
     {
-      "id": "o-day-co-nang-2018-707a3958",
+      "id": "ben-10-race-against-time-2008-33ccc4bc",
       "source": "phimapi",
-      "slug": "o-day-co-nang",
-      "name": "Ở Đây Có Nắng",
-      "originName": "Ở Đây Có Nắng",
-      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/ef681897e5927f43c62e0b947c83740a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/6189ae40a1c93d8e08bdd6ef633a5a58.jpg",
-      "year": 2018,
+      "slug": "ben-10-chay-dua-voi-thoi-gian",
+      "name": "Ben 10: Chạy Đua Với Thời Gian",
+      "originName": "Ben 10: Race Against Time",
+      "posterUrl": "https://phimimg.com/upload/vod/20260609-1/3857bc9e6487cfb92327eb0680dd1771.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260609-1/d98eedcc786cf15c27738993dd0bc2ec.jpg",
+      "year": 2008,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
           "name": "Gia Đình",
           "slug": "gia-dinh"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         }
       ],
       "countries": [
         {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ben-10-secret-of-the-omn-2007-1ebd9b00",
+      "source": "phimapi",
+      "slug": "ben-10-bi-mat-cua-omnitrix",
+      "name": "Ben 10: Bí Mật Của Omnitrix",
+      "originName": "Ben 10: Secret of the Omnitrix",
+      "posterUrl": "https://phimimg.com/upload/vod/20260609-1/062ff5b6d9aa093280b7038bfec214b2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260609-1/50e5b568073cabd6669b7e3a30129afb.jpg",
+      "year": 2007,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

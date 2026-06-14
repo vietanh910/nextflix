@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-thumb.jpg",
   "year": 2025,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (4/4)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -49,13 +49,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/2859d4b47bfe5c717dd76d74a888ee5a",
       "m3u8Url": "https://vip.opstream10.com/20260607/33818_2859d4b4/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/f6ec6017f81a1a735257468f5b31d02d",
+      "m3u8Url": "https://vip.opstream10.com/20260608/33822_f6ec6017/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/53abec67fb016be5f431dda0e1fe7473",
+      "m3u8Url": "https://vip.opstream10.com/20260611/33909_53abec67/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vi-khach-phan-1",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 0
     }
   ],

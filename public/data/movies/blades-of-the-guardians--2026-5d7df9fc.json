@@ -1,0 +1,71 @@
+{
+  "id": "blades-of-the-guardians--2026-5d7df9fc",
+  "source": "phimapi",
+  "slug": "tieu-nhan-phan-2",
+  "name": "Tiêu Nhân (Phần 2)",
+  "originName": "Blades Of The Guardians (Season 2)",
+  "posterUrl": "https://phimimg.com/upload/vod/20260613-1/6f4181a4babd4d769a24fc35922162e6.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260613-1/8c0436d9e1adaddeac035caf2d040148.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    },
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "Năm Đại Nghiệp thứ ba, biên cương rục rịch bất ổn, Tùy Dương Đế cho tuần tra phương Bắc, uy hiếp biên thùy phía Tây. Tiêu nhân Đao Mã được bằng hữu cũ nhờ hộ tống thủ lĩnh loạn đảng là Tri Thế Lang đến Trường An, hoàn thành lý tưởng cứu giúp loạn thế. Nhưng sau lưng hắn luôn có một kẻ độc nhãn ôm theo mối thù bám riết không buông, cả quá khứ đã qua lẫn hiểm nguy hiện tại cùng ập đến, hãy xem Đao Mã đã khuấy đảo máu tanh giang hồ dưới thời loạn thế như thế nào! Phát Chia sẻ",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/HoAvRQtp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/HoAvRQtp/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/Z7LBsXsd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/Z7LBsXsd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tieu-nhan-phan-2",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

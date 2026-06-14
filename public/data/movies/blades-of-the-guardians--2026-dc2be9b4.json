@@ -1,0 +1,65 @@
+{
+  "id": "blades-of-the-guardians--2026-dc2be9b4",
+  "source": "ophim",
+  "slug": "tieu-nhan-phong-khoi-dai-mac",
+  "name": "Tiêu Nhân: Phong Khởi Đại Mạc",
+  "originName": "Blades of the Guardians: Wind Rises in the Desert",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tieu-nhan-phong-khoi-dai-mac-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tieu-nhan-phong-khoi-dai-mac-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Trên sa mạc mênh mông, tiêu sư, quan phủ cùng năm đại gia tộc Tây Vực đan xen lợi ích, âm thầm tranh đấu. Đao Mã – kẻ bị truy nã hạng hai thiên hạ – nhận một nhiệm vụ áp tiêu đặc biệt, cùng đồng đội hộ tống một người từ Tây Vực đến Trường An. Không ngờ, người họ bảo vệ lại chính là Tri Thế Lang – kẻ bị truy nã số một thiên hạ. Vì lợi ích riêng, các thế lực liên tiếp nhập cuộc, kéo theo những trận tranh đoạt tiêu hàng và chém giết không ngừng.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d3e185f50dcdc22eea2dc03829bb4c6d",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34693_d3e185f5/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/l2ArnwuL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/l2ArnwuL/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tieu-nhan-phong-khoi-dai-mac",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tieu-nhan-phong-khoi-dai-mac",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

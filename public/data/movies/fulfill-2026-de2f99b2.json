@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/tron-ven-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (8/8)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -87,6 +87,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260606/33990_0aa00939/index.m3u8"
     },
     {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a4f6d1f94ad05f3fc1f2ccd1715aeeff",
+      "m3u8Url": "https://vip.opstream90.com/20260613/34764_a4f6d1f9/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -141,19 +149,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/eKwewSAb/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260605/eKwewSAb/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/r4sPfmy9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/r4sPfmy9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tron-ven",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "tinh-yeu-du-day-tron-ven",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 1
     }
   ],

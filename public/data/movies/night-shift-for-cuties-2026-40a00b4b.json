@@ -93,70 +93,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/f7c5213a8ce1cfc32b697f9e70e1b3b7",
       "m3u8Url": "https://vip.opstream90.com/20260604/33815_f7c5213a/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/nckY5z6F/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/nckY5z6F/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/Tmjhp8R8/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/Tmjhp8R8/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/wNLFTeXF/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/wNLFTeXF/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/QJ7jfq1Q/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/QJ7jfq1Q/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/lCGUfT2J/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/lCGUfT2J/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/rTJhiKJV/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/rTJhiKJV/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/QSduL8Kw/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/QSduL8Kw/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/yd9lCeRf/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/yd9lCeRf/index.m3u8"
     }
   ],
   "sources": [
@@ -165,12 +101,6 @@
       "slug": "ca-khuya-cua-fan",
       "episodeCount": 8,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "ca-khuya-cua-fan",
-      "episodeCount": 8,
-      "priority": 1
     }
   ],
   "_priority": 0

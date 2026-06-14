@@ -2,8 +2,37 @@
   "slug": "hinh-su",
   "name": "Hình Sự",
   "page": 1,
-  "totalPages": 4,
+  "totalPages": 3,
   "items": [
+    {
+      "id": "movie-2026-55c4d1ef",
+      "source": "ophim",
+      "slug": "ac-niem",
+      "name": "Ác Niệm",
+      "originName": "恶念",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ac-niem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ac-niem-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
     {
       "id": "tagusari-bros-2026-e4f56387",
       "source": "ophim",
@@ -15,7 +44,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hình Sự",
@@ -53,35 +82,6 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "dirty-hands-2026-912d7169",
-      "source": "ophim",
-      "slug": "ban-tay-ban",
-      "name": "Bàn tay bẩn",
-      "originName": "Dirty Hands",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ban-tay-ban-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ban-tay-ban-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
         }
       ],
       "countries": [
@@ -150,6 +150,31 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "wonder-wall-2026-fdc286b2",
+      "source": "ophim",
+      "slug": "buc-tuong-me-cung",
+      "name": "Bức Tường Mê Cung",
+      "originName": "Wonder Wall",
+      "posterUrl": "https://img.ophim.live/uploads/movies/buc-tuong-me-cung-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/buc-tuong-me-cung-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 15",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -391,7 +416,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hình Sự",
@@ -406,43 +431,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "fight-against-evil-3-2026-dc6007c5",
-      "source": "ophim",
-      "slug": "fight-against-evil-3",
-      "name": "Fight Against Evil 3",
-      "originName": "Fight Against Evil 3",
-      "posterUrl": "https://img.ophim.live/uploads/movies/fight-against-evil-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/fight-against-evil-3-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -484,31 +472,6 @@
       ]
     },
     {
-      "id": "crime-scene-2026-cdceab05",
-      "source": "ophim",
-      "slug": "hien-truong-vu-an",
-      "name": "Hiện Trường Vụ Án",
-      "originName": "Crime Scene",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hien-truong-vu-an-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hien-truong-vu-an-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "criminal-record-season-2-2026-e464fed6",
       "source": "ophim",
       "slug": "ho-so-toi-pham-phan-2",
@@ -518,8 +481,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/ho-so-toi-pham-phan-2-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -571,84 +534,6 @@
       ]
     },
     {
-      "id": "legends-2026-589261e1",
-      "source": "ophim",
-      "slug": "legends",
-      "name": "Legends",
-      "originName": "Legends",
-      "posterUrl": "https://img.ophim.live/uploads/movies/legends-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/legends-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "the-rookie-season-8-2026-6e6e2d87",
-      "source": "ophim",
-      "slug": "linh-moi-phan-8",
-      "name": "Lính Mới (Phần 8)",
-      "originName": "The Rookie (Season 8)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/linh-moi-phan-8-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/linh-moi-phan-8-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
       "id": "love-of-silom-2026-960bbcbb",
       "source": "ophim",
       "slug": "love-silom",
@@ -659,7 +544,36 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "the-evil-lawyer-2026-7932e8f9",
+      "source": "ophim",
+      "slug": "luat-su-gian-ac",
+      "name": "Luật Sư Gian Ác",
+      "originName": "The Evil Lawyer",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luat-su-gian-ac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luat-su-gian-ac-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -707,6 +621,35 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "colors-of-evil-black-2026-5251a6f9",
+      "source": "ophim",
+      "slug": "mau-ta-ac-den",
+      "name": "Màu Tà Ác: Đen",
+      "originName": "Colors of Evil: Black",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mau-ta-ac-den-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mau-ta-ac-den-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ba lan",
+          "slug": "ba-lan"
         }
       ]
     },
@@ -769,6 +712,35 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "kartavya-2026-0756d19d",
+      "source": "ophim",
+      "slug": "nghia-vu",
+      "name": "Nghĩa Vụ",
+      "originName": "Kartavya",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nghia-vu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nghia-vu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
         }
       ]
     }

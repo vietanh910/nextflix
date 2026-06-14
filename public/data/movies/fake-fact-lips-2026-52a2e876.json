@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính kịch",
@@ -33,13 +33,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/e10bc88f2a85dbcfd808b001f0bb8d69",
       "m3u8Url": "https://vip.opstream90.com/20260529/33286_e10bc88f/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1d521d8712ce34bb9e5c412d93bb2fff",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34272_1d521d87/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9339be1158aa50c53147b3b53bf0f259",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34747_9339be11/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "fake-fact-lips",
-      "episodeCount": 1,
+      "episodeCount": 3,
       "priority": 0
     }
   ],

@@ -1,0 +1,71 @@
+{
+  "id": "cape-fear-season-1-2026-834c07c1",
+  "source": "phimapi",
+  "slug": "dong-song-toi-ac-phan-1",
+  "name": "Dòng Sông Tội Ác (Phần 1)",
+  "originName": "Cape Fear (Season 1)",
+  "posterUrl": "https://phimimg.com/upload/vod/20260607-1/7b3448a362987d1b32f70a6a49126267.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/4103b9e90b6bcf456aba4e90561eaafa.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Bão tố đang kéo đến với hai luật sư tưởng như đang có cuộc hôn nhân hoàn hảo, khi kẻ sát nhân khét tiếng trong quá khứ của họ được trả tự do.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/jlu3TrLS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/jlu3TrLS/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/vezlpaun/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/vezlpaun/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/iSjXUOpb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/iSjXUOpb/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "dong-song-toi-ac-phan-1",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

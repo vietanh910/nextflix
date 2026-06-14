@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/tien-kiem-ky-hiep-truyen-3-thumb.jpg",
   "year": 2025,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 24",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (26/26)",
   "categories": [
     {
       "name": "Hành Động",
@@ -221,13 +221,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/81fc53c51059936bda7ac43bdcb32449",
       "m3u8Url": "https://vip.opstream90.com/20260526/32923_81fc53c5/index.m3u8"
+    },
+    {
+      "name": "25",
+      "slug": "25",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/243c74a16947d5d9d7ed8937ac3d2656",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34311_243c74a1/index.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "26",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0f0c5117cdf71e86cd21ee67f05f20c2",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34312_0f0c5117/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tien-kiem-ky-hiep-truyen-3",
-      "episodeCount": 24,
+      "episodeCount": 26,
       "priority": 0
     }
   ],

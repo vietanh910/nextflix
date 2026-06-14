@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hành Động",
@@ -105,13 +105,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/69f4b86205abcf82d67238baa762fba4",
       "m3u8Url": "https://vip.opstream90.com/20260602/33634_69f4b862/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c9591e48b02f541835a646cb10794668",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34377_c9591e48/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "mai-moi-cho-doc-su",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

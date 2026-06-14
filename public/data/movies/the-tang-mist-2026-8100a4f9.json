@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/dai-duong-me-vu-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (25/25)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -199,6 +199,38 @@
       "m3u8Url": "https://vip.opstream90.com/20260607/34157_311c3fb9/index.m3u8"
     },
     {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/32a2bacb528ea401c06b17376cad237e",
+      "m3u8Url": "https://vip.opstream90.com/20260608/34294_32a2bacb/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9abbbda872050c52f250190578b0c178",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34331_9abbbda8/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/09018a5a6019cbd47df76da2f29ff558",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34396_09018a5a/index.m3u8"
+    },
+    {
+      "name": "25",
+      "slug": "25",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3b94c1326fd215d148c8b0d0ef0cc82a",
+      "m3u8Url": "https://vip.opstream90.com/20260611/34547_3b94c132/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -365,19 +397,51 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/bkPmxzWw/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/bkPmxzWw/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/U7t1luo4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/U7t1luo4/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/0A4zfWxt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/0A4zfWxt/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/MuWvpoda/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/MuWvpoda/index.m3u8"
+    },
+    {
+      "name": "Tập 25",
+      "slug": "tap-25",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/xrgIUOPE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/xrgIUOPE/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dai-duong-me-vu",
-      "episodeCount": 21,
+      "episodeCount": 25,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "dai-duong-me-vu",
-      "episodeCount": 21,
+      "episodeCount": 25,
       "priority": 1
     }
   ],

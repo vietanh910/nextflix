@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/cu-ke-chien-ky-thumb.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (12/12)",
   "categories": [
     {
       "name": "Hành Động",
@@ -129,13 +129,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/388e604d61ff6d9f655d4eea2ddcbbc8",
       "m3u8Url": "https://vip.opstream90.com/20260524/32819_388e604d/index.m3u8"
+    },
+    {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3202362bd2f99062ba219d8e05d72c88",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34454_3202362b/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cu-ke-chien-ky",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 0
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/binh-dang-gioi-thumb.jpg",
   "year": 2012,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Hài Hước",
@@ -31,9 +31,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "Full",
+      "slug": "full",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/28a32c20769baa8373833005b125864b",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34235_28a32c20/index.m3u8"
     }
   ],
   "sources": [

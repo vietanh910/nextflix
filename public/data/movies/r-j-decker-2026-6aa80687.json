@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/rj-decker-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (9/9)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -89,13 +89,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/f7c5213a8ce1cfc32b697f9e70e1b3b7",
       "m3u8Url": "https://vip.opstream10.com/20260605/33815_f7c5213a/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e56190db0f818922806925ad4c2894f0",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33874_e56190db/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/bc7a74c066018430f37b39be3353ba0e",
+      "m3u8Url": "https://vip.opstream10.com/20260613/33918_bc7a74c0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "rj-decker",
-      "episodeCount": 7,
+      "episodeCount": 9,
       "priority": 0
     }
   ],

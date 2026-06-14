@@ -1,0 +1,51 @@
+{
+  "id": "vampires-of-the-velvet-l-2026-7477907c",
+  "source": "phimapi",
+  "slug": "ma-ca-rong-cua-velvet-lounge",
+  "name": "Ma cà rồng của Velvet Lounge",
+  "originName": "Vampires of the Velvet Lounge",
+  "posterUrl": "https://phimimg.com/upload/vod/20260608-1/d4bd299c709056e20f234fc12a346361.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/e9645643d33fe4c6b0684d04a04363b0.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Một nhóm ma cà rồng phải đối mặt với những thách thức khi thích nghi với xã hội hiện đại trong khi vật lộn với sự hữu hạn của cuộc sống, đồng thời tham gia vào cuộc xung đột với một kẻ thù nguy hiểm.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/ldB09Mf0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/ldB09Mf0/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ma-ca-rong-cua-velvet-lounge",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

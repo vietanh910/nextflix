@@ -1,0 +1,52 @@
+{
+  "id": "desert-warrior-2026-d1075187",
+  "source": "ophim",
+  "slug": "desert-warrior",
+  "name": "Desert Warrior",
+  "originName": "Desert Warrior",
+  "posterUrl": "https://img.ophim.live/uploads/movies/desert-warrior-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/desert-warrior-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "desert-warrior",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

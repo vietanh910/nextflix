@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Chính kịch",
@@ -65,13 +65,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/14ef00902e6cd5feb4cb182b173545d9",
       "m3u8Url": "https://vip.opstream10.com/20260604/33805_14ef0090/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b3a43b25c749c0af22ba14f87794479f",
+      "m3u8Url": "https://vip.opstream10.com/20260609/33867_b3a43b25/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b3bf93c3f758b0e8881c3573883adcf9",
+      "m3u8Url": "https://vip.opstream10.com/20260611/33912_b3bf93c3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "sherlock-va-con-gai",
-      "episodeCount": 4,
+      "episodeCount": 6,
       "priority": 0
     }
   ],

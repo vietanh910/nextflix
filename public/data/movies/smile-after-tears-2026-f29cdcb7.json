@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -67,6 +67,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260603/33681_71f6e893/index.m3u8"
     },
     {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/498a4339f96d1949476f4b857c3729c2",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34527_498a4339/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -97,19 +105,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/XfTJ7abV/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260603/XfTJ7abV/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/5jRUl2EN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/5jRUl2EN/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

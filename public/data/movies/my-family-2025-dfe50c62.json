@@ -1,0 +1,91 @@
+{
+  "id": "my-family-2025-dfe50c62",
+  "source": "ophim",
+  "slug": "cau-chuyen-cua-gia-dinh-toi",
+  "name": "Câu chuyện của gia đình tôi",
+  "originName": "My Family",
+  "posterUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-cua-gia-dinh-toi-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-cua-gia-dinh-toi-thumb.jpg",
+  "year": 2025,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (6/6)",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ý",
+      "slug": "y"
+    }
+  ],
+  "description": "<p>Một người bố mắc bệnh nan y chuẩn bị để gia đình hỗn loạn của mình chăm sóc hai đứa con nhỏ và đối mặt với cuộc sống không có anh – nhưng họ phải gạt bỏ những bất hòa cũ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1f59187dda99471222b710b5b3a39a3e",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34352_1f59187d/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a4abaea0a97f753c649f579d3e01e977",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34353_a4abaea0/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/da969836ff9696f9c182a7026558fe23",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34354_da969836/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2580087a760de9220ef0c2eaff756ec5",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34355_2580087a/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e800acf8774c816fa0156944bb45bf74",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34356_e800acf8/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fc234a34937d7459d1f0518f37e1a7b1",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34357_fc234a34/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "cau-chuyen-cua-gia-dinh-toi",
+      "episodeCount": 6,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

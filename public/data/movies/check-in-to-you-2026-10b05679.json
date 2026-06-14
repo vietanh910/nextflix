@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hài Hước",
@@ -45,13 +45,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/c1210dd1376c754b78be3d9709965276",
       "m3u8Url": "https://vip.opstream90.com/20260529/33284_c1210dd1/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/694d7355190adf16029c39d3cfd83e1b",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34268_694d7355/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c0da153a42f724454914583e91772bc7",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34746_c0da153a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "check-in-to-you",
-      "episodeCount": 1,
+      "episodeCount": 3,
       "priority": 0
     }
   ],

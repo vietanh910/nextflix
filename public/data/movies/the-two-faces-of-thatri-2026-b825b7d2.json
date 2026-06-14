@@ -1,0 +1,77 @@
+{
+  "id": "the-two-faces-of-thatri-2026-b825b7d2",
+  "source": "ophim",
+  "slug": "the-gioi-em-va-toi",
+  "name": "Thế Giới Em Và Tôi",
+  "originName": "The Two Faces of Thatri",
+  "posterUrl": "https://img.ophim.live/uploads/movies/the-gioi-em-va-toi-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/the-gioi-em-va-toi-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Theo yêu cầu của người bạn bị thương giống tên, Thatri, trong tình cảnh phá sản, mạo danh người bạn đó để nhận thừa kế và thay đổi số phận của cả hai.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8dfb0f5e389f9d19c436d83da7073879",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34375_8dfb0f5e/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/db3d6df80895e6d38767a31c08ae278b",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34385_db3d6df8/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/GiWyYIJV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/GiWyYIJV/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/6XRXqiVr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/6XRXqiVr/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "the-gioi-em-va-toi",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "the-gioi-em-va-toi",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

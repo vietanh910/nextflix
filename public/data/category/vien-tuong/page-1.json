@@ -2,7 +2,7 @@
   "slug": "vien-tuong",
   "name": "Viễn Tưởng",
   "page": 1,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
     {
       "id": "vought-rising-2027-d5e1e4aa",
@@ -56,7 +56,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -167,7 +167,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -200,7 +200,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hài Hước",
@@ -227,43 +227,6 @@
       ]
     },
     {
-      "id": "star-wars-the-mandaloria-2026-066168e7",
-      "source": "ophim",
-      "slug": "chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu",
-      "name": "Chiến tranh giữa các vì sao: Người Mandalorian và Grogu",
-      "originName": "Star Wars: The Mandalorian and Grogu",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "the-terror-season-3-2026-87c13977",
       "source": "ophim",
       "slug": "chuyen-kinh-hoang-phan-3",
@@ -273,8 +236,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-kinh-hoang-phan-3-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -343,8 +306,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/cu-ke-chien-ky-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hành Động",
@@ -408,6 +371,43 @@
       ]
     },
     {
+      "id": "the-ferry-man-10th-anniv-2026-7b67b187",
+      "source": "ophim",
+      "slug": "dan-do-linh-hon-muoi-nam",
+      "name": "Dẫn Độ Linh Hồn: Mười Năm",
+      "originName": "The Ferry Man 10th Anniversary",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dan-do-linh-hon-muoi-nam-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dan-do-linh-hon-muoi-nam-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 20",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "always-a-catch-2026-618d7c99",
       "source": "ophim",
       "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
@@ -418,7 +418,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -531,6 +531,39 @@
       ]
     },
     {
+      "id": "fix-the-error-2026-580f461d",
+      "source": "ophim",
+      "slug": "fix-the-error",
+      "name": "Fix the Error!",
+      "originName": "Fix the Error!",
+      "posterUrl": "https://img.ophim.live/uploads/movies/fix-the-error-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/fix-the-error-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-classroom-of-a-black-2026-e204e89d",
       "source": "ophim",
       "slug": "hac-mieu-va-lop-hoc-phu-thuy",
@@ -614,8 +647,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/he-man-va-nhung-chien-binh-vu-tru-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -681,43 +714,6 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "my-royal-nemesis-2026-6f078c9f",
-      "source": "ophim",
-      "slug": "ke-thu-hoang-gia-cua-toi",
-      "name": "Kẻ Thù Hoàng Gia Của Tôi",
-      "originName": "My Royal Nemesis",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ke-thu-hoang-gia-cua-toi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-thu-hoang-gia-cua-toi-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
       "episodeCurrent": "Tập 10",
       "categories": [
         {
@@ -745,43 +741,6 @@
       ]
     },
     {
-      "id": "kill-code-2026-4a725bea",
-      "source": "ophim",
-      "slug": "kill-code",
-      "name": "Kill Code",
-      "originName": "Kill Code",
-      "posterUrl": "https://img.ophim.live/uploads/movies/kill-code-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/kill-code-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "love-upon-a-time-2026-3eac414f",
       "source": "ophim",
       "slug": "love-upon-a-time-duyen-kiep-ben-nguoi",
@@ -791,8 +750,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/love-upon-a-time-duyen-kiep-ben-nguoi-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -825,7 +784,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -885,6 +844,47 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "milky-subway-the-galacti-2026-f475b501",
+      "source": "ophim",
+      "slug": "milky-subway-tau-toc-hanh-thien-ha-phim-dien-anh",
+      "name": "Milky☆Subway: Tàu tốc hành thiên hà – Phim điện ảnh",
+      "originName": "Milky☆Subway: The Galactic Limited Express - the Movie",
+      "posterUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     }

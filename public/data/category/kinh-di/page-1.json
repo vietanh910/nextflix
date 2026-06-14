@@ -2,7 +2,7 @@
   "slug": "kinh-di",
   "name": "Kinh Dị",
   "page": 1,
-  "totalPages": 2,
+  "totalPages": 1,
   "items": [
     {
       "id": "pemuja-2026-43aa7828",
@@ -26,39 +26,6 @@
         {
           "name": "Malaysia",
           "slug": "malaysia"
-        }
-      ]
-    },
-    {
-      "id": "hokum-2026-0c5d755d",
-      "source": "ophim",
-      "slug": "ba-tron",
-      "name": "Ba Trợn",
-      "originName": "Hokum",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ba-tron-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ba-tron-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
         }
       ]
     },
@@ -100,31 +67,6 @@
         {
           "name": "Canada",
           "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "passenger-2026-840f128b",
-      "source": "ophim",
-      "slug": "khach",
-      "name": "Khách",
-      "originName": "Passenger",
-      "posterUrl": "https://img.ophim.live/uploads/movies/khach-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/khach-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -183,13 +125,13 @@
       ]
     },
     {
-      "id": "mavka-the-true-myth-2026-63a87f1e",
+      "id": "salmokji-whispering-wate-2026-85d2c3a9",
       "source": "ophim",
-      "slug": "mavka-the-true-myth",
-      "name": "Mavka. The True Myth",
-      "originName": "Mavka. The True Myth",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mavka-the-true-myth-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mavka-the-true-myth-thumb.jpg",
+      "slug": "ma-da-han-quoc-ho-nuot-nguoi",
+      "name": "Ma Da Hàn Quốc: Hồ Nuốt Người",
+      "originName": "Salmokji: Whispering Water",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ma-da-han-quoc-ho-nuot-nguoi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ma-da-han-quoc-ho-nuot-nguoi-thumb.jpg",
       "year": 2026,
       "type": "single",
       "status": "completed",
@@ -198,16 +140,37 @@
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Ukraina",
-          "slug": "ukraina"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "chum-2026-9c0483d2",
+      "source": "ophim",
+      "slug": "moi-ca-map-2026",
+      "name": "Mồi Cá Mập",
+      "originName": "Chum",
+      "posterUrl": "https://img.ophim.live/uploads/movies/moi-ca-map-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/moi-ca-map-2026-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -386,39 +349,6 @@
       ]
     },
     {
-      "id": "forbidden-fruits-2026-c5e60ce7",
-      "source": "ophim",
-      "slug": "trai-cam",
-      "name": "Trái Cấm",
-      "originName": "Forbidden Fruits",
-      "posterUrl": "https://img.ophim.live/uploads/movies/trai-cam-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/trai-cam-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
       "id": "affection-2026-df05fad7",
       "source": "ophim",
       "slug": "vong-lap-ky-uc",
@@ -452,18 +382,47 @@
       ]
     },
     {
-      "id": "speed-demon-2026-81ab6635",
+      "id": "hokum-2026-e2c7fbf5",
       "source": "phimapi",
-      "slug": "quy-toc-do",
-      "name": "Quỷ tốc độ",
-      "originName": "Speed Demon",
-      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/ab3a55afa0289f0414a7dc09a6d482e9.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/167134cacefc973441639f44b72f6cd9.jpg",
+      "slug": "ba-tron",
+      "name": "Ba Trợn",
+      "originName": "Hokum",
+      "posterUrl": "https://phimimg.com/upload/vod/20260602-1/2d13c664d8c29d1521097ffc258ab6f4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260602-1/5b5dc9f7a42a9bd16f53d5ece1f57ed5.jpg",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "vampires-of-the-velvet-l-2026-7477907c",
+      "source": "phimapi",
+      "slug": "ma-ca-rong-cua-velvet-lounge",
+      "name": "Ma cà rồng của Velvet Lounge",
+      "originName": "Vampires of the Velvet Lounge",
+      "posterUrl": "https://phimimg.com/upload/vod/20260608-1/d4bd299c709056e20f234fc12a346361.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/e9645643d33fe4c6b0684d04a04363b0.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
@@ -593,6 +552,39 @@
       ]
     },
     {
+      "id": "i-am-frankelda-2025-b2ede385",
+      "source": "ophim",
+      "slug": "toi-la-frankelda",
+      "name": "Tôi là Frankelda",
+      "originName": "I Am Frankelda",
+      "posterUrl": "https://img.ophim.live/uploads/movies/toi-la-frankelda-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/toi-la-frankelda-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mexico",
+          "slug": "mexico"
+        }
+      ]
+    },
+    {
       "id": "wellwood-2025-6981b1d7",
       "source": "ophim",
       "slug": "wellwood",
@@ -630,39 +622,6 @@
       ]
     },
     {
-      "id": "the-jester-2-2025-f6a52747",
-      "source": "phimapi",
-      "slug": "ac-mong-ga-he-2",
-      "name": "Ác Mộng Gã Hề 2",
-      "originName": "The Jester 2",
-      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/5e5f2ec5743759e16e60158ac892a565.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/59b769692eedd2360c057f103fe30456.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "insidious-inferno-2024-d158d432",
       "source": "ophim",
       "slug": "dia-nguc-hiem-ac",
@@ -688,21 +647,62 @@
       ]
     },
     {
-      "id": "the-jester-2023-2449e39a",
+      "id": "the-mothman-prophecies-2002-171d8098",
       "source": "phimapi",
-      "slug": "ac-mong-ga-he",
-      "name": "Ác Mộng Gã Hề",
-      "originName": "The Jester",
-      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/ebc33b2d61f3dca4a048243c188d6de4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/0a7002413a134c08cebefb794c56c051.jpg",
-      "year": 2023,
+      "slug": "loi-nguyen-dang-so",
+      "name": "Lời Nguyền Đáng Sợ",
+      "originName": "The Mothman Prophecies",
+      "posterUrl": "https://phimimg.com/upload/vod/20260608-1/4d8e0cc24af201868c8bb5c2669fd790.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/b29eb8c5fd0ed27d274459f98b48b0f4.jpg",
+      "year": 2002,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
           "name": "Kinh Dị",
           "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ice-cream-man-1995-23101682",
+      "source": "phimapi",
+      "slug": "nguoi-ban-kem",
+      "name": "Người Bán Kem",
+      "originName": "Ice Cream Man",
+      "posterUrl": "https://phimimg.com/upload/vod/20260610-1/d17814fcb40adb9acb566432a668aa03.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/ad712538346a0403506ca70f517d7b9c.jpg",
+      "year": 1995,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",

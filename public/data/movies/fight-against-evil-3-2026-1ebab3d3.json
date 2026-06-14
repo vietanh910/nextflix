@@ -1,0 +1,81 @@
+{
+  "id": "fight-against-evil-3-2026-1ebab3d3",
+  "source": "phimapi",
+  "slug": "cau-chuyen-canh-sat-dong-bac-3",
+  "name": "Câu Chuyện Cảnh Sát Đông Bắc 3",
+  "originName": "Fight Against Evil 3",
+  "posterUrl": "https://phimimg.com/upload/vod/20260601-1/e9f85e28142bd165ee83b8d0bc147403.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260601-1/7b75e8ba030220788fcc8868d0447b88.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "Li Hongqi bị buộc phải đi xa để chuẩn bị cho đám cưới nhưng phải hợp tác với một cảnh sát địa phương để giải cứu một cô gái khỏi bọn buôn người, chiến đấu với tội phạm trong khi chạy đua với thời gian để hoàn thành ngày cưới.",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260601/uTuWCUKX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260601/uTuWCUKX/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/n9ybeA8C/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/n9ybeA8C/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/7dd99c4f451d71fda4133b730b054d09",
+      "m3u8Url": "https://vip.opstream12.com/20260521/32703_7dd99c4f/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "fight-against-evil-3",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "cau-chuyen-canh-sat-dong-bac-3",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

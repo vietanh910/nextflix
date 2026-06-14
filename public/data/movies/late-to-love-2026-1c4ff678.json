@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/cuoi-roi-moi-dong-long-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (24/24)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -195,6 +195,30 @@
       "m3u8Url": "https://vip.opstream90.com/20260607/34156_97afb71c/index.m3u8"
     },
     {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b05ed73e73744cd4d6450f331e8581ad",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34309_b05ed73e/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c9571bae638b1e00f6ce64325c44c285",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34310_c9571bae/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7799957d4da397731b4a8d105933e57c",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34394_7799957d/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -353,19 +377,51 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/QdV4Dox6/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/QdV4Dox6/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/gQcXg88F/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/gQcXg88F/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/DOuAiLJg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/DOuAiLJg/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/48QSgT6u/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/48QSgT6u/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/ltCCGfRw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/ltCCGfRw/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cuoi-roi-moi-dong-long",
-      "episodeCount": 21,
+      "episodeCount": 24,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "cuoi-roi-moi-rung-dong-cuoi-roi-moi-dong-long",
-      "episodeCount": 20,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

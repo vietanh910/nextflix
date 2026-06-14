@@ -9,7 +9,7 @@
   "year": 2019,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 327",
+  "episodeCurrent": "Tập 331",
   "categories": [
     {
       "name": "Hài Hước",
@@ -441,13 +441,45 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/5e6ff78d8ffefe5f71bfa7d5574614d6",
       "m3u8Url": "https://vip.opstream10.com/20260510/33660_5e6ff78d/index.m3u8"
+    },
+    {
+      "name": "328",
+      "slug": "328",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/cfe12d07973eb647d2ba40f76257ce1a",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33883_cfe12d07/index.m3u8"
+    },
+    {
+      "name": "329",
+      "slug": "329",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/5549f6da5ec3b191b672e682e4735d71",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33884_5549f6da/index.m3u8"
+    },
+    {
+      "name": "330",
+      "slug": "330",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/a5220ac660ce8c78e452e5edc69d33cf",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33885_a5220ac6/index.m3u8"
+    },
+    {
+      "name": "331",
+      "slug": "331",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/8ace2e1305aac8139dd035e9de3c81fb",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33886_8ace2e13/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ban-choi-the-nao",
-      "episodeCount": 52,
+      "episodeCount": 56,
       "priority": 0
     }
   ],

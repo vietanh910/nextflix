@@ -1,0 +1,58 @@
+{
+  "id": "double-happiness-2026-0ec94246",
+  "source": "ophim",
+  "slug": "song-hy",
+  "name": "Song hỷ",
+  "originName": "Double Happiness",
+  "posterUrl": "https://img.ophim.live/uploads/movies/song-hy-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/song-hy-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đài Loan",
+      "slug": "dai-loan"
+    }
+  ],
+  "description": "<p>Chú rể tương lai Tim phải tổ chức hai đám cưới hoàn hảo trong cùng một đêm, tại cùng một khách sạn năm sao, mà không để bố mẹ anh, những người đã ly hôn, phát hiện ra.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/WysQrra8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/WysQrra8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "song-hy",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "song-hy",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

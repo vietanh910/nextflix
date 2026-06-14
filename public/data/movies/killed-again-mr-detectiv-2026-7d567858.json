@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Bí ẩn",
@@ -107,6 +107,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260605/33836_814411c7/index.m3u8"
     },
     {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/99f463038fbcf182d7988dbb7474e2e0",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34702_99f46303/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -177,19 +185,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/xX3QmlSW/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/xX3QmlSW/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/8wG8MnuM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/8wG8MnuM/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/saYu55pr/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/saYu55pr/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "lai-co-an-mang-nua-roi-thua-tham-tu",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "lai-bi-giet-nua-a-thua-tham-tu-mata-korosarete-shimatta-no-desu-ne-tanteisama",
-      "episodeCount": 9,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

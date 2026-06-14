@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Tình Cảm",
@@ -65,13 +65,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/ae37ef706586a7c094082c5eaca043b4",
       "m3u8Url": "https://vip.opstream10.com/20260604/33803_ae37ef70/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/0712bc453c98649bbc39b4f2117eef9f",
+      "m3u8Url": "https://vip.opstream10.com/20260612/33913_0712bc45/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chuyen-di-ngau-hung-ban-gioi-han",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 0
     }
   ],

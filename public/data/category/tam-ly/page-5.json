@@ -5,33 +5,29 @@
   "totalPages": 5,
   "items": [
     {
-      "id": "s-w-a-t-season-1-2017-ce759901",
+      "id": "love-o2o-2016-aea04552",
       "source": "phimapi",
-      "slug": "doi-dac-nhiem-swat-phan-1",
-      "name": "Đội Đặc Nhiệm SWAT (Phần 1)",
-      "originName": "S.W.A.T. (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20251116-1/c933024f559624524479d0840cb56b06.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251116-1/f472c18d7ef84211ab6e7571ea515486.jpg",
-      "year": 2017,
+      "slug": "yeu-em-tu-cai-nhin-dau-tien-2016",
+      "name": "Yêu Em Từ Cái Nhìn Đầu Tiên",
+      "originName": "Love O2O",
+      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/79818be642a47693926f2b33e9084cf7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/b7e6198f60a3d69b19bcf7f6d20feb7d.jpg",
+      "year": 2016,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
+      "episodeCurrent": "Hoàn Tất (30/30)",
       "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -40,27 +36,101 @@
       ],
       "countries": [
         {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
           "name": "Âu Mỹ",
           "slug": "au-my"
         }
       ]
     },
     {
-      "id": "triangle-2014-585536cd",
+      "id": "best-get-going-2015-55d4dc2c",
       "source": "phimapi",
-      "slug": "bo-ba-quyen-luc",
-      "name": "Bộ Ba Quyền Lực",
-      "originName": "Triangle",
-      "posterUrl": "https://phimimg.com/upload/vod/20260528-1/7e90fe2ac88eb1dcb8122223678be5b1.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260528-1/9627bb3bbcc33039ea79345a10208422.jpg",
-      "year": 2014,
+      "slug": "co-len-thuc-tap-sinh",
+      "name": "Cố lên Thực Tập Sinh",
+      "originName": "Best Get Going",
+      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/929e774e706e90c8f5cbb8334fbffd14.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/5e0dbd0b4f0c410b040a65f45bf46678.jpg",
+      "year": 2015,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (52/52)",
+      "episodeCurrent": "Hoàn Tất (35/35)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "against-the-tide-2014-3c06a711",
+      "source": "phimapi",
+      "slug": "danh-mat-luong-tri",
+      "name": "Đánh Mất Lương Tri",
+      "originName": "Against The Tide",
+      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/40edcedab429ba921a7d943d3d7d880d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/721b508bb03606b09c7c1ca9ad614ec5.jpg",
+      "year": 2014,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (23/23)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Singapore",
+          "slug": "singapore"
+        }
+      ]
+    },
+    {
+      "id": "hold-my-hand-2013-d4c168fe",
+      "source": "phimapi",
+      "slug": "hay-nam-tay-anh",
+      "name": "Hãy Nắm Tay Anh",
+      "originName": "Hold My Hand",
+      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/b30c13455dd5d7867d663ebb43d64976.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/7cb48cbcfed5b0b4c75fd8ae51c462c0.jpg",
+      "year": 2013,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (65/65)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -75,25 +145,29 @@
       ]
     },
     {
-      "id": "tamako-love-story-2014-e0024b82",
+      "id": "rich-man-poor-woman-2012-06db3cc7",
       "source": "phimapi",
-      "slug": "chuyen-tinh-tamako",
-      "name": "Chuyện Tình Tamako",
-      "originName": "Tamako Love Story",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/85ec83ce6b7c06b5d9bc93285384f8c3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/757b9ed7acd8a272a6dfb2181e858058.jpg",
-      "year": 2014,
-      "type": "anime",
+      "slug": "chang-giau-nang-ngheo",
+      "name": "Chàng Giàu, Nàng Nghèo",
+      "originName": "Rich Man, Poor Woman",
+      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/d2928cbd9d8e6d311a3dba432d0eef03.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/62b11f710eaaa00a4df2a73882c16673.jpg",
+      "year": 2012,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -108,58 +182,33 @@
       ]
     },
     {
-      "id": "one-tree-hill-season-9-2012-9805c2a9",
+      "id": "justice-bao-arbiter-of-l-2010-fe2daa7e",
       "source": "phimapi",
-      "slug": "danh-du-phan-9",
-      "name": "Danh Dự (Phần 9)",
-      "originName": "One Tree Hill (Season 9)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/3ea746dc41e50447349a7e04a57a6882.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/038500001b1bd1309d7a08855ac4a342.jpg",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "one-tree-hill-season-8-2010-3e7263b7",
-      "source": "phimapi",
-      "slug": "danh-du-phan-8",
-      "name": "Danh Dự (Phần 8)",
-      "originName": "One Tree Hill (Season 8)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/00a16c5dde4412364b9efd9905e8060d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/87d5d11fba47cdfae87535ddedfaf0c9.jpg",
+      "slug": "bao-thanh-thien-bich-huyet-tam-dan",
+      "name": "Bao Thanh Thiên: Bích Huyết Tâm Đan",
+      "originName": "Justice Bao: Arbiter Of Loyalty Unto Death",
+      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/6385ca6cf86d31424d71f6a3bfeeac07.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/0ca5678b6c8f50cb44b32f3f3cd34592.jpg",
       "year": 2010,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
+      "episodeCurrent": "Hoàn Tất (40/40)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Tâm Lý",
@@ -168,130 +217,68 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
     {
-      "id": "one-tree-hill-season-7-2009-7ae9f94b",
+      "id": "justice-bao-the-seven-he-2009-b07fedd2",
       "source": "phimapi",
-      "slug": "danh-du-phan-7",
-      "name": "Danh Dự (Phần 7)",
-      "originName": "One Tree Hill (Season 7)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/7899883a2b6f0d2abb3c8aa3baae4c16.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/f7b61c6e6bc3caf5c98f18537dc13ee7.jpg",
+      "slug": "bao-thanh-thien-that-hiep-ngu-nghia",
+      "name": "Bao Thanh Thiên: Thất Hiệp Ngũ Nghĩa",
+      "originName": "Justice Bao: The Seven Heroes And Five Gallants",
+      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/79942cb29045b8c29a891eeacb81584f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/814f8c000f1baf3611d66caa646f73d6.jpg",
       "year": 2009,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
+      "episodeCurrent": "Hoàn Tất (40/40)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Cổ Trang",
+          "slug": "co-trang"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
     {
-      "id": "one-tree-hill-season-5-2008-250e5ed0",
+      "id": "the-big-bang-theory-seas-2008-2fc545e5",
       "source": "phimapi",
-      "slug": "danh-du-phan-5",
-      "name": "Danh Dự (Phần 5)",
-      "originName": "One Tree Hill (Season 5)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/da8e450ab4082d75471c8bef13baba9c.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/f219e27be993b3b93ec6ecf80bba93ae.jpg",
+      "slug": "vu-no-lon-phan-2",
+      "name": "Vụ Nổ Lớn (Phần 2)",
+      "originName": "The Big Bang Theory (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20231219-1/6394b26efa8160867196567317881607.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20231219-1/656663b16c410dd04c9d0cf0b6f66633.jpg",
       "year": 2008,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
+      "episodeCurrent": "Hoàn Tất (23/23)",
       "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "one-tree-hill-season-6-2008-a24c6018",
-      "source": "phimapi",
-      "slug": "danh-du-phan-6",
-      "name": "Danh Dự (Phần 6)",
-      "originName": "One Tree Hill (Season 6)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/89d3370e5f2550b07921a45c12f4b251.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/b8474dffacfd3fdb3bf308941adf2d88.jpg",
-      "year": 2008,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "one-tree-hill-season-4-2006-e57e8db7",
-      "source": "phimapi",
-      "slug": "danh-du-phan-4",
-      "name": "Danh Dự (Phần 4)",
-      "originName": "One Tree Hill (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/364c2aa9e142dc4e2555f2a83c62b75e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/a05be734b0e7f56590f67692517be7ca.jpg",
-      "year": 2006,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (21/21)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Tâm Lý",
@@ -343,17 +330,17 @@
       ]
     },
     {
-      "id": "in-her-shoes-2005-81be1239",
+      "id": "friends-season-7-2000-2c5da024",
       "source": "phimapi",
-      "slug": "chi-em-nha-feller",
-      "name": "Chị Em Nhà Feller",
-      "originName": "In Her Shoes",
-      "posterUrl": "https://phimimg.com/upload/vod/20260530-1/be8b0f62b38a45bf8566aadcf4254943.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/8c252fbdc99a8faa4b5113360d5fe6e9.jpg",
-      "year": 2005,
-      "type": "single",
+      "slug": "nhung-nguoi-ban-phan-7",
+      "name": "Những Người Bạn (Phần 7)",
+      "originName": "Friends (Season 7)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240126-1/0ccecdb927fcbe7b456f32d6ce786eba.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240126-1/75bd3ffea8ab2634c39f694b0ce4d90f.jpg",
+      "year": 2000,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -364,47 +351,6 @@
           "slug": "chinh-kich"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "one-tree-hill-season-3-2005-2f48d340",
-      "source": "phimapi",
-      "slug": "danh-du-phan-3",
-      "name": "Danh Dự (Phần 3)",
-      "originName": "One Tree Hill (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/8686d8c2eb6cddb31c5f5170c1e055b5.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/6a7f5f49911462db7b059d26edbd072d.jpg",
-      "year": 2005,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
         }
@@ -417,99 +363,29 @@
       ]
     },
     {
-      "id": "one-tree-hill-season-2-2004-fa2ed810",
+      "id": "ice-cream-man-1995-23101682",
       "source": "phimapi",
-      "slug": "danh-du-phan-2",
-      "name": "Danh Dự (Phần 2)",
-      "originName": "One Tree Hill (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/a9798dab212f0f8cad2caab494a6d70d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/9c90740730e9304a72d350823e869f3a.jpg",
-      "year": 2004,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "one-tree-hill-season-1-2003-fe82dbea",
-      "source": "phimapi",
-      "slug": "danh-du-phan-1",
-      "name": "Danh Dự (Phần 1)",
-      "originName": "One Tree Hill (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/6008333705a0c153af0cde1e6aabae73.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/acbd8133655ef6397364c310d5713460.jpg",
-      "year": 2003,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (22/22)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "wheels-on-meals-1984-cc329c17",
-      "source": "phimapi",
-      "slug": "quan-an-luu-dong",
-      "name": "Quán Ăn Lưu Động",
-      "originName": "Wheels On Meals",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/0d257845d400b95b3d05b92ba50a3ff3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/02a8f0de154679fe4f4b443f630264c2.jpg",
-      "year": 1984,
+      "slug": "nguoi-ban-kem",
+      "name": "Người Bán Kem",
+      "originName": "Ice Cream Man",
+      "posterUrl": "https://phimimg.com/upload/vod/20260610-1/d17814fcb40adb9acb566432a668aa03.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/ad712538346a0403506ca70f517d7b9c.jpg",
+      "year": 1995,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -518,8 +394,8 @@
       ],
       "countries": [
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

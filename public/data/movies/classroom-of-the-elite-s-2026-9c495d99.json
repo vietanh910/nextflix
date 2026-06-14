@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 13",
+  "episodeCurrent": "Tập 14",
   "categories": [
     {
       "name": "Chính kịch",
@@ -139,6 +139,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260603/33682_991dd9fa/index.m3u8"
     },
     {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/378271842c95b7894122b598f9874a14",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34524_37827184/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -241,19 +249,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/jmxmy6I2/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260603/jmxmy6I2/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/9djL8CbY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/9djL8CbY/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
-      "episodeCount": 13,
+      "episodeCount": 14,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
-      "episodeCount": 13,
+      "episodeCount": 14,
       "priority": 1
     }
   ],

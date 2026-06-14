@@ -1,0 +1,44 @@
+{
+  "id": "fc-soldout-2025-923fa501",
+  "source": "ophim",
+  "slug": "fc-soldout",
+  "name": "FC Soldout",
+  "originName": "FC Soldout",
+  "posterUrl": "https://img.ophim.live/uploads/movies/fc-soldout-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/fc-soldout-thumb.jpg",
+  "year": 2025,
+  "type": "series",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>A struggling soccer team is bought by an agency that replaces its players with attractive actors from their roster to boost profits</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "fc-soldout",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

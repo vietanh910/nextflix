@@ -5,180 +5,6 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "fuze-2026-abc33a67",
-      "source": "ophim",
-      "slug": "kip-no",
-      "name": "Kíp Nổ",
-      "originName": "Fuze",
-      "posterUrl": "https://img.ophim.live/uploads/movies/kip-no-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/kip-no-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "remarkably-bright-creatu-2026-3dbdafca",
-      "source": "ophim",
-      "slug": "ky-vat-vo-gia",
-      "name": "Kỷ vật vô giá",
-      "originName": "Remarkably Bright Creatures",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ky-vat-vo-gia-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ky-vat-vo-gia-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "reincarnated-love-2026-4bb1a829",
-      "source": "ophim",
-      "slug": "lam-an-nhuoc-mong",
-      "name": "Lâm An Nhược Mộng",
-      "originName": "Reincarnated Love",
-      "posterUrl": "https://img.ophim.live/uploads/movies/lam-an-nhuoc-mong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/lam-an-nhuoc-mong-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 18",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "euphoria-season-3-2026-7f699426",
-      "source": "ophim",
-      "slug": "lang-lang-phan-3",
-      "name": "Lâng Lâng (Phần 3)",
-      "originName": "Euphoria (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/lang-lang-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/lang-lang-phan-3-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "legends-2026-589261e1",
-      "source": "ophim",
-      "slug": "legends",
-      "name": "Legends",
-      "originName": "Legends",
-      "posterUrl": "https://img.ophim.live/uploads/movies/legends-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/legends-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "liar-game-2026-23dcddec",
-      "source": "ophim",
-      "slug": "liar-game",
-      "name": "LIAR GAME",
-      "originName": "LIAR GAME",
-      "posterUrl": "https://img.ophim.live/uploads/movies/liar-game-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/liar-game-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "life-in-smokey-blue-2026-06db1a3c",
       "source": "ophim",
       "slug": "life-in-smokey-blue",
@@ -229,47 +55,6 @@
       ]
     },
     {
-      "id": "the-rookie-season-8-2026-6e6e2d87",
-      "source": "ophim",
-      "slug": "linh-moi-phan-8",
-      "name": "Lính Mới (Phần 8)",
-      "originName": "The Rookie (Season 8)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/linh-moi-phan-8-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/linh-moi-phan-8-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (18/18)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
       "id": "cage-of-shadows-2026-caf354cf",
       "source": "ophim",
       "slug": "long-giam-2026",
@@ -305,7 +90,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính kịch",
@@ -328,6 +113,31 @@
       ]
     },
     {
+      "id": "love-class-season-3-2026-76631aa5",
+      "source": "ophim",
+      "slug": "love-class-phan-3",
+      "name": "Love Class  (Phần 3)",
+      "originName": "Love Class (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/love-class-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/love-class-phan-3-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "love-of-silom-2026-960bbcbb",
       "source": "ophim",
       "slug": "love-silom",
@@ -338,7 +148,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hình Sự",
@@ -366,8 +176,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/love-upon-a-time-duyen-kiep-ben-nguoi-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -400,7 +210,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính kịch",
@@ -415,6 +225,35 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-evil-lawyer-2026-7932e8f9",
+      "source": "ophim",
+      "slug": "luat-su-gian-ac",
+      "name": "Luật Sư Gian Ác",
+      "originName": "The Evil Lawyer",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luat-su-gian-ac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luat-su-gian-ac-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -473,31 +312,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "within-the-grip-2026-4afe7ca9",
-      "source": "ophim",
-      "slug": "luoi-dao-trong-tay",
-      "name": "Lưỡi Dao Trong Tay",
-      "originName": "Within the Grip",
-      "posterUrl": "https://img.ophim.live/uploads/movies/luoi-dao-trong-tay-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/luoi-dao-trong-tay-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -561,8 +375,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/maa-behen-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hài Hước",
@@ -591,7 +405,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -668,21 +482,21 @@
       ]
     },
     {
-      "id": "mavka-the-true-myth-2026-63a87f1e",
+      "id": "mesdames-thanh-sac-2026-a9bb270f",
       "source": "ophim",
-      "slug": "mavka-the-true-myth",
-      "name": "Mavka. The True Myth",
-      "originName": "Mavka. The True Myth",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mavka-the-true-myth-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mavka-the-true-myth-thumb.jpg",
+      "slug": "mesdames-thanh-sac",
+      "name": "Mesdames Thanh Sắc",
+      "originName": "Mesdames Thanh Sắc",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mesdames-thanh-sac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mesdames-thanh-sac-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Chính kịch",
@@ -691,8 +505,178 @@
       ],
       "countries": [
         {
-          "name": "Ukraina",
-          "slug": "ukraina"
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "michael-2026-c36b2da5",
+      "source": "ophim",
+      "slug": "michael",
+      "name": "Michael",
+      "originName": "Michael",
+      "posterUrl": "https://img.ophim.live/uploads/movies/michael-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/michael-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sweet-magnolias-season-5-2026-f5f1f470",
+      "source": "ophim",
+      "slug": "moc-lan-ngot-ngao-phan-5",
+      "name": "Mộc lan ngọt ngào (Phần 5)",
+      "originName": "Sweet Magnolias (Season 5)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/moc-lan-ngot-ngao-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/moc-lan-ngot-ngao-phan-5-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "mulan-light-a-fire-2026-d2abf5ae",
+      "source": "ophim",
+      "slug": "moc-lan-huyet-nhan",
+      "name": "Mộc Lan: Huyết Nhẫn",
+      "originName": "Mulan: Light A fire",
+      "posterUrl": "https://img.ophim.live/uploads/movies/moc-lan-huyet-nhan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/moc-lan-huyet-nhan-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-gift-2026-808d190d",
+      "source": "ophim",
+      "slug": "mon-qua-cua-kluay",
+      "name": "Món Quà Của Kluay",
+      "originName": "The Gift",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mon-qua-cua-kluay-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mon-qua-cua-kluay-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (34/34)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "a-marvel-television-spec-2026-b3712afb",
+      "source": "ophim",
+      "slug": "mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung",
+      "name": "Một Chương Trình Đặc Biệt từ Marvel Television - The Punisher: Phát Súng Cuối Cùng",
+      "originName": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "mother-mary-2026-5ff218d6",
+      "source": "ophim",
+      "slug": "mother-mary-hao-quang-don-doc",
+      "name": "Mother Mary: Hào Quang Đơn Độc",
+      "originName": "Mother Mary",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mother-mary-hao-quang-don-doc-poster-1779333811679.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mother-mary-hao-quang-don-doc-thumb-1779333810498.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
+        {
+          "name": "Phần Lan",
+          "slug": "phan-lan"
         }
       ]
     }

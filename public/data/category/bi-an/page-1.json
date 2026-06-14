@@ -46,6 +46,35 @@
       ]
     },
     {
+      "id": "movie-2026-55c4d1ef",
+      "source": "ophim",
+      "slug": "ac-niem",
+      "name": "Ác Niệm",
+      "originName": "恶念",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ac-niem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ac-niem-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "tagusari-bros-2026-e4f56387",
       "source": "ophim",
       "slug": "tagusari-bros",
@@ -56,7 +85,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hình Sự",
@@ -85,44 +114,11 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "brothers-under-fire-2026-f1ca5a8a",
-      "source": "ophim",
-      "slug": "brothers-under-fire",
-      "name": "Brothers Under Fire",
-      "originName": "Brothers Under Fire",
-      "posterUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
         },
         {
           "name": "Chính kịch",
@@ -184,7 +180,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Chính kịch",
@@ -216,8 +212,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-kinh-hoang-phan-3-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -253,8 +249,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/dai-duong-me-vu-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 21",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -315,8 +311,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/griya-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Bí ẩn",
@@ -401,35 +397,6 @@
       ]
     },
     {
-      "id": "remarkably-bright-creatu-2026-3dbdafca",
-      "source": "ophim",
-      "slug": "ky-vat-vo-gia",
-      "name": "Kỷ vật vô giá",
-      "originName": "Remarkably Bright Creatures",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ky-vat-vo-gia-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ky-vat-vo-gia-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "killed-again-mr-detectiv-2026-7d567858",
       "source": "ophim",
       "slug": "lai-co-an-mang-nua-roi-thua-tham-tu",
@@ -440,7 +407,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Bí ẩn",
@@ -465,7 +432,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính kịch",
@@ -513,6 +480,35 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "colors-of-evil-black-2026-5251a6f9",
+      "source": "ophim",
+      "slug": "mau-ta-ac-den",
+      "name": "Màu Tà Ác: Đen",
+      "originName": "Colors of Evil: Black",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mau-ta-ac-den-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mau-ta-ac-den-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ba lan",
+          "slug": "ba-lan"
         }
       ]
     },
@@ -608,35 +604,6 @@
         {
           "name": "Đức",
           "slug": "duc"
-        }
-      ]
-    },
-    {
-      "id": "young-deductionists-2026-e7769ee3",
-      "source": "ophim",
-      "slug": "nhung-nha-dien-giai-tre",
-      "name": "Những Nhà Diễn Giải Trẻ",
-      "originName": "Young Deductionists",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-nha-dien-giai-tre-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-nha-dien-giai-tre-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (20/20)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -750,7 +717,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Bí ẩn",
@@ -761,6 +728,43 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "spider-noir-2026-987ffcf7",
+      "source": "ophim",
+      "slug": "spider-noir",
+      "name": "Spider-Noir",
+      "originName": "Spider-Noir",
+      "posterUrl": "https://img.ophim.live/uploads/movies/spider-noir-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/spider-noir-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

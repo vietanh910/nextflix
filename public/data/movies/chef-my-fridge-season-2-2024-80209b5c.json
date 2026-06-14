@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "tvshow",
   "status": "ongoing",
-  "episodeCurrent": "Tập 67",
+  "episodeCurrent": "Tập 70",
   "categories": [
     {
       "name": "Hài Hước",
@@ -137,13 +137,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/194191c15060e323bb610faf147e1700",
       "m3u8Url": "https://vip.opstream10.com/20260524/33753_194191c1/index.m3u8"
+    },
+    {
+      "name": "68",
+      "slug": "68",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/bc83ba17ab89cd77f36f52f52cfac965",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33900_bc83ba17/index.m3u8"
+    },
+    {
+      "name": "69",
+      "slug": "69",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b11712a557efbc1dda47d9024b28fc78",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33904_b11712a5/index.m3u8"
+    },
+    {
+      "name": "70",
+      "slug": "70",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/dcfd8313e81a8482c23165f7abf5d1ef",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33901_dcfd8313/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
-      "episodeCount": 14,
+      "episodeCount": 17,
       "priority": 0
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 19",
+  "episodeCurrent": "Tập 21",
   "categories": [
     {
       "name": "Hài Hước",
@@ -181,13 +181,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/e5ad70c8511ee0cff63c6a2de2dd2b55",
       "m3u8Url": "https://vip.opstream90.com/20260529/33287_e5ad70c8/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/64d2198216b92b12fca2629e7b24fbbc",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34273_64d21982/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dc599c7a324929b40daa7df6ab61af80",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34750_dc599c7a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "fourever-you-phan-2",
-      "episodeCount": 19,
+      "episodeCount": 21,
       "priority": 0
     }
   ],

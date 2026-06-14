@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/poldi-thumb.jpg",
   "year": 2026,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Tài Liệu",
@@ -27,17 +27,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
-      "serverName": "Vietsub #1",
-      "source": "ophim"
-    },
-    {
       "name": "Full",
       "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/0UU8Vugr/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/0UU8Vugr/index.m3u8"
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/00c37b7a1f13daf967813da9b68937f3",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34244_00c37b7a/index.m3u8"
     }
   ],
   "sources": [
@@ -46,12 +41,6 @@
       "slug": "poldi",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "poldi",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

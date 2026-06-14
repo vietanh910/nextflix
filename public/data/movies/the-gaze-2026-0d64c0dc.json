@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/the-gaze-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -89,13 +89,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/402dd25bdc2170ee2912e503f8df9e2f",
       "m3u8Url": "https://vip.opstream90.com/20260604/33783_402dd25b/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c03243215c4d4070c7ac452513674761",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34752_c0324321/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/67012a7770c47eba3bc1b811ca28ecc6",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34753_67012a77/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "the-gaze",
-      "episodeCount": 8,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

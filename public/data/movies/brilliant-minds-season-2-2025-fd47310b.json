@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 16",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Chính kịch",
@@ -155,6 +155,14 @@
       "m3u8Url": "https://vip.opstream10.com/20260606/33816_751e262f/index.m3u8"
     },
     {
+      "name": "17",
+      "slug": "17",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/aba05e9ba7fdfe0164049eb9bfd495cf",
+      "m3u8Url": "https://vip.opstream10.com/20260612/33917_aba05e9b/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -281,19 +289,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/OXqd2VEO/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/OXqd2VEO/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/l8GRjikv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/l8GRjikv/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tam-tri-ruc-ro-phan-2",
-      "episodeCount": 16,
+      "episodeCount": 17,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "tam-tri-ruc-ro-phan-2",
-      "episodeCount": 16,
+      "episodeCount": 17,
       "priority": 1
     }
   ],

@@ -2,49 +2,8 @@
   "slug": "vien-tuong",
   "name": "Viễn Tưởng",
   "page": 2,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
-    {
-      "id": "milky-subway-the-galacti-2026-f475b501",
-      "source": "ophim",
-      "slug": "milky-subway-tau-toc-hanh-thien-ha-phim-dien-anh",
-      "name": "Milky☆Subway: Tàu tốc hành thiên hà – Phim điện ảnh",
-      "originName": "Milky☆Subway: The Galactic Limited Express - the Movie",
-      "posterUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
     {
       "id": "mating-season-2026-e5656047",
       "source": "ophim",
@@ -89,7 +48,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -149,6 +108,43 @@
       ]
     },
     {
+      "id": "spider-man-brand-new-day-2026-3abbfdf9",
+      "source": "ophim",
+      "slug": "nguoi-nhen-khoi-dau-moi",
+      "name": "Người Nhện: Khởi Đầu Mới",
+      "originName": "Spider-Man: Brand New Day",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-nhen-khoi-dau-moi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-nhen-khoi-dau-moi-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "hitori-no-shita-the-outc-2026-07b2c214",
       "source": "ophim",
       "slug": "nguoi-tren-van-nguoi-phan-6",
@@ -159,7 +155,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 24",
+      "episodeCurrent": "Tập 25",
       "categories": [
         {
           "name": "Hành Động",
@@ -204,7 +200,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -219,39 +215,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "fireworks-2026-b23da2ff",
-      "source": "ophim",
-      "slug": "phao-hoa",
-      "name": "Pháo Hoa",
-      "originName": "Fireworks",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phao-hoa-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phao-hoa-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -336,7 +299,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hành Động",
@@ -363,43 +326,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "daemons-of-the-shadow-re-2026-1dad0598",
-      "source": "ophim",
-      "slug": "song-menh-coi-hoang-tuyen",
-      "name": "Song Mệnh Cõi Hoàng Tuyền",
-      "originName": "Daemons of the Shadow Realm",
-      "posterUrl": "https://img.ophim.live/uploads/movies/song-menh-coi-hoang-tuyen-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/song-menh-coi-hoang-tuyen-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
         }
       ]
     },
@@ -521,7 +447,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -591,7 +517,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 21",
+      "episodeCurrent": "Tập 22",
       "categories": [
         {
           "name": "Hành Động",
@@ -632,7 +558,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
@@ -780,7 +706,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -846,7 +772,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -863,6 +789,80 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "wu-2026-32b7c273",
+      "source": "ophim",
+      "slug": "wu",
+      "name": "WU",
+      "originName": "WU",
+      "posterUrl": "https://img.ophim.live/uploads/movies/wu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/wu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "witch-hat-atelier-2026-aa0f564f",
+      "source": "ophim",
+      "slug": "xuong-phep-thuat",
+      "name": "Xưởng Phép Thuật",
+      "originName": "Witch Hat Atelier",
+      "posterUrl": "https://img.ophim.live/uploads/movies/xuong-phep-thuat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/xuong-phep-thuat-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [

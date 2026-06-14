@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/nguy-tinh-phong-van-thumb.jpg",
   "year": 2025,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Hành Động",
@@ -31,9 +31,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "Full",
+      "slug": "full",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/53e05338ce6abee9ef68c74d76a50ec4",
+      "m3u8Url": "https://vip.opstream12.com/20260609/32721_53e05338/index.m3u8"
     }
   ],
   "sources": [

@@ -1,0 +1,59 @@
+{
+  "id": "ice-cream-man-1995-23101682",
+  "source": "phimapi",
+  "slug": "nguoi-ban-kem",
+  "name": "Người Bán Kem",
+  "originName": "Ice Cream Man",
+  "posterUrl": "https://phimimg.com/upload/vod/20260610-1/d17814fcb40adb9acb566432a668aa03.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/ad712538346a0403506ca70f517d7b9c.jpg",
+  "year": 1995,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Khi còn nhỏ, Gregory Tudor đã tận mắt chứng kiến người bán kem trong vùng bị sát hại. Khi trưởng thành, hắn kế thừa chính công việc kinh doanh này, nhưng lại chọn cách tiêm những nguyên liệu ghê rợn — bao gồm cả các bộ phận cơ thể người — vào trong những món kem mát lạnh của mình. Đến khi một cậu bé trong khu phố đột ngột mất tích, đám trẻ địa phương bắt đầu nghi ngờ Gregory và quyết định hợp lực cùng nhau để vạch trần sự thật kinh hoàng này.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/4nEd3IQe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/4nEd3IQe/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nguoi-ban-kem",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

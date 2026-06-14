@@ -1,0 +1,55 @@
+{
+  "id": "the-mothman-prophecies-2002-171d8098",
+  "source": "phimapi",
+  "slug": "loi-nguyen-dang-so",
+  "name": "Lời Nguyền Đáng Sợ",
+  "originName": "The Mothman Prophecies",
+  "posterUrl": "https://phimimg.com/upload/vod/20260608-1/4d8e0cc24af201868c8bb5c2669fd790.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/b29eb8c5fd0ed27d274459f98b48b0f4.jpg",
+  "year": 2002,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Cuộc đời John Klein, một phóng viên kỳ cựu của tờ Washington Post, đột ngột rẽ sang hướng khác sau khi cô vợ Mary qua đời vì tai nạn giao thông trong ngày lễ Giáng sinh. Vào cái ngày định mệnh ấy, văn phòng môi giới nhà đất dẫn hai người đi xem một ngôi nhà rộng và đẹp. Trên đường về Mary cầm lái. Bỗng nhiên chiếc xe lao vào một cây to bên đường. Đầu Mary đập mạnh vào cửa kính, nhưng John không hề hấn gì. Vừa tỉnh lại, Mary khẳng định là cô nhìn thấy một sinh vật lạ. John không hiểu vợ nói gì, cho rằng cô bị hoảng loạn tâm thần. Mặc dù Mary chỉ dính chấn thương nhẹ, nhưng khi chụp cộng hưởng từ, các bác sĩ phát hiện một khối u trong não của cô. Một ca mổ được tiến hành, nhưng Mary không qua khỏi. ...",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/Q3bNYSVz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/Q3bNYSVz/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "loi-nguyen-dang-so",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

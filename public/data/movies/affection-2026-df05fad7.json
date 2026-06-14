@@ -41,14 +41,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/39a3bf984fee57c76835745e7e59a062",
       "m3u8Url": "https://vip.opstream90.com/20260607/34117_39a3bf98/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/N0jDFN2I/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260606/N0jDFN2I/index.m3u8"
     }
   ],
   "sources": [
@@ -57,12 +49,6 @@
       "slug": "vong-lap-ky-uc",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "ky-uc-lap-lai",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

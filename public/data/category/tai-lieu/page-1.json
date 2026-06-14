@@ -2,7 +2,7 @@
   "slug": "tai-lieu",
   "name": "Tài Liệu",
   "page": 1,
-  "totalPages": 2,
+  "totalPages": 1,
   "items": [
     {
       "id": "untold-uk-jamie-vardy-2026-26ab5771",
@@ -238,6 +238,31 @@
       ]
     },
     {
+      "id": "norway-the-dark-horse-2026-bb59af6b",
+      "source": "ophim",
+      "slug": "na-uy-chu-ngua-o",
+      "name": "Na Uy: Chú ngựa ô",
+      "originName": "Norway: The Dark Horse",
+      "posterUrl": "https://img.ophim.live/uploads/movies/na-uy-chu-ngua-o-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/na-uy-chu-ngua-o-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (2/2)",
+      "categories": [
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Na Uy",
+          "slug": "na-uy"
+        }
+      ]
+    },
+    {
       "id": "worst-ex-ever-season-2-2026-4391f84b",
       "source": "ophim",
       "slug": "nguoi-yeu-cu-te-nhat-phan-2",
@@ -276,8 +301,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/poldi-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Tài Liệu",
@@ -317,6 +342,31 @@
       ]
     },
     {
+      "id": "usa-94-brazil-s-return-t-2026-e47c51aa",
+      "source": "ophim",
+      "slug": "usa-94-brazil-tro-lai-vinh-quang",
+      "name": "USA 94: Brazil trở lại vinh quang",
+      "originName": "USA 94: Brazil's Return to Glory",
+      "posterUrl": "https://img.ophim.live/uploads/movies/usa-94-brazil-tro-lai-vinh-quang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/usa-94-brazil-tro-lai-vinh-quang-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tài Liệu",
+          "slug": "tai-lieu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Brazil",
+          "slug": "brazil"
+        }
+      ]
+    },
+    {
       "id": "the-murder-of-rachel-nic-2026-9a362751",
       "source": "ophim",
       "slug": "vu-an-mang-rachel-nickell",
@@ -326,8 +376,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/vu-an-mang-rachel-nickell-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hình Sự",
@@ -443,60 +493,6 @@
         }
       ],
       "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "deaf-president-now-2025-da7e3f1a",
-      "source": "phimapi",
-      "slug": "hieu-truong-khiem-thinh-dau-tien",
-      "name": "Hiệu Trưởng Khiếm Thính Đầu Tiên",
-      "originName": "Deaf President Now!",
-      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/21a480fda4364f3b2970c232e6d2d8b9.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/2983fbcefaa682a7d89a0fada4b5dd09.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tài Liệu",
-          "slug": "tai-lieu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "in-waves-and-war-2024-a02ef72c",
-      "source": "phimapi",
-      "slug": "giua-con-song-va-chien-tranh",
-      "name": "Giữa Cơn Sóng Và Chiến Tranh",
-      "originName": "In Waves And War",
-      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/34d5e457c9fa663e53c311793feaee8e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/94c24cdc3307ab659c7ddb5f692e6632.jpg",
-      "year": 2024,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tài Liệu",
-          "slug": "tai-lieu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -63,6 +63,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260605/AUxxAZKh/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/Jngknq4Y/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/Jngknq4Y/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/BQOVNIq6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/BQOVNIq6/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -95,6 +111,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260605/0HBvF9FR/index.m3u8"
     },
     {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/YqdO88uC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/YqdO88uC/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -121,7 +145,7 @@
     {
       "source": "phimapi",
       "slug": "ky-uc-tinh-thu-2026",
-      "episodeCount": 8,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

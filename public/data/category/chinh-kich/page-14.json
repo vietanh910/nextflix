@@ -5,17 +5,46 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "angel-eyes-2001-e1fa935a",
+      "id": "after-sex-2007-51bd0e9b",
       "source": "ophim",
-      "slug": "cap-mat-thien-than",
-      "name": "Cặp mắt thiên thần",
-      "originName": "Angel Eyes",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cap-mat-thien-than-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cap-mat-thien-than-thumb.jpg",
-      "year": 2001,
+      "slug": "du-am-sau-cuoc-yeu",
+      "name": "Dư Âm Sau Cuộc Yêu",
+      "originName": "After Sex",
+      "posterUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-thumb.jpg",
+      "year": 2007,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-14-2007-f54505d5",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-14",
+      "name": "ER: Phòng Cấp Cứu (Phần 14)",
+      "originName": "ER (Season 14)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-14-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-14-thumb.jpg",
+      "year": 2007,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
           "name": "Chính kịch",
@@ -30,39 +59,168 @@
       ]
     },
     {
-      "id": "wharf-of-widows-2001-6065ebb6",
-      "source": "phimapi",
-      "slug": "ben-khong-chong",
-      "name": "Bến Không Chồng",
-      "originName": "Wharf Of Widows",
-      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/5d295c8f1a7720144277f98178151d1e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/68a719d6b68611def3358d96c8318a56.jpg",
-      "year": 2001,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "id": "er-season-13-2006-c3513d1d",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-13",
+      "name": "ER: Phòng Cấp Cứu (Phần 13)",
+      "originName": "ER (Season 13)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-13-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-13-thumb.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
-          "name": "Chính Kịch",
+          "name": "Chính kịch",
           "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "twelve-nights-2000-f15b519f",
+      "id": "the-conquest-2006-877406b1",
+      "source": "ophim",
+      "slug": "song-hung-tranh-ba",
+      "name": "Song Hùng Tranh Bá",
+      "originName": "The Conquest",
+      "posterUrl": "https://img.ophim.live/uploads/movies/song-hung-tranh-ba-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/song-hung-tranh-ba-thumb.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (42/42)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    {
+      "id": "er-season-12-2005-4e1595c6",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-12",
+      "name": "ER: Phòng Cấp Cứu (Phần 12)",
+      "originName": "ER (Season 12)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-12-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-12-thumb.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-11-2004-44771850",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-11",
+      "name": "ER: Phòng Cấp Cứu (Phần 11)",
+      "originName": "ER (Season 11)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-11-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-11-thumb.jpg",
+      "year": 2004,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-10-2003-4fe3f1f6",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-10",
+      "name": "ER: Phòng Cấp Cứu (Phần 10)",
+      "originName": "ER (Season 10)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-10-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-10-thumb.jpg",
+      "year": 2003,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-9-2002-b031a0cd",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-9",
+      "name": "ER: Phòng Cấp Cứu (Phần 9)",
+      "originName": "ER (Season 9)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-9-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-9-thumb.jpg",
+      "year": 2002,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-mothman-prophecies-2002-171d8098",
       "source": "phimapi",
-      "slug": "muoi-hai-dem",
-      "name": "Mười Hai Đêm",
-      "originName": "Twelve Nights",
-      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/fb6fc51f57895806452e797db00c604b.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/5dae49c33754b75251a3a9f83b1c3334.jpg",
-      "year": 2000,
+      "slug": "loi-nguyen-dang-so",
+      "name": "Lời Nguyền Đáng Sợ",
+      "originName": "The Mothman Prophecies",
+      "posterUrl": "https://phimimg.com/upload/vod/20260608-1/4d8e0cc24af201868c8bb5c2669fd790.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/b29eb8c5fd0ed27d274459f98b48b0f4.jpg",
+      "year": 2002,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -72,43 +230,288 @@
           "slug": "chinh-kich"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "doctor-mack-1995-28e4ab32",
+      "id": "er-season-8-2001-84a91c07",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-8",
+      "name": "ER: Phòng Cấp Cứu (Phần 8)",
+      "originName": "ER (Season 8)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-8-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-8-thumb.jpg",
+      "year": 2001,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-7-2000-7d677758",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-7",
+      "name": "ER: Phòng Cấp Cứu (Phần 7)",
+      "originName": "ER (Season 7)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-7-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-7-thumb.jpg",
+      "year": 2000,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "friends-season-7-2000-2c5da024",
       "source": "phimapi",
-      "slug": "bac-si-luu-manh",
-      "name": "Bác Sĩ Lưu Manh",
-      "originName": "Doctor Mack",
-      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/11ad8e67aa3f534885270d019ca65428.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/3b8b22f9fdd935ec3542cf2edd11346f.jpg",
+      "slug": "nhung-nguoi-ban-phan-7",
+      "name": "Những Người Bạn (Phần 7)",
+      "originName": "Friends (Season 7)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240126-1/0ccecdb927fcbe7b456f32d6ce786eba.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240126-1/75bd3ffea8ab2634c39f694b0ce4d90f.jpg",
+      "year": 2000,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-6-1999-e529d001",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-6",
+      "name": "ER: Phòng Cấp Cứu (Phần 6)",
+      "originName": "ER (Season 6)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-6-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-6-thumb.jpg",
+      "year": 1999,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-5-1998-838a566c",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-5",
+      "name": "ER: Phòng Cấp Cứu (Phần 5)",
+      "originName": "ER (Season 5)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-5-thumb.jpg",
+      "year": 1998,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-4-1997-47f48011",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-4",
+      "name": "ER: Phòng Cấp Cứu (Phần 4)",
+      "originName": "ER (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-4-thumb.jpg",
+      "year": 1997,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-3-1996-1e44b4e8",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-3",
+      "name": "ER: Phòng Cấp Cứu (Phần 3)",
+      "originName": "ER (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-3-thumb.jpg",
+      "year": 1996,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-2-1995-733af3ff",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-2",
+      "name": "ER: Phòng Cấp Cứu (Phần 2)",
+      "originName": "ER (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-2-thumb.jpg",
+      "year": 1995,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ice-cream-man-1995-23101682",
+      "source": "phimapi",
+      "slug": "nguoi-ban-kem",
+      "name": "Người Bán Kem",
+      "originName": "Ice Cream Man",
+      "posterUrl": "https://phimimg.com/upload/vod/20260610-1/d17814fcb40adb9acb566432a668aa03.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/ad712538346a0403506ca70f517d7b9c.jpg",
       "year": 1995,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-1-1994-5886a95b",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-1",
+      "name": "ER: Phòng Cấp Cứu (Phần 1)",
+      "originName": "ER (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-1-thumb.jpg",
+      "year": 1994,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -138,68 +541,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "we-all-loved-each-other--1974-e93e4f7c",
-      "source": "ophim",
-      "slug": "chung-toi-yeu-thuong-nhau-rat-nhieu",
-      "name": "Chúng tôi yêu thương nhau rất nhiều.",
-      "originName": "We All Loved Each Other So Much",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chung-toi-yeu-thuong-nhau-rat-nhieu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chung-toi-yeu-thuong-nhau-rat-nhieu-thumb.jpg",
-      "year": 1974,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ý",
-          "slug": "y"
-        }
-      ]
-    },
-    {
-      "id": "good-boys-go-to-heaven-1972-54769872",
-      "source": "phimapi",
-      "slug": "trai-ngoan-len-thien-duong",
-      "name": "Trai Ngoan Lên Thiên Đường",
-      "originName": "Good Boys Go To Heaven",
-      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/4c896913dae89a8c13c253a7430f9e94.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/392af808c49c5991d3d80e5a5927be32.jpg",
-      "year": 1972,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 4",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
         }
       ]
     }

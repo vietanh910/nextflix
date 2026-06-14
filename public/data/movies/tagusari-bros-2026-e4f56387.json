@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hình Sự",
@@ -85,13 +85,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/2232134fd759dc90a4d4a1f27ef741ae",
       "m3u8Url": "https://vip.opstream90.com/20260601/33532_2232134f/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e0e5c05df0a614e8f38ca7b074c7108a",
+      "m3u8Url": "https://vip.opstream90.com/20260608/34282_e0e5c05d/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tagusari-bros",
-      "episodeCount": 7,
+      "episodeCount": 8,
       "priority": 0
     }
   ],

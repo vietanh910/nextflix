@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/d0d1e426e13cf5609cc17cea29453405.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 44",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (48/48)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -383,6 +383,38 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/sfzvPJ6H/index.m3u8"
     },
     {
+      "name": "Tập 45",
+      "slug": "tap-45",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/ps15IXod/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/ps15IXod/index.m3u8"
+    },
+    {
+      "name": "Tập 46",
+      "slug": "tap-46",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/IHgRlIK4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/IHgRlIK4/index.m3u8"
+    },
+    {
+      "name": "Tập 47",
+      "slug": "tap-47",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/64ucFnEQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/64ucFnEQ/index.m3u8"
+    },
+    {
+      "name": "Tập 48",
+      "slug": "tap-48",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/egvrQuek/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/egvrQuek/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -417,7 +449,7 @@
     {
       "source": "phimapi",
       "slug": "chu-giac",
-      "episodeCount": 44,
+      "episodeCount": 48,
       "priority": 1
     }
   ],

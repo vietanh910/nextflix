@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hành Động",
@@ -77,13 +77,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/23541eb601555bd15ee658741aa070b0",
       "m3u8Url": "https://vip.opstream10.com/20260606/33817_23541eb6/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/d4b42304f98e8c0760723c747006a5a4",
+      "m3u8Url": "https://vip.opstream10.com/20260607/33820_d4b42304/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chuyen-gia-tuoi-trung-nien",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 0
     }
   ],

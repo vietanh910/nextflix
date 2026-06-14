@@ -1,0 +1,55 @@
+{
+  "id": "signal-one-2026-8e9e5727",
+  "source": "phimapi",
+  "slug": "tin-hieu-khan",
+  "name": "Tín Hiệu Khẩn",
+  "originName": "Signal One",
+  "posterUrl": "https://phimimg.com/upload/vod/20260608-1/18a3504e25c00c2ff21d6c60a976226f.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/f44ce78d6c6ee598ab64918bf1005ec0.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "Một nhà khoa học máy tính được một tỷ phú công nghệ mời đến cơ sở riêng trên một hòn đảo ở vùng Caribe để nghiên cứu vật chất ngoài Trái Đất. Khi họ thiết lập được liên lạc với thực thể bên ngoài thế giới của chúng ta, sự hỗn loạn bùng phát và đặt ra câu hỏi: liệu họ đến trong hòa bình?",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/z9BxU5VD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/z9BxU5VD/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tin-hieu-khan",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,63 @@
+{
+  "id": "fix-the-error-2026-580f461d",
+  "source": "ophim",
+  "slug": "fix-the-error",
+  "name": "Fix the Error!",
+  "originName": "Fix the Error!",
+  "posterUrl": "https://img.ophim.live/uploads/movies/fix-the-error-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/fix-the-error-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Jun, thần chết chuyên lo việc xét xử các nghi lễ tử thần, nhận được một danh sách tên và hôm nay lại xuống trần gian. Trường học, khung cảnh xa lạ, và một bản thân cũng xa lạ. Nhưng nhiệm vụ tưởng chừng đơn giản: anh chỉ cần tìm ra mục tiêu của đoạn mã đang lơ lửng trên đầu. Nhưng đoạn mã được viết trên sổ điểm danh lại cùng lúc ám ảnh hai người. Một người là Hyeon, với ánh mắt thờ ơ, người kia là Yun, với nụ cười tinh nghịch. Câu hỏi \"Ai nên chết?\" nhanh chóng biến thành \"Ai nên sống?\" và Jun, che giấu thân phận của mình, bắt đầu sống như một học sinh bên cạnh hai người đó.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3440724aa6155a22429e2a611aabe631",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34748_3440724a/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4308acc8c96ae3e22252c9700fb1e2ee",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34749_4308acc8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "fix-the-error",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

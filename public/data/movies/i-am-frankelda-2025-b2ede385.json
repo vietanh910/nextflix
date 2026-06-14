@@ -1,0 +1,69 @@
+{
+  "id": "i-am-frankelda-2025-b2ede385",
+  "source": "ophim",
+  "slug": "toi-la-frankelda",
+  "name": "Tôi là Frankelda",
+  "originName": "I Am Frankelda",
+  "posterUrl": "https://img.ophim.live/uploads/movies/toi-la-frankelda-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/toi-la-frankelda-thumb.jpg",
+  "year": 2025,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (1/1)",
+  "categories": [
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Mexico",
+      "slug": "mexico"
+    }
+  ],
+  "description": "<p>Một nhà văn trẻ tài năng ở Mexico thế kỷ 19 bước vào tiềm thức của chính mình và đối mặt với những nhân vật trong các câu chuyện ma quái do cô sáng tạo ra.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/806c472f05c8e1ec7b4eee6b9d2190b6",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34738_806c472f/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/aAvdYg5U/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/aAvdYg5U/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "toi-la-frankelda",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "toi-la-frankelda",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

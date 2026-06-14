@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 7",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Chính kịch",
@@ -49,13 +49,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/a2a52743471fc9d71744e35fa3625217",
       "m3u8Url": "https://vip.opstream90.com/20260603/33652_a2a52743/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1e29c56ad0f221a5aa3f0553eb72055b",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34270_1e29c56a/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/795daa0834ca092ed52b5d0a5848387d",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34271_795daa08/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "double-helix",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 0
     }
   ],

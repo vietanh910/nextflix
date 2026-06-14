@@ -1,0 +1,59 @@
+{
+  "id": "the-chronicles-of-city-g-2026-41ed9f72",
+  "source": "phimapi",
+  "slug": "thanh-hoang-luc-2026",
+  "name": "Thành Hoàng Lục",
+  "originName": "The Chronicles Of City God (CHENGHUANG)",
+  "posterUrl": "https://phimimg.com/upload/vod/20260610-1/00bded8495748116463dc924dedc12d4.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/9a9b23f99dc5d6fe58df79ac48253370.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "Tại hiện trường của hàng loạt vụ án con người hóa ác quỷ, camera đều ghi lại hình ảnh một hung thủ có khuôn mặt giống hệt nam chính. Nhận được lệnh truy nã từ Địa phủ, nữ chính lập tức bắt giữ nam chính để áp giải về quy án, chờ Hắc Bạch Vô Thường xét xử. Để rửa sạch oan khuất cho bản thân, nam chính bất đắc dĩ phải dùng kế ép nữ chính cùng mình điều tra chân tướng sự việc. Khi vụ án dần được làm sáng tỏ, cả hai lần lượt vén màn âm mưu đằng sau chuỗi vụ án con người hóa ác quỷ, đồng thời phát hiện mối liên hệ bí ẩn giữa hung thủ và nam chính. Thế nhưng, sự thật cuối cùng còn đáng sợ hơn họ tưởng tượng: hóa ra mọi chuyện từ đầu đến cuối đều nằm trong sự sắp đặt của kẻ chủ mưu đứng sau tất cả...",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/Mo723Efl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/Mo723Efl/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/Y6puIdH8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/Y6puIdH8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "thanh-hoang-luc-2026",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2025,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 34",
+  "episodeCurrent": "Tập 40",
   "categories": [
     {
       "name": "Gia Đình",
@@ -301,13 +301,61 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/04221815070349c0923cd85e6957bfb3",
       "m3u8Url": "https://vip.opstream10.com/20260510/33676_04221815/index.m3u8"
+    },
+    {
+      "name": "35",
+      "slug": "35",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/407f5bc47339074637a289fb2b000805",
+      "m3u8Url": "https://vip.opstream10.com/20260609/33868_407f5bc4/index.m3u8"
+    },
+    {
+      "name": "36",
+      "slug": "36",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/97598856bc91a074e91cd741550ee379",
+      "m3u8Url": "https://vip.opstream10.com/20260609/33869_97598856/index.m3u8"
+    },
+    {
+      "name": "37",
+      "slug": "37",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b01b2f6715785729f0a278f4674a9733",
+      "m3u8Url": "https://vip.opstream10.com/20260609/33870_b01b2f67/index.m3u8"
+    },
+    {
+      "name": "38",
+      "slug": "38",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/280b809729eebbbaf235aa6d8b78e081",
+      "m3u8Url": "https://vip.opstream10.com/20260609/33872_280b8097/index.m3u8"
+    },
+    {
+      "name": "39",
+      "slug": "39",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/8fd2aa96c03c97513ead09138475efd9",
+      "m3u8Url": "https://vip.opstream10.com/20260609/33873_8fd2aa96/index.m3u8"
+    },
+    {
+      "name": "40",
+      "slug": "40",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/a384ead3aad1e06df0952aa69c305380",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33899_a384ead3/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "ranh-gioi-dinh-menh",
-      "episodeCount": 34,
+      "episodeCount": 40,
       "priority": 0
     }
   ],

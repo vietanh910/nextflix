@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hài Hước",
@@ -45,14 +45,68 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/a67b5b83f4dfe5c971655fa7e06bbca3",
       "m3u8Url": "https://vip.opstream10.com/20260603/33798_a67b5b83/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/0602cae8eddc659a9064d8c7fb2bfaed",
+      "m3u8Url": "https://vip.opstream10.com/20260609/33866_0602cae8/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/3de78319f256b3060f1b8e51fd0fe727",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33876_3de78319/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/0MJg84us/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/0MJg84us/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/DQvrZHOX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/DQvrZHOX/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/sAzY5eTz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/sAzY5eTz/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/4gvpyG9T/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/4gvpyG9T/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "bac-si-dao-hoang",
-      "episodeCount": 2,
+      "episodeCount": 4,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "bac-si-dao-hoang",
+      "episodeCount": 4,
+      "priority": 1
     }
   ],
   "_priority": 0

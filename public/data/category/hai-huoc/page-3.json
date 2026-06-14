@@ -5,130 +5,6 @@
   "totalPages": 7,
   "items": [
     {
-      "id": "the-super-mario-galaxy-m-2026-28b935ae",
-      "source": "ophim",
-      "slug": "phim-super-mario-thien-ha",
-      "name": "Phim Super Mario Thiên Hà",
-      "originName": "The Super Mario Galaxy Movie",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phim-super-mario-thien-ha-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phim-super-mario-thien-ha-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "perfect-crown-2026-96b5576a",
-      "source": "ophim",
-      "slug": "phu-nhan-dai-quan-the-ky-21",
-      "name": "Phu Nhân Đại Quân Thế Kỷ 21",
-      "originName": "Perfect Crown",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phu-nhan-dai-quan-the-ky-21-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phu-nhan-dai-quan-the-ky-21-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "psoty-2026-1f14e5c9",
-      "source": "ophim",
-      "slug": "psoty",
-      "name": "Psoty",
-      "originName": "Psoty",
-      "posterUrl": "https://img.ophim.live/uploads/movies/psoty-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/psoty-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ba lan",
-          "slug": "ba-lan"
-        }
-      ]
-    },
-    {
-      "id": "raakaasa-2026-91014d01",
-      "source": "ophim",
-      "slug": "raakaasa",
-      "name": "Raakaasa",
-      "originName": "Raakaasa",
-      "posterUrl": "https://img.ophim.live/uploads/movies/raakaasa-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/raakaasa-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
-        }
-      ]
-    },
-    {
       "id": "margo-s-got-money-troubl-2026-5a3a5ba2",
       "source": "ophim",
       "slug": "rac-roi-tien-bac-cua-margo",
@@ -168,7 +44,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hành Động",
@@ -189,31 +65,6 @@
         {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "rooster-2026-684b42a7",
-      "source": "ophim",
-      "slug": "rooster",
-      "name": "Rooster",
-      "originName": "Rooster",
-      "posterUrl": "https://img.ophim.live/uploads/movies/rooster-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/rooster-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
         }
       ],
       "countries": [
@@ -257,6 +108,39 @@
       ]
     },
     {
+      "id": "marsupilami-2026-8bf40212",
+      "source": "ophim",
+      "slug": "sieu-quay-marsupilami",
+      "name": "Siêu Quậy Marsupilami",
+      "originName": "Marsupilami",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sieu-quay-marsupilami-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-quay-marsupilami-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
+        }
+      ]
+    },
+    {
       "id": "the-monkey-hero-2026-749d0867",
       "source": "ophim",
       "slug": "tay-du-ky-dai-nao",
@@ -295,8 +179,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/rj-decker-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (9/9)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -315,6 +199,43 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "detective-chen-2-2026-f015ef45",
+      "source": "ophim",
+      "slug": "than-tham-nam-vung-2",
+      "name": "Thần Thám Nằm Vùng 2",
+      "originName": "Detective Chen 2",
+      "posterUrl": "https://img.ophim.live/uploads/movies/than-tham-nam-vung-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/than-tham-nam-vung-2-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -344,68 +265,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-comeback-season-3-2026-0a2e235c",
-      "source": "ophim",
-      "slug": "the-comeback-phan-3",
-      "name": "The Comeback (Phần 3)",
-      "originName": "The Comeback (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-comeback-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-comeback-phan-3-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-water-2026-94dacf51",
-      "source": "ophim",
-      "slug": "the-water-4-elements-dong-song-muu-meo",
-      "name": "The Water 4 Elements: Dòng Sông Mưu Mẹo",
-      "originName": "The Water",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-water-4-elements-dong-song-muu-meo-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-water-4-elements-dong-song-muu-meo-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
         }
       ]
     },
@@ -449,7 +308,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -460,39 +319,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "forbidden-fruits-2026-c5e60ce7",
-      "source": "ophim",
-      "slug": "trai-cam",
-      "name": "Trái Cấm",
-      "originName": "Forbidden Fruits",
-      "posterUrl": "https://img.ophim.live/uploads/movies/trai-cam-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/trai-cam-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
         }
       ]
     },
@@ -547,8 +373,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/tron-ven-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -631,7 +457,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -729,6 +555,216 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "office-romance-2026-f8171216",
+      "source": "ophim",
+      "slug": "yeu-noi-cong-so",
+      "name": "Yêu Nơi Công Sở",
+      "originName": "Office Romance",
+      "posterUrl": "https://img.ophim.live/uploads/movies/yeu-noi-cong-so-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/yeu-noi-cong-so-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "rent-a-girlfriend-season-2026-2be9b27c",
+      "source": "phimapi",
+      "slug": "ban-gai-thue-phan-5",
+      "name": "Bạn Gái Thuê (Phần 5)",
+      "originName": "Rent-A-Girlfriend (Season 5)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260413-1/0b8e85147ee42a98b98f1c2c8f6f5410.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260413-1/0f7601ab0c569445b69a040dab869f72.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "yumi-s-cells-season-3-2026-64a32f72",
+      "source": "phimapi",
+      "slug": "cac-te-bao-cua-yumi-phan-3",
+      "name": "Các Tế Bào Của Yumi (Phần 3)",
+      "originName": "Yumi's Cells (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/9bdab524f98b5904ac478b03c17853b3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/57f28e5e6d6399e53687174216c67bf6.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "fight-against-evil-3-2026-1ebab3d3",
+      "source": "phimapi",
+      "slug": "cau-chuyen-canh-sat-dong-bac-3",
+      "name": "Câu Chuyện Cảnh Sát Đông Bắc 3",
+      "originName": "Fight Against Evil 3",
+      "posterUrl": "https://phimimg.com/upload/vod/20260601-1/e9f85e28142bd165ee83b8d0bc147403.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260601-1/7b75e8ba030220788fcc8868d0447b88.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "gals-can-t-be-kind-to-ot-2026-18bfb597",
+      "source": "phimapi",
+      "slug": "chang-otaku-va-hai-nang-gal-bi-an-otaku-ni-yasashii-gal-wa-inai",
+      "name": "Chàng Otaku Và Hai Nàng Gal Bí Ẩn (Otaku ni Yasashii Gal wa Inai!?)",
+      "originName": "Gals Can't Be Kind To Otaku!?",
+      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/b2133457c5c60d9153267fd7c85a3a95.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/e81f759bfaba7e666b1f12287c9b4146.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "my-ribdiculous-reincarna-2026-5a4b4c16",
+      "source": "phimapi",
+      "slug": "chuyen-sinh-thanh-xuong-suon-cua-dung-si",
+      "name": "Chuyển Sinh Thành Xương Sườn Của Dũng Sĩ",
+      "originName": "My Ribdiculous Reincarnation",
+      "posterUrl": "https://phimimg.com/upload/vod/20260420-1/2c2cf03c6ca0da1a3c07ccef9ad9ca03.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/1e00b55b2c565774b0c608230682a429.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     }

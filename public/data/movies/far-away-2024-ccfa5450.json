@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/thanh-pho-xa-xoi-thumb.jpg",
   "year": 2024,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 57",
+  "status": "completed",
+  "episodeCurrent": "Tập 63",
   "categories": [
     {
       "name": "Tình Cảm",
@@ -481,13 +481,61 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/b2177c6053079f72cd1f25fa1bdab5bf",
       "m3u8Url": "https://vip.opstream10.com/20260528/33775_b2177c60/index.m3u8"
+    },
+    {
+      "name": "58",
+      "slug": "58",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/35a84be9a17e35e995ee7294149d4f21",
+      "m3u8Url": "https://vip.opstream10.com/20260608/33823_35a84be9/index.m3u8"
+    },
+    {
+      "name": "59",
+      "slug": "59",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/df7873436717ca95cfa5e585b5ac4a61",
+      "m3u8Url": "https://vip.opstream10.com/20260608/33824_df787343/index.m3u8"
+    },
+    {
+      "name": "60",
+      "slug": "60",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/b50c6c685af227009d5e3b4d5a57ee05",
+      "m3u8Url": "https://vip.opstream10.com/20260608/33825_b50c6c68/index.m3u8"
+    },
+    {
+      "name": "61",
+      "slug": "61",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/1a6aab4673655fb39ccc8d6cd645f584",
+      "m3u8Url": "https://vip.opstream10.com/20260608/33826_1a6aab46/index.m3u8"
+    },
+    {
+      "name": "62",
+      "slug": "62",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/a0f2c291f44a631ce0ebf71f7e02b3b9",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33902_a0f2c291/index.m3u8"
+    },
+    {
+      "name": "63",
+      "slug": "63",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/2a250dac511b301faaf82502eedbb198",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33903_2a250dac/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thanh-pho-xa-xoi",
-      "episodeCount": 57,
+      "episodeCount": 63,
       "priority": 0
     }
   ],

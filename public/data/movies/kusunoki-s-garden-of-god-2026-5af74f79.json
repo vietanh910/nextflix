@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Khoa Học",
@@ -121,13 +121,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/DnZq2xfU/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/DnZq2xfU/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/Nk3WwPWp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/Nk3WwPWp/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "khu-vuon-chu-than-cua-kusunoki",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

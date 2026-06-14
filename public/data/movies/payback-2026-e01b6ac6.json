@@ -1,0 +1,101 @@
+{
+  "id": "payback-2026-e01b6ac6",
+  "source": "phimapi",
+  "slug": "bao-thu-2026",
+  "name": "Báo Thù",
+  "originName": "Payback",
+  "posterUrl": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    },
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    },
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "Một nhân viên đòi nợ thuê đang ôm nỗi đau mất mát quyết định dấn thân vào thế giới giải trí đầy rẫy thị phi để tìm cách trả thù. Thế nhưng, tại nơi đây, người này lại bất ngờ rơi vào một mối tình đầy nguy hiểm và mê hoặc với một vị giám đốc điều hành quyền lực.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/tx4SaShQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/tx4SaShQ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/D1qWx7z0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/D1qWx7z0/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/Nlo0ewcK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/Nlo0ewcK/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7438845b5943e3d61cb4964f2bc218ad",
+      "m3u8Url": "https://vip.opstream90.com/20260602/33603_7438845b/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dba13c2a9864b7e05a5ad27913f8a1d2",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34120_dba13c2a/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "payback-bao-thu",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "bao-thu-2026",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

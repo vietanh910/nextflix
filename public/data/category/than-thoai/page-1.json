@@ -5,39 +5,6 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "peerless-soul-2024-4ae724eb",
-      "source": "phimapi",
-      "slug": "tuyet-the-chien-hon",
-      "name": "Tuyệt Thế Chiến Hồn",
-      "originName": "Peerless Soul",
-      "posterUrl": "https://phimimg.com/upload/vod/20250219-1/b880c627b5571d9afd22e58d056e772a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250219-1/b2facbf6cebbf66d0c728df0b75ad5b9.jpg",
-      "year": 2024,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 179",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Thần Thoại",
-          "slug": "than-thoai"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "shrouding-the-heavens-2023-b5fa7366",
       "source": "phimapi",
       "slug": "gia-thien",
@@ -48,7 +15,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 164",
+      "episodeCurrent": "Tập 166",
       "categories": [
         {
           "name": "Võ Thuật",
@@ -65,6 +32,43 @@
         {
           "name": "Cổ Trang",
           "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "a-record-of-a-mortal-s-j-2020-5011a3b3",
+      "source": "phimapi",
+      "slug": "pham-nhan-tu-tien",
+      "name": "Phàm Nhân Tu Tiên",
+      "originName": "A Record of a Mortal's Journey to Immortality",
+      "posterUrl": "https://phimimg.com/upload/vod/20240715-1/ed827a6e5d8f7c41aa0728403665cd87.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240715-1/fe09a10062768cca301682eba6c8245b.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Tập 178",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Thần Thoại",
+          "slug": "than-thoai"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         }
       ],
       "countries": [

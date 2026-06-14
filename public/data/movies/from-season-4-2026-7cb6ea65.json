@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -85,13 +85,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/402dd25bdc2170ee2912e503f8df9e2f",
       "m3u8Url": "https://vip.opstream10.com/20260531/33783_402dd25b/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/4df0bc17b21e4321edd03c158baf1328",
+      "m3u8Url": "https://vip.opstream10.com/20260607/33821_4df0bc17/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thi-tran-ac-mong-phan-4",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 0
     }
   ],

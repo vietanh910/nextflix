@@ -5,6 +5,31 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "the-embroidered-truth-2026-3350debe",
+      "source": "ophim",
+      "slug": "cuu-nghia-nhan-yen-van-tu",
+      "name": "Cửu Nghĩa Nhân: Yên Vân Tú",
+      "originName": "The Embroidered Truth",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cuu-nghia-nhan-yen-van-tu-poster-1781197086074.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cuu-nghia-nhan-yen-van-tu-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "surprising-branch-2026-dfc01ff7",
       "source": "ophim",
       "slug": "kinh-chi",
@@ -30,17 +55,17 @@
       ]
     },
     {
-      "id": "the-heir-2026-40216702",
+      "id": "echoes-of-love-2026-2bd5235a",
       "source": "phimapi",
-      "slug": "gia-nghiep",
-      "name": "Gia Nghiệp",
-      "originName": "The Heir",
-      "posterUrl": "https://phimimg.com/upload/vod/20260517-1/00e0c93f1e771c99a81489ca57e15c44.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260517-1/e597d3c023ece6133782fa92b37e1b30.jpg",
+      "slug": "cham-hong-trang",
+      "name": "Chẩm Hồng Trang",
+      "originName": "Echoes Of Love",
+      "posterUrl": "https://phimimg.com/upload/vod/20260309-1/f7032bb84e5634288981956e5c7d7c33.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260309-1/237470dff7f7e995efeb684e116bf0fc.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (42/42)",
+      "episodeCurrent": "Hoàn Tất (23/23)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -49,6 +74,10 @@
         {
           "name": "Cổ Trang",
           "slug": "co-trang"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -63,83 +92,17 @@
       ]
     },
     {
-      "id": "linglong-s-ferry-2026-36052901",
+      "id": "ashes-to-crown-2026-bbfc2e55",
       "source": "phimapi",
-      "slug": "linh-lung-do",
-      "name": "Linh Lung Độ",
-      "originName": "Linglong's Ferry",
-      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/7553dd347ab4191774d421c25da1f2fa.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/6503705e997ece5d84a0d98c6c6d776f.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "bloom-in-turmoil-2026-017b69a2",
-      "source": "phimapi",
-      "slug": "phuong-hoa-ly",
-      "name": "Phương Hoa Lý",
-      "originName": "Bloom In Turmoil",
-      "posterUrl": "https://phimimg.com/upload/vod/20260319-1/e8899775153fb79a9974b00329c12705.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260319-1/18fae768f0cd07c5822074254a8791e1.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "a-thousand-miles-to-your-2026-cbc9563e",
-      "source": "phimapi",
-      "slug": "qua-muon-thanh-tri-moi-gap-dung-nguoi",
-      "name": "Qua Muôn Thành Trì Mới Gặp Đúng Người",
-      "originName": "A Thousand Miles To Your Heart",
-      "posterUrl": "https://phimimg.com/upload/vod/20260601-1/f6d8d4dcdd1ed4d8e3f79ec4da210e5f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260601-1/b611dc2811e84186e3030753e697ac75.jpg",
+      "slug": "kieu-so",
+      "name": "Kiều Sở",
+      "originName": "Ashes To Crown",
+      "posterUrl": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "episodeCurrent": "Tập 18",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -162,17 +125,17 @@
       ]
     },
     {
-      "id": "the-reborn-young-lord-2026-62b7ea61",
+      "id": "the-first-jasmine-2026-339c5d8e",
       "source": "phimapi",
-      "slug": "tieu-dao-tu-cong-tu",
-      "name": "Tiêu Dao Tứ Công Tử",
-      "originName": "The Reborn Young Lord",
-      "posterUrl": "https://phimimg.com/upload/vod/20260601-1/7227f672a8292f542dda4ea75277fda5.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260601-1/9657c32dbec0837439d0ef3c5b31bac9.jpg",
+      "slug": "mac-ly",
+      "name": "Mạc Ly",
+      "originName": "The First Jasmine",
+      "posterUrl": "https://phimimg.com/upload/vod/20260609-1/ae12c9e970982d4ce4c70e9633b5d2cc.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260609-1/089ebc9ac027d516a2885aaee749d354.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -181,6 +144,10 @@
         {
           "name": "Cổ Trang",
           "slug": "co-trang"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -195,17 +162,17 @@
       ]
     },
     {
-      "id": "zhan-zhao-adventures-2026-6699b76b",
+      "id": "moonlit-reunion-2025-e2b30930",
       "source": "phimapi",
-      "slug": "vu-lam-linh",
-      "name": "Vũ Lâm Linh",
-      "originName": "Zhan Zhao Adventures",
-      "posterUrl": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-      "year": 2026,
+      "slug": "tu-da-quy",
+      "name": "Tử Dạ Quy",
+      "originName": "Moonlit Reunion",
+      "posterUrl": "https://phimimg.com/upload/vod/20250818-1/e6c2b3826944f2ba9b4de8f526620ad2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250818-1/7e47f2924d70f231bc119a00c01a9bcb.jpg",
+      "year": 2025,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (37/37)",
+      "episodeCurrent": "Hoàn Tất (38/38)",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -216,12 +183,12 @@
           "slug": "co-trang"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -269,6 +236,43 @@
       ]
     },
     {
+      "id": "shrouding-the-heavens-2023-b5fa7366",
+      "source": "phimapi",
+      "slug": "gia-thien",
+      "name": "Già Thiên",
+      "originName": "Shrouding The Heavens",
+      "posterUrl": "https://phimimg.com/upload/vod/20240411-1/0a4084fdfad19ecab9f1f53d629bf422.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240411-1/bbf5847cc8ae2ce6528d5b51ef6f877a.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 166",
+      "categories": [
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Thần Thoại",
+          "slug": "than-thoai"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "perfect-world-2021-c17c5a35",
       "source": "ophim",
       "slug": "the-gioi-hoan-my",
@@ -279,7 +283,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 271",
+      "episodeCurrent": "Tập 272",
       "categories": [
         {
           "name": "Hành Động",
@@ -306,25 +310,25 @@
       ]
     },
     {
-      "id": "sex-of-golden-plums-2008-07dc9b81",
+      "id": "against-the-sky-supreme--2021-965e6c68",
       "source": "phimapi",
-      "slug": "phan-kim-lien-di-ban",
-      "name": "Phan Kim Liên dị bản",
-      "originName": "Sex Of Golden Plums",
-      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/c2154f11d07fd46a6bd79a3f4f802d40.jpg",
-      "thumbUrl": "",
-      "year": 2008,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "slug": "nghich-thien-chi-ton",
+      "name": "Nghịch Thiên Chí Tôn",
+      "originName": "Against The Sky Supreme / Ni Tian Zhi Zun",
+      "posterUrl": "https://phimimg.com/upload/vod/20250903-1/fe12e74047daf65d58b996a82987f6aa.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250903-1/cc1e9fd59cf70b050455ceb0bf183bf3.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 522",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
-          "name": "Phim 18+",
-          "slug": "phim-18"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Cổ Trang",
@@ -333,8 +337,193 @@
       ],
       "countries": [
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "sword-dynasty-2019-b10cd9cf",
+      "source": "phimapi",
+      "slug": "kiem-vuong-trieu",
+      "name": "Kiếm Vương Triều",
+      "originName": "Sword Dynasty",
+      "posterUrl": "https://phimimg.com/upload/vod/20240116-1/e88712da3f213611696b45c11c376236.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240116-1/7d3100421bdd7a3170d74e59536ad665.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (34/34)",
+      "categories": [
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "back-to-nowhere-2019-22014f3d",
+      "source": "phimapi",
+      "slug": "tro-lai-hu-khong",
+      "name": "Trở lại hư không",
+      "originName": "Back To Nowhere",
+      "posterUrl": "https://phimimg.com/upload/vod/20260610-1/57c8d45098648579ec624aa5d6cc9ff7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/99609dfed4fc82a84950ded69c834dc9.jpg",
+      "year": 2019,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "return-of-the-guard-2018-2400b11b",
+      "source": "phimapi",
+      "slug": "thai-duong-huyet-kiem",
+      "name": "Thái Dương Huyết Kiếm",
+      "originName": "Return Of The Guard",
+      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/10c4bc5bdb8baa817fe0cb1562d45e00.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/77e477ac7dbbb2d35f2dc2fab6dae765.jpg",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "justice-bao-arbiter-of-l-2010-fe2daa7e",
+      "source": "phimapi",
+      "slug": "bao-thanh-thien-bich-huyet-tam-dan",
+      "name": "Bao Thanh Thiên: Bích Huyết Tâm Đan",
+      "originName": "Justice Bao: Arbiter Of Loyalty Unto Death",
+      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/6385ca6cf86d31424d71f6a3bfeeac07.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/0ca5678b6c8f50cb44b32f3f3cd34592.jpg",
+      "year": 2010,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (40/40)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "justice-bao-the-seven-he-2009-b07fedd2",
+      "source": "phimapi",
+      "slug": "bao-thanh-thien-that-hiep-ngu-nghia",
+      "name": "Bao Thanh Thiên: Thất Hiệp Ngũ Nghĩa",
+      "originName": "Justice Bao: The Seven Heroes And Five Gallants",
+      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/79942cb29045b8c29a891eeacb81584f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/814f8c000f1baf3611d66caa646f73d6.jpg",
+      "year": 2009,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (40/40)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },

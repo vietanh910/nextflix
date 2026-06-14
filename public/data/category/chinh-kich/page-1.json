@@ -40,7 +40,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hài Hước",
@@ -135,7 +135,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính kịch",
@@ -243,7 +243,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -256,6 +256,31 @@
         {
           "name": "Bí ẩn",
           "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "calabasas-confidential-2026-d3ffda8b",
+      "source": "ophim",
+      "slug": "calabasas-confidential",
+      "name": "Bí Mật Calabasas",
+      "originName": "Calabasas Confidential",
+      "posterUrl": "https://img.ophim.live/uploads/movies/calabasas-confidential-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/calabasas-confidential-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
@@ -311,35 +336,6 @@
       ]
     },
     {
-      "id": "biker-2026-1e7a67b1",
-      "source": "ophim",
-      "slug": "biker",
-      "name": "Biker",
-      "originName": "Biker",
-      "posterUrl": "https://img.ophim.live/uploads/movies/biker-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/biker-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
-        }
-      ]
-    },
-    {
       "id": "the-crow-princess-of-for-2026-d6d355d2",
       "source": "ophim",
       "slug": "bon-huyen-nha-la-phuc-tinh",
@@ -390,39 +386,6 @@
       ]
     },
     {
-      "id": "brothers-under-fire-2026-f1ca5a8a",
-      "source": "ophim",
-      "slug": "brothers-under-fire",
-      "name": "Brothers Under Fire",
-      "originName": "Brothers Under Fire",
-      "posterUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/brothers-under-fire-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "the-scarecrow-2026-8c7c414e",
       "source": "ophim",
       "slug": "bu-nhin-bong-dem",
@@ -466,7 +429,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -553,7 +516,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -585,8 +548,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/casa-grande-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính kịch",
@@ -597,6 +560,35 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "my-family-season-2-2026-f832a2da",
+      "source": "ophim",
+      "slug": "cau-chuyen-cua-gia-dinh-toi-phan-2",
+      "name": "Câu chuyện của gia đình tôi (Phần 2)",
+      "originName": "My Family (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-cua-gia-dinh-toi-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-cua-gia-dinh-toi-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
         }
       ]
     },
@@ -636,7 +628,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Chính kịch",
@@ -694,7 +686,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hài Hước",

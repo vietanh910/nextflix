@@ -1,0 +1,61 @@
+{
+  "id": "michael-2026-c36b2da5",
+  "source": "ophim",
+  "slug": "michael",
+  "name": "Michael",
+  "originName": "Michael",
+  "posterUrl": "https://img.ophim.live/uploads/movies/michael-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/michael-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Michael là bức chân dung điện ảnh khắc họa cuộc đời và di sản của một trong những nghệ sĩ có sức ảnh hưởng lớn nhất mà thế giới từng biết đến. Bộ phim kể về cuộc đời của Michael Jackson ngoài âm nhạc, theo dấu hành trình từ khi tài năng phi thường của ông được phát hiện trong vai trò giọng ca chính của nhóm Jackson Five, cho đến khi ông trở thành một nghệ sĩ có tầm nhìn xa, với khát vọng sáng tạo không ngừng để vươn tới danh hiệu “ngôi sao giải trí vĩ đại nhất thế giới”. Cho thấy cuộc sống phía sau hào quang sân khấu lẫn những màn trình diễn mang tính biểu tượng nhất trong giai đoạn đầu sự nghiệp solo, bộ phim mang đến cho khán giả một góc nhìn chân thực hơn bao giờ hết về Michael Jackson. Đây chính là nơi câu chuyện của ông bắt đầu.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d3d92bc35d062c83f89b7ea87d99dca9",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34383_d3d92bc3/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/oih9AKCY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/oih9AKCY/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "michael",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "mai-co",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

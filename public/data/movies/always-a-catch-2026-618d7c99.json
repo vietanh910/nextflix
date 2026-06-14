@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Hài Hước",
@@ -115,6 +115,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260604/33739_bab82e00/index.m3u8"
     },
     {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7a06b6b8dff110b697bc996bbbd58eeb",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34525_7a06b6b8/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -193,19 +201,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/xNTziQDB/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260603/xNTziQDB/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/rehCTRYw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/rehCTRYw/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "de-xong-mat-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

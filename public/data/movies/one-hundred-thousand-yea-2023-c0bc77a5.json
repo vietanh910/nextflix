@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 346",
+  "episodeCurrent": "Tập 348",
   "categories": [
     {
       "name": "Hành Động",
@@ -2807,6 +2807,22 @@
       "m3u8Url": "https://vip.opstream90.com/20260607/34143_7c7b9ebf/index.m3u8"
     },
     {
+      "name": "347",
+      "slug": "347",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/da5ce581b1ebc6f9852a57f5733b2af0",
+      "m3u8Url": "https://vip.opstream90.com/20260613/34774_da5ce581/index.m3u8"
+    },
+    {
+      "name": "348",
+      "slug": "348",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/18fb593b37b32fa30b2142c6e155578b",
+      "m3u8Url": "https://vip.opstream90.com/20260613/34775_18fb593b/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -5573,19 +5589,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/f8UNhLJL/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/f8UNhLJL/index.m3u8"
+    },
+    {
+      "name": "Tập 347",
+      "slug": "tap-347",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/o9CymL3H/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/o9CymL3H/index.m3u8"
+    },
+    {
+      "name": "Tập 348",
+      "slug": "tap-348",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/Kb7EKl37/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/Kb7EKl37/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "luyen-khi-muoi-van-nam",
-      "episodeCount": 346,
+      "episodeCount": 348,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "luyen-khi-muoi-van-nam",
-      "episodeCount": 346,
+      "episodeCount": 348,
       "priority": 1
     }
   ],

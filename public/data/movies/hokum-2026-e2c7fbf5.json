@@ -1,0 +1,69 @@
+{
+  "id": "hokum-2026-e2c7fbf5",
+  "source": "phimapi",
+  "slug": "ba-tron",
+  "name": "Ba Trợn",
+  "originName": "Hokum",
+  "posterUrl": "https://phimimg.com/upload/vod/20260602-1/2d13c664d8c29d1521097ffc258ab6f4.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260602-1/5b5dc9f7a42a9bd16f53d5ece1f57ed5.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Một nhà văn chuyên viết tiểu thuyết kinh dị đến một quán trọ hẻo lánh ở Ireland để rải tro cốt của cha mẹ mình. Không hay biết rằng nơi đây bị đồn đại là bị ám bởi một mụ phù thủy, anh dần nhận ra chuyến đi tưởng như riêng tư và yên lặng này đang kéo anh vào một nỗi kinh hoàng cổ xưa.",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260602/fEFzUXTD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260602/fEFzUXTD/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/1aTren3X/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/1aTren3X/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/56f828cd13fd369ee16c728e6c50fb57",
+      "m3u8Url": "https://vip.opstream90.com/20260603/33659_56f828cd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ba-tron",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ba-tron",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

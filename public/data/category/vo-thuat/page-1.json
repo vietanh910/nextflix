@@ -5,39 +5,6 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "soul-land-2-the-peerless-2023-c0608b58",
-      "source": "ophim",
-      "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
-      "name": "Đấu La Đại Lục 2: Tuyệt Thế Đường Môn",
-      "originName": "Soul Land 2: The Peerless Tang Clan",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dau-la-dai-luc-2-tuyet-the-duong-mon-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dau-la-dai-luc-2-tuyet-the-duong-mon-thumb.jpg",
-      "year": 2023,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 156",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Võ Thuật",
-          "slug": "vo-thuat"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "fights-break-sphere-s5-2023-1c4a1aff",
       "source": "ophim",
       "slug": "dau-pha-thuong-khung-ngoai-truyen",
@@ -65,6 +32,76 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "soul-land-2-the-peerless-2023-124dc523",
+      "source": "phimapi",
+      "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
+      "name": "Đấu La Đại Lục 2 (Tuyệt Thế Đường Môn)",
+      "originName": "Soul Land 2 (The Peerless Tang Clan)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240103-1/af2ae10bcb72617994f00dce440205dc.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240103-1/bbe888d771d0e6ff0f9935f8f6194c79.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 157",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "shrouding-the-heavens-2023-b5fa7366",
+      "source": "phimapi",
+      "slug": "gia-thien",
+      "name": "Già Thiên",
+      "originName": "Shrouding The Heavens",
+      "posterUrl": "https://phimimg.com/upload/vod/20240411-1/0a4084fdfad19ecab9f1f53d629bf422.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240411-1/bbf5847cc8ae2ce6528d5b51ef6f877a.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 166",
+      "categories": [
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Thần Thoại",
+          "slug": "than-thoai"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
         }
       ],
       "countries": [
@@ -118,7 +155,7 @@
       "year": 2021,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 271",
+      "episodeCurrent": "Tập 272",
       "categories": [
         {
           "name": "Hành Động",
@@ -155,7 +192,7 @@
       "year": 2020,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 593",
+      "episodeCurrent": "Tập 595",
       "categories": [
         {
           "name": "Võ Thuật",
@@ -168,6 +205,43 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "sword-dynasty-2019-b10cd9cf",
+      "source": "phimapi",
+      "slug": "kiem-vuong-trieu",
+      "name": "Kiếm Vương Triều",
+      "originName": "Sword Dynasty",
+      "posterUrl": "https://phimimg.com/upload/vod/20240116-1/e88712da3f213611696b45c11c376236.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240116-1/7d3100421bdd7a3170d74e59536ad665.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (34/34)",
+      "categories": [
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [

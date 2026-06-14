@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 454",
+  "episodeCurrent": "Tập 456",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -3651,6 +3651,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/xMCqvhoY/index.m3u8"
     },
     {
+      "name": "Tập 455",
+      "slug": "tap-455",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/kbhOGhNG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/kbhOGhNG/index.m3u8"
+    },
+    {
+      "name": "Tập 456",
+      "slug": "tap-456",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/mHUB7sLb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/mHUB7sLb/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -7121,19 +7137,27 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/4158345f3687fcb84c1795cbf3c2e638",
       "m3u8Url": "https://vip.opstream90.com/20260602/33593_4158345f/index.m3u8"
+    },
+    {
+      "name": "435",
+      "slug": "435",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9fabfa2db6d33c9f4721d725e0269a42",
+      "m3u8Url": "https://vip.opstream90.com/20260608/34283_9fabfa2d/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 434,
+      "episodeCount": 435,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 451,
+      "episodeCount": 453,
       "priority": 1
     }
   ],

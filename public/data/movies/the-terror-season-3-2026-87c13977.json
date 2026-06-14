@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-kinh-hoang-phan-3-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 5",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (6/6)",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -77,13 +77,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/8291147824f5712d2c342d34df21f193",
       "m3u8Url": "https://vip.opstream10.com/20260605/33806_82911478/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/973e871484054975ff69b4d23627e376",
+      "m3u8Url": "https://vip.opstream10.com/20260612/33916_973e8714/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chuyen-kinh-hoang-phan-3",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 0
     }
   ],

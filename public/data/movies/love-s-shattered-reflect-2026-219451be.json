@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 16",
+  "episodeCurrent": "Tập 18",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -161,13 +161,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/DRXznv7K/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260605/DRXznv7K/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/M82Morun/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/M82Morun/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/PS7qwohV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/PS7qwohV/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hinh-phat-vi-yeu-em",
-      "episodeCount": 16,
+      "episodeCount": 18,
       "priority": 1
     }
   ],

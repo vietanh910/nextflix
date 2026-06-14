@@ -9,7 +9,7 @@
   "year": 2019,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 323",
+  "episodeCurrent": "Tập 327",
   "categories": [
     {
       "name": "Hài Hước",
@@ -481,13 +481,45 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/69f4b86205abcf82d67238baa762fba4",
       "m3u8Url": "https://vip.opstream10.com/20260510/33634_69f4b862/index.m3u8"
+    },
+    {
+      "name": "324",
+      "slug": "324",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/0038c2d25686470c660de62bf5466fe3",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33879_0038c2d2/index.m3u8"
+    },
+    {
+      "name": "325",
+      "slug": "325",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/df8db2b0cd357a89d5e723c746d1e21b",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33880_df8db2b0/index.m3u8"
+    },
+    {
+      "name": "326",
+      "slug": "326",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e144a462bd73bd9637b37e09f0bc3b9d",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33881_e144a462/index.m3u8"
+    },
+    {
+      "name": "327",
+      "slug": "327",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/eff4ceddd4035b36233219a6ea4b889e",
+      "m3u8Url": "https://vip.opstream10.com/20260610/33882_eff4cedd/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "2-ngay-1-dem-phan-4",
-      "episodeCount": 57,
+      "episodeCount": 61,
       "priority": 0
     }
   ],

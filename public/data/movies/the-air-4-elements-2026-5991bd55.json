@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -73,13 +73,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/SSVGEYWg/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/SSVGEYWg/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/FVXWJ0Ob/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/FVXWJ0Ob/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gio-thoang-tinh-theo",
-      "episodeCount": 4,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

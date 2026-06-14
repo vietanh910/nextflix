@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -107,59 +107,21 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260605/HOGOjRt4/index.m3u8"
     },
     {
-      "name": "1",
-      "slug": "1",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/3c34604a79b889444149f4f226868fd5",
-      "m3u8Url": "https://vip.opstream90.com/20260411/29255_3c34604a/index.m3u8"
-    },
-    {
-      "name": "2",
-      "slug": "2",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/f5e988012e8de1972afaae235744bd1d",
-      "m3u8Url": "https://vip.opstream90.com/20260426/30270_f5e98801/index.m3u8"
-    },
-    {
-      "name": "3",
-      "slug": "3",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/076e1a66a92e6b769ea87b2944cbc5d9",
-      "m3u8Url": "https://vip.opstream90.com/20260426/30271_076e1a66/index.m3u8"
-    },
-    {
-      "name": "4",
-      "slug": "4",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/30b316f9f309658403dbe13be9cdd839",
-      "m3u8Url": "https://vip.opstream90.com/20260511/31520_30b316f9/index.m3u8"
-    },
-    {
-      "name": "5",
-      "slug": "5",
-      "serverName": "Vietsub #1",
-      "source": "ophim",
-      "embedUrl": "https://vip.opstream90.com/share/44ef8f51d6922ae69d4999d50b632334",
-      "m3u8Url": "https://vip.opstream90.com/20260511/31521_44ef8f51/index.m3u8"
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/yWkHkcJx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/yWkHkcJx/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "ophim",
-      "slug": "giot-ruou-than-thanh-anime",
-      "episodeCount": 5,
-      "priority": 0
-    },
-    {
       "source": "phimapi",
       "slug": "giot-ruou-than-thanh-2026",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],
-  "_priority": 0
+  "_priority": 1
 }

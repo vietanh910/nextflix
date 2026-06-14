@@ -1,0 +1,65 @@
+{
+  "id": "colors-of-evil-black-2026-5251a6f9",
+  "source": "ophim",
+  "slug": "mau-ta-ac-den",
+  "name": "Màu Tà Ác: Đen",
+  "originName": "Colors of Evil: Black",
+  "posterUrl": "https://img.ophim.live/uploads/movies/mau-ta-ac-den-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/mau-ta-ac-den-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Ba lan",
+      "slug": "ba-lan"
+    }
+  ],
+  "description": "<p>Khi một cậu bé mất tích ở thị trấn nhỏ yên bình, một công tố viên vừa được điều chuyển đến bắt đầu phát hiện những mối liên hệ bất ngờ với một vụ mất tích cũ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/abfa1f5e96b177d167fe072425909a14",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34426_abfa1f5e/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/zFVQBj2h/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/zFVQBj2h/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "mau-ta-ac-den",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "mau-ta-ac-den-kolory-za-czer",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,59 @@
+{
+  "id": "detective-chen-2-2026-f015ef45",
+  "source": "ophim",
+  "slug": "than-tham-nam-vung-2",
+  "name": "Thần Thám Nằm Vùng 2",
+  "originName": "Detective Chen 2",
+  "posterUrl": "https://img.ophim.live/uploads/movies/than-tham-nam-vung-2-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/than-tham-nam-vung-2-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Lấy bối cảnh Thượng Hải thời Dân Quốc, phim kể về Trần Hổ bị vu oan trong vụ ám sát một trùm Thanh Bang và bị tống giam. Trong hành trình vượt ngục, điều tra chân tướng vụ án và vạch trần âm mưu chính trị của thế lực Nhật Bản, anh cùng đồng đội liên tục đối mặt với những màn đấu trí, những trận chiến khốc liệt và các cú lật ngược bất ngờ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2706d952855897483572487456d4498d",
+      "m3u8Url": "https://vip.opstream90.com/20260608/34300_2706d952/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "than-tham-nam-vung-2",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

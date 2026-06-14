@@ -1,0 +1,66 @@
+{
+  "id": "marsupilami-2026-8bf40212",
+  "source": "ophim",
+  "slug": "sieu-quay-marsupilami",
+  "name": "Siêu Quậy Marsupilami",
+  "originName": "Marsupilami",
+  "posterUrl": "https://img.ophim.live/uploads/movies/sieu-quay-marsupilami-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-quay-marsupilami-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "unknown",
+  "episodeCurrent": "Trailer",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    },
+    {
+      "name": "Bỉ",
+      "slug": "bi"
+    }
+  ],
+  "description": "<p>Để cứu lấy công việc, David Ticoule chấp nhận vận chuyển một kiện hàng bí ẩn từ Nam Mỹ về Pháp. Anh đưa con trai Léo và vợ cũ Tess đi cùng, vô tình kéo họ vào một phi vụ nguy hiểm mà chính anh cũng chưa kịp hiểu rõ. Mọi thứ nhanh chóng vượt khỏi tầm kiểm soát khi kiện hàng bị mở ra ngoài ý muốn. Bên trong là một sinh vật nhỏ bé, đáng yêu nhưng kéo theo hàng loạt rắc rối không tưởng. Từ một chuyến đi tưởng chừng đơn giản, hành trình trên biển bỗng biến thành chuỗi tình huống dở khóc dở cười. Giữa đại dương, họ phải học cách tin tưởng và sát cánh bên nhau để vượt qua hỗn loạn, đồng thời bảo vệ chính gia đình mình.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "",
+      "serverName": "Vietsub #1",
+      "source": "ophim"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/uWckMyhl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/uWckMyhl/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "sieu-quay-marsupilami",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "sieu-quay-marsupilami",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

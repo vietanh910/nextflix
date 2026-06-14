@@ -1,0 +1,51 @@
+{
+  "id": "movie-2026-55c4d1ef",
+  "source": "ophim",
+  "slug": "ac-niem",
+  "name": "Ác Niệm",
+  "originName": "恶念",
+  "posterUrl": "https://img.ophim.live/uploads/movies/ac-niem-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/ac-niem-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Đàm Thành chìm trong khói lửa chiến tranh, thời cuộc rối ren. Nữ sinh y khoa Tô Ánh Tuyết vì tìm kiếm người chị gái song sinh mất tích đã một mình bước chân vào nhà của tổ tiên nhà họ Dương nằm ở vùng ngoại ô tĩnh mịch ảm đạm. Ngôi nhà cổ rộng lớn nhưng đổ nát. Bà chủ nhà với những hành vi kỳ quái, người quản lý điên điên dại dại, cùng người giúp việc câm điếc thoắt ẩn thoắt hiện... mọi ngóc ngách đều toát lên vẻ âm u quỷ dị, khiến cô lạnh buốt đến tận xương tủy. Những hiện tượng kỳ quái liên tiếp xảy ra trong căn nhà: con búp bê ma dị bất ngờ ngoảnh đầu, khúc đồng dao rợn người vang lên giữa đêm khuya, bé gái trong bóng tối lặng lẽ tự chơi trò đan dây với chính mình, những lọn tóc dài không rõ từ đâu nhẹ nhàng rơi xuống vai cô... Dường như trong cõi u minh có thứ gì đó đang không ngừng gọi mời cô. Dần dần, Tô Ánh Tuyết nhận ra chị gái mình rất có thể đã bỏ mạng tại nơi này. Còn bản thân cô, người đến đây để tìm lại người thân duy nhất của mình, lại vô tình trở thành “thức ăn” tiếp theo mà bà chủ nhà nhắm đến trong trò chơi kinh dị chết chóc ấy.<br>&nbsp;</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3d0e9613972282a4e53f300f804c1b4f",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34415_3d0e9613/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ac-niem",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/until-she-remembers-thumb.jpg",
   "year": 2026,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Chính kịch",
@@ -27,17 +27,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
-      "serverName": "Vietsub #1",
-      "source": "ophim"
-    },
-    {
       "name": "Full",
       "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/UHwMcYYK/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/UHwMcYYK/index.m3u8"
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/36acb34afa8318d3e64f4904d659c3e4",
+      "m3u8Url": "https://vip.opstream12.com/20260609/32722_36acb34a/index.m3u8"
     }
   ],
   "sources": [
@@ -46,12 +41,6 @@
       "slug": "until-she-remembers",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "nguoi-ban-cua-ba",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

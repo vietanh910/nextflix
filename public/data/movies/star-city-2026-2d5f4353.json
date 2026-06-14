@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -59,6 +59,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260605/33869_97598856/index.m3u8"
     },
     {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1dd1d4331cb069ab101a698f8c7920c5",
+      "m3u8Url": "https://vip.opstream90.com/20260612/34708_1dd1d433/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -81,19 +89,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260606/CLItNXv9/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/CLItNXv9/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/B8JiTDV1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/B8JiTDV1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "can-cu-star-city",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "thanh-pho-phi-hanh-gia-phan-1-can-cu-star-city",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 26",
+  "episodeCurrent": "Tập 33",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -243,6 +243,62 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260606/KBU6cOqL/index.m3u8"
     },
     {
+      "name": "Tập 27",
+      "slug": "tap-27",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/dAWPOKvb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/dAWPOKvb/index.m3u8"
+    },
+    {
+      "name": "Tập 28",
+      "slug": "tap-28",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/aRFAHptD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/aRFAHptD/index.m3u8"
+    },
+    {
+      "name": "Tập 29",
+      "slug": "tap-29",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/oLOsRmF7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260609/oLOsRmF7/index.m3u8"
+    },
+    {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/QyHHwEIL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/QyHHwEIL/index.m3u8"
+    },
+    {
+      "name": "Tập 31",
+      "slug": "tap-31",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/m5mDLQWI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/m5mDLQWI/index.m3u8"
+    },
+    {
+      "name": "Tập 32",
+      "slug": "tap-32",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/YXUgblyP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/YXUgblyP/index.m3u8"
+    },
+    {
+      "name": "Tập 33",
+      "slug": "tap-33",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/O7ekVYVa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/O7ekVYVa/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -441,19 +497,59 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/d40e8b592e9c23339fed96f2ff63ae4a",
       "m3u8Url": "https://vip.opstream90.com/20260605/33862_d40e8b59/index.m3u8"
+    },
+    {
+      "name": "26",
+      "slug": "26",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b89c07b45920d06987ec53f9d7f7bb70",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34266_b89c07b4/index.m3u8"
+    },
+    {
+      "name": "27",
+      "slug": "27",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/aff857de2196e157fbeac66b619bfe05",
+      "m3u8Url": "https://vip.opstream90.com/20260607/34267_aff857de/index.m3u8"
+    },
+    {
+      "name": "28",
+      "slug": "28",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d40d53087c6f81c1ac6bd10a87d6b1f1",
+      "m3u8Url": "https://vip.opstream90.com/20260608/34302_d40d5308/index.m3u8"
+    },
+    {
+      "name": "29",
+      "slug": "29",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/29728f99c3104f0ee7efac0f90eb2788",
+      "m3u8Url": "https://vip.opstream90.com/20260609/34340_29728f99/index.m3u8"
+    },
+    {
+      "name": "30",
+      "slug": "30",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/37afe5de7afbfc1d2c5b27fc33d82a5f",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34419_37afe5de/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "than-y-co-dai-o-thanh-pho",
-      "episodeCount": 25,
+      "episodeCount": 30,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "than-y-co-dai-o-thanh-pho",
-      "episodeCount": 26,
+      "episodeCount": 33,
       "priority": 1
     }
   ],

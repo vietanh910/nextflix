@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Tình Cảm",
@@ -89,13 +89,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/e2fffc78f3986380b7fb7c3da5bbd002",
       "m3u8Url": "https://vip.opstream10.com/20260604/33802_e2fffc78/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/09add3fd59925533c1bfa9c3048f5b96",
+      "m3u8Url": "https://vip.opstream10.com/20260612/33915_09add3fd/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nhip-dap-trai-tim-phan-5",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 0
     }
   ],

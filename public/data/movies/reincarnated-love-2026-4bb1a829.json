@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/lam-an-nhuoc-mong-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (24/24)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -169,13 +169,61 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/e85d66c6a4f01b134218e39c3bda435f",
       "m3u8Url": "https://vip.opstream90.com/20260607/34155_e85d66c6/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7b658e43a7708347c6d7bc39f253b903",
+      "m3u8Url": "https://vip.opstream90.com/20260608/34292_7b658e43/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c24a32c563290f4347f8225282b56247",
+      "m3u8Url": "https://vip.opstream90.com/20260608/34293_c24a32c5/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1a12488a1e9d664c3dc0832ee94b67c5",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34391_1a12488a/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/87c5afc7c76c32349979d0029a9d1db3",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34392_87c5afc7/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2ff04af5c3d34a54e4b559849f9ddae2",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34393_2ff04af5/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/af63a657e0ceef55ddb2751bc5c0294d",
+      "m3u8Url": "https://vip.opstream90.com/20260610/34395_af63a657/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "lam-an-nhuoc-mong",
-      "episodeCount": 18,
+      "episodeCount": 24,
       "priority": 0
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/empire-state-thumb.jpg",
   "year": 2013,
   "type": "single",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Full",
   "categories": [
     {
       "name": "Hành Động",
@@ -35,9 +35,12 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "Full",
+      "slug": "full",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream12.com/share/4d1167f353e66de571a72c70f36e6af7",
+      "m3u8Url": "https://vip.opstream12.com/20260609/32719_4d1167f3/index.m3u8"
     }
   ],
   "sources": [
