@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260505-1/0a39ed1695b6e5ee0af57235a6cb7e31.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 29",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (30/30)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -267,6 +267,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260612/UzOg2QV2/index.m3u8"
     },
     {
+      "name": "Tập 30",
+      "slug": "tap-30",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/EfCkoad4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/EfCkoad4/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -473,19 +481,43 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/54ba329c7cf69f8cc79445f2cacd2dff",
       "m3u8Url": "https://vip.opstream90.com/20260609/34381_54ba329c/index.m3u8"
+    },
+    {
+      "name": "27",
+      "slug": "27",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4a532060a80aefd2e170bbd5d05bae6f",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34839_4a532060/index.m3u8"
+    },
+    {
+      "name": "28",
+      "slug": "28",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/44e99af76e0d3f4e7eb331b3f3ef8e38",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34840_44e99af7/index.m3u8"
+    },
+    {
+      "name": "29",
+      "slug": "29",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d52b1dc033ab0c8ac84f3169c5376235",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34841_d52b1dc0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nhip-dieu-thu-han",
-      "episodeCount": 26,
+      "episodeCount": 29,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "nhip-dieu-thu-han",
-      "episodeCount": 29,
+      "episodeCount": 30,
       "priority": 1
     }
   ],

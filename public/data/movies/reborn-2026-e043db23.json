@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Bí ẩn",
@@ -89,13 +89,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/6c8f18c9eefcce3079a173bf197ef14f",
       "m3u8Url": "https://vip.opstream90.com/20260609/34382_6c8f18c9/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2ec4276ab0862e9bc0f7dbb4bd260cac",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34985_2ec4276a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "reborn",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 0
     }
   ],

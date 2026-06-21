@@ -2,7 +2,7 @@
   "slug": "tinh-cam",
   "name": "Tình Cảm",
   "page": 1,
-  "totalPages": 3,
+  "totalPages": 2,
   "items": [
     {
       "id": "six-singles-under-one-ro-2026-9808c065",
@@ -64,8 +64,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/bat-song-tinh-duyen-thumb.jpg",
       "year": 2026,
       "type": "tvshow",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Tình Cảm",
@@ -76,6 +76,31 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "bau-vat-troi-cho-2026-d76299e1",
+      "source": "ophim",
+      "slug": "bau-vat-troi-cho",
+      "name": "Báu vật trời cho",
+      "originName": "Báu vật trời cho",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-vat-troi-cho-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-vat-troi-cho-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     },
@@ -248,7 +273,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Tình Cảm",
@@ -323,7 +348,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -350,25 +375,25 @@
       ]
     },
     {
-      "id": "yumi-s-cells-season-3-2026-64a32f72",
+      "id": "a-gift-from-heaven-2026-147f1a11",
       "source": "phimapi",
-      "slug": "cac-te-bao-cua-yumi-phan-3",
-      "name": "Các Tế Bào Của Yumi (Phần 3)",
-      "originName": "Yumi's Cells (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/9bdab524f98b5904ac478b03c17853b3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/57f28e5e6d6399e53687174216c67bf6.jpg",
+      "slug": "bau-vat-troi-cho",
+      "name": "Báu vật trời cho",
+      "originName": "A Gift From Heaven",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/e2e53013ccd1944bf8570ee9dbc233f2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4344fce68030e677b52a8da8e6eb2c81.jpg",
       "year": 2026,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
         },
         {
           "name": "Tình Cảm",
@@ -377,41 +402,8 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "ticket-to-heaven-2026-ef3971c4",
-      "source": "phimapi",
-      "slug": "cau-be-khong-len-thien-duong",
-      "name": "Cậu Bé Không Lên Thiên Đường",
-      "originName": "Ticket To Heaven",
-      "posterUrl": "https://phimimg.com/upload/vod/20260601-1/932dc859d74c05563fe32e7719cd8eb6.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260601-1/f6dc2a96c812fe8f0596eba956a95fcd.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     },
@@ -426,7 +418,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -445,43 +437,6 @@
       ]
     },
     {
-      "id": "echoes-of-love-2026-2bd5235a",
-      "source": "phimapi",
-      "slug": "cham-hong-trang",
-      "name": "Chẩm Hồng Trang",
-      "originName": "Echoes Of Love",
-      "posterUrl": "https://phimimg.com/upload/vod/20260309-1/f7032bb84e5634288981956e5c7d7c33.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260309-1/237470dff7f7e995efeb684e116bf0fc.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "gals-can-t-be-kind-to-ot-2026-18bfb597",
       "source": "phimapi",
       "slug": "chang-otaku-va-hai-nang-gal-bi-an-otaku-ni-yasashii-gal-wa-inai",
@@ -492,7 +447,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -519,21 +474,25 @@
       ]
     },
     {
-      "id": "akane-banashi-2026-e346df52",
+      "id": "love-of-silom-2026-6515060d",
       "source": "phimapi",
-      "slug": "chuyen-ke-cua-akane",
-      "name": "Chuyện Kể Của Akane",
-      "originName": "Akane-banashi",
-      "posterUrl": "https://phimimg.com/upload/vod/20260406-1/4a85124c6909360ca8f62b21c7ff86b2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260406-1/4abaebf131a964fa54695cf899dbdaf7.jpg",
+      "slug": "chuyen-tinh-silom",
+      "name": "Chuyện Tình Silom",
+      "originName": "Love Of Silom",
+      "posterUrl": "https://phimimg.com/upload/vod/20260428-1/2addc27160eb0c215cf6de244a763823.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260428-1/3dc85f5a14c2f7ad5a06c1a837c14dfb.jpg",
       "year": 2026,
-      "type": "anime",
+      "type": "series",
       "status": "ongoing",
       "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Tình Cảm",
@@ -546,8 +505,8 @@
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -562,7 +521,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -589,39 +548,6 @@
       ]
     },
     {
-      "id": "dazzling-2026-86d50aa9",
-      "source": "phimapi",
-      "slug": "dieu-nhan-choi-mat",
-      "name": "Diệu Nhãn (Chói Mắt)",
-      "originName": "Dazzling",
-      "posterUrl": "https://phimimg.com/upload/vod/20260527-1/d44a5e24504b7e7f05df06971f5d0258.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260527-1/0083570a968fc8d5133389792d1b14f7.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 29",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "under-the-bright-window-2026-86c546e8",
       "source": "phimapi",
       "slug": "duoi-o-cua-sang-den",
@@ -632,7 +558,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -665,7 +591,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -698,7 +624,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -717,6 +643,72 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "love-s-shattered-reflect-2026-219451be",
+      "source": "phimapi",
+      "slug": "hinh-phat-vi-yeu-em",
+      "name": "Hình Phạt Vì Yêu Em",
+      "originName": "Love's Shattered Reflections",
+      "posterUrl": "https://phimimg.com/upload/vod/20260416-1/18270e9517eb33fa07130dfdb196603c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260416-1/c0ddec0dcd021f43bfeda4f331177dd2.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (19/19)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "wicked-temptation-2026-792ce56d",
+      "source": "phimapi",
+      "slug": "ho-giau-van-payak-raai-sorn-laai",
+      "name": "Hổ Giấu Vằn (Payak Raai Sorn Laai)",
+      "originName": "Wicked Temptation",
+      "posterUrl": "https://phimimg.com/upload/vod/20260516-1/77c1b40f3b62b6bbc79c5e1040b2340b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260516-1/491a74f039db3dc1ecf09fb0f715f57b.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 21",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     }

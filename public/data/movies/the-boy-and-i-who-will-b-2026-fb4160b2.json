@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính kịch",
@@ -33,13 +33,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/1f163d2cf1782152bdd7333dbd880b46",
       "m3u8Url": "https://vip.opstream90.com/20260527/33058_1f163d2c/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/374d383550f673cead5c903caca73d6f",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35169_374d3835/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ce8a03e91cf36367aaddc92947649a85",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35170_ce8a03e9/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/33349564c6c0e03cbffb25daa4306146",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35171_33349564/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "the-boy-and-i-who-will-break-up-in-100-days",
-      "episodeCount": 1,
+      "episodeCount": 4,
       "priority": 0
     }
   ],

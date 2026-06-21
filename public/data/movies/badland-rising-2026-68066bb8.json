@@ -1,0 +1,51 @@
+{
+  "id": "badland-rising-2026-68066bb8",
+  "source": "phimapi",
+  "slug": "vung-dat-troi-day",
+  "name": "Vùng đất trỗi dậy",
+  "originName": "Badland Rising",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/6c11902d949cfbce9c43c13c9e0ff6ec.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/e06eadf4e038a3b171dd605a611deadd.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Úc",
+      "slug": "uc"
+    }
+  ],
+  "description": "Một người đàn ông bình thường bắt đầu chuyến hành trình lái xe về nhà kéo dài 19 tiếng, không hề hay biết mình đang bị hai tên tội phạm điên rồ truy đuổi. Khi phát hiện ra động cơ của chúng, chuyến đi của anh ta biến thành một cuộc chiến sinh tồn khốc liệt.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/ObLfvAkk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/ObLfvAkk/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "vung-dat-troi-day",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

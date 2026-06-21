@@ -40,7 +40,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hài Hước",
@@ -55,6 +55,35 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "rend-night-regain-light-2026-0b2557c9",
+      "source": "ophim",
+      "slug": "bach-da-am-anh",
+      "name": "Bạch Dạ Ám Ảnh",
+      "originName": "Rend Night Regain Light",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bach-da-am-anh-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bach-da-am-anh-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -134,8 +163,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/ban-nang-nguoi-me-2026-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -175,64 +204,6 @@
       ]
     },
     {
-      "id": "soul-mate-2026-8d4a979c",
-      "source": "ophim",
-      "slug": "ban-tri-ky",
-      "name": "Bạn Tri Kỷ",
-      "originName": "Soul Mate",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ban-tri-ky-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ban-tri-ky-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        },
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "berlin-and-the-lady-with-2026-df0f7f53",
-      "source": "ophim",
-      "slug": "berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon",
-      "name": "Berlin và bức họa Người đàn bà và con chồn",
-      "originName": "Berlin and the Lady with an Ermine",
-      "posterUrl": "https://img.ophim.live/uploads/movies/berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
-        }
-      ]
-    },
-    {
       "id": "widow-s-bay-2026-2f767d23",
       "source": "ophim",
       "slug": "bi-an-thi-tran-widows-bay",
@@ -242,8 +213,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/bi-an-thi-tran-widows-bay-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -287,51 +258,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-wonderfools-2026-19c319a0",
-      "source": "ophim",
-      "slug": "biet-doi-sieu-kho",
-      "name": "Biệt Đội Siêu Khờ",
-      "originName": "The WONDERfools",
-      "posterUrl": "https://img.ophim.live/uploads/movies/biet-doi-sieu-kho-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/biet-doi-sieu-kho-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -428,8 +354,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/buc-tuong-bang-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -477,35 +403,6 @@
       ]
     },
     {
-      "id": "thank-you-next-season-3-2026-06f4f285",
-      "source": "ophim",
-      "slug": "cam-on-moi-nguoi-tiep-theo-phan-3",
-      "name": "Cảm ơn, mời người tiếp theo! (Phần 3)",
-      "originName": "Thank You, Next (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cam-on-moi-nguoi-tiep-theo-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cam-on-moi-nguoi-tiep-theo-phan-3-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
-        }
-      ]
-    },
-    {
       "id": "star-city-2026-2d5f4353",
       "source": "ophim",
       "slug": "can-cu-star-city",
@@ -516,7 +413,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -593,6 +490,39 @@
       ]
     },
     {
+      "id": "i-will-find-you-2026-8490ce31",
+      "source": "ophim",
+      "slug": "cha-se-tim-con",
+      "name": "Cha sẽ tìm con",
+      "originName": "I Will Find You",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cha-se-tim-con-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cha-se-tim-con-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "chand-mera-dil-2026-1a455610",
       "source": "ophim",
       "slug": "chand-mera-dil",
@@ -628,7 +558,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 14",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Chính kịch",
@@ -709,6 +639,56 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "endless-love-2026-93aa7ae9",
+      "source": "ophim",
+      "slug": "chi-bang-gap-nhau-mot-lan",
+      "name": "Chi Bằng Gặp Nhau Một Lần",
+      "originName": "Endless Love",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chi-bang-gap-nhau-mot-lan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chi-bang-gap-nhau-mot-lan-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "sharp-harmonica-2026-f646845a",
+      "source": "ophim",
+      "slug": "chiec-ken-harmonica-sac-ben",
+      "name": "Chiếc Kèn Harmonica Sắc Bén",
+      "originName": "Sharp Harmonica",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chiec-ken-harmonica-sac-ben-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chiec-ken-harmonica-sac-ben-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (16/16)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính kịch",
@@ -57,13 +57,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/acfb944f17391575205a32619e3f9d37",
       "m3u8Url": "https://vip.opstream90.com/20260607/34274_acfb944f/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/591656c0b040c52ad41a655e635ec1be",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35009_591656c0/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a14ad032813ed4d8c564f5fdb3ba8eb8",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35010_a14ad032/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "lost-to-you",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 0
     }
   ],

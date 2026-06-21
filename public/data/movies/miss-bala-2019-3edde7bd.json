@@ -1,0 +1,51 @@
+{
+  "id": "miss-bala-2019-3edde7bd",
+  "source": "phimapi",
+  "slug": "quy-co-bala",
+  "name": "Quý Cô Bala",
+  "originName": "Miss Bala",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/5f1b01f37d75f553ed21dc1fef8c5ba3.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/c071aaa8a1977aeea7d7c7958f6b25b1.jpg",
+  "year": 2019,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Mexico",
+      "slug": "mexico"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Sau cái chết của ba mẹ, Gloria (Gina Rodriguez) trở lại thành phố Tijuana cùng cô bạn thân Suzu. Trong lúc đang đi chơi tại một hộp đêm, cả hai vô tình chứng kiến cuộc xả súng tàn bạo của một băng đảng ma túy và đều bị chúng bắt giữ. Kẻ cầm đầu Lino yêu cầu Gloria phải góp sức trong việc tấn công một trụ sở của DEA (Lực lượng Chống Ma túy). Gloria vô tình kẹt giữa cuộc chiến đẫm máu giữa các băng nhóm Mexico. Tuy nhiên, cô nàng lại rơi vào tay phía Mỹ và buộc phải trở thành gián điệp để giúp họ bắt giữ Lino. Trở lại với băng đảng ma túy, Gloria trở thành người vận chuyển ma túy và tiền ra vào biên giới Mỹ – Mexico dựa vào vị thế cầu nối đặc biệt của vùng Tijuana.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/fSA65mKG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/fSA65mKG/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "quy-co-bala",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

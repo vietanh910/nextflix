@@ -5,33 +5,21 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "fighter-of-the-destiny-3-2026-28794156",
+      "id": "blades-of-the-guardians--2026-dc2be9b4",
       "source": "ophim",
-      "slug": "trach-thien-ky-2026",
-      "name": "Trạch Thiên Ký",
-      "originName": "Fighter of the Destiny 3D",
-      "posterUrl": "https://img.ophim.live/uploads/movies/trach-thien-ky-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/trach-thien-ky-2026-thumb.jpg",
+      "slug": "tieu-nhan-phong-khoi-dai-mac",
+      "name": "Tiêu Nhân: Phong Khởi Đại Mạc",
+      "originName": "Blades of the Guardians: Wind Rises in the Desert",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tieu-nhan-phong-khoi-dai-mac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tieu-nhan-phong-khoi-dai-mac-thumb.jpg",
       "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
         },
         {
           "name": "Chính kịch",
@@ -89,7 +77,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Hành Động",
@@ -112,6 +100,35 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "in-the-grey-2026-92731298",
+      "source": "ophim",
+      "slug": "trong-vung-xam",
+      "name": "Trong Vùng Xám",
+      "originName": "In the Grey",
+      "posterUrl": "https://img.ophim.live/uploads/movies/trong-vung-xam-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/trong-vung-xam-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -270,7 +287,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hành Động",
@@ -311,7 +328,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Hành Động",
@@ -342,66 +359,21 @@
       ]
     },
     {
-      "id": "fight-against-evil-3-2026-1ebab3d3",
+      "id": "reborn-as-a-vending-mach-2026-10c9f6b8",
       "source": "phimapi",
-      "slug": "cau-chuyen-canh-sat-dong-bac-3",
-      "name": "Câu Chuyện Cảnh Sát Đông Bắc 3",
-      "originName": "Fight Against Evil 3",
-      "posterUrl": "https://phimimg.com/upload/vod/20260601-1/e9f85e28142bd165ee83b8d0bc147403.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260601-1/7b75e8ba030220788fcc8868d0447b88.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "my-ribdiculous-reincarna-2026-5a4b4c16",
-      "source": "phimapi",
-      "slug": "chuyen-sinh-thanh-xuong-suon-cua-dung-si",
-      "name": "Chuyển Sinh Thành Xương Sườn Của Dũng Sĩ",
-      "originName": "My Ribdiculous Reincarnation",
-      "posterUrl": "https://phimimg.com/upload/vod/20260420-1/2c2cf03c6ca0da1a3c07ccef9ad9ca03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/1e00b55b2c565774b0c608230682a429.jpg",
+      "slug": "chuyen-sinh-thanh-may-ban-hang-va-vuot-ai-ham-nguc-phan-3",
+      "name": "Chuyển Sinh Thành Máy Bán Hàng Và Vượt Ải Hầm Ngục (Phần 3)",
+      "originName": "Reborn As A Vending Machine, I Now Wander The Dungeon (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/8029ff3ad5249c83e797a215873f3bd8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/4d67322c07ddba99029c00d35aeab034.jpg",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         },
         {
           "name": "Hành Động",
@@ -410,6 +382,14 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         }
       ],
       "countries": [
@@ -429,8 +409,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/0465acf01f7208424c1a2207bf1b23fa.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hành Động",
@@ -459,7 +439,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 35",
+      "episodeCurrent": "Tập 37",
       "categories": [
         {
           "name": "Hành Động",
@@ -508,7 +488,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -539,17 +519,17 @@
       ]
     },
     {
-      "id": "archives-the-nanyang-mys-2026-c53507d3",
+      "id": "baki-dou-the-invincible--2026-0f49dbfa",
       "source": "phimapi",
-      "slug": "ho-so-nam-bo",
-      "name": "Hồ Sơ Nam Bộ",
-      "originName": "Archives: The Nanyang Mystery",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/532ffe60e51a3380b6e15dd8a2023e06.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/fe461009ad3b79e5581a16bf014041bb.jpg",
+      "slug": "hanh-trinh-cua-baki-samurai-bat-bai",
+      "name": "Hành Trình Của Baki: Samurai Bất Bại",
+      "originName": "BAKI-DOU: The Invincible Samurai",
+      "posterUrl": "https://phimimg.com/upload/vod/20260227-1/a06c15f6226d45ec87f6fdb60d31d705.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260227-1/eba9335091631347ab69d971b644a39f.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
       "categories": [
         {
           "name": "Hành Động",
@@ -560,8 +540,8 @@
           "slug": "phieu-luu"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -570,8 +550,8 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -586,7 +566,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hành Động",
@@ -613,60 +593,19 @@
       ]
     },
     {
-      "id": "kusunoki-s-garden-of-god-2026-5af74f79",
+      "id": "that-time-i-got-reincarn-2026-380899ef",
       "source": "phimapi",
-      "slug": "khu-vuon-chu-than-cua-kusunoki",
-      "name": "Khu Vườn Chư Thần Của Kusunoki",
-      "originName": "Kusunoki's Garden Of Gods",
-      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/edae1e09b6fccf37d4631ef7c9424866.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/d54eca353906c82e4f6ac9468cab3618.jpg",
+      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+      "originName": "That Time I Got Reincarnated As A Slime (Season 4)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/ab90a78161fa03e2b3f48f84bf250d05.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260406-1/26f4b114b4e3d0ac0bba2f6687131a3c.jpg",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
       "episodeCurrent": "Tập 11",
       "categories": [
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "magical-sisters-luluttol-2026-172a24df",
-      "source": "phimapi",
-      "slug": "mahou-no-shimai-lulutto-lilly",
-      "name": "Mahou no Shimai Lulutto Lilly",
-      "originName": "Magical Sisters LuluttoLilly",
-      "posterUrl": "https://phimimg.com/upload/vod/20260417-1/9981e5c5464815b1ddeb28c004e9b792.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260417-1/af8335ede8a6c9a9872bacee3cf19d4d.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
-      "categories": [
-        {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
@@ -681,6 +620,10 @@
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Tâm Lý",
@@ -705,7 +648,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
@@ -728,6 +671,47 @@
       ]
     },
     {
+      "id": "mao-2026-65360be1",
+      "source": "phimapi",
+      "slug": "mao",
+      "name": "MAO",
+      "originName": "MAO",
+      "posterUrl": "https://phimimg.com/upload/vod/20260407-1/8bfc211dbf6e0ad5ae4c0c4be2109b47.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260407-1/e848f6fcf159dd1ba4b6865bbc46616b.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "monster-eater-2026-7336514f",
       "source": "phimapi",
       "slug": "monster-eater",
@@ -737,8 +721,8 @@
       "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/cdb42be74223b974d82efb2b04b966d6.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
           "name": "Hành Động",
@@ -765,84 +749,6 @@
       ]
     },
     {
-      "id": "the-strongest-job-is-app-2026-133740c8",
-      "source": "phimapi",
-      "slug": "nghe-nghiep-manh-nhat-duong-nhu-khong-phai-la-anh-hung-hay-hien-triet-ma-la-nguoi-tham-dinh-tam-thoi",
-      "name": "Nghề Nghiệp Mạnh Nhất Dường Như Không Phải Là Anh Hùng Hay Hiền Triết, Mà Là Người Thẩm Định (Tạm Thời)!",
-      "originName": "The Strongest Job Is Apparently Not A Hero Or A Sage, But An Appraiser (Provisional)!",
-      "posterUrl": "https://phimimg.com/upload/vod/20260406-1/7564edb929b791e1581d3607418d4ede.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260406-1/7ac9d5a344918ce0643ce7f7c5558d4c.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-lie-we-lived-in-2026-6d012a78",
-      "source": "phimapi",
-      "slug": "ngoi-nha-cua-nhung-loi-doi-tra",
-      "name": "Ngôi Nhà Của Những Lời Dối Trá",
-      "originName": "The Lie We Lived In",
-      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/149b3de70031b4a373a224e59f46ca2b.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/3d42c9f0351cf731faa71f3979d50cf4.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 4",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "b-king-tamers-spirit-mas-2026-e41d4310",
       "source": "phimapi",
       "slug": "ngu-linh-the-gioi",
@@ -853,7 +759,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 17",
+      "episodeCurrent": "Tập 18",
       "categories": [
         {
           "name": "Hành Động",
@@ -890,7 +796,7 @@
       "year": 2026,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
+      "episodeCurrent": "Hoàn Tất (26/26)",
       "categories": [
         {
           "name": "Khoa Học",
@@ -922,6 +828,84 @@
           "name": "Trung Quốc",
           "slug": "trung-quoc"
         },
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "mission-yozakura-family--2026-fe8c90f7",
+      "source": "phimapi",
+      "slug": "nhiem-vu-gia-dinh-yozakura-phan-2-yozakurasan-chi-no-daisakusen",
+      "name": "Nhiệm Vụ: Gia Đình Yozakura (Phần 2) (Yozakura-san Chi no Daisakusen)",
+      "originName": "Mission: Yozakura Family (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260422-1/c7c0e1cff16430f29e26beda0a793b9e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260422-1/4ab299c7351685f075f7cc9d3694fcfe.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 10",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "rezero-starting-life-in--2026-43126ef1",
+      "source": "phimapi",
+      "slug": "rezero-bat-dau-lai-o-the-gioi-khac-phan-4",
+      "name": "ReZERO - Bắt Đầu Lại Ở Thế Giới Khác (Phần 4)",
+      "originName": "ReZERO - Starting Life In Another World (Season 4)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/ffd6a732d5b223183fdcde2169e43b61.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/b2ee47fa752ddfa5793c46ae57537dde.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"

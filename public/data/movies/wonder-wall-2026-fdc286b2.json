@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/buc-tuong-me-cung-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (20/20)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -147,6 +147,46 @@
       "m3u8Url": "https://vip.opstream90.com/20260613/34790_56a5739a/index.m3u8"
     },
     {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6dc876e513f15999edb45e390a906ee9",
+      "m3u8Url": "https://vip.opstream90.com/20260615/34836_6dc876e5/index.m3u8"
+    },
+    {
+      "name": "17",
+      "slug": "17",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/94cd0468d6f321ec192c9e301ba30e85",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35135_94cd0468/index.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "18",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4ef88f93ef292fac0b477e6fac64236f",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35178_4ef88f93/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7888220d6fa80e0ba9f548a8ea9f1678",
+      "m3u8Url": "https://vip.opstream90.com/20260620/35269_7888220d/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f18e1e190060ee0af7d043f41d1f28df",
+      "m3u8Url": "https://vip.opstream90.com/20260620/35305_f18e1e19/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -265,19 +305,51 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/rp9u9UhL/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260614/rp9u9UhL/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260615/y1XT7BRU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260615/y1XT7BRU/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/Rb7ZyISE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/Rb7ZyISE/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/cymluvKn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/cymluvKn/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/iRQsoOKl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/iRQsoOKl/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "buc-tuong-me-cung",
-      "episodeCount": 15,
+      "episodeCount": 20,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "buc-tuong-me-cung",
-      "episodeCount": 15,
+      "episodeCount": 19,
       "priority": 1
     }
   ],

@@ -41,14 +41,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/806c472f05c8e1ec7b4eee6b9d2190b6",
       "m3u8Url": "https://vip.opstream90.com/20260612/34738_806c472f/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/aAvdYg5U/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260612/aAvdYg5U/index.m3u8"
     }
   ],
   "sources": [
@@ -57,12 +49,6 @@
       "slug": "toi-la-frankelda",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "toi-la-frankelda",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

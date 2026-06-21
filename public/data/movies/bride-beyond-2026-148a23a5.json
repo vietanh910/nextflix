@@ -1,0 +1,51 @@
+{
+  "id": "bride-beyond-2026-148a23a5",
+  "source": "phimapi",
+  "slug": "chuyen-vui-dem-kinh-hoang",
+  "name": "Chuyện Vui Đêm Kinh Hoàng",
+  "originName": "Bride Beyond",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/e9bd237815880116a97faefc4978af21.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/c187925ecf32679916a5426cb1fc7d71.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "Bác sĩ pháp y nữ Thẩm Nam Kiều cùng đội trưởng đội bảo vệ Vương Thiên Lượng điều tra vụ án &quot;hồn ma Hỷ Thần&quot;. Tuy nhiên, trong sương mù, họ tình cờ gặp phải những chiếc đèn lồng đỏ bay lơ lửng và vụ án bí ẩn về Hồng Cô Tử. Khi chuyện cũ dần được lật mở, tiếng khóc mỗi đêm càng lúc càng tiến gần. Nam Kiều dần phát hiện ra Hồng Cô Tử chưa chắc là quỷ, mà điều đáng sợ thật sự có lẽ từ đầu đến cuối vẫn luôn là con người.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/9Zl0Gr8g/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/9Zl0Gr8g/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chuyen-vui-dem-kinh-hoang",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

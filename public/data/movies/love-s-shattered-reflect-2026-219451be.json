@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260416-1/c0ddec0dcd021f43bfeda4f331177dd2.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (19/19)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -177,13 +177,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/PS7qwohV/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260611/PS7qwohV/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/JWnVfFBY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/JWnVfFBY/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "hinh-phat-vi-yeu-em",
-      "episodeCount": 18,
+      "episodeCount": 19,
       "priority": 1
     }
   ],

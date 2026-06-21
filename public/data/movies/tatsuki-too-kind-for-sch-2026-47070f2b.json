@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/thay-tatsuki-qua-de-tinh-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -99,6 +99,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260613/34779_9fcc8beb/index.m3u8"
     },
     {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1421d046e2c25a6ebad36a68d9f3be05",
+      "m3u8Url": "https://vip.opstream90.com/20260620/35273_1421d046/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -169,19 +177,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/kEn7GzYL/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260612/kEn7GzYL/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/9I2eA1Dc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/9I2eA1Dc/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thay-tatsuki-qua-de-tinh",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "thay-tatsuki-qua-de-tinh",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

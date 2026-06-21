@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/good-boys-go-to-heaven-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn tất (5/5)",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Chính kịch",
@@ -65,13 +65,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/998331528fa83423269d7650120521a9",
       "m3u8Url": "https://vip.opstream90.com/20260605/33840_99833152/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/47928638e0167f68b16389775b44aebd",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35208_47928638/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "good-boys-go-to-heaven",
-      "episodeCount": 5,
+      "episodeCount": 6,
       "priority": 0
     }
   ],

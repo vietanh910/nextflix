@@ -1,0 +1,77 @@
+{
+  "id": "strong-will-2026-91f12c10",
+  "source": "ophim",
+  "slug": "y-chi-kim-cuong",
+  "name": "Ý Chí Kim Cương",
+  "originName": "Strong Will",
+  "posterUrl": "https://img.ophim.live/uploads/movies/y-chi-kim-cuong-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/y-chi-kim-cuong-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8e6e06a58f303366beafb4b5ad924118",
+      "m3u8Url": "https://vip.opstream90.com/20260620/35274_8e6e06a5/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2db559a91e35ed06d98446aa9cbbcc73",
+      "m3u8Url": "https://vip.opstream90.com/20260620/35275_2db559a9/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/kS7PPTdg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/kS7PPTdg/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/sEHomcC8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/sEHomcC8/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "y-chi-kim-cuong",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "y-chi-kim-cuong",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

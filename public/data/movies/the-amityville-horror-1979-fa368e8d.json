@@ -1,0 +1,47 @@
+{
+  "id": "the-amityville-horror-1979-fa368e8d",
+  "source": "phimapi",
+  "slug": "ngoi-nha-rung-ron-chuyen-rung-ron-o-amityville",
+  "name": "Ngôi Nhà Rùng Rợn (Chuyện Rùng Rợn Ở Amityville)",
+  "originName": "The Amityville Horror",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/73846efaddf59d183aea9916f6be49a2.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/b63fe582e568f96bc7889057763b0aae.jpg",
+  "year": 1979,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "George Lutz và vợ Kathleen chuyển đến ngôi nhà mơ ước ở Long Island cùng các con chỉ để rồi cuộc sống của họ biến thành cơn ác mộng địa ngục. Di chứng của một vụ giết người trong nhà dần dần ảnh hưởng đến gia đình và một linh mục được đưa đến để cố gắng xua đuổi sự hiện diện của ma quỷ khỏi nhà của họ.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/6hEjmq51/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/6hEjmq51/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ngoi-nha-rung-ron-chuyen-rung-ron-o-amityville",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

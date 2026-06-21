@@ -1,0 +1,51 @@
+{
+  "id": "maternal-instinct-2026-da2c766b",
+  "source": "phimapi",
+  "slug": "ban-nang-lam-me",
+  "name": "Bản năng làm mẹ",
+  "originName": "Maternal Instinct",
+  "posterUrl": "https://phimimg.com/upload/vod/20260619-1/4d1ebfbab8385a88f2cbcb05c59a4547.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/99ff875e9e78e69ddc16c707f21180af.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Một người phụ nữ bị cảnh sát chặn xe và khai rằng vừa sinh con. Nhưng đứa bé và máu đều không phải của cô ta. Lời dối trá hiểm độc bị phơi bày trong phim tài liệu về tội phạm này.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/8gazRMRu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/8gazRMRu/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ban-nang-lam-me",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

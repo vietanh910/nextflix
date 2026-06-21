@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hành Động",
@@ -57,13 +57,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/Z7LBsXsd/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260612/Z7LBsXsd/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/iRrj5CnU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/iRrj5CnU/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tieu-nhan-phan-2",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 1
     }
   ],

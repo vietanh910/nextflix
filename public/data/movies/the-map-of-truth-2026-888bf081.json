@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260530-1/8ed448bc0f53ac21dff267eb19f13fd5.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (20/20)",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -167,6 +167,30 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260613/oTsXTHyL/index.m3u8"
     },
     {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260615/EkouNWTH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260615/EkouNWTH/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/oVoG5kIO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/oVoG5kIO/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/3B98cmML/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/3B98cmML/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Lồng Tiếng)",
@@ -301,13 +325,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/0r9uzpF8/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260613/0r9uzpF8/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260615/HmdaS7Fe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260615/HmdaS7Fe/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/RPZN0x47/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/RPZN0x47/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/z0kSehSX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/z0kSehSX/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "kham-pha-huyen-bi",
-      "episodeCount": 34,
+      "episodeCount": 40,
       "priority": 1
     }
   ],

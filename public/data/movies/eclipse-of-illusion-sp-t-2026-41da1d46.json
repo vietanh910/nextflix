@@ -1,0 +1,67 @@
+{
+  "id": "eclipse-of-illusion-sp-t-2026-41da1d46",
+  "source": "phimapi",
+  "slug": "van-tham-bat-tri-mong-tran-chien-truc-minh",
+  "name": "Vân Thâm Bất Tri Mộng: Trận Chiến Trục Minh",
+  "originName": "Eclipse of Illusion SP: The Miasma War",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/749b6ccbd20872c2af55f124de61e2f2.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/30b4d6858f5fc455d96581b16fc27c47.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "Hi Hòa, hay Vân Vọng Thư, là cái tên đã gắn liền với vô số bi kịch và ân oán ngay từ những ngày đầu của câu chuyện. Từng bị đẩy vào cảnh sống không bằng chết, mang theo nỗi hận sâu tận cốt tủy, nàng đã chấp nhận đánh đổi tất cả để truy tìm công đạo và khiến những kẻ đứng sau mọi đau khổ phải trả giá. Thế nhưng lần này, thử thách trước mắt còn lớn hơn những mối thù cá nhân năm xưa. Khi một cuộc phản loạn đẫm máu bùng phát, cục diện nhanh chóng vượt khỏi khả năng kiểm soát. Bị Ma tộc Khung Minh từng bước áp chế, Hi Hòa buộc phải lựa chọn một con đường khác, rời khỏi vòng xoáy hiện tại để truy tìm Đồ Ma Thần Kiếm, bảo vật được lưu truyền với sức mạnh đủ để xoay chuyển thời cuộc. Nhưng thần binh ấy cũng giống như một lưỡi kiếm hai mặt. Nó có thể trở thành chìa khóa để hóa giải căn nguyên của tai họa đang lan rộng, song đồng thời cũng là mục tiêu mà vô số thế lực khao khát chiếm đoạt. Càng tiến sâu vào hành trình, Hi Hòa càng nhận ra rằng điều đang chờ phía trước không chỉ là những hiểm nguy sinh tử, mà còn là một cuộc phong ba có thể cuốn cả thiên hạ vào vòng tranh đoạt khốc liệt. Con đường tìm kiếm Đồ Ma Thần Kiếm vì thế không đơn thuần là hành trình cứu thế, mà còn là cuộc chiến với số phận giữa thời đại đầy biến động.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/syrJCgMM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/syrJCgMM/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/XDUxOpBR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/XDUxOpBR/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "van-tham-bat-tri-mong-tran-chien-truc-minh",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

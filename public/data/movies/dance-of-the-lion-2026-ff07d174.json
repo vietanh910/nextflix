@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -119,6 +119,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260611/pngphJEh/index.m3u8"
     },
     {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/yreAYMit/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/yreAYMit/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/x8WfNu6R/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/x8WfNu6R/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -189,19 +205,35 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/f136cbc6bfca2fc13d46f42b44d450c6",
       "m3u8Url": "https://vip.opstream90.com/20260609/34376_f136cbc6/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/57c29a4600a00164ce8b7f527b6bccc5",
+      "m3u8Url": "https://vip.opstream90.com/20260615/34837_57c29a46/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4e22b8fce8e33dc8d007891eff17d343",
+      "m3u8Url": "https://vip.opstream90.com/20260615/34838_4e22b8fc/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dance-of-the-lion",
-      "episodeCount": 9,
+      "episodeCount": 11,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "dieu-mua-lan-su-rong",
-      "episodeCount": 11,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

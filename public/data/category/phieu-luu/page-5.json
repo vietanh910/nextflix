@@ -5,146 +5,121 @@
   "totalPages": 5,
   "items": [
     {
-      "id": "martial-master-2020-ecd7c826",
-      "source": "ophim",
-      "slug": "vo-than-chua-te",
-      "name": "Võ Thần Chúa Tể",
-      "originName": "Martial Master",
-      "posterUrl": "https://img.ophim.live/uploads/movies/vo-than-chua-te-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/vo-than-chua-te-thumb.jpg",
+      "id": "force-of-nature-2020-f892de18",
+      "source": "phimapi",
+      "slug": "phi-vu-bao-to",
+      "name": "Phi Vụ Bão Tố",
+      "originName": "Force of Nature",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/1c5bae7e922c3324a077fac7ad11c8fe.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/f889b2b6d36e1129e20290d009830a4b.jpg",
       "year": 2020,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 652",
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "supreme-god-emperor-2020-00ee0974",
-      "source": "ophim",
-      "slug": "vo-thuong-than-de",
-      "name": "Vô Thượng Thần Đế",
-      "originName": "Supreme God Emperor",
-      "posterUrl": "https://img.ophim.live/uploads/movies/vo-thuong-than-de-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/vo-thuong-than-de-thumb.jpg",
-      "year": 2020,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 595",
-      "categories": [
-        {
-          "name": "Võ Thuật",
-          "slug": "vo-thuat"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "a-record-of-a-mortal-s-j-2020-5011a3b3",
+      "id": "the-call-of-the-wild-2020-2c96089c",
       "source": "phimapi",
-      "slug": "pham-nhan-tu-tien",
-      "name": "Phàm Nhân Tu Tiên",
-      "originName": "A Record of a Mortal's Journey to Immortality",
-      "posterUrl": "https://phimimg.com/upload/vod/20240715-1/ed827a6e5d8f7c41aa0728403665cd87.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240715-1/fe09a10062768cca301682eba6c8245b.jpg",
+      "slug": "tieng-goi-noi-hoang-da-2020",
+      "name": "Tiếng Gọi Nơi Hoang Dã",
+      "originName": "The Call Of The Wild",
+      "posterUrl": "https://phimimg.com/upload/vod/20251214-1/91d87b1b502c1cae0f67eadca5343319.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251214-1/ec27062ebf6c092f4d6b1ce099df4fbc.jpg",
       "year": 2020,
-      "type": "anime",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Tập 178",
+      "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Thần Thoại",
-          "slug": "than-thoai"
-        },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "return-of-the-guard-2018-2400b11b",
-      "source": "phimapi",
-      "slug": "thai-duong-huyet-kiem",
-      "name": "Thái Dương Huyết Kiếm",
-      "originName": "Return Of The Guard",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/10c4bc5bdb8baa817fe0cb1562d45e00.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/77e477ac7dbbb2d35f2dc2fab6dae765.jpg",
-      "year": 2018,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (10/10)",
-      "categories": [
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sgt-stubby-an-american-h-2018-57c277ac",
+      "source": "phimapi",
+      "slug": "chu-cho-anh-hung",
+      "name": "Chú Chó Anh Hùng",
+      "originName": "Sgt. Stubby: An American Hero",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/ab9583aaefd36e872e2af6f8f0b3a159.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/4e95ec94de00a1e3b2405df5bef56928.jpg",
+      "year": 2018,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -159,7 +134,7 @@
       "year": 2016,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
@@ -190,43 +165,39 @@
       ]
     },
     {
-      "id": "swiss-army-man-2016-06f1f889",
+      "id": "magi-adventure-of-sinbad-2016-c618ea28",
       "source": "phimapi",
-      "slug": "xac-chet-biet-noi",
-      "name": "Xác Chết Biết Nói",
-      "originName": "Swiss Army Man",
-      "posterUrl": "https://phimimg.com/upload/vod/20260602-1/f49e710d9ced628b933bec7fc137a79d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260602-1/b6d578efd18511629e5ea5554c93a670.jpg",
+      "slug": "magi-sinbad-phieu-luu-ky",
+      "name": "Magi: Sinbad Phiêu Lưu Ký",
+      "originName": "Magi: Adventure Of Sinbad",
+      "posterUrl": "https://phimimg.com/upload/vod/20260619-1/ce460bf96093e4603a3503c5935e7fd8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/84f2b15a71ea1c6e0f22c5cc86a85be2.jpg",
       "year": 2016,
-      "type": "single",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -366,6 +337,47 @@
       ]
     },
     {
+      "id": "magi-season-2-the-kingdo-2013-2e59c719",
+      "source": "phimapi",
+      "slug": "vuong-quoc-ma-thuat-phan-2",
+      "name": "Vương Quốc Ma Thuật (Phần 2)",
+      "originName": "Magi (Season 2) (The Kingdom Of Magic)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260111-1/227f938f194029f46c03654af6c6aa92.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/5b3698cbbc2f4d0772de95b6c8b08c50.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "falling-skies-season-2-2012-fdd699fb",
       "source": "ophim",
       "slug": "bau-troi-sup-do-phan-2",
@@ -407,6 +419,47 @@
         {
           "name": "Canada",
           "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "magi-season-1-the-labyri-2012-364fe780",
+      "source": "phimapi",
+      "slug": "vuong-quoc-ma-thuat-phan-1",
+      "name": "Vương Quốc Ma Thuật (Phần 1)",
+      "originName": "Magi (Season 1) (The Labyrinth Of Magic)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260111-1/d526855ddade086247a0f26fb2fc9557.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/a71642f227da46c19ff1d4fd77f25a5a.jpg",
+      "year": 2012,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -456,80 +509,72 @@
       ]
     },
     {
-      "id": "justice-bao-arbiter-of-l-2010-fe2daa7e",
-      "source": "phimapi",
-      "slug": "bao-thanh-thien-bich-huyet-tam-dan",
-      "name": "Bao Thanh Thiên: Bích Huyết Tâm Đan",
-      "originName": "Justice Bao: Arbiter Of Loyalty Unto Death",
-      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/6385ca6cf86d31424d71f6a3bfeeac07.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/0ca5678b6c8f50cb44b32f3f3cd34592.jpg",
+      "id": "running-man-2010-6c95665c",
+      "source": "ophim",
+      "slug": "thu-thach-than-tuong",
+      "name": "Thử Thách Thần Tượng",
+      "originName": "RUNNING MAN",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thu-thach-than-tuong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thu-thach-than-tuong-thumb.jpg",
       "year": 2010,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
+      "type": "tvshow",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 804",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
     {
-      "id": "justice-bao-the-seven-he-2009-b07fedd2",
+      "id": "the-contractor-2007-99e33475",
       "source": "phimapi",
-      "slug": "bao-thanh-thien-that-hiep-ngu-nghia",
-      "name": "Bao Thanh Thiên: Thất Hiệp Ngũ Nghĩa",
-      "originName": "Justice Bao: The Seven Heroes And Five Gallants",
-      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/79942cb29045b8c29a891eeacb81584f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/814f8c000f1baf3611d66caa646f73d6.jpg",
-      "year": 2009,
-      "type": "series",
+      "slug": "hop-dong-doat-mang",
+      "name": "Hợp đồng đoạt mạng",
+      "originName": "The Contractor",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/4b3bb1dfc9ee38c2d773ba540a476038.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/075712b0c464cddd5011d3dbc96469e6.jpg",
+      "year": 2007,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -544,7 +589,7 @@
       "year": 1999,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1165",
+      "episodeCurrent": "Tập 1166",
       "categories": [
         {
           "name": "Hành Động",
@@ -557,39 +602,6 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "one-piece-1999-09306878",
-      "source": "phimapi",
-      "slug": "dao-hai-tac",
-      "name": "Đảo Hải Tặc",
-      "originName": "One Piece",
-      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/31e6c244a0673838a46732d3b4f0b190.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/d61250d0c1670917fd783a1b48cbb29c.jpg",
-      "year": 1999,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1165",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
         }
       ],
       "countries": [

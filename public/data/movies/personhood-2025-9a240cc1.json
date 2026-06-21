@@ -1,0 +1,59 @@
+{
+  "id": "personhood-2025-9a240cc1",
+  "source": "phimapi",
+  "slug": "nhan-cach",
+  "name": "Nhân cách",
+  "originName": "Personhood",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/438a7de4397605b3f8c7aa691c810fac.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/6696b10791bd0ec9ca0d5c67251e27c6.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Tây Ban Nha",
+      "slug": "tay-ban-nha"
+    }
+  ],
+  "description": "Trong một thế giới tương lai gần, một người đàn ông cô đơn, tàn tật mua một con robot bầu bạn để thoát khỏi sự cô lập, nhưng sự tự ti của bản thân và người anh trai ghen tị đe dọa cơ hội tìm thấy tình yêu của anh.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/Pn1AfOYm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/Pn1AfOYm/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nhan-cach",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

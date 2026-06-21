@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/cdb42be74223b974d82efb2b04b966d6.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (12/12)",
   "categories": [
     {
       "name": "Hành Động",
@@ -125,15 +125,117 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/Itf4c5W4/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260611/Itf4c5W4/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/160GXu1t/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/160GXu1t/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/542bf0e35efe1a69007162b6219ea4c6",
+      "m3u8Url": "https://vip.opstream90.com/20260411/29253_542bf0e3/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5ca429b0056550eab08bcfe770eaf98e",
+      "m3u8Url": "https://vip.opstream90.com/20260411/29254_5ca429b0/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/282b71a86a960e117b12b24d88aff20e",
+      "m3u8Url": "https://vip.opstream90.com/20260417/29654_282b71a8/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/69a00482c2cdb3143b81404c6258f316",
+      "m3u8Url": "https://vip.opstream90.com/20260511/31516_69a00482/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8ccac9113628ef98fb521ea5ca319a70",
+      "m3u8Url": "https://vip.opstream90.com/20260511/31517_8ccac911/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bc7ee059ae7fecbf11cc7a8855671b6e",
+      "m3u8Url": "https://vip.opstream90.com/20260511/31518_bc7ee059/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d147b0de6e1d581bc0cda66066486a96",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35162_d147b0de/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5751693536add9cb4b813590b0fedbf9",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35163_57516935/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a0675cdf2f0553632cab932d02188333",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35164_a0675cdf/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/64329af3e5dc362feda36f2bb623a515",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35165_64329af3/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7dd9419b1aa8fa048eac9bb1cfd98f68",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35166_7dd9419b/index.m3u8"
     }
   ],
   "sources": [
     {
-      "source": "phimapi",
+      "source": "ophim",
       "slug": "monster-eater",
       "episodeCount": 11,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "monster-eater",
+      "episodeCount": 12,
       "priority": 1
     }
   ],
-  "_priority": 1
+  "_priority": 0
 }

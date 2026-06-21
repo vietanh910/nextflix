@@ -1,0 +1,63 @@
+{
+  "id": "door-lock-2018-7f1595b4",
+  "source": "phimapi",
+  "slug": "o-khoa-tu-than-ke-dot-nhap",
+  "name": "Ổ Khóa Tử Thần (Kẻ Đột Nhập)",
+  "originName": "Door Lock",
+  "posterUrl": "https://phimimg.com/upload/vod/20260619-1/540455b8b28f7175c7d9b32d24d9c1fc.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/141321bf01facfa7ff5c5a0d0a8d4bae.jpg",
+  "year": 2018,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "Một ngày bình thường, Kyeong Min về nhà và phát hiện ra toàn bộ hệ thống đèn chiếu sáng đã bị hỏng. Khi đang loay hoay bật đèn pin để xem xét tình hình thì cô bỗng nghe thấy tiếng động lạ.",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/gZ5g3c3Y/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/gZ5g3c3Y/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/XlUzjj3D/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/XlUzjj3D/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "o-khoa-tu-than-ke-dot-nhap",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "completed",
-  "episodeCurrent": "Tập 77",
+  "episodeCurrent": "Tập 78",
   "categories": [
     {
       "name": "Hành Động",
@@ -657,13 +657,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/HLJmFoxL/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260611/HLJmFoxL/index.m3u8"
+    },
+    {
+      "name": "Tập 78",
+      "slug": "tap-78",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/3RieCdrf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/3RieCdrf/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dai-chua-te-3d",
-      "episodeCount": 77,
+      "episodeCount": 78,
       "priority": 1
     }
   ],

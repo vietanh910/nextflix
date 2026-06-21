@@ -1,0 +1,55 @@
+{
+  "id": "marama-2026-668a1702",
+  "source": "phimapi",
+  "slug": "mat-trang-2026",
+  "name": "Mặt trăng",
+  "originName": "Mārama",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/e0ff77a61b865ee7e7e6002d8a1d0fc6.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/1342f494446eabeb5f31b30f5984ccce.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "Năm 1859. Khi một phụ nữ trẻ người Māori được triệu tập từ New Zealand đến North Yorkshire, cô phát hiện ra di sản thuộc địa kinh hoàng của mình và buộc phải đối đầu và tiêu diệt người đàn ông Anh quý tộc đã tàn phá gia đình cô.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/0aBELiqd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/0aBELiqd/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "mat-trang-2026",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

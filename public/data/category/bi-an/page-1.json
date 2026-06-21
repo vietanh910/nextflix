@@ -2,7 +2,7 @@
   "slug": "bi-an",
   "name": "Bí ẩn",
   "page": 1,
-  "totalPages": 2,
+  "totalPages": 3,
   "items": [
     {
       "id": "vought-rising-2027-d5e1e4aa",
@@ -85,7 +85,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hình Sự",
@@ -113,8 +113,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/bi-an-thi-tran-widows-bay-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -170,6 +170,39 @@
       ]
     },
     {
+      "id": "i-will-find-you-2026-8490ce31",
+      "source": "ophim",
+      "slug": "cha-se-tim-con",
+      "name": "Cha sẽ tìm con",
+      "originName": "I Will Find You",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cha-se-tim-con-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cha-se-tim-con-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "classroom-of-the-elite-s-2026-9c495d99",
       "source": "ophim",
       "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
@@ -180,7 +213,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 14",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Chính kịch",
@@ -368,6 +401,39 @@
       ]
     },
     {
+      "id": "archives-the-nanyang-mys-2026-69875541",
+      "source": "ophim",
+      "slug": "ho-so-nam-bo",
+      "name": "Hồ Sơ Nam Bộ",
+      "originName": "Archives: The Nanyang Mystery",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ho-so-nam-bo-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ho-so-nam-bo-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 24",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "reverse-2026-da0ab72d",
       "source": "ophim",
       "slug": "ke-thu-chung-giuong",
@@ -406,8 +472,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/lai-co-an-mang-nua-roi-thua-tham-tu-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Bí ẩn",
@@ -432,7 +498,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Chính kịch",
@@ -608,6 +674,39 @@
       ]
     },
     {
+      "id": "oasis-2026-4c9e29cf",
+      "source": "ophim",
+      "slug": "oasis-2026",
+      "name": "Oasis",
+      "originName": "Oasis",
+      "posterUrl": "https://img.ophim.live/uploads/movies/oasis-2026-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/oasis-2026-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (8/8)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        }
+      ]
+    },
+    {
       "id": "the-boroughs-2026-f03a80f9",
       "source": "ophim",
       "slug": "phien-quan-toc-xam",
@@ -664,97 +763,6 @@
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "privileges-2026-32f5cf8b",
-      "source": "ophim",
-      "slug": "privileges",
-      "name": "Privilèges",
-      "originName": "Privileges",
-      "posterUrl": "https://img.ophim.live/uploads/movies/privileges-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/privileges-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
-        }
-      ]
-    },
-    {
-      "id": "reborn-2026-e043db23",
-      "source": "ophim",
-      "slug": "reborn",
-      "name": "Reborn",
-      "originName": "Reborn",
-      "posterUrl": "https://img.ophim.live/uploads/movies/reborn-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/reborn-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 8",
-      "categories": [
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "spider-noir-2026-987ffcf7",
-      "source": "ophim",
-      "slug": "spider-noir",
-      "name": "Spider-Noir",
-      "originName": "Spider-Noir",
-      "posterUrl": "https://img.ophim.live/uploads/movies/spider-noir-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/spider-noir-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
         },
         {
           "name": "Bí ẩn",

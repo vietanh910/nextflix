@@ -9,7 +9,7 @@
   "year": 2005,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1201",
+  "episodeCurrent": "Tập 1203",
   "categories": [
     {
       "name": "Hành Động",
@@ -8524,13 +8524,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/c7e07c312fd6bafc9f5192b3dfdf3d3f",
       "m3u8Url": "https://vip.opstream90.com/20260525/32884_c7e07c31/index.m3u8"
+    },
+    {
+      "name": "1202",
+      "slug": "1202",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2c5f83d0bfb61e0cebc37ba5ab7f9573",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34879_2c5f83d0/index.m3u8"
+    },
+    {
+      "name": "1203",
+      "slug": "1203",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c736b91eecdcfc795549afee33c96ce4",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34880_c736b91e/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tham-tu-lung-danh-conan",
-      "episodeCount": 1061,
+      "episodeCount": 1063,
       "priority": 0
     }
   ],

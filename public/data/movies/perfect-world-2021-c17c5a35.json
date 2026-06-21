@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 272",
+  "episodeCurrent": "Tập 274",
   "categories": [
     {
       "name": "Hành Động",
@@ -2213,6 +2213,22 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/afbaf584fc421873bc405e388c95e220",
       "m3u8Url": "https://vip.opstream90.com/20260611/34537_afbaf584/index.m3u8"
+    },
+    {
+      "name": "273",
+      "slug": "273",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/45f23f73d34a1990256bfa70848fc7bf",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35233_45f23f73/index.m3u8"
+    },
+    {
+      "name": "274",
+      "slug": "274",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5361754d7fa731dc4608adc1ec4c335f",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35234_5361754d/index.m3u8"
     },
     {
       "name": "1",
@@ -4789,19 +4805,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/nWkEr9a4/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260611/nWkEr9a4/index.m3u8"
+    },
+    {
+      "name": "Tập 274",
+      "slug": "tap-274",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/sALfGF6h/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/sALfGF6h/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "the-gioi-hoan-my",
-      "episodeCount": 321,
+      "episodeCount": 323,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "the-gioi-hoan-my",
-      "episodeCount": 273,
+      "episodeCount": 274,
       "priority": 1
     }
   ],

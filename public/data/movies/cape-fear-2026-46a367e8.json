@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Hình Sự",
@@ -53,13 +53,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/28c2e57cafe13702f08bc17fb8800f11",
       "m3u8Url": "https://vip.opstream90.com/20260612/34707_28c2e57c/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/22c64ea90b762e830ec7019dcfe43fd2",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35228_22c64ea9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dong-song-toi-ac-2026",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 0
     }
   ],

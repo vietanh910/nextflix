@@ -1,0 +1,83 @@
+{
+  "id": "mildred-pierce-2011-307ad709",
+  "source": "phimapi",
+  "slug": "mildred-pierce",
+  "name": "Mildred Pierce",
+  "originName": "Mildred Pierce",
+  "posterUrl": "https://phimimg.com/upload/vod/20260620-1/f2559a3a5f8a95f5394cc34d7004dd9f.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/6ec1db548023760cdc80a653d00d2994.jpg",
+  "year": 2011,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (5/5)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Bộ phim truyền hình ngắn do HBO sản xuất xoay quanh hành trình của một phụ nữ trẻ từ một bà nội trợ trở thành chủ nhân chuỗi nhà hàng nổi tiếng trong thập kỉ 1940.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/oW2ZXM2J/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/oW2ZXM2J/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/gWFOHINL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/gWFOHINL/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/m5V6xkuI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/m5V6xkuI/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/jmlcIS9A/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/jmlcIS9A/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/f1NeyC8M/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/f1NeyC8M/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "mildred-pierce",
+      "episodeCount": 5,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -2,78 +2,8 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 3,
-  "totalPages": 7,
+  "totalPages": 6,
   "items": [
-    {
-      "id": "margo-s-got-money-troubl-2026-5a3a5ba2",
-      "source": "ophim",
-      "slug": "rac-roi-tien-bac-cua-margo",
-      "name": "Rắc Rối Tiền Bạc Của Margo",
-      "originName": "Margo's Got Money Troubles",
-      "posterUrl": "https://img.ophim.live/uploads/movies/rac-roi-tien-bac-cua-margo-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/rac-roi-tien-bac-cua-margo-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "rick-and-morty-season-9-2026-048e4cd2",
-      "source": "ophim",
-      "slug": "rick-va-morty-phan-9",
-      "name": "Rick và Morty (Phần 9)",
-      "originName": "Rick and Morty (Season 9)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 3",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
     {
       "id": "murder-mindfully-season--2026-e653f1bf",
       "source": "ophim",
@@ -117,8 +47,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-quay-marsupilami-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hài Hước",
@@ -298,6 +228,31 @@
       ]
     },
     {
+      "id": "voicemails-for-isabelle-2026-1a76548e",
+      "source": "ophim",
+      "slug": "thu-thoai-cua-isabelle",
+      "name": "Thư Thoại Của Isabelle",
+      "originName": "Voicemails for Isabelle",
+      "posterUrl": "https://img.ophim.live/uploads/movies/thu-thoai-cua-isabelle-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/thu-thoai-cua-isabelle-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "i-want-to-end-this-love--2026-bc28992b",
       "source": "ophim",
       "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
@@ -308,7 +263,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hài Hước",
@@ -457,7 +412,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Hài Hước",
@@ -594,7 +549,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -621,25 +576,25 @@
       ]
     },
     {
-      "id": "yumi-s-cells-season-3-2026-64a32f72",
+      "id": "a-gift-from-heaven-2026-147f1a11",
       "source": "phimapi",
-      "slug": "cac-te-bao-cua-yumi-phan-3",
-      "name": "Các Tế Bào Của Yumi (Phần 3)",
-      "originName": "Yumi's Cells (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260515-1/9bdab524f98b5904ac478b03c17853b3.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260515-1/57f28e5e6d6399e53687174216c67bf6.jpg",
+      "slug": "bau-vat-troi-cho",
+      "name": "Báu vật trời cho",
+      "originName": "A Gift From Heaven",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/e2e53013ccd1944bf8570ee9dbc233f2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4344fce68030e677b52a8da8e6eb2c81.jpg",
       "year": 2026,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (8/8)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
         },
         {
           "name": "Tình Cảm",
@@ -648,45 +603,37 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     },
     {
-      "id": "fight-against-evil-3-2026-1ebab3d3",
+      "id": "bhooth-bangla-2026-c4ffbb95",
       "source": "phimapi",
-      "slug": "cau-chuyen-canh-sat-dong-bac-3",
-      "name": "Câu Chuyện Cảnh Sát Đông Bắc 3",
-      "originName": "Fight Against Evil 3",
-      "posterUrl": "https://phimimg.com/upload/vod/20260601-1/e9f85e28142bd165ee83b8d0bc147403.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260601-1/7b75e8ba030220788fcc8868d0447b88.jpg",
+      "slug": "bhooth-bangla",
+      "name": "Bhooth Bangla",
+      "originName": "Bhooth Bangla",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/06ec4c0e0be0f474f32284dc7db9d591.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/9b69cedaa54dcbc45db0ebc10916d6e6.jpg",
       "year": 2026,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Ấn Độ",
+          "slug": "an-do"
         }
       ]
     },
@@ -701,7 +648,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -728,29 +675,21 @@
       ]
     },
     {
-      "id": "my-ribdiculous-reincarna-2026-5a4b4c16",
+      "id": "reborn-as-a-vending-mach-2026-10c9f6b8",
       "source": "phimapi",
-      "slug": "chuyen-sinh-thanh-xuong-suon-cua-dung-si",
-      "name": "Chuyển Sinh Thành Xương Sườn Của Dũng Sĩ",
-      "originName": "My Ribdiculous Reincarnation",
-      "posterUrl": "https://phimimg.com/upload/vod/20260420-1/2c2cf03c6ca0da1a3c07ccef9ad9ca03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/1e00b55b2c565774b0c608230682a429.jpg",
+      "slug": "chuyen-sinh-thanh-may-ban-hang-va-vuot-ai-ham-nguc-phan-3",
+      "name": "Chuyển Sinh Thành Máy Bán Hàng Và Vượt Ải Hầm Ngục (Phần 3)",
+      "originName": "Reborn As A Vending Machine, I Now Wander The Dungeon (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260512-1/8029ff3ad5249c83e797a215873f3bd8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260512-1/4d67322c07ddba99029c00d35aeab034.jpg",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         },
         {
           "name": "Hành Động",
@@ -759,6 +698,51 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "yowayowa-sensei-2026-e3646489",
+      "source": "phimapi",
+      "slug": "co-giao-mong-manh",
+      "name": "Cô Giáo Mong Manh",
+      "originName": "Yowayowa Sensei",
+      "posterUrl": "https://phimimg.com/upload/vod/20260412-1/19bcb2fe9fffcffac5b8aaa39d70bb49.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260412-1/6628eba132a80e128aa310548de1db89.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [

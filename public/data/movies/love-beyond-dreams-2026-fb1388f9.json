@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260508-1/85054419ff7554857bd5a123dd4b0b49.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (7/7)",
   "categories": [
     {
       "name": "Khoa Học",
@@ -85,13 +85,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/FGUtGgAO/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260610/FGUtGgAO/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/Vlig5tBJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/Vlig5tBJ/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "lan-nua-den-ben-em",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

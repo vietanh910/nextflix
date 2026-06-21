@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Hành Động",
@@ -85,13 +85,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/qTN0XZhr/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260612/qTN0XZhr/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/MvzfEzy4/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/MvzfEzy4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "karna-nguoi-bao-ve",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

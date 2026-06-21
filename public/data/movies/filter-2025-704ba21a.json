@@ -617,13 +617,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/CFQGJ8xw/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260608/CFQGJ8xw/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/1sNehgex/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/1sNehgex/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/MUwO0iQJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/MUwO0iQJ/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Lồng Tiếng)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/ryypGSgE/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/ryypGSgE/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "chiec-vong-ky-ao-lu-kinh-bo-loc",
-      "episodeCount": 73,
+      "episodeCount": 76,
       "priority": 1
     }
   ],

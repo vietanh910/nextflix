@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hành Động",
@@ -49,13 +49,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/a3730c053af5cc03c79a0ec559f404c5",
       "m3u8Url": "https://vip.opstream90.com/20260611/34535_a3730c05/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/48ac3f2c97f8d0a311a7b1ba0eb6cbf8",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35231_48ac3f2c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tieu-nhan-phan-2",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 0
     }
   ],

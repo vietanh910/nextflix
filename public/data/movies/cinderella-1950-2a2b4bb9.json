@@ -1,0 +1,67 @@
+{
+  "id": "cinderella-1950-2a2b4bb9",
+  "source": "phimapi",
+  "slug": "lo-lem",
+  "name": "Lọ Lem",
+  "originName": "Cinderella",
+  "posterUrl": "https://phimimg.com/upload/vod/20260620-1/416227159d018f37df4898bb89c9d24a.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/328198f7652abde8aff5fe6942ab673e.jpg",
+  "year": 1950,
+  "type": "anime",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Cô bé Lọ Lem tin rằng ước mơ về một cuộc sống tốt đẹp hơn sẽ thành hiện thực. Với sự giúp đỡ từ những người bạn chuột trung thành của cô ấy và một làn sóng đũa phép của Fairy Godmother, những miếng giẻ rách của Cinderella được biến thành một chiếc áo choàng lộng lẫy một cách kỳ diệu và cô ấy đi đến Royal Ball. Nhưng khi đồng hồ điểm nửa đêm, câu thần chú bị phá vỡ, để lại một chiếc dép thủy tinh duy nhất... chìa khóa duy nhất cho kết thúc câu chuyện cổ tích cuối cùng!",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/tt5AhYtn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/tt5AhYtn/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/V6DeGO9a/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/V6DeGO9a/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "lo-lem",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

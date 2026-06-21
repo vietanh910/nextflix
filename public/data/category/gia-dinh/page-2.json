@@ -5,39 +5,14 @@
   "totalPages": 2,
   "items": [
     {
-      "id": "giac-mo-my-2017-1e97bed0",
+      "id": "cinderella-1950-2a2b4bb9",
       "source": "phimapi",
-      "slug": "giac-mo-my-2017",
-      "name": "Giấc Mơ Mỹ",
-      "originName": "Giấc Mơ Mỹ",
-      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/d13374a3d0dd2e7b58c0d88382cdb109.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/93080dce44af9513173c32643dc65a7e.jpg",
-      "year": 2017,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "monsters-university-2013-fc29cd88",
-      "source": "phimapi",
-      "slug": "lo-dao-tao-quai-vat",
-      "name": "Lò Đào Tạo Quái Vật",
-      "originName": "Monsters University",
-      "posterUrl": "https://phimimg.com/upload/vod/20250327-1/825f227bb0a3cd8a94f7e78d4be22684.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20250327-1/35133f045f3cf2541866c708819b9f86.jpg",
-      "year": 2013,
+      "slug": "lo-lem",
+      "name": "Lọ Lem",
+      "originName": "Cinderella",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/416227159d018f37df4898bb89c9d24a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/328198f7652abde8aff5fe6942ab673e.jpg",
+      "year": 1950,
       "type": "anime",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -45,6 +20,18 @@
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [

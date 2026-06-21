@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hài Hước",
@@ -51,8 +51,8 @@
       "slug": "tap-02",
       "serverName": "#Hà Nội (Vietsub)",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260422/UOUY4HzM/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260422/UOUY4HzM/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/Tz0o4MRV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/Tz0o4MRV/index.m3u8"
     },
     {
       "name": "Tập 03",
@@ -109,13 +109,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/qKZwoAbB/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260612/qKZwoAbB/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260615/UEzKFIp8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260615/UEzKFIp8/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhiem-vu-gia-dinh-yozakura-phan-2-yozakurasan-chi-no-daisakusen",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

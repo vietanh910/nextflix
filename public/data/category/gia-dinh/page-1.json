@@ -2,8 +2,41 @@
   "slug": "gia-dinh",
   "name": "Gia Đình",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 2,
   "items": [
+    {
+      "id": "toy-story-5-2026-aff042da",
+      "source": "ophim",
+      "slug": "cau-chuyen-do-choi-5",
+      "name": "Câu Chuyện Đồ Chơi 5",
+      "originName": "Toy Story 5",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-do-choi-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-do-choi-5-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
     {
       "id": "the-magic-faraway-tree-2026-39838032",
       "source": "ophim",
@@ -195,6 +228,39 @@
       ]
     },
     {
+      "id": "panda-plan-2-the-magical-2026-837e1140",
+      "source": "ophim",
+      "slug": "ke-hoach-gau-truc-2-bo-toc-ky-dieu",
+      "name": "Kế Hoạch Gấu Trúc 2: Bộ tộc kỳ diệu",
+      "originName": "Panda Plan 2: The Magical Tribe",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-hoach-gau-truc-2-bo-toc-ky-dieu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-hoach-gau-truc-2-bo-toc-ky-dieu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "minions-monsters-2026-e0b1b9bd",
       "source": "ophim",
       "slug": "minions-and-quai-vat",
@@ -311,39 +377,6 @@
       ]
     },
     {
-      "id": "psoty-2026-1f14e5c9",
-      "source": "ophim",
-      "slug": "psoty",
-      "name": "Psoty",
-      "originName": "Psoty",
-      "posterUrl": "https://img.ophim.live/uploads/movies/psoty-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/psoty-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ba lan",
-          "slug": "ba-lan"
-        }
-      ]
-    },
-    {
       "id": "animal-farm-2026-99d693c7",
       "source": "ophim",
       "slug": "trai-suc-vat",
@@ -381,6 +414,39 @@
         {
           "name": "Anh",
           "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "a-gift-from-heaven-2026-147f1a11",
+      "source": "phimapi",
+      "slug": "bau-vat-troi-cho",
+      "name": "Báu vật trời cho",
+      "originName": "A Gift From Heaven",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/e2e53013ccd1944bf8570ee9dbc233f2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4344fce68030e677b52a8da8e6eb2c81.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     },
@@ -571,6 +637,84 @@
       ]
     },
     {
+      "id": "the-call-of-the-wild-2020-2c96089c",
+      "source": "phimapi",
+      "slug": "tieng-goi-noi-hoang-da-2020",
+      "name": "Tiếng Gọi Nơi Hoang Dã",
+      "originName": "The Call Of The Wild",
+      "posterUrl": "https://phimimg.com/upload/vod/20251214-1/91d87b1b502c1cae0f67eadca5343319.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251214-1/ec27062ebf6c092f4d6b1ce099df4fbc.jpg",
+      "year": 2020,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sgt-stubby-an-american-h-2018-57c277ac",
+      "source": "phimapi",
+      "slug": "chu-cho-anh-hung",
+      "name": "Chú Chó Anh Hùng",
+      "originName": "Sgt. Stubby: An American Hero",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/ab9583aaefd36e872e2af6f8f0b3a159.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/4e95ec94de00a1e3b2405df5bef56928.jpg",
+      "year": 2018,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "nhung-co-nang-doc-than-l-2014-493d7d42",
       "source": "ophim",
       "slug": "nhung-co-nang-doc-than-lam-me",
@@ -600,76 +744,35 @@
       ]
     },
     {
-      "id": "ben-10-race-against-time-2008-33ccc4bc",
+      "id": "high-kick-season-3-2011-919d1bb2",
       "source": "phimapi",
-      "slug": "ben-10-chay-dua-voi-thoi-gian",
-      "name": "Ben 10: Chạy Đua Với Thời Gian",
-      "originName": "Ben 10: Race Against Time",
-      "posterUrl": "https://phimimg.com/upload/vod/20260609-1/3857bc9e6487cfb92327eb0680dd1771.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260609-1/d98eedcc786cf15c27738993dd0bc2ec.jpg",
-      "year": 2008,
-      "type": "single",
+      "slug": "gia-dinh-la-so-1-phan-3",
+      "name": "Gia Đình Là Số 1 (Phần 3)",
+      "originName": "High Kick (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240829-1/a0cd73eac83d6f6c967485b05a0f84b8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240829-1/05ea25e9f2011df44e92839c5973be05.jpg",
+      "year": 2011,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (123/123)",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ben-10-secret-of-the-omn-2007-1ebd9b00",
-      "source": "phimapi",
-      "slug": "ben-10-bi-mat-cua-omnitrix",
-      "name": "Ben 10: Bí Mật Của Omnitrix",
-      "originName": "Ben 10: Secret of the Omnitrix",
-      "posterUrl": "https://phimimg.com/upload/vod/20260609-1/062ff5b6d9aa093280b7038bfec214b2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260609-1/50e5b568073cabd6669b7e3a30129afb.jpg",
-      "year": 2007,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

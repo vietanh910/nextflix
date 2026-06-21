@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/thuong-nguyet-tinh-lan-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 18",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (23/23)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -169,13 +169,53 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/240f73d926897aea1692eac5c5bd3cd6",
       "m3u8Url": "https://vip.opstream90.com/20260611/34560_240f73d9/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/26728ef2438df2dd3d5b60a235d27513",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34913_26728ef2/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/71e1d046417f3682dffa6f8f294da241",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34914_71e1d046/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d0c6d53672d807bfef3b5878d0d74686",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34915_d0c6d536/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f54c89af130d4bd1bbc01553d5a60331",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34916_f54c89af/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3fbc6b1731194c5f7ec098299a1247f2",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34917_3fbc6b17/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thuong-nguyet-tinh-lan",
-      "episodeCount": 18,
+      "episodeCount": 23,
       "priority": 0
     }
   ],

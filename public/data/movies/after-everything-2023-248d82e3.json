@@ -1,0 +1,55 @@
+{
+  "id": "after-everything-2023-248d82e3",
+  "source": "phimapi",
+  "slug": "sau-tat-ca",
+  "name": "Sau Tất Cả",
+  "originName": "After Everything",
+  "posterUrl": "https://phimimg.com/upload/vod/20260618-1/b32b8892c1da445b03971012f879b26d.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/325968742e58d946b942b8d67a8fd1d3.jpg",
+  "year": 2023,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Bị mắc kẹt trong vòng xoáy sáng tác và nỗi đau chia tay với Tessa, Hardin đến Bồ Đào Nha để tìm kiếm người phụ nữ anh từng làm tổn thương trong quá khứ – và để tìm lại chính mình. Với hy vọng giành lại Tessa, anh nhận ra mình cần thay đổi bản thân trước khi có thể đưa ra quyết định cuối cùng.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/pM8GGEUt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/pM8GGEUt/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "sau-tat-ca",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

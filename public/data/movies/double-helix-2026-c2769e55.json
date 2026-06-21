@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/double-helix-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (12/12)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -65,13 +65,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/795daa0834ca092ed52b5d0a5848387d",
       "m3u8Url": "https://vip.opstream90.com/20260607/34271_795daa08/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3c3fc187d1ba149ee53962f7806ed483",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35006_3c3fc187/index.m3u8"
+    },
+    {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c7d7a54da0f35a8abde8961b6897abe1",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35007_c7d7a54d/index.m3u8"
+    },
+    {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a42b83eb91d58495dd8a6a0c9cbd8b5e",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35008_a42b83eb/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "double-helix",
-      "episodeCount": 4,
+      "episodeCount": 7,
       "priority": 0
     }
   ],

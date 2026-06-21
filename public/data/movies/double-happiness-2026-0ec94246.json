@@ -30,14 +30,6 @@
       "name": "",
       "serverName": "Vietsub #1",
       "source": "ophim"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/WysQrra8/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/WysQrra8/index.m3u8"
     }
   ],
   "sources": [
@@ -46,12 +38,6 @@
       "slug": "song-hy",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "song-hy",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

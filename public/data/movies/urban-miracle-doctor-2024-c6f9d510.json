@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 184",
+  "episodeCurrent": "Tập 185",
   "categories": [
     {
       "name": "Hành Động",
@@ -1505,13 +1505,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/or8GyqEB/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260614/or8GyqEB/index.m3u8"
+    },
+    {
+      "name": "Tập 185",
+      "slug": "tap-185",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/eIcI7PhN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/eIcI7PhN/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "do-thi-co-tien-y",
-      "episodeCount": 184,
+      "episodeCount": 185,
       "priority": 1
     }
   ],

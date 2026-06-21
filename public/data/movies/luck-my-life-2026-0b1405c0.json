@@ -1,0 +1,65 @@
+{
+  "id": "luck-my-life-2026-0b1405c0",
+  "source": "ophim",
+  "slug": "doi-ta-ta-tu-mo",
+  "name": "Đời Ta, Ta Tự Mò",
+  "originName": "Luck My Life",
+  "posterUrl": "https://img.ophim.live/uploads/movies/doi-ta-ta-tu-mo-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/doi-ta-ta-tu-mo-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nga",
+      "slug": "nga"
+    },
+    {
+      "name": "Singapore",
+      "slug": "singapore"
+    }
+  ],
+  "description": "<p>Khi vận may không còn mỉm cười, một người đàn ông tìm đến trường dạy mạt chược để học những kỹ năng cần thiết nhằm đánh bại kình địch và giành lại vận may của mình.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/36179605b136215afcba7b1344c136a8",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35062_36179605/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/rXtY7xBT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/rXtY7xBT/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "doi-ta-ta-tu-mo",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "doi-ta-ta-tu-mo",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
   "year": 2025,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 35",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (36/36)",
   "categories": [
     {
       "name": "Hành Động",
@@ -323,6 +323,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260612/34676_d1551ca3/index.m3u8"
     },
     {
+      "name": "36",
+      "slug": "36",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9dc4642d45e47e0c1799a55ac93b4a54",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35211_9dc4642d/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -601,19 +609,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/tFHL76pU/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260611/tFHL76pU/index.m3u8"
+    },
+    {
+      "name": "Tập 36",
+      "slug": "tap-36",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/uCxpCGBF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/uCxpCGBF/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
-      "episodeCount": 35,
+      "episodeCount": 36,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
-      "episodeCount": 35,
+      "episodeCount": 36,
       "priority": 1
     }
   ],

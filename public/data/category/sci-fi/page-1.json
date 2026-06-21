@@ -5,72 +5,292 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "battle-girl-high-school-2017-f1bd55a5",
+      "id": "digimon-adventure-tri-ch-2016-217a6d98",
       "source": "animapper",
-      "slug": "21787",
-      "name": "Battle Girl High School",
-      "originName": "Battle Girl High School",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21787-la3EKUkOUDFU.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21787-GHMIfgH2KWZH.jpg",
-      "year": 2017,
+      "slug": "21596",
+      "name": "Digimon Adventure tri. 3: Kokuhaku",
+      "originName": "Digimon Adventure tri. Chapter 3: Confession",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21596-KnjJA2qwVtdI.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21596-9GRglt3LYkED.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        },
+        {
+          "name": "Drama",
+          "slug": "drama"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "dimension-w-2016-a13c96ef",
+      "source": "animapper",
+      "slug": "21256",
+      "name": "Dimension W",
+      "originName": "Dimension W",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21256-ErFGk90Kr5Ab.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21256-WcNAvVlal0aX.png",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "dimension-w-w-gate-onlin-2016-3bf291a4",
+      "source": "animapper",
+      "slug": "21592",
+      "name": "Dimension W: W no Tobira ONLINE - Rose no wo Nayami Soudanshitsu",
+      "originName": "Dimension W: W Gate Online - Rose's Counseling Room",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21592-bJ1r25PClv3I.png",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21592-bJ1r25PClv3I.png",
+      "year": 2016,
       "type": "anime",
       "status": "unknown",
       "categories": [
         {
           "name": "Sci-Fi",
           "slug": "sci-fi"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
         }
       ],
       "countries": []
     },
     {
-      "id": "blame-2017-48689b59",
+      "id": "phantasy-star-online-2-t-2016-a79cc52d",
       "source": "animapper",
-      "slug": "21498",
-      "name": "BLAME!",
-      "originName": "BLAME!",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21498-8GWg2HVFdShU.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21498-dlR9pRJKKicx.jpg",
-      "year": 2017,
+      "slug": "21264",
+      "name": "Phantasy Star Online 2: The Animation",
+      "originName": "Phantasy Star Online 2 The Animation",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21264-vn4ZxC67Fb4A.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21264-roXLR8nt93AF.png",
+      "year": 2016,
       "type": "anime",
       "status": "unknown",
       "categories": [
         {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "yu-gi-oh-the-dark-side-o-2016-6ab02444",
+      "source": "animapper",
+      "slug": "21265",
+      "name": "Yu☆Gi☆Oh!: THE DARK SIDE OF DIMENSIONS",
+      "originName": "Yu-Gi-Oh!: The Dark Side of Dimensions",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21265-KN6KhEtx81wc.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21265-Wj2beAb8j1HT.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "mobile-suit-gundam-iron--2015-7dc08a76",
+      "source": "animapper",
+      "slug": "21268",
+      "name": "Kidou Senshi Gundam: Tekketsu no Orphans",
+      "originName": "Mobile Suit GUNDAM Iron Blooded Orphans",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21268-6dKrz26PPUvk.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21268-mCEvAuBxsu7N.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Mecha",
+          "slug": "mecha"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        },
+        {
           "name": "Drama",
           "slug": "drama"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "monster-strike-the-anima-2015-fe7d5976",
+      "source": "animapper",
+      "slug": "21288",
+      "name": "Monster Strike",
+      "originName": "Monster Strike the Animation",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21288-CQPPiut9ztLO.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21288-CQPPiut9ztLO.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "punch-line-2015-ca9251cf",
+      "source": "animapper",
+      "slug": "20964",
+      "name": "Punch Line",
+      "originName": "PUNCH LINE",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20964-UwNBrnI4p03P.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20964-etLaKGc0pXvo.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Supernatural",
+          "slug": "supernatural"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Ecchi",
+          "slug": "ecchi"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "q-transformers-kaette-ki-2015-eba3461a",
+      "source": "animapper",
+      "slug": "20974",
+      "name": "Q Transformers: Kaettekita Convoy no Nazo",
+      "originName": "Q Transformers: Kaette Kita Convoy no Nazo",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20974-QnoL4uNMYLrm.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20974-QnoL4uNMYLrm.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Mecha",
+          "slug": "mecha"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "the-empire-of-corpses-2015-7f8692b1",
+      "source": "animapper",
+      "slug": "20965",
+      "name": "Shisha no Teikoku",
+      "originName": "The Empire of Corpses",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20965-tf6Qs6viTyyg.png",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20965-09OUrGZ3JqD8.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
         },
         {
           "name": "Psychological",
           "slug": "psychological"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Horror",
-          "slug": "horror"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
         }
       ],
       "countries": []
     },
     {
-      "id": "napping-princess-2017-1985c0ca",
+      "id": "fafner-exodus-2-2015-9831bc35",
       "source": "animapper",
-      "slug": "21788",
-      "name": "Hirune Hime: Shiranai Watashi no Monogatari",
-      "originName": "Napping Princess",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21788-nAoky1KCeqgm.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21788-nAoky1KCeqgm.jpg",
-      "year": 2017,
+      "slug": "21287",
+      "name": "Soukyuu no Fafner: EXODUS 2",
+      "originName": "Fafner Exodus 2",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21287-ey3gaynEFqUS.png",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21287-EugxMxa1mOco.jpg",
+      "year": 2015,
       "type": "anime",
       "status": "unknown",
       "categories": [
@@ -79,509 +299,12 @@
           "slug": "mecha"
         },
         {
-          "name": "Drama",
-          "slug": "drama"
-        },
-        {
-          "name": "Adventure",
-          "slug": "adventure"
-        },
-        {
           "name": "Sci-Fi",
           "slug": "sci-fi"
         },
-        {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Fantasy",
-          "slug": "fantasy"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "active-raid-second-2016-f45fb50b",
-      "source": "animapper",
-      "slug": "21534",
-      "name": "Active Raid: Kidou Kyoushuushitsu Dai Hakkei 2",
-      "originName": "Active Raid Second",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21534-eAZQLprJKlBt.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21534-eAZQLprJKlBt.jpg",
-      "year": 2016,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Mecha",
-          "slug": "mecha"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "beyblade-burst-2016-f1577478",
-      "source": "animapper",
-      "slug": "21236",
-      "name": "Beyblade Burst",
-      "originName": "Beyblade Burst",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21236-8B4fORbuUp6v.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21236-MOfj4yGKUvQR.jpg",
-      "year": 2016,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Sports",
-          "slug": "sports"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "danganronpa-3-the-end-of-2016-247db61e",
-      "source": "animapper",
-      "slug": "21509",
-      "name": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
-      "originName": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21509-3Ih7TTU0Romm.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21509-ZO4wFlWPmEp3.jpg",
-      "year": 2016,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Thriller",
-          "slug": "thriller"
-        },
-        {
-          "name": "Psychological",
-          "slug": "psychological"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Horror",
-          "slug": "horror"
-        },
-        {
-          "name": "Mystery",
-          "slug": "mystery"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "digimon-adventure-tri-ch-2016-6d8598a4",
-      "source": "animapper",
-      "slug": "21500",
-      "name": "Digimon Adventure tri. 2: Ketsui",
-      "originName": "Digimon Adventure tri. Chapter 2: Determination",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21500-hC4Nhs2kNnZ3.png",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21500-IaUtzh7Yv4vi.jpg",
-      "year": 2016,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
         {
           "name": "Drama",
           "slug": "drama"
-        },
-        {
-          "name": "Adventure",
-          "slug": "adventure"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Fantasy",
-          "slug": "fantasy"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "gantz-o-2016-147c97a2",
-      "source": "animapper",
-      "slug": "21496",
-      "name": "GANTZ:O",
-      "originName": "Gantz O",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21496-b6R9F3FtIgWJ.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21496-Kzxb5LrOHOBt.jpg",
-      "year": 2016,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Drama",
-          "slug": "drama"
-        },
-        {
-          "name": "Psychological",
-          "slug": "psychological"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Ecchi",
-          "slug": "ecchi"
-        },
-        {
-          "name": "Horror",
-          "slug": "horror"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Supernatural",
-          "slug": "supernatural"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "kagerou-daze-in-a-day-s-2016-e75d0ebb",
-      "source": "animapper",
-      "slug": "21793",
-      "name": "Kagerou Daze: in a days",
-      "originName": "Kagerou Daze: In a Day`s",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21793-acc5gP6Mogau.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21793-RsOdy4nq9pxa.jpg",
-      "year": 2016,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Romance",
-          "slug": "romance"
-        },
-        {
-          "name": "Comedy",
-          "slug": "comedy"
-        },
-        {
-          "name": "Slice of Life",
-          "slug": "slice-of-life"
-        },
-        {
-          "name": "Supernatural",
-          "slug": "supernatural"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "pandora-in-the-crimson-s-2016-aa879a7a",
-      "source": "animapper",
-      "slug": "21511",
-      "name": "Koukaku no Pandora",
-      "originName": "Pandora in the Crimson Shell Ghost Urn",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21511-D0tPX9spNPQW.png",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21511-D0tPX9spNPQW.png",
-      "year": 2016,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Ecchi",
-          "slug": "ecchi"
-        },
-        {
-          "name": "Comedy",
-          "slug": "comedy"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "star-fox-zero-the-battle-2016-4d8a55c6",
-      "source": "animapper",
-      "slug": "21783",
-      "name": "Star Fox Zero: The Battle Begins",
-      "originName": "Star Fox Zero: The Battle Begins",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21783-zAuJSaTDifC4.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21783-zAuJSaTDifC4.jpg",
-      "year": 2016,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "concrete-revolutio-2015-f388da28",
-      "source": "animapper",
-      "slug": "21249",
-      "name": "Concrete Revolutio: Choujin Gensou",
-      "originName": "Concrete Revolutio",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21249-CoKfTRixRUis.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21249-7JvF8Np7RJ1X.jpg",
-      "year": 2015,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Drama",
-          "slug": "drama"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Mystery",
-          "slug": "mystery"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Fantasy",
-          "slug": "fantasy"
-        },
-        {
-          "name": "Supernatural",
-          "slug": "supernatural"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "cyborg-009-vs-devilman-2015-600f9d80",
-      "source": "animapper",
-      "slug": "21231",
-      "name": "Cyborg 009 VS Devilman",
-      "originName": "Cyborg 009 vs Devilman",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21231-gkpwtjqJGxTo.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21231-nvnqKv4i9Du2.png",
-      "year": 2015,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Supernatural",
-          "slug": "supernatural"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "harmony-2015-b6b49e28",
-      "source": "animapper",
-      "slug": "20932",
-      "name": "Harmony",
-      "originName": "Harmony",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20932-kw702YuhGeH5.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20932-I5AdEwovwgUC.jpg",
-      "year": 2015,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Thriller",
-          "slug": "thriller"
-        },
-        {
-          "name": "Psychological",
-          "slug": "psychological"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Mystery",
-          "slug": "mystery"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "seraph-of-the-end-vampir-2015-f032be72",
-      "source": "animapper",
-      "slug": "21483",
-      "name": "Owari no Seraph: Owaranai Seraph",
-      "originName": "Seraph of the End: Vampire Reign - Owaranai Seraph",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21483-yJfFGWvTGzy1.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21483-Wr7fOg28VHiB.jpg",
-      "year": 2015,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Comedy",
-          "slug": "comedy"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Supernatural",
-          "slug": "supernatural"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "saint-seiya-soul-of-gold-2015-654578dc",
-      "source": "animapper",
-      "slug": "20928",
-      "name": "Saint Seiya: Ougon Tamashii -soul of gold-",
-      "originName": "Saint Seiya Soul of Gold",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20928-wbAbySSwgNEg.png",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20928-etK04ckSNcEw.jpg",
-      "year": 2015,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Adventure",
-          "slug": "adventure"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Fantasy",
-          "slug": "fantasy"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "symphogear-gx-omake-2015-e7df25d9",
-      "source": "animapper",
-      "slug": "21508",
-      "name": "Senki Zesshou Symphogear GX: Senki Zesshou Shinai Symphogear",
-      "originName": "Symphogear GX Omake",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21508-oPCi7pDPJAU2.png",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21508-oPCi7pDPJAU2.png",
-      "year": 2015,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Music",
-          "slug": "music"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Mahou Shoujo",
-          "slug": "mahou-shoujo"
-        },
-        {
-          "name": "Comedy",
-          "slug": "comedy"
-        },
-        {
-          "name": "Slice of Life",
-          "slug": "slice-of-life"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "utawarerumono-the-false--2015-9fa4c393",
-      "source": "animapper",
-      "slug": "21218",
-      "name": "Utawarerumono: Itsuwari no Kamen",
-      "originName": "Utawarerumono The False Faces",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21218-GdneVnAwDQHy.png",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21218-CpHubVRhg3qE.jpg",
-      "year": 2015,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
-          "name": "Drama",
-          "slug": "drama"
-        },
-        {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Fantasy",
-          "slug": "fantasy"
         }
       ],
       "countries": []
@@ -599,6 +322,10 @@
       "status": "unknown",
       "categories": [
         {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
           "name": "Mecha",
           "slug": "mecha"
         },
@@ -609,46 +336,96 @@
         {
           "name": "Comedy",
           "slug": "comedy"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
         }
       ],
       "countries": []
     },
     {
-      "id": "highlander-the-search-fo-2007-a77f27a0",
+      "id": "5d-s-vs-2008-3e77cb4c",
       "source": "animapper",
-      "slug": "2178",
-      "name": "Highlander",
-      "originName": "Highlander: The Search for Vengeance",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2178.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2178-D8Km9Hoh8FQy.jpg",
+      "slug": "21590",
+      "name": "Yu☆Gi☆Oh! 5D's: Shinkasuru Kettou! Stardust VS Red Demon's",
+      "originName": "遊☆戯☆王5D's 進化する決闘! スターダストVSレッド・デーモンズ",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21590-uBTVEwa90RIB.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21590-uBTVEwa90RIB.jpg",
+      "year": 2008,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "koutetsushin-jeeg-2007-358da298",
+      "source": "animapper",
+      "slug": "2157",
+      "name": "Koutetsushin Jeeg",
+      "originName": "Koutetsushin Jeeg",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2157-PUMZmpHr1mBy.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2157-QrZ4BjtWEKml.jpg",
       "year": 2007,
       "type": "anime",
       "status": "unknown",
       "categories": [
         {
-          "name": "Sci-Fi",
-          "slug": "sci-fi"
+          "name": "Mecha",
+          "slug": "mecha"
         },
         {
-          "name": "Action",
-          "slug": "action"
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
         }
       ],
       "countries": []
     },
     {
-      "id": "digital-monster-x-evolut-2005-429ae351",
+      "id": "toward-the-terra-tv-2007-423766d8",
       "source": "animapper",
-      "slug": "2123",
-      "name": "Digimon X-Evolution",
-      "originName": "Digital Monster X-evolution",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2123-SYK0MA0T7Huy.png",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2123-SYK0MA0T7Huy.png",
-      "year": 2005,
+      "slug": "2158",
+      "name": "Terra e... (TV)",
+      "originName": "Toward the Terra (TV)",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2158-HQQCVlw2B7iz.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2158-rPFjcos7QEPx.jpg",
+      "year": 2007,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        },
+        {
+          "name": "Drama",
+          "slug": "drama"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "chouja-raideen-1996-8a45e7ae",
+      "source": "animapper",
+      "slug": "2127",
+      "name": "Chouja Raideen",
+      "originName": "Chouja Raideen",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2127-BtlFFjcOOnJq.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2127-hJz3fKCXQRkJ.jpg",
+      "year": 1996,
       "type": "anime",
       "status": "unknown",
       "categories": [
@@ -657,36 +434,51 @@
           "slug": "adventure"
         },
         {
+          "name": "Mecha",
+          "slug": "mecha"
+        },
+        {
           "name": "Sci-Fi",
           "slug": "sci-fi"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
-        },
-        {
-          "name": "Fantasy",
-          "slug": "fantasy"
         }
       ],
       "countries": []
     },
     {
-      "id": "martian-successor-nadesi-1996-3436f36f",
+      "id": "special-duty-combat-unit-1996-e8467897",
       "source": "animapper",
-      "slug": "218",
-      "name": "Kidou Senkan Nadesico",
-      "originName": "Martian Successor Nadesico",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218-qBfbgiJIR5rv.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/218-CTDP41ygFQpU.jpg",
+      "slug": "2097",
+      "name": "Tokumu Sentai Shinesman",
+      "originName": "Special Duty Combat Unit Shinesman",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2097.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2097.jpg",
       "year": 1996,
       "type": "anime",
       "status": "unknown",
       "categories": [
         {
-          "name": "Mecha",
-          "slug": "mecha"
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
         },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "sequence-1992-b5c6670c",
+      "source": "animapper",
+      "slug": "2096",
+      "name": "Sequence",
+      "originName": "Sequence",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2096-OBzw4h7eZBNv.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2096-6nfsO4SzesGr.jpg",
+      "year": 1992,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
         {
           "name": "Sci-Fi",
           "slug": "sci-fi"
@@ -694,14 +486,6 @@
         {
           "name": "Romance",
           "slug": "romance"
-        },
-        {
-          "name": "Comedy",
-          "slug": "comedy"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
         }
       ],
       "countries": []
@@ -719,16 +503,16 @@
       "status": "unknown",
       "categories": [
         {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
           "name": "Mecha",
           "slug": "mecha"
         },
         {
           "name": "Sci-Fi",
           "slug": "sci-fi"
-        },
-        {
-          "name": "Action",
-          "slug": "action"
         }
       ],
       "countries": []
@@ -748,6 +532,33 @@
         {
           "name": "Adventure",
           "slug": "adventure"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "yuusha-raideen-1975-f6acee06",
+      "source": "animapper",
+      "slug": "2128",
+      "name": "Yuusha Raideen",
+      "originName": "Yuusha Raideen",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2128-NMJR7X2Wku9q.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2128-NMJR7X2Wku9q.jpg",
+      "year": 1975,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Mecha",
+          "slug": "mecha"
         },
         {
           "name": "Sci-Fi",

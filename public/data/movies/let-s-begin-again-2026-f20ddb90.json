@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "episodeCurrent": "Tập 17",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -155,6 +155,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260613/DVcRpX1f/index.m3u8"
     },
     {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/pPjiGN2T/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/pPjiGN2T/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/VUc4tFGK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/VUc4tFGK/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -257,19 +273,43 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/0f8409da923cef50541f7df4e6f8450d",
       "m3u8Url": "https://vip.opstream90.com/20260607/34131_0f8409da/index.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/51323239e69063c691d0dcfdb046b1b4",
+      "m3u8Url": "https://vip.opstream90.com/20260615/34833_51323239/index.m3u8"
+    },
+    {
+      "name": "15",
+      "slug": "15",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b83ca5c7a4724ec553b7a9b8b6024a98",
+      "m3u8Url": "https://vip.opstream90.com/20260615/34834_b83ca5c7/index.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f8548a8d98a27fe73f2558a90f989c5c",
+      "m3u8Url": "https://vip.opstream90.com/20260615/34835_f8548a8d/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "yeu-duoc-chua",
-      "episodeCount": 13,
+      "episodeCount": 16,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "yeu-duoc-chua",
-      "episodeCount": 15,
+      "episodeCount": 17,
       "priority": 1
     }
   ],

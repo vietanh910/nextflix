@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "completed",
-  "episodeCurrent": "Hoàn Tất (25/25)",
+  "episodeCurrent": "Hoàn Tất (26/26)",
   "categories": [
     {
       "name": "Khoa Học",
@@ -249,13 +249,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/vLTrDfqp/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260612/vLTrDfqp/index.m3u8"
+    },
+    {
+      "name": "Tập 26",
+      "slug": "tap-26",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/RaAsoqjR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/RaAsoqjR/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nhat-nhan-chi-ha-phan-6-nguoi-tren-van-nguoi",
-      "episodeCount": 25,
+      "episodeCount": 26,
       "priority": 1
     }
   ],

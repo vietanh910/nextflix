@@ -1,0 +1,67 @@
+{
+  "id": "white-fire-2026-2da08fe5",
+  "source": "phimapi",
+  "slug": "lua-trang-2026",
+  "name": "Lửa Trắng",
+  "originName": "White Fire",
+  "posterUrl": "https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/3e4a5707b7b1cd0e9e4fcee32e630cf1.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "Phim xoay quanh cuộc chiến chống tội phạm ma túy trong thời đại công nghệ số. Một loại ma túy mới mang tên &quot;Bụi Trắng&quot; được ngụy trang dưới nhiều vỏ bọc hợp pháp và lan rộng qua mạng xã hội, livestream và giới giải trí. Lực lượng công an phải đối đầu với các đường dây tội phạm ngày càng tinh vi để triệt phá tổ chức đứng sau.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/rajtCeSK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/rajtCeSK/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/m2Nd2WJt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/m2Nd2WJt/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "lua-trang-2026",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

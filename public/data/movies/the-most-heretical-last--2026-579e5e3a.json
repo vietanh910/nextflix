@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -111,6 +111,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260609/34378_17da20e1/index.m3u8"
     },
     {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dcb40ec0553b0e63097a2d89964ad156",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34932_dcb40ec0/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -189,19 +197,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/vsIg8tzU/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260609/vsIg8tzU/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/1ZUnPjWu/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/1ZUnPjWu/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "nu-vuong-trum-cuoi-cung-hung-cuc-ac-se-doc-suc-vi-nguoi-dan-phan-2",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

@@ -5,14 +5,97 @@
   "totalPages": 2,
   "items": [
     {
-      "id": "pulse-2001-084a030d",
+      "id": "insidious-inferno-2024-d158d432",
+      "source": "ophim",
+      "slug": "dia-nguc-hiem-ac",
+      "name": "Địa ngục hiểm ác",
+      "originName": "Insidious Inferno",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-thumb.jpg",
+      "year": 2024,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "friend-request-2016-4de84223",
       "source": "phimapi",
-      "slug": "noi-am-anh-tam-linh",
-      "name": "Nỗi Ám Ảnh Tâm Linh",
-      "originName": "Pulse",
-      "posterUrl": "https://phimimg.com/upload/vod/20260606-1/c3dfde20da4f9347ffab8300403e6b1e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260606-1/8d8391ae184977ea1f7a829b234ba9ff.jpg",
-      "year": 2001,
+      "slug": "ket-ban-voi-ma",
+      "name": "Kết Bạn Với Ma",
+      "originName": "Friend Request",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/f07a4f016fd0d422add423699d7470f1.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/a270e608b32f6951eec4b1291613941b.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Đức",
+          "slug": "duc"
+        },
+        {
+          "name": "Nam Phi",
+          "slug": "nam-phi"
+        }
+      ]
+    },
+    {
+      "id": "kfc-2016-4117d2ab",
+      "source": "phimapi",
+      "slug": "kfc",
+      "name": "KFC",
+      "originName": "KFC",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/bd8bc4633119f054280b074f60920864.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/18a0024df17b92fa9775398c2fe3017b.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "ongoing",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "the-devil-s-candy-2016-45e17b96",
+      "source": "phimapi",
+      "slug": "nha-quy-keo-cua-quy",
+      "name": "Nhà Quỷ (Kẹo của Quỷ)",
+      "originName": "The Devil's Candy",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/8a4dfce48f2e769cee599b0f57d7d742.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/a8d2eec3cece6c70b309aeec672fdaa9.jpg",
+      "year": 2016,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -26,26 +109,100 @@
           "slug": "tam-ly"
         },
         {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "the-ninth-gate-1999-f69dbfa3",
+      "id": "patchwork-2015-d26d7f21",
       "source": "phimapi",
-      "slug": "tang-dia-nguc-thu-chin-canh-cong-thu-chin",
-      "name": "Tầng Địa Ngục Thứ Chín (Cánh Cổng Thứ Chín)",
-      "originName": "The Ninth Gate",
-      "posterUrl": "https://phimimg.com/upload/vod/20260605-1/edb2f6a7612ae598e2672bc3da24a903.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260605-1/68fb88a798a8cfd615f0fd802fe10565.jpg",
-      "year": 1999,
+      "slug": "chap-va",
+      "name": "Chắp vá",
+      "originName": "Patchwork",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/0e203e9629517feaf171e2617c8236ba.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/9873be484ea3511a4d1314dad2bf0562.jpg",
+      "year": 2015,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "messengers-2-the-scarecr-2009-48e6e301",
+      "source": "phimapi",
+      "slug": "nhung-nguoi-dua-tin-2",
+      "name": "Những Người Đưa Tin 2",
+      "originName": "Messengers 2: The Scarecrow",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1d09fca9ff29e7bc0251e41bd72af6ba.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/e38991cd422bc5e0a3f30a579afb9a75.jpg",
+      "year": 2009,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Bulgaria",
+          "slug": "bulgaria"
+        }
+      ]
+    },
+    {
+      "id": "the-messengers-2007-afff2fce",
+      "source": "phimapi",
+      "slug": "nhung-nguoi-dua-tin-nhung-loi-canh-bao",
+      "name": "Những Người Đưa Tin (Những Lời Cảnh Báo)",
+      "originName": "The Messengers",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1416c9f27351dd21896d11956471bba2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/3353dcc23551c657dfc87d5f4d0600e6.jpg",
+      "year": 2007,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -61,28 +218,28 @@
         {
           "name": "Kinh Dị",
           "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
-        },
-        {
-          "name": "Pháp",
-          "slug": "phap"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "the-imp-1996-28b0d543",
+      "id": "the-amityville-horror-2005-28d2bc28",
       "source": "phimapi",
-      "slug": "ta-sat",
-      "name": "Tà Sát",
-      "originName": "The Imp",
-      "posterUrl": "https://phimimg.com/upload/vod/20260604-1/635f0cb8aab134bfb3f123c2912ec990.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260604-1/3a89ef82fece3766d25b204b430a3b5a.jpg",
-      "year": 1996,
+      "slug": "chuyen-rung-ron-o-amityville",
+      "name": "Chuyện Rùng Rợn Ở Amityville",
+      "originName": "The Amityville Horror",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/32524cd90e5c73b53ebf1116a31eb0f6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/db063635476fafaa5b4bef2dfb74c355.jpg",
+      "year": 2005,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -94,12 +251,33 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-amityville-horror-1979-fa368e8d",
+      "source": "phimapi",
+      "slug": "ngoi-nha-rung-ron-chuyen-rung-ron-o-amityville",
+      "name": "Ngôi Nhà Rùng Rợn (Chuyện Rùng Rợn Ở Amityville)",
+      "originName": "The Amityville Horror",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/73846efaddf59d183aea9916f6be49a2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/b63fe582e568f96bc7889057763b0aae.jpg",
+      "year": 1979,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

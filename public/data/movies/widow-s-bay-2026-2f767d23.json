@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/bi-an-thi-tran-widows-bay-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -107,6 +107,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260611/34541_192beb19/index.m3u8"
     },
     {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2fcb2666e77de32af114840ce33d23b8",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35160_2fcb2666/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -177,19 +185,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/wm6J6lIv/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260610/wm6J6lIv/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/ztB2t78e/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/ztB2t78e/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "bi-an-thi-tran-widows-bay",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "bi-an-thi-tran-widows-bay",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 1
     }
   ],

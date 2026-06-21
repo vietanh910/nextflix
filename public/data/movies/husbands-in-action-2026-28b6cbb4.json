@@ -1,0 +1,65 @@
+{
+  "id": "husbands-in-action-2026-28b6cbb4",
+  "source": "ophim",
+  "slug": "khi-chong-hop-luc",
+  "name": "Khi Chồng Hợp Lực",
+  "originName": "Husbands in Action",
+  "posterUrl": "https://img.ophim.live/uploads/movies/khi-chong-hop-luc-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/khi-chong-hop-luc-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Chồng cũ và chồng mới hợp sức cứu gia đình khỏi băng đảng ma túy trong bộ phim hành động hài lầy lội của đạo diễn Park Gyu Tae (\"Bỗng dưng trúng số\").</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3bfc3fb542de88ad4505a5755cb28b6a",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35261_3bfc3fb5/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/iCXQrcSG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/iCXQrcSG/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "khi-chong-hop-luc",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "khi-chong-hop-luc",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

@@ -28,6 +28,43 @@
           "slug": "han-quoc"
         }
       ]
+    },
+    {
+      "id": "the-yellow-tie-2025-660ad326",
+      "source": "phimapi",
+      "slug": "ca-vat-vang",
+      "name": "Cà vạt vàng",
+      "originName": "The Yellow Tie",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/10eb625506e917631691eb8ac2b0a9fa.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/5444f172a6c032201603d1c1d2d8d028.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Quốc Gia Khác",
+          "slug": "quoc-gia-khac"
+        }
+      ]
     }
   ]
 }

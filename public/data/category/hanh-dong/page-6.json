@@ -5,14 +5,215 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "ben-10-race-against-time-2008-33ccc4bc",
+      "id": "magi-season-2-the-kingdo-2013-2e59c719",
       "source": "phimapi",
-      "slug": "ben-10-chay-dua-voi-thoi-gian",
-      "name": "Ben 10: Chạy Đua Với Thời Gian",
-      "originName": "Ben 10: Race Against Time",
-      "posterUrl": "https://phimimg.com/upload/vod/20260609-1/3857bc9e6487cfb92327eb0680dd1771.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260609-1/d98eedcc786cf15c27738993dd0bc2ec.jpg",
-      "year": 2008,
+      "slug": "vuong-quoc-ma-thuat-phan-2",
+      "name": "Vương Quốc Ma Thuật (Phần 2)",
+      "originName": "Magi (Season 2) (The Kingdom Of Magic)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260111-1/227f938f194029f46c03654af6c6aa92.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/5b3698cbbc2f4d0772de95b6c8b08c50.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-2-2012-fdd699fb",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-2",
+      "name": "Bầu Trời Sụp Đổ (Phần 2)",
+      "originName": "Falling Skies (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-thumb.jpg",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "the-shaolin-temple-boy-2012-145b6595",
+      "source": "ophim",
+      "slug": "dai-nao-thieu-lam-tu",
+      "name": "Đại Náo Thiếu Lâm Tự",
+      "originName": "The Shaolin Temple Boy",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dai-nao-thieu-lam-tu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dai-nao-thieu-lam-tu-thumb.jpg",
+      "year": 2012,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (49/49)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "magi-season-1-the-labyri-2012-364fe780",
+      "source": "phimapi",
+      "slug": "vuong-quoc-ma-thuat-phan-1",
+      "name": "Vương Quốc Ma Thuật (Phần 1)",
+      "originName": "Magi (Season 1) (The Labyrinth Of Magic)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260111-1/d526855ddade086247a0f26fb2fc9557.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/a71642f227da46c19ff1d4fd77f25a5a.jpg",
+      "year": 2012,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "falling-skies-season-1-2011-3028d493",
+      "source": "ophim",
+      "slug": "bau-troi-sup-do-phan-1",
+      "name": "Bầu Trời Sụp Đổ (Phần 1)",
+      "originName": "Falling Skies (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-thumb.jpg",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "the-contractor-2007-99e33475",
+      "source": "phimapi",
+      "slug": "hop-dong-doat-mang",
+      "name": "Hợp đồng đoạt mạng",
+      "originName": "The Contractor",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/4b3bb1dfc9ee38c2d773ba540a476038.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/075712b0c464cddd5011d3dbc96469e6.jpg",
+      "year": 2007,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -22,56 +223,23 @@
           "slug": "hanh-dong"
         },
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ben-10-secret-of-the-omn-2007-1ebd9b00",
-      "source": "phimapi",
-      "slug": "ben-10-bi-mat-cua-omnitrix",
-      "name": "Ben 10: Bí Mật Của Omnitrix",
-      "originName": "Ben 10: Secret of the Omnitrix",
-      "posterUrl": "https://phimimg.com/upload/vod/20260609-1/062ff5b6d9aa093280b7038bfec214b2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260609-1/50e5b568073cabd6669b7e3a30129afb.jpg",
-      "year": 2007,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Anh",
+          "slug": "anh"
         },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
@@ -89,7 +257,7 @@
       "year": 2005,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1201",
+      "episodeCurrent": "Tập 1203",
       "categories": [
         {
           "name": "Hành Động",
@@ -126,7 +294,7 @@
       "year": 1999,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1165",
+      "episodeCurrent": "Tập 1166",
       "categories": [
         {
           "name": "Hành Động",
@@ -149,25 +317,25 @@
       ]
     },
     {
-      "id": "one-piece-1999-09306878",
+      "id": "mr-nice-guy-1997-6ac8d8c4",
       "source": "phimapi",
-      "slug": "dao-hai-tac",
-      "name": "Đảo Hải Tặc",
-      "originName": "One Piece",
-      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/31e6c244a0673838a46732d3b4f0b190.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/d61250d0c1670917fd783a1b48cbb29c.jpg",
-      "year": 1999,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1165",
+      "slug": "chang-trai-tot-bung",
+      "name": "Chàng Trai Tốt Bụng",
+      "originName": "Mr. Nice Guy",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/c459b8d66cf20811c99d201b1bb6b14e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/e5059ad62c0b14af24a8c8587e44392d.jpg",
+      "year": 1997,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
         },
         {
           "name": "Hài Hước",
@@ -176,8 +344,12 @@
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
         }
       ]
     },
@@ -203,31 +375,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-last-boy-scout-1991-8d6c38d8",
-      "source": "ophim",
-      "slug": "the-last-boy-scout",
-      "name": "The Last Boy Scout",
-      "originName": "The Last Boy Scout",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-last-boy-scout-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-last-boy-scout-thumb.jpg",
-      "year": 1991,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

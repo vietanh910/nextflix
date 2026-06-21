@@ -1,0 +1,73 @@
+{
+  "id": "per-aspera-ad-astra-2026-bad601c7",
+  "source": "ophim",
+  "slug": "tinh-ha-nhap-mong",
+  "name": "Tinh Hà Nhập Mộng",
+  "originName": "Per Aspera Ad Astra",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tinh-ha-nhap-mong-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tinh-ha-nhap-mong-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>Khi một hệ thống AI gặp sự cố đe dọa tàu vũ trụ, kỹ thuật viên nọ phải bước vào giấc mơ của một thành viên phi hành đoàn để lấy mã khóa và giải cứu các hành khách.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fc2b7a8a346f15fe5c587c6e1242038d",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35161_fc2b7a8a/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/PbBWCQoT/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/PbBWCQoT/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tinh-ha-nhap-mong",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tinh-ha-nhap-mong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

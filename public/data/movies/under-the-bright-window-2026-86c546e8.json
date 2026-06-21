@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "episodeCurrent": "Tập 15",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -129,13 +129,37 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/ZEyx8nKC/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260611/ZEyx8nKC/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/BeHBfBNJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/BeHBfBNJ/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/XHKxWdNF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/XHKxWdNF/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/7JHrm1Fe/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/7JHrm1Fe/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "duoi-o-cua-sang-den",
-      "episodeCount": 12,
+      "episodeCount": 15,
       "priority": 1
     }
   ],

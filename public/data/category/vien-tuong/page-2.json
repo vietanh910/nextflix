@@ -2,111 +2,8 @@
   "slug": "vien-tuong",
   "name": "Viễn Tưởng",
   "page": 2,
-  "totalPages": 6,
+  "totalPages": 5,
   "items": [
-    {
-      "id": "mating-season-2026-e5656047",
-      "source": "ophim",
-      "slug": "mua-giao-phoi",
-      "name": "Mùa Giao Phối",
-      "originName": "Mating Season",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mua-giao-phoi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mua-giao-phoi-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "smile-after-tears-2026-f29cdcb7",
-      "source": "ophim",
-      "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
-      "name": "Ngoảnh Đầu Lại Lau Nước Mắt Cho Cậu",
-      "originName": "Smile After Tears",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ngoanh-dau-lai-lau-nuoc-mat-cho-cau-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ngoanh-dau-lai-lau-nuoc-mat-cho-cau-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Đài Loan",
-          "slug": "dai-loan"
-        }
-      ]
-    },
-    {
-      "id": "outlander-season-8-2026-f346aa79",
-      "source": "ophim",
-      "slug": "nguoi-ngoai-toc-phan-8",
-      "name": "Người Ngoại Tộc (Phần 8)",
-      "originName": "Outlander (Season 8)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-ngoai-toc-phan-8-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-ngoai-toc-phan-8-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
     {
       "id": "spider-man-brand-new-day-2026-3abbfdf9",
       "source": "ophim",
@@ -200,7 +97,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -299,7 +196,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hành Động",
@@ -330,6 +227,43 @@
       ]
     },
     {
+      "id": "daemons-of-the-shadow-re-2026-1dad0598",
+      "source": "ophim",
+      "slug": "song-menh-coi-hoang-tuyen",
+      "name": "Song Mệnh Cõi Hoàng Tuyền",
+      "originName": "Daemons of the Shadow Realm",
+      "posterUrl": "https://img.ophim.live/uploads/movies/song-menh-coi-hoang-tuyen-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/song-menh-coi-hoang-tuyen-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "agents-of-the-four-seaso-2026-44c6fca2",
       "source": "ophim",
       "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
@@ -340,7 +274,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -400,6 +334,35 @@
       ]
     },
     {
+      "id": "i-the-fated-villain-2026-32797087",
+      "source": "ophim",
+      "slug": "ta-la-ke-phan-dien-menh-lon",
+      "name": "Ta Là Kẻ Phản Diện Mệnh Lớn",
+      "originName": "I,The Fated Villain",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ta-la-ke-phan-dien-menh-lon-poster-1781758821556.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ta-la-ke-phan-dien-menh-lon-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-boys-season-5-2026-9589e13c",
       "source": "ophim",
       "slug": "the-boys-phan-5",
@@ -447,7 +410,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -507,22 +470,18 @@
       ]
     },
     {
-      "id": "fighter-of-the-destiny-3-2026-28794156",
+      "id": "per-aspera-ad-astra-2026-bad601c7",
       "source": "ophim",
-      "slug": "trach-thien-ky-2026",
-      "name": "Trạch Thiên Ký",
-      "originName": "Fighter of the Destiny 3D",
-      "posterUrl": "https://img.ophim.live/uploads/movies/trach-thien-ky-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/trach-thien-ky-2026-thumb.jpg",
+      "slug": "tinh-ha-nhap-mong",
+      "name": "Tinh Hà Nhập Mộng",
+      "originName": "Per Aspera Ad Astra",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tinh-ha-nhap-mong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tinh-ha-nhap-mong-thumb.jpg",
       "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
@@ -558,7 +517,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Hành Động",
@@ -706,7 +665,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Hài Hước",
@@ -809,7 +768,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hành Động",
@@ -850,7 +809,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -869,6 +828,43 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "mui-fei-muifei-the-mediu-2026-fb7862d1",
+      "source": "phimapi",
+      "slug": "ba-dong-muifei-muoi-phi",
+      "name": "Bà Đồng Muifei (Muội Phi)",
+      "originName": "Mui Fei / Muifei The Medium",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     }

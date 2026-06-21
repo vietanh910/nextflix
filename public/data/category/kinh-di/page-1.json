@@ -2,7 +2,7 @@
   "slug": "kinh-di",
   "name": "Kinh Dị",
   "page": 1,
-  "totalPages": 1,
+  "totalPages": 2,
   "items": [
     {
       "id": "pemuja-2026-43aa7828",
@@ -26,6 +26,39 @@
         {
           "name": "Malaysia",
           "slug": "malaysia"
+        }
+      ]
+    },
+    {
+      "id": "hokum-2026-0c5d755d",
+      "source": "ophim",
+      "slug": "ba-tron",
+      "name": "Ba Trợn",
+      "originName": "Hokum",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ba-tron-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ba-tron-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
         }
       ]
     },
@@ -204,31 +237,6 @@
       ]
     },
     {
-      "id": "faces-of-death-2026-c7d124d4",
-      "source": "ophim",
-      "slug": "muon-mat-cai-chet",
-      "name": "Muôn Mặt Cái Chết",
-      "originName": "Faces of Death",
-      "posterUrl": "https://img.ophim.live/uploads/movies/muon-mat-cai-chet-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/muon-mat-cai-chet-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "omukade-2026-a85c03f2",
       "source": "ophim",
       "slug": "omukade-con-ret-nguoi",
@@ -382,75 +390,70 @@
       ]
     },
     {
-      "id": "hokum-2026-e2c7fbf5",
-      "source": "phimapi",
-      "slug": "ba-tron",
-      "name": "Ba Trợn",
-      "originName": "Hokum",
-      "posterUrl": "https://phimimg.com/upload/vod/20260602-1/2d13c664d8c29d1521097ffc258ab6f4.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260602-1/5b5dc9f7a42a9bd16f53d5ece1f57ed5.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "vampires-of-the-velvet-l-2026-7477907c",
-      "source": "phimapi",
-      "slug": "ma-ca-rong-cua-velvet-lounge",
-      "name": "Ma cà rồng của Velvet Lounge",
-      "originName": "Vampires of the Velvet Lounge",
-      "posterUrl": "https://phimimg.com/upload/vod/20260608-1/d4bd299c709056e20f234fc12a346361.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/e9645643d33fe4c6b0684d04a04363b0.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "cannibal-mukbang-2025-0824b4a2",
+      "id": "deep-water-2026-3fb7643a",
       "source": "ophim",
-      "slug": "cannibal-mukbang",
-      "name": "Cannibal Mukbang",
-      "originName": "Cannibal Mukbang",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cannibal-mukbang-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cannibal-mukbang-thumb.jpg",
-      "year": 2025,
+      "slug": "vung-bien-chet-choc",
+      "name": "Vùng Biển Chết Chóc",
+      "originName": "Deep Water",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vung-bien-chet-choc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vung-bien-chet-choc-thumb.jpg",
+      "year": 2026,
       "type": "single",
       "status": "unknown",
       "episodeCurrent": "Trailer",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Tây Ban Nha",
+          "slug": "tay-ban-nha"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        },
+        {
+          "name": "Ukraina",
+          "slug": "ukraina"
+        }
+      ]
+    },
+    {
+      "id": "mui-fei-muifei-the-mediu-2026-fb7862d1",
+      "source": "phimapi",
+      "slug": "ba-dong-muifei-muoi-phi",
+      "name": "Bà Đồng Muifei (Muội Phi)",
+      "originName": "Mui Fei / Muifei The Medium",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         },
         {
           "name": "Kinh Dị",
@@ -459,8 +462,153 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "bhooth-bangla-2026-c4ffbb95",
+      "source": "phimapi",
+      "slug": "bhooth-bangla",
+      "name": "Bhooth Bangla",
+      "originName": "Bhooth Bangla",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/06ec4c0e0be0f474f32284dc7db9d591.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/9b69cedaa54dcbc45db0ebc10916d6e6.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
+      "id": "bride-beyond-2026-148a23a5",
+      "source": "phimapi",
+      "slug": "chuyen-vui-dem-kinh-hoang",
+      "name": "Chuyện Vui Đêm Kinh Hoàng",
+      "originName": "Bride Beyond",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/e9bd237815880116a97faefc4978af21.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/c187925ecf32679916a5426cb1fc7d71.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "marama-2026-668a1702",
+      "source": "phimapi",
+      "slug": "mat-trang-2026",
+      "name": "Mặt trăng",
+      "originName": "Mārama",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/e0ff77a61b865ee7e7e6002d8a1d0fc6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/1342f494446eabeb5f31b30f5984ccce.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "phi-phong-the-blood-demo-2026-ac0aeeda",
+      "source": "phimapi",
+      "slug": "phi-phong-quy-mau-rung-thieng",
+      "name": "Phí Phông: Quỷ Máu Rừng Thiêng",
+      "originName": "Phi Phong: The Blood Demon",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/3ed9a180dfc699fbc0502962e67d86b7.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/f9f017b676af1005b05491f5a520cc7f.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "the-demon-prince-2025-9203ad15",
+      "source": "ophim",
+      "slug": "hoang-tu-quy",
+      "name": "Hoàng Tử Quỷ",
+      "originName": "The Demon Prince",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hoang-tu-quy-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hoang-tu-quy-thumb.jpg",
+      "year": 2025,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     },
@@ -486,68 +634,6 @@
         {
           "name": "Malaysia",
           "slug": "malaysia"
-        }
-      ]
-    },
-    {
-      "id": "the-crucifix-blood-of-th-2025-00f22fc1",
-      "source": "ophim",
-      "slug": "thanh-gia-mau-cua-ke-tru-ta",
-      "name": "Thánh Giá: Máu của Kẻ Trừ Tà",
-      "originName": "The Crucifix: Blood of the Exorcist",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thanh-gia-mau-cua-ke-tru-ta-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thanh-gia-mau-cua-ke-tru-ta-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "wormtown-2025-9c1fb119",
-      "source": "ophim",
-      "slug": "thi-tran-giun-dat",
-      "name": "Thị trấn giun đất",
-      "originName": "Wormtown",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thi-tran-giun-dat-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thi-tran-giun-dat-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -622,97 +708,47 @@
       ]
     },
     {
-      "id": "insidious-inferno-2024-d158d432",
-      "source": "ophim",
-      "slug": "dia-nguc-hiem-ac",
-      "name": "Địa ngục hiểm ác",
-      "originName": "Insidious Inferno",
-      "posterUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/dia-nguc-hiem-ac-thumb.jpg",
-      "year": 2024,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-mothman-prophecies-2002-171d8098",
+      "id": "other-2025-7983da36",
       "source": "phimapi",
-      "slug": "loi-nguyen-dang-so",
-      "name": "Lời Nguyền Đáng Sợ",
-      "originName": "The Mothman Prophecies",
-      "posterUrl": "https://phimimg.com/upload/vod/20260608-1/4d8e0cc24af201868c8bb5c2669fd790.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/b29eb8c5fd0ed27d274459f98b48b0f4.jpg",
-      "year": 2002,
+      "slug": "tai-vach-mach-dung-ma-xo",
+      "name": "Tai Vách Mạch Dừng (Ma Xó)",
+      "originName": "Other",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/52f547afb099147ca5a17e1ff7fc984d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/97997151960b72936fdbcd592affe0c8.jpg",
+      "year": 2025,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
           "name": "Kinh Dị",
           "slug": "kinh-di"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ice-cream-man-1995-23101682",
-      "source": "phimapi",
-      "slug": "nguoi-ban-kem",
-      "name": "Người Bán Kem",
-      "originName": "Ice Cream Man",
-      "posterUrl": "https://phimimg.com/upload/vod/20260610-1/d17814fcb40adb9acb566432a668aa03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/ad712538346a0403506ca70f517d7b9c.jpg",
-      "year": 1995,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
           "slug": "tam-ly"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
         }
       ]
     }

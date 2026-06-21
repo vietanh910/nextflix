@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/b031d8773cc4ac88f68ed9e03ab575f8.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (9/9)",
   "categories": [
     {
       "name": "Bí Ẩn",
@@ -97,13 +97,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260609/f7rAwL5o/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260609/f7rAwL5o/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/oBI7wU9Y/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/oBI7wU9Y/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tai-sinh-nguoi-hung-cuoi-cung",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

@@ -5,29 +5,25 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "love-o2o-2016-aea04552",
+      "id": "lee-chong-wei-rise-of-th-2018-dc7fa8c2",
       "source": "phimapi",
-      "slug": "yeu-em-tu-cai-nhin-dau-tien-2016",
-      "name": "Yêu Em Từ Cái Nhìn Đầu Tiên",
-      "originName": "Love O2O",
-      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/79818be642a47693926f2b33e9084cf7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/b7e6198f60a3d69b19bcf7f6d20feb7d.jpg",
-      "year": 2016,
-      "type": "series",
+      "slug": "lee-chong-wei-su-troi-day-cua-huyen-thoai",
+      "name": "Lee Chong Wei: Sự Trỗi Dậy Của Huyền Thoại",
+      "originName": "Lee Chong Wei: Rise Of The Legend",
+      "posterUrl": "https://phimimg.com/upload/vod/20260621-1/6f4eece888afd8939f943ce5104663f1.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260621-1/08b431c5ad890add84cadad11f4a87e2.jpg",
+      "year": 2018,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (30/30)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Thể Thao",
+          "slug": "the-thao"
         },
         {
           "name": "Tâm Lý",
@@ -36,8 +32,177 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Malaysia",
+          "slug": "malaysia"
+        }
+      ]
+    },
+    {
+      "id": "mosaic-2018-5ab9dcd3",
+      "source": "phimapi",
+      "slug": "manh-ghep",
+      "name": "Mảnh Ghép",
+      "originName": "Mosaic",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/2c6663f4b6f178c9989440ec79c77157.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/010286d45b329dd0bf5e1ed5d54ebe8f.jpg",
+      "year": 2018,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (6/6)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "on-the-beach-at-night-al-2017-f1ff9ba6",
+      "source": "ophim",
+      "slug": "mot-minh-giua-bien-dem",
+      "name": "Một Mình Giữa Biển Đêm",
+      "originName": "On the Beach at Night Alone",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mot-minh-giua-bien-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-minh-giua-bien-dem-thumb.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "forgotten-night-of-memor-2017-5844050a",
+      "source": "phimapi",
+      "slug": "dem-ky-uc",
+      "name": "Đêm Ký Ức",
+      "originName": "Forgotten (Night Of Memory)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/542b9a7b66249bc0b48f74b74921ef27.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/91bdda93b45b1674a7a5f210feb61507.jpg",
+      "year": 2017,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "magi-adventure-of-sinbad-2016-c618ea28",
+      "source": "phimapi",
+      "slug": "magi-sinbad-phieu-luu-ky",
+      "name": "Magi: Sinbad Phiêu Lưu Ký",
+      "originName": "Magi: Adventure Of Sinbad",
+      "posterUrl": "https://phimimg.com/upload/vod/20260619-1/ce460bf96093e4603a3503c5935e7fd8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/84f2b15a71ea1c6e0f22c5cc86a85be2.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-devil-s-candy-2016-45e17b96",
+      "source": "phimapi",
+      "slug": "nha-quy-keo-cua-quy",
+      "name": "Nhà Quỷ (Kẹo của Quỷ)",
+      "originName": "The Devil's Candy",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/8a4dfce48f2e769cee599b0f57d7d742.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/a8d2eec3cece6c70b309aeec672fdaa9.jpg",
+      "year": 2016,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
         },
         {
           "name": "Âu Mỹ",
@@ -120,39 +285,6 @@
       ]
     },
     {
-      "id": "best-get-going-2015-55d4dc2c",
-      "source": "phimapi",
-      "slug": "co-len-thuc-tap-sinh",
-      "name": "Cố lên Thực Tập Sinh",
-      "originName": "Best Get Going",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/929e774e706e90c8f5cbb8334fbffd14.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/5e0dbd0b4f0c410b040a65f45bf46678.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (35/35)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "falling-skies-season-4-2014-920db729",
       "source": "ophim",
       "slug": "bau-troi-sup-do-phan-4",
@@ -198,17 +330,17 @@
       ]
     },
     {
-      "id": "against-the-tide-2014-3c06a711",
+      "id": "leviathan-2014-9e76a751",
       "source": "phimapi",
-      "slug": "danh-mat-luong-tri",
-      "name": "Đánh Mất Lương Tri",
-      "originName": "Against The Tide",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/40edcedab429ba921a7d943d3d7d880d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/721b508bb03606b09c7c1ca9ad614ec5.jpg",
+      "slug": "leviathan",
+      "name": "Leviathan",
+      "originName": "Leviathan",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/32e8f7041e33b957a86e16fb85cffc93.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/5b5a633a3c23c6f3a5765c3e1a422879.jpg",
       "year": 2014,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Chính Kịch",
@@ -217,16 +349,12 @@
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Singapore",
-          "slug": "singapore"
+          "name": "Nga",
+          "slug": "nga"
         }
       ]
     },
@@ -334,76 +462,6 @@
       ]
     },
     {
-      "id": "nine-nine-time-travels-2013-6b35e5b4",
-      "source": "phimapi",
-      "slug": "9-lan-nguoc-thoi-gian",
-      "name": "9 Lần Ngược Thời Gian",
-      "originName": "Nine: Nine Time Travels",
-      "posterUrl": "https://phimimg.com/upload/vod/20260609-1/a75149e5c5189f5c4d391294348dd619.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260609-1/85126132ef5c74289e4650a125437bc8.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (20/20)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "hold-my-hand-2013-d4c168fe",
-      "source": "phimapi",
-      "slug": "hay-nam-tay-anh",
-      "name": "Hãy Nắm Tay Anh",
-      "originName": "Hold My Hand",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/b30c13455dd5d7867d663ebb43d64976.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/7cb48cbcfed5b0b4c75fd8ae51c462c0.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (65/65)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "falling-skies-season-2-2012-fdd699fb",
       "source": "ophim",
       "slug": "bau-troi-sup-do-phan-2",
@@ -503,43 +561,6 @@
       ]
     },
     {
-      "id": "rich-man-poor-woman-2012-06db3cc7",
-      "source": "phimapi",
-      "slug": "chang-giau-nang-ngheo",
-      "name": "Chàng Giàu, Nàng Nghèo",
-      "originName": "Rich Man, Poor Woman",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/d2928cbd9d8e6d311a3dba432d0eef03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/62b11f710eaaa00a4df2a73882c16673.jpg",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "falling-skies-season-1-2011-3028d493",
       "source": "ophim",
       "slug": "bau-troi-sup-do-phan-1",
@@ -610,6 +631,68 @@
       ]
     },
     {
+      "id": "high-kick-season-3-2011-919d1bb2",
+      "source": "phimapi",
+      "slug": "gia-dinh-la-so-1-phan-3",
+      "name": "Gia Đình Là Số 1 (Phần 3)",
+      "originName": "High Kick (Season 3)",
+      "posterUrl": "https://phimimg.com/upload/vod/20240829-1/a0cd73eac83d6f6c967485b05a0f84b8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240829-1/05ea25e9f2011df44e92839c5973be05.jpg",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (123/123)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "mildred-pierce-2011-307ad709",
+      "source": "phimapi",
+      "slug": "mildred-pierce",
+      "name": "Mildred Pierce",
+      "originName": "Mildred Pierce",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/f2559a3a5f8a95f5394cc34d7004dd9f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/6ec1db548023760cdc80a653d00d2994.jpg",
+      "year": 2011,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (5/5)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "bedways-2010-b481f6cf",
       "source": "ophim",
       "slug": "chuyen-chan-goi",
@@ -660,76 +743,6 @@
       ]
     },
     {
-      "id": "justice-bao-arbiter-of-l-2010-fe2daa7e",
-      "source": "phimapi",
-      "slug": "bao-thanh-thien-bich-huyet-tam-dan",
-      "name": "Bao Thanh Thiên: Bích Huyết Tâm Đan",
-      "originName": "Justice Bao: Arbiter Of Loyalty Unto Death",
-      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/6385ca6cf86d31424d71f6a3bfeeac07.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/0ca5678b6c8f50cb44b32f3f3cd34592.jpg",
-      "year": 2010,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "running-man-2010-ca3391d1",
-      "source": "phimapi",
-      "slug": "thu-thach-than-tuong",
-      "name": "Thử Thách Thần Tượng",
-      "originName": "Running Man",
-      "posterUrl": "https://phimimg.com/upload/vod/20241017-1/8ce53643bb316f8fb8dc3dddd955f2ce.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241017-1/65a22ab2e96e79bfedf8ae96d955f72a.jpg",
-      "year": 2010,
-      "type": "tvshow",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 806",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
       "id": "southland-season-1-2009-89e605b6",
       "source": "ophim",
       "slug": "southland-phan-1",
@@ -755,64 +768,39 @@
       ]
     },
     {
-      "id": "justice-bao-the-seven-he-2009-b07fedd2",
+      "id": "messengers-2-the-scarecr-2009-48e6e301",
       "source": "phimapi",
-      "slug": "bao-thanh-thien-that-hiep-ngu-nghia",
-      "name": "Bao Thanh Thiên: Thất Hiệp Ngũ Nghĩa",
-      "originName": "Justice Bao: The Seven Heroes And Five Gallants",
-      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/79942cb29045b8c29a891eeacb81584f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/814f8c000f1baf3611d66caa646f73d6.jpg",
+      "slug": "nhung-nguoi-dua-tin-2",
+      "name": "Những Người Đưa Tin 2",
+      "originName": "Messengers 2: The Scarecrow",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1d09fca9ff29e7bc0251e41bd72af6ba.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/e38991cd422bc5e0a3f30a579afb9a75.jpg",
       "year": 2009,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "er-season-15-2008-13f886c5",
-      "source": "ophim",
-      "slug": "er-phong-cap-cuu-phan-15",
-      "name": "ER: Phòng Cấp Cứu (Phần 15)",
-      "originName": "ER (Season 15)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-15-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-15-thumb.jpg",
-      "year": 2008,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Bulgaria",
+          "slug": "bulgaria"
         }
       ]
     }

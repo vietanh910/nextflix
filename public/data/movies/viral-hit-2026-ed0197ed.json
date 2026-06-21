@@ -81,54 +81,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/1716a05b20a095811082ebfd603f96c6",
       "m3u8Url": "https://vip.opstream90.com/20260611/34579_1716a05b/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/L2UO8bOX/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/L2UO8bOX/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/DShZJZk9/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/DShZJZk9/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/tFvfjIwj/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/tFvfjIwj/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/BNd8DXwv/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/BNd8DXwv/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/gJNj7PEY/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/gJNj7PEY/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/S09l3Gmx/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/S09l3Gmx/index.m3u8"
     }
   ],
   "sources": [
@@ -137,12 +89,6 @@
       "slug": "hoc-cach-chien-dau",
       "episodeCount": 6,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "hoc-cach-chien-dau",
-      "episodeCount": 6,
-      "priority": 1
     }
   ],
   "_priority": 0

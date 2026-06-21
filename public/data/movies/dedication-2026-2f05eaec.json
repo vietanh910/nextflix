@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -121,13 +121,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/ZuUEETIM/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260608/ZuUEETIM/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/vpfnVFsG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/vpfnVFsG/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/6OEdLleW/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/6OEdLleW/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "tan-hien",
-      "episodeCount": 11,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

@@ -5,6 +5,35 @@
   "totalPages": 1,
   "items": [
     {
+      "id": "pressure-2026-3b3d8a08",
+      "source": "ophim",
+      "slug": "ap-luc",
+      "name": "Áp Lực",
+      "originName": "Pressure",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ap-luc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ap-luc-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        }
+      ]
+    },
+    {
       "id": "desert-warrior-2026-d1075187",
       "source": "ophim",
       "slug": "desert-warrior",
@@ -125,6 +154,47 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "sgt-stubby-an-american-h-2018-57c277ac",
+      "source": "phimapi",
+      "slug": "chu-cho-anh-hung",
+      "name": "Chú Chó Anh Hùng",
+      "originName": "Sgt. Stubby: An American Hero",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/ab9583aaefd36e872e2af6f8f0b3a159.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/4e95ec94de00a1e3b2405df5bef56928.jpg",
+      "year": 2018,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Lịch Sử",
+          "slug": "lich-su"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

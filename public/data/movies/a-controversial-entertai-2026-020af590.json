@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/nam-cong-quan-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -41,13 +41,77 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/317e30985b2c3bf93a0fe849ddca9888",
       "m3u8Url": "https://vip.opstream90.com/20260517/32099_317e3098/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c996b6b8a8de8ba0039fed4a7c158e32",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34998_c996b6b8/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/860cf4d40df09a27bbfaa2c3c3ccd26e",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34999_860cf4d4/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/ce28c97dcd8381b7d5a093ffd1deae38",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35000_ce28c97d/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fb8fb2ff998229aca1a25c0b94b94cc0",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35001_fb8fb2ff/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/83b7b19e6be902a7bab8244f0d83481f",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35002_83b7b19e/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c94b9c32bee1951814f79c9646777742",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35003_c94b9c32/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/95119c54e4be718b4e691e95b0265892",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35004_95119c54/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/eee5bfe09413b2b48821a5a488b1f494",
+      "m3u8Url": "https://vip.opstream90.com/20260617/35005_eee5bfe0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nam-cong-quan",
-      "episodeCount": 2,
+      "episodeCount": 10,
       "priority": 0
     }
   ],

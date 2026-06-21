@@ -41,22 +41,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/fd1f577e0cc2dd02e6ad6107fcd19cef",
       "m3u8Url": "https://vip.opstream90.com/20260610/34487_fd1f577e/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/jYtSmZmH/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/jYtSmZmH/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/EBZ555qp/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/EBZ555qp/index.m3u8"
     }
   ],
   "sources": [
@@ -65,12 +49,6 @@
       "slug": "na-uy-chu-ngua-o",
       "episodeCount": 2,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "na-uy-chu-ngua-o",
-      "episodeCount": 2,
-      "priority": 1
     }
   ],
   "_priority": 0

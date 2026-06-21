@@ -5,13 +5,13 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "the-final-battle-2026-d3b7640b",
+      "id": "panda-plan-2-the-magical-2026-837e1140",
       "source": "ophim",
-      "slug": "huyen-chien-thanh-long-trai",
-      "name": "Huyến Chiến Thanh Long Trại",
-      "originName": "The Final Battle",
-      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-thumb.jpg",
+      "slug": "ke-hoach-gau-truc-2-bo-toc-ky-dieu",
+      "name": "Kế Hoạch Gấu Trúc 2: Bộ tộc kỳ diệu",
+      "originName": "Panda Plan 2: The Magical Tribe",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-hoach-gau-truc-2-bo-toc-ky-dieu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-hoach-gau-truc-2-bo-toc-ky-dieu-thumb.jpg",
       "year": 2026,
       "type": "single",
       "status": "completed",
@@ -22,12 +22,12 @@
           "slug": "hanh-dong"
         },
         {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
         }
       ],
       "countries": [
@@ -38,31 +38,31 @@
       ]
     },
     {
-      "id": "karuppu-2026-8475b044",
+      "id": "husbands-in-action-2026-28b6cbb4",
       "source": "ophim",
-      "slug": "karuppu",
-      "name": "Karuppu",
-      "originName": "Karuppu",
-      "posterUrl": "https://img.ophim.live/uploads/movies/karuppu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/karuppu-thumb.jpg",
+      "slug": "khi-chong-hop-luc",
+      "name": "Khi Chồng Hợp Lực",
+      "originName": "Husbands in Action",
+      "posterUrl": "https://img.ophim.live/uploads/movies/khi-chong-hop-luc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/khi-chong-hop-luc-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         }
       ],
       "countries": [
         {
-          "name": "Ấn Độ",
-          "slug": "an-do"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -90,6 +90,39 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "kill-blue-2026-925c0c3e",
+      "source": "ophim",
+      "slug": "kill-blue",
+      "name": "KILL BLUE",
+      "originName": "KILL BLUE",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kill-blue-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kill-blue-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         }
       ],
       "countries": [
@@ -133,47 +166,6 @@
       ]
     },
     {
-      "id": "that-time-i-got-reincarn-2026-cd773733",
-      "source": "ophim",
-      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
-      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
-      "originName": "That Time I Got Reincarnated as a Slime (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "marriage-toxin-2026-27040d41",
       "source": "ophim",
       "slug": "mai-moi-cho-doc-su",
@@ -184,7 +176,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
@@ -277,39 +269,6 @@
       ]
     },
     {
-      "id": "a-marvel-television-spec-2026-b3712afb",
-      "source": "ophim",
-      "slug": "mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung",
-      "name": "Một Chương Trình Đặc Biệt từ Marvel Television - The Punisher: Phát Súng Cuối Cùng",
-      "originName": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "spider-man-brand-new-day-2026-3abbfdf9",
       "source": "ophim",
       "slug": "nguoi-nhen-khoi-dau-moi",
@@ -392,6 +351,39 @@
       ]
     },
     {
+      "id": "angels-and-guards-2026-dfcf66c6",
+      "source": "ophim",
+      "slug": "nhat-niem-so-kien-cam-y-dao",
+      "name": "Nhất Niệm Sơ Kiến Cẩm Y Dao",
+      "originName": "Angels and Guards",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhat-niem-so-kien-cam-y-dao-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhat-niem-so-kien-cam-y-dao-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "normal-2026-e1e11384",
       "source": "ophim",
       "slug": "normal",
@@ -464,7 +456,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Hành Động",
@@ -549,6 +541,43 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "daemons-of-the-shadow-re-2026-1dad0598",
+      "source": "ophim",
+      "slug": "song-menh-coi-hoang-tuyen",
+      "name": "Song Mệnh Cõi Hoàng Tuyền",
+      "originName": "Daemons of the Shadow Realm",
+      "posterUrl": "https://img.ophim.live/uploads/movies/song-menh-coi-hoang-tuyen-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/song-menh-coi-hoang-tuyen-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -666,7 +695,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 14",
+      "episodeCurrent": "Tập 15",
       "categories": [
         {
           "name": "Hành Động",
@@ -780,35 +809,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "blades-of-the-guardians--2026-dc2be9b4",
-      "source": "ophim",
-      "slug": "tieu-nhan-phong-khoi-dai-mac",
-      "name": "Tiêu Nhân: Phong Khởi Đại Mạc",
-      "originName": "Blades of the Guardians: Wind Rises in the Desert",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tieu-nhan-phong-khoi-dai-mac-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tieu-nhan-phong-khoi-dai-mac-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

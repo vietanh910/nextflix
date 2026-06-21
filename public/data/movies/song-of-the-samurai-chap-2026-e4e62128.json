@@ -81,54 +81,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/9ca23f6f5db0679c61be4b1818cb6a26",
       "m3u8Url": "https://vip.opstream90.com/20260613/34793_9ca23f6f/index.m3u8"
-    },
-    {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/Eq3Pbnbi/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/Eq3Pbnbi/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/sKfDKGLd/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/sKfDKGLd/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260525/mV9QeDqO/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260525/mV9QeDqO/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/yE4qhv6X/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/yE4qhv6X/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/4jOYmMbM/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/4jOYmMbM/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/zIxBTkzm/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/zIxBTkzm/index.m3u8"
     }
   ],
   "sources": [
@@ -137,12 +89,6 @@
       "slug": "khuc-ca-linh-hon-shinsengumi",
       "episodeCount": 6,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "huyen-thoai-samurai-nhung-nam-thang-edo",
-      "episodeCount": 6,
-      "priority": 1
     }
   ],
   "_priority": 0

@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 456",
+  "episodeCurrent": "Tập 458",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -3667,6 +3667,22 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260613/mHUB7sLb/index.m3u8"
     },
     {
+      "name": "Tập 457",
+      "slug": "tap-457",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/1QaJziJn/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/1QaJziJn/index.m3u8"
+    },
+    {
+      "name": "Tập 458",
+      "slug": "tap-458",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/n5NPtHO6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/n5NPtHO6/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -7145,19 +7161,43 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/9fabfa2db6d33c9f4721d725e0269a42",
       "m3u8Url": "https://vip.opstream90.com/20260608/34283_9fabfa2d/index.m3u8"
+    },
+    {
+      "name": "436",
+      "slug": "436",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dafc6b883d0cc60bdb18d80a7ac523ef",
+      "m3u8Url": "https://vip.opstream90.com/20260615/34804_dafc6b88/index.m3u8"
+    },
+    {
+      "name": "437",
+      "slug": "437",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9b784280afc36c74b271d8af5ec9e534",
+      "m3u8Url": "https://vip.opstream90.com/20260615/34805_9b784280/index.m3u8"
+    },
+    {
+      "name": "438",
+      "slug": "438",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d2a9c67619d9d37284ab7322ea242ee9",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34870_d2a9c676/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 435,
+      "episodeCount": 438,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "van-gioi-doc-ton",
-      "episodeCount": 453,
+      "episodeCount": 455,
       "priority": 1
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/fc-soldout-thumb.jpg",
   "year": 2025,
   "type": "series",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (8/8)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -27,16 +27,75 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "1",
+      "slug": "1",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/74b846eb2dcd22fe703bebcd75a3aff1",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34990_74b846eb/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e304076961ce84eeec9e5d066edd87b5",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34991_e3040769/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3e456a4aff7469dc5851e3e7b2d2dac9",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34992_3e456a4a/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6db466c8fa677c516515ad0a2645a23f",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34993_6db466c8/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a060a959e2593a9036a4a9a449f9b304",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34994_a060a959/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4456cf96039e56df394c9d6fa3bc04c5",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34995_4456cf96/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c7ced588de969dbd96e09067876bab3a",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34996_c7ced588/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/da4387d24e5cd56f15505ea8df550eeb",
+      "m3u8Url": "https://vip.opstream90.com/20260617/34997_da4387d2/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "fc-soldout",
-      "episodeCount": 1,
+      "episodeCount": 8,
       "priority": 0
     }
   ],

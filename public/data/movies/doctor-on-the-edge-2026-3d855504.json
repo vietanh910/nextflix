@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 4",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Hài Hước",
@@ -63,6 +63,22 @@
       "m3u8Url": "https://vip.opstream10.com/20260610/33876_3de78319/index.m3u8"
     },
     {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/708985cc1d6977124e38b27ee7cba1f2",
+      "m3u8Url": "https://vip.opstream10.com/20260616/33928_708985cc/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/c53e096440994145aebc056e820ece8b",
+      "m3u8Url": "https://vip.opstream10.com/20260618/33932_c53e0964/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -93,19 +109,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/4gvpyG9T/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260611/4gvpyG9T/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/BYyh8H29/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/BYyh8H29/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/0DiO2QQw/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/0DiO2QQw/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "bac-si-dao-hoang",
-      "episodeCount": 4,
+      "episodeCount": 6,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "bac-si-dao-hoang",
-      "episodeCount": 4,
+      "episodeCount": 6,
       "priority": 1
     }
   ],

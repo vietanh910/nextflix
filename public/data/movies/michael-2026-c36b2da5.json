@@ -33,14 +33,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/d3d92bc35d062c83f89b7ea87d99dca9",
       "m3u8Url": "https://vip.opstream90.com/20260610/34383_d3d92bc3/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260610/oih9AKCY/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260610/oih9AKCY/index.m3u8"
     }
   ],
   "sources": [
@@ -49,12 +41,6 @@
       "slug": "michael",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "mai-co",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

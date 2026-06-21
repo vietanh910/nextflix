@@ -1,0 +1,83 @@
+{
+  "id": "above-myriads-2026-44fdee65",
+  "source": "phimapi",
+  "slug": "tren-van-nguoi",
+  "name": "Trên Vạn Người",
+  "originName": "Above Myriads",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/500ae641389bbc58a6330362a866a44f.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/cecfaa2ea6d4bc1b3661728f21d7dcd9.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 4",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "Dịch Phong xuyên không đến đại lục Tiên Giang, do bẩm sinh không có linh căn nên anh chỉ có thể dựa vào những &quot;kỹ năng sống cơ bản&quot; mà hệ thống ban tặng để sống qua ngày. Thế nhưng anh đâu biết rằng, trong mắt các tu luyện giả, thực lực của anh đã đạt đến cấp độ Thần cấp, mỗi nhất cử nhất động của anh đều làm thay đổi cả cục diện của đại lục Tiên Giang. Dù hoàn toàn không hay biết gì, Dịch Phong vẫn hóa giải các cuộc khủng hoảng trùng trùng một cách vô cùng nhẹ nhàng, đồng thời tạo nên vô số tình huống vừa nhiệt huyết vừa cười ra nước mắt, mang đến những cơ duyên và lựa chọn mới cho chúng sinh trên mảnh đại lục này.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/TyG6VW1R/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/TyG6VW1R/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/IK8QFPY2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/IK8QFPY2/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/IqmjjRj1/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/IqmjjRj1/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/xX7Yczp5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/xX7Yczp5/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "tren-van-nguoi",
+      "episodeCount": 4,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 10",
+  "episodeCurrent": "Tập 11",
   "categories": [
     {
       "name": "Hài Hước",
@@ -107,6 +107,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260613/34765_ff08c7b6/index.m3u8"
     },
     {
+      "name": "11",
+      "slug": "11",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/06150927fbaa6e3f026901cb1dedaaed",
+      "m3u8Url": "https://vip.opstream90.com/20260620/35270_06150927/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -185,19 +193,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/R1Om03JW/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260612/R1Om03JW/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/31VI6qdO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/31VI6qdO/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dang-say-tua-doa-bach-hop",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "dang-say-tua-doa-bach-hop-kamiina-botan",
-      "episodeCount": 10,
+      "episodeCount": 11,
       "priority": 1
     }
   ],

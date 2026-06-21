@@ -1,0 +1,55 @@
+{
+  "id": "friend-request-2016-4de84223",
+  "source": "phimapi",
+  "slug": "ket-ban-voi-ma",
+  "name": "Kết Bạn Với Ma",
+  "originName": "Friend Request",
+  "posterUrl": "https://phimimg.com/upload/vod/20260620-1/f07a4f016fd0d422add423699d7470f1.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/a270e608b32f6951eec4b1291613941b.jpg",
+  "year": 2016,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Đức",
+      "slug": "duc"
+    },
+    {
+      "name": "Nam Phi",
+      "slug": "nam-phi"
+    }
+  ],
+  "description": "Laura là một hotgirl của trường, sống thời học sinh vui vẻ và rạng rỡ bên gia đình và 800 người bạn trên Facebook. Khi nhận lời kết bạn của cô bạn cùng lớp nhưng vô cùng bí ẩn - Marina, Laura đã vô hình chung tạo ra một lời nguyền cho chính mình. Tài khoản Facebook của cô gái đã chết nhưng linh hồn không siêu thoát đã khiến Laura rơi vào tình cảnh cô đơn, bi đát. Thế giới ảo và thực của cô bị thống trị bởi những hồn ma. Hơn nữa, những người bạn thân thiết cũng lần lượt bị giết chết một cách thảm thương. Cuối cùng liệu có ai sống sót, lời nguyền ma ám có thể bị phá vỡ? Chúc các bạn xem phim vui vẻ! Tags",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/TFLw4ru5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/TFLw4ru5/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ket-ban-voi-ma",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -5,6 +5,31 @@
   "totalPages": 14,
   "items": [
     {
+      "id": "er-season-15-2008-13f886c5",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-15",
+      "name": "ER: Phòng Cấp Cứu (Phần 15)",
+      "originName": "ER (Season 15)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-15-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-15-thumb.jpg",
+      "year": 2008,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "after-sex-2007-51bd0e9b",
       "source": "ophim",
       "slug": "du-am-sau-cuoc-yeu",
@@ -48,6 +73,84 @@
       "categories": [
         {
           "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-contractor-2007-99e33475",
+      "source": "phimapi",
+      "slug": "hop-dong-doat-mang",
+      "name": "Hợp đồng đoạt mạng",
+      "originName": "The Contractor",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/4b3bb1dfc9ee38c2d773ba540a476038.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/075712b0c464cddd5011d3dbc96469e6.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-messengers-2007-afff2fce",
+      "source": "phimapi",
+      "slug": "nhung-nguoi-dua-tin-nhung-loi-canh-bao",
+      "name": "Những Người Đưa Tin (Những Lời Cảnh Báo)",
+      "originName": "The Messengers",
+      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1416c9f27351dd21896d11956471bba2.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/3353dcc23551c657dfc87d5f4d0600e6.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính Kịch",
           "slug": "chinh-kich"
         }
       ],
@@ -213,39 +316,6 @@
       ]
     },
     {
-      "id": "the-mothman-prophecies-2002-171d8098",
-      "source": "phimapi",
-      "slug": "loi-nguyen-dang-so",
-      "name": "Lời Nguyền Đáng Sợ",
-      "originName": "The Mothman Prophecies",
-      "posterUrl": "https://phimimg.com/upload/vod/20260608-1/4d8e0cc24af201868c8bb5c2669fd790.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/b29eb8c5fd0ed27d274459f98b48b0f4.jpg",
-      "year": 2002,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "er-season-8-2001-84a91c07",
       "source": "ophim",
       "slug": "er-phong-cap-cuu-phan-8",
@@ -296,39 +366,6 @@
       ]
     },
     {
-      "id": "friends-season-7-2000-2c5da024",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-ban-phan-7",
-      "name": "Những Người Bạn (Phần 7)",
-      "originName": "Friends (Season 7)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240126-1/0ccecdb927fcbe7b456f32d6ce786eba.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240126-1/75bd3ffea8ab2634c39f694b0ce4d90f.jpg",
-      "year": 2000,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "er-season-6-1999-e529d001",
       "source": "ophim",
       "slug": "er-phong-cap-cuu-phan-6",
@@ -369,6 +406,39 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "what-dreams-may-come-1998-cfb44e34",
+      "source": "phimapi",
+      "slug": "noi-giac-mo-tro-thanh-hien-thuc",
+      "name": "Nơi Giấc Mơ Trở Thành Hiện Thực",
+      "originName": "What Dreams May Come",
+      "posterUrl": "https://phimimg.com/upload/vod/20260619-1/de3d17cd194bf47bcd2cd36eb222de2e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/c57825d15fc660fefc7839759eb9ae4c.jpg",
+      "year": 1998,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         }
       ],
       "countries": [
@@ -454,33 +524,29 @@
       ]
     },
     {
-      "id": "ice-cream-man-1995-23101682",
+      "id": "happily-ever-after-fairy-1995-2984d78f",
       "source": "phimapi",
-      "slug": "nguoi-ban-kem",
-      "name": "Người Bán Kem",
-      "originName": "Ice Cream Man",
-      "posterUrl": "https://phimimg.com/upload/vod/20260610-1/d17814fcb40adb9acb566432a668aa03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/ad712538346a0403506ca70f517d7b9c.jpg",
+      "slug": "song-hanh-phuc-mai-mai-truyen-co-tich-cho-moi-dua-tre",
+      "name": "Sống Hạnh Phúc Mãi Mãi: Truyện Cổ Tích Cho Mọi Đứa Trẻ",
+      "originName": "Happily Ever After: Fairy Tales for Every Child",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/0de2d47e52fc82f6ff59bcd9aaf6f396.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/faa03bfd68f330b0fb77ef8f83c8ae57.jpg",
       "year": 1995,
-      "type": "single",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
         }
       ],
       "countries": [

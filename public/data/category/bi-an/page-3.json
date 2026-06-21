@@ -5,17 +5,17 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "bad-investigate-2018-c29888a2",
+      "id": "detective-conan-2005-98e12589",
       "source": "ophim",
-      "slug": "tham-tu-bat-dac-di",
-      "name": "Thám Tử Bất Đắc Dĩ",
-      "originName": "Bad Investigate",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tham-tu-bat-dac-di-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tham-tu-bat-dac-di-thumb.jpg",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "slug": "tham-tu-lung-danh-conan",
+      "name": "Thám Tử Lừng Danh Conan",
+      "originName": "Detective Conan",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tham-tu-lung-danh-conan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tham-tu-lung-danh-conan-thumb.jpg",
+      "year": 2005,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1203",
       "categories": [
         {
           "name": "Hành Động",
@@ -26,53 +26,8 @@
           "slug": "hai-huoc"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Bồ Đào Nha",
-          "slug": "bo-dao-nha"
-        }
-      ]
-    },
-    {
-      "id": "re-zero-starting-life-in-2016-c5e25030",
-      "source": "ophim",
-      "slug": "rezero-bat-dau-o-the-gioi-khac-phan-4",
-      "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác (Phần 4)",
-      "originName": "Re:ZERO -Starting Life in Another World- Season 4",
-      "posterUrl": "https://img.ophim.live/uploads/movies/rezero-−-bat-dau-o-the-gioi-khac-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/rezero-−-bat-dau-o-the-gioi-khac-phan-4-thumb.jpg",
-      "year": 2016,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 7",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         },
         {
           "name": "Bí ẩn",
@@ -87,35 +42,31 @@
       ]
     },
     {
-      "id": "ghost-mountaineer-2015-b7af8b81",
-      "source": "ophim",
-      "slug": "hon-ma-nguoi-leo-nui",
-      "name": "Hồn Ma Người Leo Núi",
-      "originName": "Ghost Mountaineer",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hon-ma-nguoi-leo-nui-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hon-ma-nguoi-leo-nui-thumb.jpg",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "id": "detective-conan-1996-7e203c67",
+      "source": "phimapi",
+      "slug": "tham-tu-lung-danh-conan",
+      "name": "Thám Tử Lừng Danh Conan",
+      "originName": "Detective Conan",
+      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/025424cf62248b9a7b54279ef5416e26.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/2a39971cc29c2802259b918eb437a45b.jpg",
+      "year": 1996,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1204",
       "categories": [
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Bí ẩn",
+          "name": "Bí Ẩn",
           "slug": "bi-an"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         }
       ],
       "countries": [
         {
-          "name": "Ý",
-          "slug": "y"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     }

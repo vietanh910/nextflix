@@ -1,0 +1,59 @@
+{
+  "id": "the-devil-s-candy-2016-45e17b96",
+  "source": "phimapi",
+  "slug": "nha-quy-keo-cua-quy",
+  "name": "Nhà Quỷ (Kẹo của Quỷ)",
+  "originName": "The Devil's Candy",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/8a4dfce48f2e769cee599b0f57d7d742.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/a8d2eec3cece6c70b309aeec672fdaa9.jpg",
+  "year": 2016,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Một họa sĩ đang gặp khó khăn về tài chính bị thế lực ma quỷ chiếm hữu sau khi anh và gia đình nhỏ của mình chuyển đến ngôi nhà mơ ước ở vùng nông thôn Texas.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/Owwshwzt/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/Owwshwzt/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "nha-quy-keo-cua-quy",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

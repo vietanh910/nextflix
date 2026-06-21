@@ -1,0 +1,93 @@
+{
+  "id": "chasing-love-2026-4b7ba25a",
+  "source": "phimapi",
+  "slug": "theo-duoi-tinh-yeu-2026",
+  "name": "Theo Đuổi Tình Yêu",
+  "originName": "Chasing Love",
+  "posterUrl": "https://phimimg.com/upload/vod/20260608-1/44184d13c7951494a74e957e4919b17b.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260608-1/676bc74f4423d409f268fd914d11bb14.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "Song, một nữ nghiên cứu sinh ẩm thực mang phong cách &quot;mọt sách quyến rũ&quot;, đã có một đêm cuồng nhiệt với một người phụ nữ bí ẩn dưới một điều kiện nghiêm ngặt: không ràng buộc tình cảm. Thế nhưng, đối phương đã vi phạm thỏa thuận khi chủ động đòi hỏi một sự gắn kết về mặt cảm xúc. Song lập tức chấm dứt cuộc gặp gỡ nóng bỏng ấy và quay lưng bước đi.&nbsp; Nhưng trái đất quả thực rất tròn. Người phụ nữ đêm đó hóa ra lại là Piangrawin — con gái cưng của chủ tịch tập đoàn nơi Song đang làm việc. Và Piangrawin thì không dễ dàng buông tay đến vậy. Cô nàng bắt đầu theo đuổi Song với sự si mê và trung thành như một chú cún con, dùng sự quyến rũ đầy táo bạo của mình để len lỏi và làm đảo lộn cả trái tim lẫn cuộc sống thường nhật của Song. Thậm chí, cô còn tuyên bố rằng mình đã đặt sẵn tên cho đứa con tương lai của hai người.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/yuAeCDIS/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/yuAeCDIS/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/pbmPTrni/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/pbmPTrni/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/aKN2jvAz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/aKN2jvAz/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/94100281282886e643fbff5dc5865403",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34894_94100281/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/67df5043df46850b16169492fc1ab2af",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34895_67df5043/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "chasing-love",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "theo-duoi-tinh-yeu-2026",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

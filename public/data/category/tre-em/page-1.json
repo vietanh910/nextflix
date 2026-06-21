@@ -15,7 +15,7 @@
       "year": 2025,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 33",
+      "episodeCurrent": "Tập 35",
       "categories": [
         {
           "name": "Trẻ Em",
@@ -42,6 +42,39 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "happily-ever-after-fairy-1995-2984d78f",
+      "source": "phimapi",
+      "slug": "song-hanh-phuc-mai-mai-truyen-co-tich-cho-moi-dua-tre",
+      "name": "Sống Hạnh Phúc Mãi Mãi: Truyện Cổ Tích Cho Mọi Đứa Trẻ",
+      "originName": "Happily Ever After: Fairy Tales for Every Child",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/0de2d47e52fc82f6ff59bcd9aaf6f396.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/faa03bfd68f330b0fb77ef8f83c8ae57.jpg",
+      "year": 1995,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Trẻ Em",
+          "slug": "tre-em"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

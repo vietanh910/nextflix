@@ -1,0 +1,69 @@
+{
+  "id": "panda-plan-2-the-magical-2026-837e1140",
+  "source": "ophim",
+  "slug": "ke-hoach-gau-truc-2-bo-toc-ky-dieu",
+  "name": "Kế Hoạch Gấu Trúc 2: Bộ tộc kỳ diệu",
+  "originName": "Panda Plan 2: The Magical Tribe",
+  "posterUrl": "https://img.ophim.live/uploads/movies/ke-hoach-gau-truc-2-bo-toc-ky-dieu-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/ke-hoach-gau-truc-2-bo-toc-ky-dieu-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>&nbsp;Bộ phim theo chân chú gấu trúc Huhu và siêu sao võ thuật Jackie Chan (Thành Long) vô tình rơi vào một bộ tộc nguyên thủy bí ẩn. Huhu được tôn sùng là “thần thú” giúp giải cứu bộ tộc, dẫn đến một cuộc phiêu lưu hài hước và hành động dở khóc dở cười.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7eb38c169d0faad77374895a8bdc24c5",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35247_7eb38c16/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/8p4hOuqB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/8p4hOuqB/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ke-hoach-gau-truc-2-bo-toc-ky-dieu",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ke-hoach-gau-truc-2-bo-toc-ky-dieu",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

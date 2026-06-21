@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 17",
+  "episodeCurrent": "Tập 18",
   "categories": [
     {
       "name": "Hành Động",
@@ -173,13 +173,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260612/dM3LQGls/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260612/dM3LQGls/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/tKqQYuim/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/tKqQYuim/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "ngu-linh-the-gioi",
-      "episodeCount": 17,
+      "episodeCount": 18,
       "priority": 1
     }
   ],

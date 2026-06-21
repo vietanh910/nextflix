@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 12",
   "categories": [
     {
       "name": "Hài Hước",
@@ -123,6 +123,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260613/34792_51339b6c/index.m3u8"
     },
     {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/11d705f237001472de4958c2e82fc4c1",
+      "m3u8Url": "https://vip.opstream90.com/20260620/35306_11d705f2/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -209,19 +217,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/FYI3hl4q/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260613/FYI3hl4q/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/EgzvLa7q/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/EgzvLa7q/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "vao-ma-gioi-roi-day-irumakun-phan-4",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

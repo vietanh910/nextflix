@@ -1,0 +1,63 @@
+{
+  "id": "now-you-see-me-3-now-you-2025-53077f14",
+  "source": "phimapi",
+  "slug": "phi-vu-the-ky-3-thoat-an-thoat-hien",
+  "name": "Phi Vụ Thế Kỷ 3: Thoắt Ẩn Thoắt Hiện",
+  "originName": "Now You See Me 3: Now You Don't",
+  "posterUrl": "https://phimimg.com/upload/vod/20251130-1/a23873fe569bef95355185302c10d872.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20251130-1/391d51dfd73c3c9f83a652ad97636aeb.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Bí Ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Nhóm Tứ Kỵ Sĩ ban đầu tái hợp cùng với một thế hệ ảo thuật gia mới để đối đầu với nữ thừa kế kim cương đầy quyền lực là Veronika Vanderberg. Veronika điều hành một đế chế tội phạm được xây dựng trên hoạt động rửa tiền và buôn bán người.&nbsp; Các ảo thuật gia mới và cũ phải vượt qua những khác biệt của mình để cùng nhau thực hiện vụ trộm đầy tham vọng nhất từ trước đến nay.",
+  "quality": "FHD",
+  "lang": "Vietsub + Thuyết Minh",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/bE3KWGwN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260620/bE3KWGwN/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Thuyết Minh)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251230/Xm5XBG32/index.m3u8",
+      "m3u8Url": "https://s6.kkphimplayer6.com/20251230/Xm5XBG32/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "phi-vu-the-ky-3-thoat-an-thoat-hien",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

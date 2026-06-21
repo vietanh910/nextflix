@@ -1,0 +1,97 @@
+{
+  "id": "the-testaments-season-1-2026-c1baa8b6",
+  "source": "ophim",
+  "slug": "nhung-ban-di-chuc-phan-1",
+  "name": "Những Bản Di Chúc (Phần 1)",
+  "originName": "The Testaments (Season 1)",
+  "posterUrl": "https://img.ophim.live/uploads/movies/nhung-ban-di-chuc-phan-1-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-ban-di-chuc-phan-1-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>The Testaments (Những Bản Di Chúc) là phần hậu truyện của loạt phim gốc The Handmaid's Tale (Chuyện Người Hầu Gái), lấy bối cảnh khoảng 15 năm sau các sự kiện của loạt phim gốc, trong chế độ thần quyền độc tài Gilead, bộ phim không còn tập trung vào các \"người hầu\" (handmaids) mà thay vào đó là thế hệ con em của họ. Câu chuyện xoay quanh hai nhân vật: Agnes là con gái của một Chỉ huy cấp cao, được nuôi dạy để trở thành một \"cô dâu tương lai\" ngoan ngoãn. Trong khi đó, Daisy là một thiếu nữ đến từ Toronto, Canada, một cô gái đến từ bên ngoài Gilead thâm nhập vào Học viện của Dì Lydia (nhân vật biểu tượng trong loạt phim gốc), để làm gián điệp cho tổ chức kháng chiến Mayday. Mối quan hệ giữa hai cô gái và góc nhìn từ lớp trẻ đã mang đến cái nhìn mới mẻ hơn về sự phản kháng từ bên trong trong cuộc chiến chống lại cỗ máy tàn bạo của Gilead. Bộ phim nhận được nhiều đánh giá tích cực và sự đón nhận nồng nhiệt từ giới phê bình và khán giả. Nhiều người hâm mộ của \"The Handmaid's Tale\" cho rằng bộ phim xứng đáng là một phần kế thừa xứng đáng, thành công trong việc khai thác những góc nhìn mới mẻ về tuổi mới lớn ngay trong lòng chế độ độc tài. Sự thể hiện của dàn diễn viên trẻ, đặc biệt là Chase Infiniti và Lucy Halliday, được đánh giá cao. Bộ phim đã được chính thức gia hạn mùa thứ hai ngay trước khi tập cuối của mùa đầu tiên lên sóng.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/77b89821e0025bb611afe13ab29c6cad",
+      "m3u8Url": "https://vip.opstream10.com/20260615/33923_77b89821/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/bbed494bf1c9438f05e1f14d3daeac65",
+      "m3u8Url": "https://vip.opstream10.com/20260616/33926_bbed494b/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/24063b2a986b99344e03fed921222139",
+      "m3u8Url": "https://vip.opstream10.com/20260618/33931_24063b2a/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/aqO4FEbq/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/aqO4FEbq/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/MJiDXCzl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/MJiDXCzl/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/JZ9CMC7m/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/JZ9CMC7m/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "nhung-ban-di-chuc-phan-1",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "nhung-ban-di-chuc-phan-1",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

@@ -1,0 +1,59 @@
+{
+  "id": "nightsleeper-2024-777d93b8",
+  "source": "ophim",
+  "slug": "chuyen-tau-dem-kinh-hoang",
+  "name": "Chuyến Tàu Đêm Kinh Hoàng",
+  "originName": "Nightsleeper",
+  "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-tau-dem-kinh-hoang-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-tau-dem-kinh-hoang-thumb.jpg",
+  "year": 2024,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Nightsleeper là bộ phim giật gân nghẹt thở kể về một chuyến tàu đêm tưởng như bình thường nhưng bất ngờ trở thành tâm điểm của một cuộc tấn công mạng chết người. Khi đoàn tàu lao vun vút trong đêm mà không ai có thể kiểm soát, một cựu cảnh sát vô tình có mặt trên tàu và một chuyên gia an ninh mạng ở bên ngoài phải chạy đua với thời gian để cứu hàng trăm hành khách. Với nhịp phim dồn dập ngay từ đầu, nhiều cú twist và bầu không khí căng thẳng liên tục, Nightsleeper là lựa chọn hấp dẫn cho những ai yêu thích các bộ phim kiểu “thảm họa đang đến gần” và những cuộc chiến sinh tồn đầy kịch tính.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/6c9ca5f434f0fec54a8cb4073a3e2938",
+      "m3u8Url": "https://vip.opstream10.com/20260621/33939_6c9ca5f4/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "chuyen-tau-dem-kinh-hoang",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

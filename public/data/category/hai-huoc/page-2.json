@@ -2,34 +2,42 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 2,
-  "totalPages": 7,
+  "totalPages": 6,
   "items": [
     {
-      "id": "accidental-partners-2026-60897d5f",
+      "id": "fight-against-evil-3-2026-dc6007c5",
       "source": "ophim",
-      "slug": "doi-tac-tinh-co",
-      "name": "Đối tác tình cờ",
-      "originName": "Accidental Partners",
-      "posterUrl": "https://img.ophim.live/uploads/movies/doi-tac-tinh-co-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-tac-tinh-co-thumb.jpg",
+      "slug": "fight-against-evil-3",
+      "name": "Fight Against Evil 3",
+      "originName": "Fight Against Evil 3",
+      "posterUrl": "https://img.ophim.live/uploads/movies/fight-against-evil-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/fight-against-evil-3-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Mexico",
-          "slug": "mexico"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -59,31 +67,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "roosters-season-2-2026-42a42304",
-      "source": "ophim",
-      "slug": "ga-trong-phan-2",
-      "name": "Gà trống (Phần 2)",
-      "originName": "Roosters (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ga-trong-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ga-trong-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hà Lan",
-          "slug": "ha-lan"
         }
       ]
     },
@@ -216,17 +199,50 @@
       ]
     },
     {
-      "id": "the-legend-of-kitchen-so-2026-f6b1f175",
+      "id": "panda-plan-2-the-magical-2026-837e1140",
       "source": "ophim",
-      "slug": "huyen-thoai-linh-bep",
-      "name": "Huyền Thoại Lính Bếp",
-      "originName": "The Legend of Kitchen Soldier",
-      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-linh-bep-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-linh-bep-thumb.jpg",
+      "slug": "ke-hoach-gau-truc-2-bo-toc-ky-dieu",
+      "name": "Kế Hoạch Gấu Trúc 2: Bộ tộc kỳ diệu",
+      "originName": "Panda Plan 2: The Magical Tribe",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-hoach-gau-truc-2-bo-toc-ky-dieu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-hoach-gau-truc-2-bo-toc-ky-dieu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "my-royal-nemesis-2026-6f078c9f",
+      "source": "ophim",
+      "slug": "ke-thu-hoang-gia-cua-toi",
+      "name": "Kẻ Thù Hoàng Gia Của Tôi",
+      "originName": "My Royal Nemesis",
+      "posterUrl": "https://img.ophim.live/uploads/movies/ke-thu-hoang-gia-cua-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-thu-hoang-gia-cua-toi-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (14/14)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -253,18 +269,22 @@
       ]
     },
     {
-      "id": "no-place-to-be-single-2026-cc5425d7",
+      "id": "husbands-in-action-2026-28b6cbb4",
       "source": "ophim",
-      "slug": "khong-co-noi-nao-de-o-mot-minh",
-      "name": "Không có nơi nào để ở một mình",
-      "originName": "No Place to Be Single",
-      "posterUrl": "https://img.ophim.live/uploads/movies/khong-co-noi-nao-de-o-mot-minh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/khong-co-noi-nao-de-o-mot-minh-thumb.jpg",
+      "slug": "khi-chong-hop-luc",
+      "name": "Khi Chồng Hợp Lực",
+      "originName": "Husbands in Action",
+      "posterUrl": "https://img.ophim.live/uploads/movies/khi-chong-hop-luc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/khi-chong-hop-luc-thumb.jpg",
       "year": 2026,
       "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "status": "completed",
+      "episodeCurrent": "Full",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
@@ -272,23 +292,23 @@
       ],
       "countries": [
         {
-          "name": "Ý",
-          "slug": "y"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
     {
-      "id": "that-time-i-got-reincarn-2026-cd773733",
+      "id": "kill-blue-2026-925c0c3e",
       "source": "ophim",
-      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
-      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
-      "originName": "That Time I Got Reincarnated as a Slime (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+      "slug": "kill-blue",
+      "name": "KILL BLUE",
+      "originName": "KILL BLUE",
+      "posterUrl": "https://img.ophim.live/uploads/movies/kill-blue-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/kill-blue-thumb.jpg",
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
@@ -299,16 +319,8 @@
           "slug": "hai-huoc"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
         }
       ],
       "countries": [
@@ -358,7 +370,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hài Hước",
@@ -387,7 +399,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
@@ -526,8 +538,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/nam-cong-quan-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -691,60 +703,72 @@
       ]
     },
     {
-      "id": "psoty-2026-1f14e5c9",
+      "id": "margo-s-got-money-troubl-2026-5a3a5ba2",
       "source": "ophim",
-      "slug": "psoty",
-      "name": "Psoty",
-      "originName": "Psoty",
-      "posterUrl": "https://img.ophim.live/uploads/movies/psoty-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/psoty-thumb.jpg",
+      "slug": "rac-roi-tien-bac-cua-margo",
+      "name": "Rắc Rối Tiền Bạc Của Margo",
+      "originName": "Margo's Got Money Troubles",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rac-roi-tien-bac-cua-margo-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rac-roi-tien-bac-cua-margo-thumb.jpg",
       "year": 2026,
-      "type": "single",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "rick-and-morty-season-9-2026-048e4cd2",
+      "source": "ophim",
+      "slug": "rick-va-morty-phan-9",
+      "name": "Rick và Morty (Phần 9)",
+      "originName": "Rick and Morty (Season 9)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rick-va-morty-phan-9-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         }
       ],
       "countries": [
         {
-          "name": "Ba lan",
-          "slug": "ba-lan"
-        }
-      ]
-    },
-    {
-      "id": "raakaasa-2026-91014d01",
-      "source": "ophim",
-      "slug": "raakaasa",
-      "name": "Raakaasa",
-      "originName": "Raakaasa",
-      "posterUrl": "https://img.ophim.live/uploads/movies/raakaasa-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/raakaasa-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

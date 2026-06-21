@@ -1,0 +1,51 @@
+{
+  "id": "late-shift-2025-523388f2",
+  "source": "phimapi",
+  "slug": "ca-truc-dinh-menh-ca-dem",
+  "name": "Ca Trực Định Mệnh (Ca đêm)",
+  "originName": "Late Shift",
+  "posterUrl": "https://phimimg.com/upload/vod/20260617-1/2941351f706f2bf31dc3754a43474081.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/45101b7db027b8849159241960dd478c.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thụy Sĩ",
+      "slug": "thuy-si"
+    },
+    {
+      "name": "Đức",
+      "slug": "duc"
+    }
+  ],
+  "description": "Cô y tá tận tâm Floria xoay xở giữa nhịp độ không ngừng nghỉ của khoa phẫu thuật thiếu nhân lực tại bệnh viện với lòng nhân ái và sự ấm áp. Khi ca trực đêm trở nên căng thẳng, cô bị đẩy đến giới hạn trong cuộc chạy đua với thời gian.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/LnvX7QS9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/LnvX7QS9/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ca-truc-dinh-menh-ca-dem",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

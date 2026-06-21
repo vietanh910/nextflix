@@ -2,281 +2,8 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 6,
-  "totalPages": 7,
+  "totalPages": 6,
   "items": [
-    {
-      "id": "the-middle-season-4-2012-654252aa",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-4",
-      "name": "Gia đình Heck (Phần 4)",
-      "originName": "The Middle (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-4-thumb.jpg",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "rich-man-poor-woman-2012-06db3cc7",
-      "source": "phimapi",
-      "slug": "chang-giau-nang-ngheo",
-      "name": "Chàng Giàu, Nàng Nghèo",
-      "originName": "Rich Man, Poor Woman",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/d2928cbd9d8e6d311a3dba432d0eef03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/62b11f710eaaa00a4df2a73882c16673.jpg",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "adventure-time-season-4-2012-c1757b9e",
-      "source": "phimapi",
-      "slug": "gio-phieu-luu-phan-4",
-      "name": "Giờ Phiêu Lưu (Phần 4)",
-      "originName": "Adventure Time (Season 4)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/d754ebf3b17282b0eea42aa2bb3dd35e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/bbd66ebb3ce2be23d551b6511f595d3c.jpg",
-      "year": 2012,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-3-2011-3e60db03",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-3",
-      "name": "Gia đình Heck (Phần 3)",
-      "originName": "The Middle (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-3-thumb.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "adventure-time-season-3-2011-569f9e0d",
-      "source": "phimapi",
-      "slug": "gio-phieu-luu-phan-3",
-      "name": "Giờ Phiêu Lưu (Phần 3)",
-      "originName": "Adventure Time (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/eb5505255de5a19be21243fabed6533a.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/e7de2d34775a482a6114e8c308bb3689.jpg",
-      "year": 2011,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-2-2010-abadcab0",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-2",
-      "name": "Gia đình Heck (Phần 2)",
-      "originName": "The Middle (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-2-thumb.jpg",
-      "year": 2010,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "adventure-time-season-1-2010-56d99f2c",
-      "source": "phimapi",
-      "slug": "gio-phieu-luu-phan-1",
-      "name": "Giờ Phiêu Lưu (Phần 1)",
-      "originName": "Adventure Time (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/2e2d36b6371fb1c6f9e8ec778cdf7a20.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/2ed6c15bfaae06d9e2e7b42108670c1f.jpg",
-      "year": 2010,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "adventure-time-season-2-2010-2b0dcba6",
-      "source": "phimapi",
-      "slug": "gio-phieu-luu-phan-2",
-      "name": "Giờ Phiêu Lưu (Phần 2)",
-      "originName": "Adventure Time (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/2ac20adc728843a056555945aa7595ed.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/a94fbf6c8ca255f67525e0f542a55b54.jpg",
-      "year": 2010,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (26/26)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "running-man-2010-ca3391d1",
-      "source": "phimapi",
-      "slug": "thu-thach-than-tuong",
-      "name": "Thử Thách Thần Tượng",
-      "originName": "Running Man",
-      "posterUrl": "https://phimimg.com/upload/vod/20241017-1/8ce53643bb316f8fb8dc3dddd955f2ce.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20241017-1/65a22ab2e96e79bfedf8ae96d955f72a.jpg",
-      "year": 2010,
-      "type": "tvshow",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 806",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
     {
       "id": "the-middle-season-1-2009-d9735f3a",
       "source": "ophim",
@@ -293,39 +20,6 @@
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-big-bang-theory-seas-2008-2fc545e5",
-      "source": "phimapi",
-      "slug": "vu-no-lon-phan-2",
-      "name": "Vụ Nổ Lớn (Phần 2)",
-      "originName": "The Big Bang Theory (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20231219-1/6394b26efa8160867196567317881607.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20231219-1/656663b16c410dd04c9d0cf0b6f66633.jpg",
-      "year": 2008,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
-      "categories": [
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -400,7 +94,7 @@
       "year": 2005,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1201",
+      "episodeCurrent": "Tập 1203",
       "categories": [
         {
           "name": "Hành Động",
@@ -602,39 +296,6 @@
       ]
     },
     {
-      "id": "friends-season-7-2000-2c5da024",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-ban-phan-7",
-      "name": "Những Người Bạn (Phần 7)",
-      "originName": "Friends (Season 7)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240126-1/0ccecdb927fcbe7b456f32d6ce786eba.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240126-1/75bd3ffea8ab2634c39f694b0ce4d90f.jpg",
-      "year": 2000,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "one-piece-luffy-1999-ea35662f",
       "source": "ophim",
       "slug": "one-piece",
@@ -645,7 +306,7 @@
       "year": 1999,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1165",
+      "episodeCurrent": "Tập 1166",
       "categories": [
         {
           "name": "Hành Động",
@@ -683,6 +344,126 @@
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-1998-fe7c651c",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-1",
+      "name": "The King of Queens (Phần 1)",
+      "originName": "The King of Queens (Season 1)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-1-thumb.jpg",
+      "year": 1998,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "mr-nice-guy-1997-6ac8d8c4",
+      "source": "phimapi",
+      "slug": "chang-trai-tot-bung",
+      "name": "Chàng Trai Tốt Bụng",
+      "originName": "Mr. Nice Guy",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/c459b8d66cf20811c99d201b1bb6b14e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/e5059ad62c0b14af24a8c8587e44392d.jpg",
+      "year": 1997,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hồng Kông",
+          "slug": "hong-kong"
+        },
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
+      "id": "detective-conan-1996-7e203c67",
+      "source": "phimapi",
+      "slug": "tham-tu-lung-danh-conan",
+      "name": "Thám Tử Lừng Danh Conan",
+      "originName": "Detective Conan",
+      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/025424cf62248b9a7b54279ef5416e26.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/2a39971cc29c2802259b918eb437a45b.jpg",
+      "year": 1996,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1204",
+      "categories": [
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "postcards-from-the-edge-1990-db2c7982",
+      "source": "ophim",
+      "slug": "buu-thiep-tu-bo-vuc",
+      "name": "Bưu thiếp từ bờ vực",
+      "originName": "Postcards from the Edge",
+      "posterUrl": "https://img.ophim.live/uploads/movies/buu-thiep-tu-bo-vuc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/buu-thiep-tu-bo-vuc-thumb.jpg",
+      "year": 1990,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [

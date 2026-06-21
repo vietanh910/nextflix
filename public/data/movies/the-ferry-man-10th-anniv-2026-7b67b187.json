@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/dan-do-linh-hon-muoi-nam-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (24/24)",
   "categories": [
     {
       "name": "Hành Động",
@@ -197,13 +197,45 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ee149132bdf30f032301328a5ce544d5",
       "m3u8Url": "https://vip.opstream90.com/20260610/34427_ee149132/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/42760427489c18cdbe23a8c950babcab",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34933_42760427/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/faa67cda86f6134f05275319f3e3251b",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34934_faa67cda/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/932db12621be9343f71934895bcd4b06",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34935_932db126/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9c108d0cb8dd18ea82733a05930b1aed",
+      "m3u8Url": "https://vip.opstream90.com/20260616/34936_9c108d0c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dan-do-linh-hon-muoi-nam",
-      "episodeCount": 20,
+      "episodeCount": 24,
       "priority": 0
     }
   ],

@@ -2,7 +2,7 @@
   "slug": "hai-huoc",
   "name": "Hài Hước",
   "page": 1,
-  "totalPages": 7,
+  "totalPages": 6,
   "items": [
     {
       "id": "doctor-on-the-edge-2026-3d855504",
@@ -15,7 +15,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hài Hước",
@@ -80,8 +80,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/bi-an-thi-tran-widows-bay-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -100,51 +100,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-wonderfools-2026-19c319a0",
-      "source": "ophim",
-      "slug": "biet-doi-sieu-kho",
-      "name": "Biệt Đội Siêu Khờ",
-      "originName": "The WONDERfools",
-      "posterUrl": "https://img.ophim.live/uploads/movies/biet-doi-sieu-kho-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/biet-doi-sieu-kho-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -208,8 +163,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/buc-tuong-bang-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -296,7 +251,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Hài Hước",
@@ -307,35 +262,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "thank-you-next-season-3-2026-06f4f285",
-      "source": "ophim",
-      "slug": "cam-on-moi-nguoi-tiep-theo-phan-3",
-      "name": "Cảm ơn, mời người tiếp theo! (Phần 3)",
-      "originName": "Thank You, Next (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/cam-on-moi-nguoi-tiep-theo-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/cam-on-moi-nguoi-tiep-theo-phan-3-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thổ Nhĩ Kỳ",
-          "slug": "tho-nhi-ky"
         }
       ]
     },
@@ -390,6 +316,39 @@
         {
           "name": "Ý",
           "slug": "y"
+        }
+      ]
+    },
+    {
+      "id": "toy-story-5-2026-aff042da",
+      "source": "ophim",
+      "slug": "cau-chuyen-do-choi-5",
+      "name": "Câu Chuyện Đồ Chơi 5",
+      "originName": "Toy Story 5",
+      "posterUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-do-choi-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/cau-chuyen-do-choi-5-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -503,7 +462,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Hành Động",
@@ -530,31 +489,6 @@
       ]
     },
     {
-      "id": "bride-of-the-year-2026-837e9421",
-      "source": "ophim",
-      "slug": "co-dau-cua-nam",
-      "name": "Cô Dâu Của Năm",
-      "originName": "Bride of the Year",
-      "posterUrl": "https://img.ophim.live/uploads/movies/co-dau-cua-nam-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/co-dau-cua-nam-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Quốc Gia Khác",
-          "slug": "quoc-gia-khac"
-        }
-      ]
-    },
-    {
       "id": "how-dare-you-season-2-2026-03855eb1",
       "source": "ophim",
       "slug": "con-ra-the-thong-gi-nua-phan-2",
@@ -564,8 +498,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/con-ra-the-thong-gi-nua-phan-2-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 22",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (24/24)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -623,7 +557,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hài Hước",
@@ -647,8 +581,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -741,6 +675,64 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "luck-my-life-2026-0b1405c0",
+      "source": "ophim",
+      "slug": "doi-ta-ta-tu-mo",
+      "name": "Đời Ta, Ta Tự Mò",
+      "originName": "Luck My Life",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-ta-ta-tu-mo-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-ta-ta-tu-mo-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nga",
+          "slug": "nga"
+        },
+        {
+          "name": "Singapore",
+          "slug": "singapore"
+        }
+      ]
+    },
+    {
+      "id": "accidental-partners-2026-60897d5f",
+      "source": "ophim",
+      "slug": "doi-tac-tinh-co",
+      "name": "Đối tác tình cờ",
+      "originName": "Accidental Partners",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-tac-tinh-co-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-tac-tinh-co-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Mexico",
+          "slug": "mexico"
         }
       ]
     }

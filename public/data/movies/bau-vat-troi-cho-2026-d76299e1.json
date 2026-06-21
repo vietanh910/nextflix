@@ -1,0 +1,47 @@
+{
+  "id": "bau-vat-troi-cho-2026-d76299e1",
+  "source": "ophim",
+  "slug": "bau-vat-troi-cho",
+  "name": "Báu vật trời cho",
+  "originName": "Báu vật trời cho",
+  "posterUrl": "https://img.ophim.live/uploads/movies/bau-vat-troi-cho-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/bau-vat-troi-cho-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Việt Nam",
+      "slug": "viet-nam"
+    }
+  ],
+  "description": "<p>Khi cậu bé sáu tuổi trong một gia đình đơn thân vô tình tìm được “người cha trời cho” của mình. Hàng loạt bí mật và định mệnh trớ trêu bị lật mở, để rồi mỗi người phải tự hỏi: Điều gì mới thật sự là báu vật trời cho trong đời mình?</p>",
+  "quality": "HD",
+  "lang": "Lồng Tiếng",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Lồng Tiếng #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/70b98536f7f2cff5c36df2424787d87b",
+      "m3u8Url": "https://vip.opstream90.com/20260618/35158_70b98536/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "bau-vat-troi-cho",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

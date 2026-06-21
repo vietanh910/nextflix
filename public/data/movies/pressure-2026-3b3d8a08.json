@@ -1,0 +1,65 @@
+{
+  "id": "pressure-2026-3b3d8a08",
+  "source": "ophim",
+  "slug": "ap-luc",
+  "name": "Áp Lực",
+  "originName": "Pressure",
+  "posterUrl": "https://img.ophim.live/uploads/movies/ap-luc-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/ap-luc-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chiến Tranh",
+      "slug": "chien-tranh"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Pháp",
+      "slug": "phap"
+    }
+  ],
+  "description": "<p>Pressure là bộ phim chính kịch - chiến tranh dựa trên câu chuyện có thật về 72 giờ căng thẳng trước D-Day. Khi thời tiết xấu đe dọa chiến dịch quân sự lớn nhất lịch sử, nhà khí tượng James Stagg phải đối mặt với áp lực khổng lồ để đưa ra dự báo quyết định số phận của hàng triệu người.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/244a1b49363236bde3930288883e8a18",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35207_244a1b49/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/lG7hp9SZ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/lG7hp9SZ/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "ap-luc",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "ap-luc",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

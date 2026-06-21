@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Hành Động",
@@ -85,13 +85,37 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/d4b42304f98e8c0760723c747006a5a4",
       "m3u8Url": "https://vip.opstream10.com/20260607/33820_d4b42304/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/5f1517b532a2dd760f7d865e4d4146c6",
+      "m3u8Url": "https://vip.opstream10.com/20260615/33921_5f1517b5/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/6e90b269c3c3e6c335e85045b865f1df",
+      "m3u8Url": "https://vip.opstream10.com/20260615/33922_6e90b269/index.m3u8"
+    },
+    {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/2bd19fb4009ffc10edd430e6191f8421",
+      "m3u8Url": "https://vip.opstream10.com/20260621/33938_2bd19fb4/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chuyen-gia-tuoi-trung-nien",
-      "episodeCount": 6,
+      "episodeCount": 9,
       "priority": 0
     }
   ],
