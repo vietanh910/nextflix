@@ -1,0 +1,89 @@
+{
+  "id": "agent-kim-reactivated-2026-72ad79cb",
+  "source": "ophim",
+  "slug": "dac-vu-kim-tai-khoi-dong",
+  "name": "Đặc Vụ Kim Tái Khởi Động",
+  "originName": "Agent Kim Reactivated",
+  "posterUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2ee54ad04e0c4ccddb42bd52efcf27e8",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35679_2ee54ad0/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b78420e43351003a69739aca09daacb5",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35747_b78420e4/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/XDh302cJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/XDh302cJ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/BhTG32Dy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/BhTG32Dy/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "dac-vu-kim-tai-khoi-dong",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "dac-vu-kim-tai-khoi-dong",
+      "episodeCount": 2,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

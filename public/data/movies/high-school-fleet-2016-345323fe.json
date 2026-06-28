@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "A hundred years after catastrophic shifts in tectonic plates caused most of its area to submerge, Japan now thrives as a maritime nation. High functioning cities line the coasts of Japan, and well developed sea routes are defended by specialized naval ships. The marine industry is flourishing, and young girls are eager to join the Blue Mermaids—highly skilled women who devote their lives to protecting the seas.<br>\n<br>\nAfter some time apart, childhood friends Akeno Misaki and Moeka China are reunited at Yokosuka Girls' Marine High School. Here they are joined by others who share their dream of becoming Blue Mermaids. Soon, training exercises commence, with Akeno and Moeka being put in charge of their own ships and crew. Everything is progressing smoothly for Akeno as she settles into her role as captain and builds camaraderie between her fellow crew members aboard the Harekaze, a destroyer ship. However, unexpected engine and navigation failures soon leave their ship stranded and the crew in danger.<br>\n<br>\n<i>High School Fleet</i> follows the Harekaze's valiant crew as they navigate treacherous waters and other obstacles on their quest to become fully-fledged Blue Mermaids.<br>\n<br>\n(Source: MAL Rewrite)",
   "episodes": [],
   "sources": [
     {

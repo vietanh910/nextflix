@@ -5,28 +5,78 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "fate-kaleid-liner-prisma-2014-4ee80327",
+      "id": "fate-kaleid-liner-prisma-2015-012c2d64",
       "source": "animapper",
-      "slug": "20945",
-      "name": "Fate/kaleid liner Prisma☆Illya 2wei! Kanzen Shinsaku Short Anime",
-      "originName": "Fate/Kaleid liner Prisma Illya 2wei! Kanzen Shinsaku Short Anime",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20945-GRrTy6zJiO2j.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20945-TaGS1cD4rkTG.png",
-      "year": 2014,
+      "slug": "21325",
+      "name": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Kanzen Shinsaku Short Anime",
+      "originName": "Fate/kaleid liner Prisma Illya 2wei Herz! Kanzen Shinsaku Short Anime",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21325-6HDvo0TFwWPr.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21325-6HDvo0TFwWPr.jpg",
+      "year": 2015,
       "type": "anime",
       "status": "unknown",
       "categories": [
         {
-          "name": "Comedy",
-          "slug": "comedy"
+          "name": "Mahou Shoujo",
+          "slug": "mahou-shoujo"
         },
         {
           "name": "Ecchi",
           "slug": "ecchi"
         },
         {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "go-princess-precure-2015-c9c94318",
+      "source": "animapper",
+      "slug": "21001",
+      "name": "Go! Princess Precure",
+      "originName": "Go! Princess Precure",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21001-49nYJTr7Wnsu.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21001-y1ZQ5xaZugKH.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
           "name": "Mahou Shoujo",
           "slug": "mahou-shoujo"
+        },
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "eiga-go-princess-precure-2015-13e0de22",
+      "source": "animapper",
+      "slug": "21323",
+      "name": "Go! Princess Precure: Go! Go!! Gouka 3-bon Date!!!",
+      "originName": "Eiga Go! Princess Precure Go! Go!! Gouka 3-bondate!!!",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21323-CrUKk4Cg7d1V.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21323-yISRgeoKOXEw.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Mahou Shoujo",
+          "slug": "mahou-shoujo"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
         }
       ],
       "countries": []

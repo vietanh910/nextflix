@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 15",
+  "episodeCurrent": "Tập 16",
   "categories": [
     {
       "name": "Hành Động",
@@ -149,13 +149,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/9fae7f55b59b284b106e7be7c783054c",
       "m3u8Url": "https://vip.opstream90.com/20260617/35048_9fae7f55/index.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/d138e56c84b07fbc52df356e3809368a",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35497_d138e56c/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "suu-than-ky",
-      "episodeCount": 15,
+      "episodeCount": 16,
       "priority": 0
     }
   ],

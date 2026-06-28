@@ -5,6 +5,220 @@
   "totalPages": 14,
   "items": [
     {
+      "id": "fighter-of-the-destiny-3-2026-0e6d9aed",
+      "source": "phimapi",
+      "slug": "trach-thien-ky",
+      "name": "Trạch Thiên Ký",
+      "originName": "Fighter Of The Destiny 3D",
+      "posterUrl": "https://phimimg.com/upload/vod/20260204-1/551fbd9cb8955022c0b50a60727decaa.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260204-1/1aca6f23b3cda6ce17fbfe32ada51669.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 24",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "above-myriads-2026-44fdee65",
+      "source": "phimapi",
+      "slug": "tren-van-nguoi",
+      "name": "Trên Vạn Người",
+      "originName": "Above Myriads",
+      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/500ae641389bbc58a6330362a866a44f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/cecfaa2ea6d4bc1b3661728f21d7dcd9.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 5",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "liar-game-2026-03a4d46a",
+      "source": "phimapi",
+      "slug": "tro-choi-doi-tra-2026",
+      "name": "Trò Chơi Dối Trá",
+      "originName": "LIAR GAME",
+      "posterUrl": "https://phimimg.com/upload/vod/20260411-1/a951760069de3be74886366297435981.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260411-1/49af586eff3cd03a5f3e5558aa451f58.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "ever-night-2026-4a38e640",
+      "source": "phimapi",
+      "slug": "tuong-da-3d",
+      "name": "Tương Dạ 3D",
+      "originName": "Ever Night",
+      "posterUrl": "https://phimimg.com/upload/vod/20260423-1/1f987788a47a6b0e4ade3cff648b996a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260423-1/950380cf1fa0a107247fefbd2b2e2346.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-rosy-cloud-2026-0d9740fb",
+      "source": "phimapi",
+      "slug": "van-tu-hanh",
+      "name": "Vân Tú Hành",
+      "originName": "The Legend of Rosy Clouds",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/6b7cf552ac9b66e18a5382c922d2bd0d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/00083387b890aaac69f0490b3fda8c13.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 20",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "in-love-forever-the-seri-2026-f93405ec",
+      "source": "phimapi",
+      "slug": "ve-nen-giac-mo-ngay-cuoi",
+      "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
+      "originName": "In Love Forever The Series",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/4e75731d01ce9578582f65d9b21fb276.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/d61fcd20fba7e8b05fc0846bf1562be6.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
       "id": "sheriff-country-2025-577d2231",
       "source": "ophim",
       "slug": "canh-sat-truong-vung-que-phan-1",
@@ -92,17 +306,17 @@
       ]
     },
     {
-      "id": "the-travellers-2025-282b2972",
+      "id": "finding-home-in-blossoms-2025-eecdf20c",
       "source": "ophim",
-      "slug": "chuyen-di-hon-loan",
-      "name": "Chuyến đi hỗn loạn",
-      "originName": "The Travellers",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chuyen-di-hon-loan-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chuyen-di-hon-loan-thumb.jpg",
+      "slug": "di-den-noi-hoa-dao-no-ro-phan-2",
+      "name": "Đi Đến Nơi Hoa Đào Nở Rộ (Phần 2)",
+      "originName": "Finding Home in Blossoms Season 2",
+      "posterUrl": "https://img.ophim.live/uploads/movies/di-den-noi-hoa-dao-no-ro-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/di-den-noi-hoa-dao-no-ro-phan-2-thumb.jpg",
       "year": 2025,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
       "categories": [
         {
           "name": "Chính kịch",
@@ -111,8 +325,8 @@
       ],
       "countries": [
         {
-          "name": "Úc",
-          "slug": "uc"
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -246,31 +460,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "mutiara-dalam-debuan-kab-2025-d6ff5fd7",
-      "source": "ophim",
-      "slug": "ngoc-trai-trong-suong-mu",
-      "name": "Ngọc trai trong sương mù",
-      "originName": "Mutiara Dalam Debuan Kabus",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ngoc-trai-trong-suong-mu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ngoc-trai-trong-suong-mu-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
         }
       ]
     },
@@ -420,68 +609,6 @@
       ]
     },
     {
-      "id": "one-cent-thief-season-2-2025-77d99fdb",
-      "source": "ophim",
-      "slug": "ten-trom-mot-xu-phan-2",
-      "name": "Tên Trộm Một Xu (Phần 2)",
-      "originName": "One Cent Thief (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ten-trom-mot-xu-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ten-trom-mot-xu-phan-2-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
-      "id": "thariq-ridzuwan-his-trea-2025-7babffe9",
-      "source": "ophim",
-      "slug": "thariq-ridzuwan-kho-bau-cua-anh",
-      "name": "Thariq Ridzuwan: Kho báu của anh",
-      "originName": "Thariq Ridzuwan: His Treasure",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thariq-ridzuwan-kho-bau-cua-anh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thariq-ridzuwan-kho-bau-cua-anh-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
       "id": "generasi-perfect-10-2025-21ef31c5",
       "source": "ophim",
       "slug": "the-he-diem-10",
@@ -517,7 +644,7 @@
       "year": 2025,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 24",
       "categories": [
         {
           "name": "Chính kịch",
@@ -578,97 +705,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "summer-school-2001-2025-acec3cc4",
-      "source": "ophim",
-      "slug": "truong-he-2001",
-      "name": "Trường hè, 2001",
-      "originName": "Summer School, 2001",
-      "posterUrl": "https://img.ophim.live/uploads/movies/truong-he-2001-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/truong-he-2001-thumb.jpg",
-      "year": 2025,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "the-legend-of-rosy-cloud-2025-c1150fb2",
-      "source": "ophim",
-      "slug": "van-tu-hanh",
-      "name": "Vân Tú Hành",
-      "originName": "The Legend of Rosy Clouds",
-      "posterUrl": "https://img.ophim.live/uploads/movies/van-tu-hanh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/van-tu-hanh-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 6",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-guest-2025-8b08c42f",
-      "source": "ophim",
-      "slug": "vi-khach-phan-1",
-      "name": "Vị Khách (Phần 1)",
-      "originName": "The Guest",
-      "posterUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/vi-khach-phan-1-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (4/4)",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
         }
       ]
     }

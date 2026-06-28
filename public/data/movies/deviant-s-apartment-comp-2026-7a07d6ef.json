@@ -1,0 +1,107 @@
+{
+  "id": "deviant-s-apartment-comp-2026-7a07d6ef",
+  "source": "phimapi",
+  "slug": "ingoku-danchi",
+  "name": "Ingoku Danchi",
+  "originName": "Deviant's Apartment Complex",
+  "posterUrl": "https://phimimg.com/upload/vod/20260420-1/56f37ae8dd7ae171db1cc17dbc040f87.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260420-1/36337b7bf2982c91f3761919a92852e3.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 7",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "Câu chuyện xoay quanh một khu chung cư tập trung nhiều phụ nữ xinh đẹp. Một ngày nọ, họ bị kích động để mặc những bộ trang phục đặc biệt, từ đó giải phóng những ham muốn thầm kín nhất của bản thân.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260420/fRB2qYuk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260420/fRB2qYuk/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260420/Jb2lABiD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260420/Jb2lABiD/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/84KzLXfP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/84KzLXfP/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/hNletN1t/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/hNletN1t/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/qXZTEu8d/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/qXZTEu8d/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260604/ekssJx8r/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260604/ekssJx8r/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/4wwyhO4J/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/4wwyhO4J/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "ingoku-danchi",
+      "episodeCount": 7,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

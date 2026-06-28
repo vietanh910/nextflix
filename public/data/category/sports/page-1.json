@@ -5,13 +5,13 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "days-2016-a79a22f4",
+      "id": "aokana-four-rhythm-acros-2016-c2ceb6a8",
       "source": "animapper",
-      "slug": "21578",
-      "name": "DAYS",
-      "originName": "DAYS",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21578-XXfNNVseCg2G.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21578-O4IItp3IybTn.jpg",
+      "slug": "21319",
+      "name": "Ao no Kanata no Four Rhythm",
+      "originName": "AOKANA: Four Rhythm Across the Blue",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21319-U2RmvTzscBT3.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21319-8iv4crIeWShU.jpg",
       "year": 2016,
       "type": "anime",
       "status": "unknown",
@@ -19,27 +19,54 @@
         {
           "name": "Sports",
           "slug": "sports"
-        },
-        {
-          "name": "Comedy",
-          "slug": "comedy"
         },
         {
           "name": "Drama",
           "slug": "drama"
+        },
+        {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
         }
       ],
       "countries": []
     },
     {
-      "id": "usakame-2016-223bb458",
+      "id": "keijo-2016-87dc13ef",
       "source": "animapper",
-      "slug": "21570",
-      "name": "Usakame",
-      "originName": "Usakame",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21570-zzAl1zWpP9v3.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21570-zzAl1zWpP9v3.jpg",
+      "slug": "21639",
+      "name": "Keijo!!!!!!!!",
+      "originName": "Keijo!!!!!!!!",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21639-tdDGBK68CQk0.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21639-4w5iH0RUYIL6.jpg",
       "year": 2016,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "name": "Ecchi",
+          "slug": "ecchi"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "anime-de-training-ex-2015-6f23d6e9",
+      "source": "animapper",
+      "slug": "21320",
+      "name": "Anitore! EX",
+      "originName": "Anime De Training! EX",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21320-8er8xDK96GNB.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21320-nmeJhspEVX3o.jpg",
+      "year": 2015,
       "type": "anime",
       "status": "unknown",
       "categories": [
@@ -50,19 +77,77 @@
         {
           "name": "Comedy",
           "slug": "comedy"
+        },
+        {
+          "name": "Slice of Life",
+          "slug": "slice-of-life"
         }
       ],
       "countries": []
     },
     {
-      "id": "big-windup-2007-6831a3c3",
+      "id": "haikyu-2nd-season-2015-b121a6e1",
       "source": "animapper",
-      "slug": "2159",
-      "name": "Ookiku Furikabutte",
-      "originName": "Big Windup!",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2159-eTI4nRTqCTDM.png",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2159-mLfzFO9ZQFjU.jpg",
-      "year": 2007,
+      "slug": "20992",
+      "name": "Haikyuu!! 2nd Season",
+      "originName": "HAIKYU!! 2nd Season",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20992-QMdqxEjAIAit.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "name": "Drama",
+          "slug": "drama"
+        },
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "initial-d-legend-2-racer-2015-c5355a34",
+      "source": "animapper",
+      "slug": "20990",
+      "name": "New Initial D Movie: Legend 2 - Dokusou",
+      "originName": "Initial D Legend 2: Racer",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20990-zjBrKc3r0mqO.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20990-zCw9iYm2vOf9.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "name": "Drama",
+          "slug": "drama"
+        },
+        {
+          "name": "Action",
+          "slug": "action"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "teekyuu-6-2015-722c4f75",
+      "source": "animapper",
+      "slug": "21301",
+      "name": "Teekyuu 6",
+      "originName": "Teekyuu 6",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21301-wHZDJGK2RtNW.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21301-wwBAKvoh2G7v.jpg",
+      "year": 2015,
       "type": "anime",
       "status": "unknown",
       "categories": [

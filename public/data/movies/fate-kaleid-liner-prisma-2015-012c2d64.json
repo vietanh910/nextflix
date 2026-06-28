@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Mahou Shoujo",
+      "slug": "mahou-shoujo"
+    },
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "5 minute short specials included with the Blu-Ray/DVD releases of the TV series.",
   "episodes": [],
   "sources": [
     {

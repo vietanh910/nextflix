@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 8",
+  "episodeCurrent": "Tập 9",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -103,6 +103,14 @@
       "m3u8Url": "https://vip.opstream10.com/20260614/33920_a4d89048/index.m3u8"
     },
     {
+      "name": "9",
+      "slug": "9",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/cc01090a65650c8670a1d8b13a0a6fc2",
+      "m3u8Url": "https://vip.opstream10.com/20260621/33940_cc01090a/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -165,19 +173,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/fZWDXFYW/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260616/fZWDXFYW/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/7HNKCfYg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/7HNKCfYg/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "thi-tran-ac-mong-phan-4",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "thi-tran-ac-mong-hoi-chuong-la-phan-4",
-      "episodeCount": 8,
+      "episodeCount": 9,
       "priority": 1
     }
   ],

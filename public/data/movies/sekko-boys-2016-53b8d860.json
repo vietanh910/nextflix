@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "Sekkou Boys is a unit of four stone figures — the military saint and group leader Saint Giorgio, history's original celebrity Medici, the strikingly handsome and multi-talented Hermes, and the god of war Mars who is earnest about love — who become idiosyncratic idols. The story depicts their efforts to make it in the entertainment world with their female manager Miki Ishimoto, who just graduated from college.<br>\n<br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

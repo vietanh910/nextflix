@@ -9,7 +9,22 @@
   "year": 2019,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "Mysteria Academy is a prestigious magic school that teaches without discrimination to the three factions (humans, gods and demons) who otherwise are usually at battle with each other. This anime follows the daily lives of two young women at the academy, Anne, the princess of Mysteria, and the dragon princess Grea. <br>\n<br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

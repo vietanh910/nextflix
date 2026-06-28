@@ -1,0 +1,69 @@
+{
+  "id": "lost-to-light-2026-b02cd77d",
+  "source": "ophim",
+  "slug": "sieu-sao-hay-sieu-xit",
+  "name": "Siêu Sao Hay Siêu Xịt",
+  "originName": "Lost to Light",
+  "posterUrl": "https://img.ophim.live/uploads/movies/sieu-sao-hay-sieu-xit-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-sao-hay-sieu-xit-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "<p>Một nhóm nhạc thần tượng từng mơ ước nổi tiếng giờ đây phải đối mặt với nỗi nhục nhã khi phải hát những bài hát thiếu nhi trong trang phục linh vật. Tất cả mọi người đều bỏ nhóm… trừ Jeng, người chọn ở lại bên cạnh ông chủ cứng đầu Sithian.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c2d66337ca53fe0c1c58a92f2665ef70",
+      "m3u8Url": "https://vip.opstream90.com/20260622/35403_c2d66337/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1be7371e7797ca4a5f6f651aa9c6eb43",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35753_1be7371e/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/G3z93oVC/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/G3z93oVC/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "sieu-sao-hay-sieu-xit",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "sieu-sao-hay-sieu-xit",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

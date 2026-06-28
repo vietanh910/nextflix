@@ -11,16 +11,16 @@
   "status": "unknown",
   "categories": [
     {
-      "name": "Action",
-      "slug": "action"
-    },
-    {
       "name": "Mecha",
       "slug": "mecha"
     },
     {
       "name": "Sci-Fi",
       "slug": "sci-fi"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
     }
   ],
   "countries": [],

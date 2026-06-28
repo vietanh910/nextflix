@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/cuu-nghia-nhan-yen-van-tu-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 20",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (24/24)",
   "categories": [
     {
       "name": "Cổ Trang",
@@ -187,6 +187,38 @@
       "m3u8Url": "https://vip.opstream90.com/20260620/35296_b31ff1b3/index.m3u8"
     },
     {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6bc266130585aafbe6e5fff58ec2e761",
+      "m3u8Url": "https://vip.opstream90.com/20260621/35358_6bc26613/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f69b857233949c6a79158d4bb7ab5061",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35473_f69b8572/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bb2da85c47ec0d635ae708645f47475f",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35474_bb2da85c/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5bbc30bc2321f486b769055dbb5a3af3",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35529_5bbc30bc/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -345,19 +377,51 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/ORgJBC8O/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260620/ORgJBC8O/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/LW1iJFEg/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/LW1iJFEg/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/yyTEOZUj/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/yyTEOZUj/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/TfTGRX9t/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260623/TfTGRX9t/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/lZ30AR1v/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/lZ30AR1v/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "cuu-nghia-nhan-yen-van-tu",
-      "episodeCount": 20,
+      "episodeCount": 24,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "cuu-nghia-nhan-yen-van-tu",
-      "episodeCount": 20,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

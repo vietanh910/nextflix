@@ -9,7 +9,7 @@
   "year": 2022,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 204",
+  "episodeCurrent": "Tập 205",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -1679,6 +1679,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260620/ymfFUfI5/index.m3u8"
     },
     {
+      "name": "Tập 205",
+      "slug": "tap-205",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/V2lqUqU0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/V2lqUqU0/index.m3u8"
+    },
+    {
       "name": "Tập 01-05",
       "slug": "tap-01-05",
       "serverName": "#Hà Nội (Thuyết Minh)",
@@ -2339,7 +2347,7 @@
     {
       "source": "phimapi",
       "slug": "dau-pha-thuong-khung-phan-5",
-      "episodeCount": 288,
+      "episodeCount": 289,
       "priority": 1
     }
   ],

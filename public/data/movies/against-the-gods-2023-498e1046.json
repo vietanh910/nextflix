@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 42",
+  "episodeCurrent": "Tập 43",
   "categories": [
     {
       "name": "Hành Động",
@@ -377,13 +377,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/RowXPrdq/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260617/RowXPrdq/index.m3u8"
+    },
+    {
+      "name": "Tập 43",
+      "slug": "tap-43",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/AEUbGA6K/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/AEUbGA6K/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-ta-than",
-      "episodeCount": 42,
+      "episodeCount": 43,
       "priority": 1
     }
   ],

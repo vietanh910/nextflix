@@ -9,7 +9,26 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "countries": [],
+  "description": "Bundled with the 11th and 12th volumes of the manga.<br><br>\n\nThe OVA adapts the manga's chapter 17 from the fourth volume, where Miia, Cerea, Mero, and Kurusu go to the gym's pool.",
   "episodes": [],
   "sources": [
     {

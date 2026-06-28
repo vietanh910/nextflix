@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sports",
+      "slug": "sports"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "The anime follows five girls who are aiming to become idols as they do different exercise routines such as push-ups, situps, dance, yoga, stretching, tai chi, and more.",
   "episodes": [],
   "sources": [
     {

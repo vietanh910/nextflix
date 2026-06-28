@@ -5,18 +5,486 @@
   "totalPages": 5,
   "items": [
     {
-      "id": "force-of-nature-2020-f892de18",
+      "id": "house-of-the-dragon-seas-2022-1bba2ff8",
       "source": "phimapi",
-      "slug": "phi-vu-bao-to",
-      "name": "Phi Vụ Bão Tố",
-      "originName": "Force of Nature",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/1c5bae7e922c3324a077fac7ad11c8fe.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/f889b2b6d36e1129e20290d009830a4b.jpg",
-      "year": 2020,
-      "type": "single",
+      "slug": "gia-toc-rong-phan-1",
+      "name": "Gia Tộc Rồng (Phần 1)",
+      "originName": "House Of The Dragon (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/0699e4ba4f0ccf76ef43b75175f87398.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/bfba09f195b8af696684049557b15a5c.jpg",
+      "year": 2022,
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "tomb-of-fallen-gods-2022-69e5b0a0",
+      "source": "phimapi",
+      "slug": "than-mo-2022",
+      "name": "Thần Mộ",
+      "originName": "Tomb Of Fallen Gods",
+      "posterUrl": "https://phimimg.com/upload/vod/20251124-1/b20ca22d56f6ea0c41cdafea81018a64.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251124-1/74ab8505711d0ca1a57d85c0a13fb19f.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 91",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "black-summoner-kuro-no-s-2022-9b88818b",
+      "source": "phimapi",
+      "slug": "trieu-hoi-su-ao-den",
+      "name": "Triệu Hồi Sư Áo Đen",
+      "originName": "Black Summoner / Kuro No Shoukanshi",
+      "posterUrl": "https://phimimg.com/upload/vod/20260625-1/c12421d9f1f6798f9996e31534bed924.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260625-1/b4ab309ba934a1b273fa95e07ea6b31b.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "against-the-sky-supreme-2021-2aa96a6d",
+      "source": "ophim",
+      "slug": "nghich-thien-chi-ton",
+      "name": "Nghịch Thiên Chí Tôn",
+      "originName": "Against The Sky Supreme",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nghich-thien-chi-ton-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nghich-thien-chi-ton-thumb.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 513",
+      "categories": [
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "perfect-world-2021-c17c5a35",
+      "source": "ophim",
+      "slug": "the-gioi-hoan-my",
+      "name": "Thế Giới Hoàn Mỹ",
+      "originName": "Perfect World",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-gioi-hoan-my-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-gioi-hoan-my-thumb.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 274",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "against-the-sky-supreme--2021-965e6c68",
+      "source": "phimapi",
+      "slug": "nghich-thien-chi-ton",
+      "name": "Nghịch Thiên Chí Tôn",
+      "originName": "Against The Sky Supreme / Ni Tian Zhi Zun",
+      "posterUrl": "https://phimimg.com/upload/vod/20250903-1/fe12e74047daf65d58b996a82987f6aa.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250903-1/cc1e9fd59cf70b050455ceb0bf183bf3.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 526",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "ten-thousand-worlds-2021-5ac3d906",
+      "source": "phimapi",
+      "slug": "van-gioi-doc-ton",
+      "name": "Vạn Giới Độc Tôn",
+      "originName": "Ten Thousand Worlds",
+      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/25c9c7486b5de820475bd8fe0ccb316e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/4b81238b9844aa16e3f7e9ee8afdbc94.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 460",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "martial-master-2020-ecd7c826",
+      "source": "ophim",
+      "slug": "vo-than-chua-te",
+      "name": "Võ Thần Chúa Tể",
+      "originName": "Martial Master",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vo-than-chua-te-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vo-than-chua-te-thumb.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 658",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "supreme-god-emperor-2020-00ee0974",
+      "source": "ophim",
+      "slug": "vo-thuong-than-de",
+      "name": "Vô Thượng Thần Đế",
+      "originName": "Supreme God Emperor",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vo-thuong-than-de-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vo-thuong-than-de-thumb.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 595",
+      "categories": [
+        {
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "jujutsu-kaisen-season-1-2020-7892f885",
+      "source": "phimapi",
+      "slug": "chu-thuat-hoi-chien-phan-1",
+      "name": "Chú Thuật Hồi Chiến (Phần 1)",
+      "originName": "Jujutsu Kaisen (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260109-1/04741d25da0b57f0a6d4003be4898148.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260109-1/ac2f1bb0a0cf7ccb9fc33e16f4e77950.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "jujutsu-kaisen-season-2-2020-ed3740a9",
+      "source": "phimapi",
+      "slug": "chu-thuat-hoi-chien-phan-2",
+      "name": "Chú Thuật Hồi Chiến (Phần 2)",
+      "originName": "Jujutsu Kaisen (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260109-1/4e4d8423fc6430a5068ec9aad53b9ead.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260109-1/dc1ee67bc00ae06dd19314078cf5d2de.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (25/25)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "a-record-of-a-mortal-s-j-2020-5011a3b3",
+      "source": "phimapi",
+      "slug": "pham-nhan-tu-tien",
+      "name": "Phàm Nhân Tu Tiên",
+      "originName": "A Record of a Mortal's Journey to Immortality",
+      "posterUrl": "https://phimimg.com/upload/vod/20240715-1/ed827a6e5d8f7c41aa0728403665cd87.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240715-1/fe09a10062768cca301682eba6c8245b.jpg",
+      "year": 2020,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Tập 180",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Thần Thoại",
+          "slug": "than-thoai"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-the-defenders-2017-f39fcd11",
+      "source": "phimapi",
+      "slug": "ho-ve-sieu-anh-hung-nhung-nguoi-bao-ve",
+      "name": "Hộ Vệ Siêu Anh Hùng (Những Người Bảo Vệ)",
+      "originName": "Marvel's The Defenders",
+      "posterUrl": "https://phimimg.com/upload/vod/20260624-1/e328eed8220a16e02d6057128de7e55c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260624-1/4a65941bf8a1168ebd96b57cc0e59ca5.jpg",
+      "year": 2017,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
@@ -28,88 +496,6 @@
         {
           "name": "Hình Sự",
           "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-call-of-the-wild-2020-2c96089c",
-      "source": "phimapi",
-      "slug": "tieng-goi-noi-hoang-da-2020",
-      "name": "Tiếng Gọi Nơi Hoang Dã",
-      "originName": "The Call Of The Wild",
-      "posterUrl": "https://phimimg.com/upload/vod/20251214-1/91d87b1b502c1cae0f67eadca5343319.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251214-1/ec27062ebf6c092f4d6b1ce099df4fbc.jpg",
-      "year": 2020,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "sgt-stubby-an-american-h-2018-57c277ac",
-      "source": "phimapi",
-      "slug": "chu-cho-anh-hung",
-      "name": "Chú Chó Anh Hùng",
-      "originName": "Sgt. Stubby: An American Hero",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/ab9583aaefd36e872e2af6f8f0b3a159.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/4e95ec94de00a1e3b2405df5bef56928.jpg",
-      "year": 2018,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        },
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
         },
         {
           "name": "Tâm Lý",
@@ -165,14 +551,92 @@
       ]
     },
     {
-      "id": "magi-adventure-of-sinbad-2016-c618ea28",
+      "id": "danganronpa-season-2-2016-4f7bf713",
       "source": "phimapi",
-      "slug": "magi-sinbad-phieu-luu-ky",
-      "name": "Magi: Sinbad Phiêu Lưu Ký",
-      "originName": "Magi: Adventure Of Sinbad",
-      "posterUrl": "https://phimimg.com/upload/vod/20260619-1/ce460bf96093e4603a3503c5935e7fd8.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/84f2b15a71ea1c6e0f22c5cc86a85be2.jpg",
+      "slug": "hoc-vien-hi-vong-va-hoc-sinh-tuyet-vong-phan-2",
+      "name": "Học Viện Hi Vọng và Học Sinh Tuyệt Vọng (Phần 2)",
+      "originName": "Danganronpa (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/607ea73567fa311166a4fea77c6820c3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/edca2c7bf3a9839d2d0d827f8e986bd3.jpg",
       "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "007-spectre-2015-353a6cd1",
+      "source": "ophim",
+      "slug": "diep-vien-007-bong-ma",
+      "name": "Điệp Viên 007: Bóng Ma",
+      "originName": "007: SPECTRE",
+      "posterUrl": "https://img.ophim.live/uploads/movies/diep-vien-007-bong-ma-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/diep-vien-007-bong-ma-thumb.jpg",
+      "year": 2015,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "danganronpa-season-1-2013-0af9d274",
+      "source": "phimapi",
+      "slug": "hoc-vien-hi-vong-va-hoc-sinh-tuyet-vong-phan-1",
+      "name": "Học Viện Hi Vọng và Học Sinh Tuyệt Vọng (Phần 1)",
+      "originName": "Danganronpa (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/0f56c63e78c89f3d403e7b78e7b81f1b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/dc8f5edb24af318e23c82001cecbe3dd.jpg",
+      "year": 2013,
       "type": "anime",
       "status": "completed",
       "episodeCurrent": "Hoàn Tất (13/13)",
@@ -186,184 +650,12 @@
           "slug": "phieu-luu"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-5-2015-b321dc19",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-5",
-      "name": "Bầu Trời Sụp Đổ (Phần 5)",
-      "originName": "Falling Skies (Season 5)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-thumb.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-4-2014-920db729",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-4",
-      "name": "Bầu Trời Sụp Đổ (Phần 4)",
-      "originName": "Falling Skies (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-thumb.jpg",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-3-2013-c17ea498",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-3",
-      "name": "Bầu Trời Sụp Đổ (Phần 3)",
-      "originName": "Falling Skies (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-thumb.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "magi-season-2-the-kingdo-2013-2e59c719",
-      "source": "phimapi",
-      "slug": "vuong-quoc-ma-thuat-phan-2",
-      "name": "Vương Quốc Ma Thuật (Phần 2)",
-      "originName": "Magi (Season 2) (The Kingdom Of Magic)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260111-1/227f938f194029f46c03654af6c6aa92.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/5b3698cbbc2f4d0772de95b6c8b08c50.jpg",
-      "year": 2013,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -378,177 +670,17 @@
       ]
     },
     {
-      "id": "falling-skies-season-2-2012-fdd699fb",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-2",
-      "name": "Bầu Trời Sụp Đổ (Phần 2)",
-      "originName": "Falling Skies (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-thumb.jpg",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "magi-season-1-the-labyri-2012-364fe780",
+      "id": "rome-season-2-2007-ac2fad41",
       "source": "phimapi",
-      "slug": "vuong-quoc-ma-thuat-phan-1",
-      "name": "Vương Quốc Ma Thuật (Phần 1)",
-      "originName": "Magi (Season 1) (The Labyrinth Of Magic)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260111-1/d526855ddade086247a0f26fb2fc9557.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/a71642f227da46c19ff1d4fd77f25a5a.jpg",
-      "year": 2012,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-1-2011-3028d493",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-1",
-      "name": "Bầu Trời Sụp Đổ (Phần 1)",
-      "originName": "Falling Skies (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-thumb.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "running-man-2010-6c95665c",
-      "source": "ophim",
-      "slug": "thu-thach-than-tuong",
-      "name": "Thử Thách Thần Tượng",
-      "originName": "RUNNING MAN",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thu-thach-than-tuong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thu-thach-than-tuong-thumb.jpg",
-      "year": 2010,
-      "type": "tvshow",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 804",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-contractor-2007-99e33475",
-      "source": "phimapi",
-      "slug": "hop-dong-doat-mang",
-      "name": "Hợp đồng đoạt mạng",
-      "originName": "The Contractor",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/4b3bb1dfc9ee38c2d773ba540a476038.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/075712b0c464cddd5011d3dbc96469e6.jpg",
+      "slug": "mau-lua-thanh-rome-phan-2",
+      "name": "Máu Lửa Thành Rome (Phần 2)",
+      "originName": "Rome (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/14de7615168853b8a8166e41551fae28.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/91e46d6f77105ca9a7e1ce0dab8d3639.jpg",
       "year": 2007,
-      "type": "single",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Hành Động",
@@ -568,13 +700,62 @@
         }
       ],
       "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
         {
           "name": "Anh",
           "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "rome-season-1-2005-4a6406b5",
+      "source": "phimapi",
+      "slug": "mau-lua-thanh-rome-phan-1",
+      "name": "Máu Lửa Thành Rome (Phần 1)",
+      "originName": "Rome (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/adfd800e602ef9c9050a1661d4404367.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/758b67848bf966356083483c2a43d76d.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
         },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -589,7 +770,7 @@
       "year": 1999,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1166",
+      "episodeCurrent": "Tập 1167",
       "categories": [
         {
           "name": "Hành Động",
@@ -608,6 +789,76 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "one-piece-1999-09306878",
+      "source": "phimapi",
+      "slug": "dao-hai-tac",
+      "name": "Đảo Hải Tặc",
+      "originName": "One Piece",
+      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/31e6c244a0673838a46732d3b4f0b190.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/d61250d0c1670917fd783a1b48cbb29c.jpg",
+      "year": 1999,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1167",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "swallowed-star-1976-5313b0e2",
+      "source": "phimapi",
+      "slug": "thon-phe-tinh-khong",
+      "name": "Thôn Phệ Tinh Không",
+      "originName": "Swallowed Star",
+      "posterUrl": "https://phimimg.com/upload/vod/20240821-1/a651652396e9f53c09cd88d28700d5c4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240821-1/22c49ba9590b0e5f3d126696c0bfbecf.jpg",
+      "year": 1976,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 229",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

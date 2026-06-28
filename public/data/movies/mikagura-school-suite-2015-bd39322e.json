@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "The story of the original light novels and manga revolves around high school girl Eruna Ichinomiya, who enters the Mikagura Academy dreaming of a boarding school life filled with beauty. However, Eruna finds out that in the culture clubs, there is a rule that battles that are fought with special powers decide a club representative's treatment. Through various circumstances, Eruna becomes a representative of a club, and is thrown into the fray.<br>\n<br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

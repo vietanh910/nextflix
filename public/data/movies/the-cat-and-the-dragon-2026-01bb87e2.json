@@ -1,0 +1,55 @@
+{
+  "id": "the-cat-and-the-dragon-2026-01bb87e2",
+  "source": "phimapi",
+  "slug": "con-meo-va-con-rong",
+  "name": "Con Mèo Và Con Rồng",
+  "originName": "The Cat And The Dragon",
+  "posterUrl": "https://phimimg.com/upload/vod/20260628-1/42ef1fa70615d6076afd6d4c72ccef28.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260628-1/72b2dbd4ea6b8259b07dd9abe2618d0a.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Nhật Bản",
+      "slug": "nhat-ban"
+    }
+  ],
+  "description": "<span class=\"\">Mồ côi ngay từ khi mới nở,</span><span class=\"\"> chú rồng cô độc mang tên &quot;Bác Đôi Cánh&quot; được một gia đình mèo biết sử dụng ma thuật nhận nuôi và nuôi nấng như con ruột.</span><span class=\"\"> Khi lớn lên,</span><span class=\"\"> Bác Đôi Cánh trở thành người bảo vệ cho đàn mèo,</span><span class=\"\"> quyết tâm giữ cho chúng được an toàn trước loài người.</span><span class=\"\"> Thế nhưng,</span><span class=\"\"> khi chứng kiến những chú mèo dùng phép thuật của mình để kết nối với con người,</span><span class=\"\"> Bác Đôi Cánh cũng dần mở lòng và có thiện cảm hơn với họ trong câu chuyện đầy cảm xúc và xúc động này.</span>",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/CjOm1HuI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/CjOm1HuI/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "con-meo-va-con-rong",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

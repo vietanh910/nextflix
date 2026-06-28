@@ -1,0 +1,125 @@
+{
+  "id": "the-american-experiment-2026-2a658606",
+  "source": "ophim",
+  "slug": "thu-nghiem-hoa-ky",
+  "name": "Thử Nghiệm Hoa Kỳ",
+  "originName": "The American Experiment",
+  "posterUrl": "https://img.ophim.live/uploads/movies/thu-nghiem-hoa-ky-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/thu-nghiem-hoa-ky-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (5/5)",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Cuộc sống. Tự do. Mưu cầu hạnh phúc. Loạt phim tài liệu lịch sử đồ sộ này khắc họa quá trình hình thành một quốc gia trên lý tưởng của những nhà lập quốc Hoa Kỳ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f9ac3ab178b7b9de8337a031856560ec",
+      "m3u8Url": "https://vip.opstream90.com/20260625/35601_f9ac3ab1/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0a41cf40123f35dac58d66443fd55e51",
+      "m3u8Url": "https://vip.opstream90.com/20260625/35602_0a41cf40/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3d015642567b62204c8bce00b2b1d60c",
+      "m3u8Url": "https://vip.opstream90.com/20260625/35605_3d015642/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1869fb91c7518887d7bda05bae6af9e7",
+      "m3u8Url": "https://vip.opstream90.com/20260625/35603_1869fb91/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6be596e994e1ab70db267d13d96370c7",
+      "m3u8Url": "https://vip.opstream90.com/20260625/35604_6be596e9/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/IfXt37AY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/IfXt37AY/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/DirnZph2/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/DirnZph2/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/bhCvpB7d/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/bhCvpB7d/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/cKv6Ehk6/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/cKv6Ehk6/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/fHw6rgFf/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/fHw6rgFf/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "thu-nghiem-hoa-ky",
+      "episodeCount": 5,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "thu-nghiem-hoa-ky",
+      "episodeCount": 5,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

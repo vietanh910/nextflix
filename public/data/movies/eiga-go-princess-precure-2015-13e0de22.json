@@ -9,7 +9,18 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Mahou Shoujo",
+      "slug": "mahou-shoujo"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "Part 1, Pumpkin Oukoku no Takaramono, will feature the four Precure girls from Go! Princess Precure trying to rescue a princess who is held captive.<br>\n<br>\nPart 2, Precure to Refi no Wonder Night!, is set in the Night Kingdom lost its daytime, the Precure team fight to take the daytime back alongside the princess Refi.<br>\n<br>\nPart 3, Cure Flora to Itazura Kagami, will be a dialogue-less story featuring Cure Flora and a mischievous ghost in a mirror.<br>\n<br>\n(Source: Crunchyroll)",
   "episodes": [],
   "sources": [
     {

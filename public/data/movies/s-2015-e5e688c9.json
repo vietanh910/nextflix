@@ -9,7 +9,18 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "Shorts included in the Blu-ray and DVD releases of the TV anime. They take place in a world with multiple Umaru-chans.",
   "episodes": [],
   "sources": [
     {

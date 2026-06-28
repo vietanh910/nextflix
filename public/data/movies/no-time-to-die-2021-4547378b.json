@@ -1,0 +1,55 @@
+{
+  "id": "no-time-to-die-2021-4547378b",
+  "source": "ophim",
+  "slug": "no-time-to-die",
+  "name": "Không phải lúc chết",
+  "originName": "No Time to Die",
+  "posterUrl": "https://img.ophim.live/uploads/movies/no-time-to-die-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/no-time-to-die-thumb.jpg",
+  "year": 2021,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>Bond đã rời khỏi dịch vụ tích cực và đang tận hưởng một cuộc sống yên tĩnh ở Jamaica. Hòa bình của anh ta là ngắn ngủi khi người bạn cũ Felix Leiter từ CIA bật lên yêu cầu sự giúp đỡ. Nhiệm vụ giải cứu một nhà khoa học bị bắt cóc hóa ra là nguy hiểm hơn nhiều so với dự kiến, hàng đầu trái phiếu trên đường mòn của một nhân vật phản diện bí ẩn được trang bị công nghệ mới nguy hiểm.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5124ec804c4633ad5e127f3f9543bc10",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35520_5124ec80/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "no-time-to-die",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

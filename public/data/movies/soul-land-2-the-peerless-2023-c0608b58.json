@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 158",
+  "episodeCurrent": "Tập 159",
   "categories": [
     {
       "name": "Hành Động",
@@ -1299,6 +1299,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260621/35354_739a18e3/index.m3u8"
     },
     {
+      "name": "159",
+      "slug": "159",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/884a06e5988eb41cfbd466142929bffe",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35759_884a06e5/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -2561,19 +2569,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/nGcZ0yXa/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260619/nGcZ0yXa/index.m3u8"
+    },
+    {
+      "name": "Tập 159",
+      "slug": "tap-159",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/FEaGgwgG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/FEaGgwgG/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
-      "episodeCount": 158,
+      "episodeCount": 159,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
-      "episodeCount": 158,
+      "episodeCount": 159,
       "priority": 1
     }
   ],

@@ -9,7 +9,18 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "An anime short for the Pokémon XY series. It is available in Japan along with the purchasing of a ticket for Hoopa and the Clash of Ages movie, which this short ties into. <br><br>\n(Source: Bulbapedia)",
   "episodes": [],
   "sources": [
     {

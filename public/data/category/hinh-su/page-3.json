@@ -5,21 +5,161 @@
   "totalPages": 3,
   "items": [
     {
-      "id": "dedication-2026-2f05eaec",
+      "id": "fire-country-season-4-2026-ef69ceb1",
+      "source": "ophim",
+      "slug": "fire-country-phan-4",
+      "name": "Vùng Đất Lửa (Phần 4)",
+      "originName": "Fire Country (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/fire-country-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/fire-country-phan-4-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (20/20)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "gold-land-2026-1a8332be",
+      "source": "ophim",
+      "slug": "vung-dat-vang",
+      "name": "Vùng Đất Vàng",
+      "originName": "Gold Land",
+      "posterUrl": "https://img.ophim.live/uploads/movies/vung-dat-vang-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/vung-dat-vang-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "cape-fear-season-1-2026-834c07c1",
       "source": "phimapi",
-      "slug": "tan-hien",
-      "name": "Tận Hiến",
-      "originName": "Dedication",
-      "posterUrl": "https://phimimg.com/upload/vod/20260513-1/51f724508514799548dfaace58be692f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/3048bddd30fbd3f3bc95cb636d67efee.jpg",
+      "slug": "dong-song-toi-ac-phan-1",
+      "name": "Dòng Sông Tội Ác (Phần 1)",
+      "originName": "Cape Fear (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/7b3448a362987d1b32f70a6a49126267.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/4103b9e90b6bcf456aba4e90561eaafa.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-air-4-elements-2026-5991bd55",
+      "source": "phimapi",
+      "slug": "gio-thoang-tinh-theo",
+      "name": "Gió Thoảng Tình Theo",
+      "originName": "The Air 4 Elements",
+      "posterUrl": "https://phimimg.com/upload/vod/20260518-1/915794645eafc3f63b90e9a4175bf5f6.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260518-1/44e82161567f7c384837926ad3ee9407.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 7",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "white-fire-2026-2da08fe5",
+      "source": "phimapi",
+      "slug": "lua-trang-2026",
+      "name": "Lửa Trắng",
+      "originName": "White Fire",
+      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/3e4a5707b7b1cd0e9e4fcee32e630cf1.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 4",
+      "categories": [
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
           "name": "Tâm Lý",
@@ -38,21 +178,25 @@
       ]
     },
     {
-      "id": "badland-rising-2026-68066bb8",
+      "id": "dedication-2026-2f05eaec",
       "source": "phimapi",
-      "slug": "vung-dat-troi-day",
-      "name": "Vùng đất trỗi dậy",
-      "originName": "Badland Rising",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/6c11902d949cfbce9c43c13c9e0ff6ec.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/e06eadf4e038a3b171dd605a611deadd.jpg",
+      "slug": "tan-hien",
+      "name": "Tận Hiến",
+      "originName": "Dedication",
+      "posterUrl": "https://phimimg.com/upload/vod/20260513-1/51f724508514799548dfaace58be692f.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260513-1/3048bddd30fbd3f3bc95cb636d67efee.jpg",
       "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         },
         {
           "name": "Hình Sự",
@@ -61,8 +205,8 @@
       ],
       "countries": [
         {
-          "name": "Úc",
-          "slug": "uc"
+          "name": "Việt Nam",
+          "slug": "viet-nam"
         }
       ]
     },
@@ -220,43 +364,6 @@
       ]
     },
     {
-      "id": "one-cent-thief-season-2-2025-77d99fdb",
-      "source": "ophim",
-      "slug": "ten-trom-mot-xu-phan-2",
-      "name": "Tên Trộm Một Xu (Phần 2)",
-      "originName": "One Cent Thief (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ten-trom-mot-xu-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ten-trom-mot-xu-phan-2-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Malaysia",
-          "slug": "malaysia"
-        }
-      ]
-    },
-    {
       "id": "the-bodyguard-2025-e63d4d0f",
       "source": "ophim",
       "slug": "tinh-vu-nu",
@@ -362,7 +469,7 @@
       "year": 2024,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hành Động",
@@ -389,21 +496,25 @@
       ]
     },
     {
-      "id": "d-p-season-2-2023-0f380af1",
+      "id": "marvel-s-the-defenders-2017-f39fcd11",
       "source": "phimapi",
-      "slug": "truy-bat-linh-dao-ngu-phan-2",
-      "name": "Truy Bắt Lính Đào Ngũ (Phần 2)",
-      "originName": "D.P. (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/896d8608d326882cb87a2153d0b45813.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/115b8f5c4e94a1799995010a186af147.jpg",
-      "year": 2023,
+      "slug": "ho-ve-sieu-anh-hung-nhung-nguoi-bao-ve",
+      "name": "Hộ Vệ Siêu Anh Hùng (Những Người Bảo Vệ)",
+      "originName": "Marvel's The Defenders",
+      "posterUrl": "https://phimimg.com/upload/vod/20260624-1/e328eed8220a16e02d6057128de7e55c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260624-1/4a65941bf8a1168ebd96b57cc0e59ca5.jpg",
+      "year": 2017,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "episodeCurrent": "Hoàn Tất (8/8)",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Hành Động",
@@ -424,61 +535,20 @@
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
     {
-      "id": "d-p-season-1-2021-1ee596e2",
-      "source": "phimapi",
-      "slug": "truy-bat-linh-dao-ngu-phan-1",
-      "name": "Truy Bắt Linh Đào Ngũ (Phần 1)",
-      "originName": "D.P. (Season 1)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/3a5268a1ceaedebd4b5762e26aed931e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/82126956a4c1dfc6dac05bba3f1f6b0f.jpg",
-      "year": 2021,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "force-of-nature-2020-f892de18",
-      "source": "phimapi",
-      "slug": "phi-vu-bao-to",
-      "name": "Phi Vụ Bão Tố",
-      "originName": "Force of Nature",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/1c5bae7e922c3324a077fac7ad11c8fe.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/f889b2b6d36e1129e20290d009830a4b.jpg",
-      "year": 2020,
+      "id": "007-spectre-2015-353a6cd1",
+      "source": "ophim",
+      "slug": "diep-vien-007-bong-ma",
+      "name": "Điệp Viên 007: Bóng Ma",
+      "originName": "007: SPECTRE",
+      "posterUrl": "https://img.ophim.live/uploads/movies/diep-vien-007-bong-ma-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/diep-vien-007-bong-ma-thumb.jpg",
+      "year": 2015,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
@@ -488,133 +558,22 @@
           "slug": "hanh-dong"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
           "name": "Hình Sự",
           "slug": "hinh-su"
         },
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         }
       ],
       "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
         {
           "name": "Anh",
           "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "mosaic-2018-5ab9dcd3",
-      "source": "phimapi",
-      "slug": "manh-ghep",
-      "name": "Mảnh Ghép",
-      "originName": "Mosaic",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/2c6663f4b6f178c9989440ec79c77157.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/010286d45b329dd0bf5e1ed5d54ebe8f.jpg",
-      "year": 2018,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "door-lock-2018-7f1595b4",
-      "source": "phimapi",
-      "slug": "o-khoa-tu-than-ke-dot-nhap",
-      "name": "Ổ Khóa Tử Thần (Kẻ Đột Nhập)",
-      "originName": "Door Lock",
-      "posterUrl": "https://phimimg.com/upload/vod/20260619-1/540455b8b28f7175c7d9b32d24d9c1fc.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/141321bf01facfa7ff5c5a0d0a8d4bae.jpg",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "forgotten-night-of-memor-2017-5844050a",
-      "source": "phimapi",
-      "slug": "dem-ky-uc",
-      "name": "Đêm Ký Ức",
-      "originName": "Forgotten (Night Of Memory)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/542b9a7b66249bc0b48f74b74921ef27.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/91bdda93b45b1674a7a5f210feb61507.jpg",
-      "year": 2017,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -648,105 +607,6 @@
       ]
     },
     {
-      "id": "the-vanished-murderer-2015-dd9940c9",
-      "source": "phimapi",
-      "slug": "hung-thu-bien-mat",
-      "name": "Hung Thủ Biến Mất",
-      "originName": "The Vanished Murderer",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/eee1911d76210a40cd3cfbc528c5381d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/25740163f3b4314cfc23849958618c52.jpg",
-      "year": 2015,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "leviathan-2014-9e76a751",
-      "source": "phimapi",
-      "slug": "leviathan",
-      "name": "Leviathan",
-      "originName": "Leviathan",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/32e8f7041e33b957a86e16fb85cffc93.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/5b5a633a3c23c6f3a5765c3e1a422879.jpg",
-      "year": 2014,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nga",
-          "slug": "nga"
-        }
-      ]
-    },
-    {
-      "id": "the-raven-2012-78a66115",
-      "source": "phimapi",
-      "slug": "ke-san-moi-qua-den",
-      "name": "Kẻ Săn Mồi (Quạ Đen)",
-      "originName": "The Raven",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/8186e2f611e171a091daea003257e615.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/b929739d2e42f9fff9d4c13aa61b7166.jpg",
-      "year": 2012,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "vigilante-force-2003-5734d388",
       "source": "ophim",
       "slug": "tri-dung-song-hung",
@@ -772,43 +632,6 @@
         {
           "name": "Hồng Kông",
           "slug": "hong-kong"
-        }
-      ]
-    },
-    {
-      "id": "mr-nice-guy-1997-6ac8d8c4",
-      "source": "phimapi",
-      "slug": "chang-trai-tot-bung",
-      "name": "Chàng Trai Tốt Bụng",
-      "originName": "Mr. Nice Guy",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/c459b8d66cf20811c99d201b1bb6b14e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/e5059ad62c0b14af24a8c8587e44392d.jpg",
-      "year": 1997,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        },
-        {
-          "name": "Úc",
-          "slug": "uc"
         }
       ]
     }

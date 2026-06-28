@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/khuc-ca-linh-hon-shinsengumi-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "completed",
-  "episodeCurrent": "Hoàn tất (6/6)",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hành Động",
@@ -81,13 +81,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/9ca23f6f5db0679c61be4b1818cb6a26",
       "m3u8Url": "https://vip.opstream90.com/20260613/34793_9ca23f6f/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5dc32802b22c2005096677e3255e35fd",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35745_5dc32802/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8d401cff908d8a2ffabf660860c3aee1",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35746_8d401cff/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "khuc-ca-linh-hon-shinsengumi",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 0
     }
   ],

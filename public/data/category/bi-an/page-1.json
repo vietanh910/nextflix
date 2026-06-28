@@ -2,7 +2,7 @@
   "slug": "bi-an",
   "name": "Bí ẩn",
   "page": 1,
-  "totalPages": 3,
+  "totalPages": 2,
   "items": [
     {
       "id": "vought-rising-2027-d5e1e4aa",
@@ -84,8 +84,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/tagusari-bros-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -212,8 +212,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 15",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (16/16)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -302,6 +302,31 @@
       ]
     },
     {
+      "id": "inseparable-2026-897350f1",
+      "source": "ophim",
+      "slug": "dem-qua-toi-gan",
+      "name": "Đêm Qua Tới Gần",
+      "originName": "Inseparable",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dem-qua-toi-gan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dem-qua-toi-gan-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "detective-conan-fallen-a-2026-424e0c62",
       "source": "ophim",
       "slug": "dien-anh-conan-29-thien-than-sa-nga-tren-xa-lo",
@@ -331,6 +356,47 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-sheep-detectives-2026-c85ebf83",
+      "source": "ophim",
+      "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
+      "name": "Đội Thám Tử Cừu: Án Mạng Lúc Nửa Đêm",
+      "originName": "The Sheep Detectives",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -401,39 +467,6 @@
       ]
     },
     {
-      "id": "archives-the-nanyang-mys-2026-69875541",
-      "source": "ophim",
-      "slug": "ho-so-nam-bo",
-      "name": "Hồ Sơ Nam Bộ",
-      "originName": "Archives: The Nanyang Mystery",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ho-so-nam-bo-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ho-so-nam-bo-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 24",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "reverse-2026-da0ab72d",
       "source": "ophim",
       "slug": "ke-thu-chung-giuong",
@@ -488,6 +521,39 @@
       ]
     },
     {
+      "id": "the-prosecutor-s-proposa-2026-04fdb5b1",
+      "source": "ophim",
+      "slug": "loi-de-nghi-cua-cong-to-vien",
+      "name": "Lời Đề Nghị Của Công Tố Viên",
+      "originName": "The Prosecutor's Proposal",
+      "posterUrl": "https://img.ophim.live/uploads/movies/loi-de-nghi-cua-cong-to-vien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/loi-de-nghi-cua-cong-to-vien-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "loved-one-2026-04f2297a",
       "source": "ophim",
       "slug": "loved-one",
@@ -498,7 +564,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Chính kịch",
@@ -579,6 +645,35 @@
       ]
     },
     {
+      "id": "the-found-family-2026-1b7a843b",
+      "source": "ophim",
+      "slug": "moi-gioi-dai-cat",
+      "name": "Môi Giới Đại Cát",
+      "originName": "The Found Family",
+      "posterUrl": "https://img.ophim.live/uploads/movies/moi-gioi-dai-cat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/moi-gioi-dai-cat-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "the-gift-2026-808d190d",
       "source": "ophim",
       "slug": "mon-qua-cua-kluay",
@@ -604,35 +699,6 @@
         {
           "name": "Thái Lan",
           "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "lee-cronin-s-the-mummy-2026-3e65d257",
-      "source": "ophim",
-      "slug": "xac-uopp",
-      "name": "Một bộ phim của Lee Cronin: Xác ướp",
-      "originName": "Lee Cronin's The Mummy",
-      "posterUrl": "https://img.ophim.live/uploads/movies/xac-uopp-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/xac-uopp-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -674,22 +740,18 @@
       ]
     },
     {
-      "id": "oasis-2026-4c9e29cf",
+      "id": "notes-from-the-last-row-2026-08bc4e68",
       "source": "ophim",
-      "slug": "oasis-2026",
-      "name": "Oasis",
-      "originName": "Oasis",
-      "posterUrl": "https://img.ophim.live/uploads/movies/oasis-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/oasis-2026-thumb.jpg",
+      "slug": "nhung-ghi-chu-o-hang-cuoi",
+      "name": "Những ghi chú ở hàng cuối",
+      "originName": "Notes from the Last Row",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-ghi-chu-o-hang-cuoi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-ghi-chu-o-hang-cuoi-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
+      "episodeCurrent": "Hoàn tất (6/6)",
       "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -701,78 +763,8 @@
       ],
       "countries": [
         {
-          "name": "Tây Ban Nha",
-          "slug": "tay-ban-nha"
-        }
-      ]
-    },
-    {
-      "id": "the-boroughs-2026-f03a80f9",
-      "source": "ophim",
-      "slug": "phien-quan-toc-xam",
-      "name": "Phiến Quân Tóc Xám",
-      "originName": "The Boroughs",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phien-quan-toc-xam-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phien-quan-toc-xam-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "iron-lung-2026-c2c479a2",
-      "source": "ophim",
-      "slug": "phoi-sat",
-      "name": "Phổi Sắt",
-      "originName": "Iron Lung",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phoi-sat-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phoi-sat-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     }

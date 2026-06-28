@@ -9,7 +9,26 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Mecha",
+      "slug": "mecha"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "U.C. 0096. Three years after Char’s rebellion, Banagher Links, a boy who lives on the manufacturing colony Industrial 7, meets a mysterious girl named Audrey Burne. She claims to seek to prevent a potential war by interfering with the transfer of “Laplace's Box” from the Vist Foundation to a Neo Zeon remnant group known as the “Sleeves”. <br>\nHowever, when a Federation squad also sent to prevent the transfer clashes with the Sleeves, the colony is plunged into battle. <br>\nAs Banager races through the flames in search of Audrey, one other fateful encounter awaits him—the Unicorn Gundam, a pale white mobile suit that's the key to Laplace's Box. <br>\n<br>\nWhat is Laplace’s Box? What are the secrets that it holds? For the first time in 100 years, light will shine on the darkest secrets of the Universal Century...<br>\n<br>\n(Source: Gundam.info)",
   "episodes": [],
   "sources": [
     {

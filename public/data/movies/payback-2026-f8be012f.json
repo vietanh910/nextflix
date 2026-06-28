@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 5",
   "categories": [
     {
       "name": "Hình Sự",
@@ -61,14 +61,76 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/0801f1b5e77c751f6698851220bb1405",
       "m3u8Url": "https://vip.opstream90.com/20260615/34801_0801f1b5/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6d378c1d7df74d165c6b2ff5e33baa3b",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35764_6d378c1d/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/617eec79885716929ff5c622e37bb463",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35765_617eec79/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260530/tx4SaShQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260530/tx4SaShQ/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/D1qWx7z0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/D1qWx7z0/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260613/Nlo0ewcK/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260613/Nlo0ewcK/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/kZzhYYMx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/kZzhYYMx/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/IvLdUwrR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/IvLdUwrR/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "payback-bao-thu",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "bao-thu-2026",
+      "episodeCount": 5,
+      "priority": 1
     }
   ],
   "_priority": 0

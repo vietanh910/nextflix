@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 6",
   "categories": [
     {
       "name": "Chính kịch",
@@ -55,6 +55,30 @@
       "m3u8Url": "https://vip.opstream10.com/20260618/33931_24063b2a/index.m3u8"
     },
     {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/7c55c9d787fdff97a1ab95052304aeec",
+      "m3u8Url": "https://vip.opstream10.com/20260622/33942_7c55c9d7/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/070151fbdb4fa874242f4d03fe75c57c",
+      "m3u8Url": "https://vip.opstream10.com/20260625/33946_070151fb/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/39d2e7e346cf746bb1e11dca3ece9b8e",
+      "m3u8Url": "https://vip.opstream10.com/20260627/33952_39d2e7e3/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -77,19 +101,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/JZ9CMC7m/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260618/JZ9CMC7m/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/gRLrjPSJ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/gRLrjPSJ/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/paSbeVTO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/paSbeVTO/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nhung-ban-di-chuc-phan-1",
-      "episodeCount": 3,
+      "episodeCount": 6,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "nhung-ban-di-chuc-phan-1",
-      "episodeCount": 3,
+      "episodeCount": 5,
       "priority": 1
     }
   ],

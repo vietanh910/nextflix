@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/kill-blue-thumb.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (12/12)",
   "categories": [
     {
       "name": "Hành Động",
@@ -123,6 +123,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260620/35317_2aa075ae/index.m3u8"
     },
     {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7fc34eee4c21d2e8aacb9bb7774a27ea",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35752_7fc34eee/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -209,19 +217,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/Oytgf2Ot/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260620/Oytgf2Ot/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/5tpNLacX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/5tpNLacX/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "kill-blue",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "sat-thu-di-hoc",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

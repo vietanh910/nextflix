@@ -5,25 +5,107 @@
   "totalPages": 14,
   "items": [
     {
-      "id": "lee-chong-wei-rise-of-th-2018-dc7fa8c2",
+      "id": "tomb-of-fallen-gods-2022-69e5b0a0",
       "source": "phimapi",
-      "slug": "lee-chong-wei-su-troi-day-cua-huyen-thoai",
-      "name": "Lee Chong Wei: Sự Trỗi Dậy Của Huyền Thoại",
-      "originName": "Lee Chong Wei: Rise Of The Legend",
-      "posterUrl": "https://phimimg.com/upload/vod/20260621-1/6f4eece888afd8939f943ce5104663f1.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260621-1/08b431c5ad890add84cadad11f4a87e2.jpg",
-      "year": 2018,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "slug": "than-mo-2022",
+      "name": "Thần Mộ",
+      "originName": "Tomb Of Fallen Gods",
+      "posterUrl": "https://phimimg.com/upload/vod/20251124-1/b20ca22d56f6ea0c41cdafea81018a64.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20251124-1/74ab8505711d0ca1a57d85c0a13fb19f.jpg",
+      "year": 2022,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 91",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "ten-thousand-worlds-2021-5ac3d906",
+      "source": "phimapi",
+      "slug": "van-gioi-doc-ton",
+      "name": "Vạn Giới Độc Tôn",
+      "originName": "Ten Thousand Worlds",
+      "posterUrl": "https://phimimg.com/upload/vod/20250308-1/25c9c7486b5de820475bd8fe0ccb316e.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250308-1/4b81238b9844aa16e3f7e9ee8afdbc94.jpg",
+      "year": 2021,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 460",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Thể Thao",
-          "slug": "the-thao"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "her-private-life-2019-ff49364c",
+      "source": "phimapi",
+      "slug": "bi-mat-nang-fangirl",
+      "name": "Bí Mật Nàng Fangirl",
+      "originName": "Her Private Life",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/c8300af3e9d088c5a8a2b386fd83a28a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/91bda7d8a80f291603977f92c1106e02.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Tâm Lý",
@@ -32,45 +114,70 @@
       ],
       "countries": [
         {
-          "name": "Malaysia",
-          "slug": "malaysia"
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
     {
-      "id": "mosaic-2018-5ab9dcd3",
-      "source": "phimapi",
-      "slug": "manh-ghep",
-      "name": "Mảnh Ghép",
-      "originName": "Mosaic",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/2c6663f4b6f178c9989440ec79c77157.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/010286d45b329dd0bf5e1ed5d54ebe8f.jpg",
+      "id": "my-teacher-my-obsession-2018-35a12b4d",
+      "source": "ophim",
+      "slug": "co-giao-cua-toi-noi-am-anh-cua-toi",
+      "name": "Cô giáo của tôi, nỗi ám ảnh của tôi",
+      "originName": "My Teacher, My Obsession",
+      "posterUrl": "https://img.ophim.live/uploads/movies/co-giao-cua-toi-noi-am-anh-cua-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/co-giao-cua-toi-noi-am-anh-cua-toi-thumb.jpg",
       "year": 2018,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (6/6)",
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
         {
-          "name": "Chính Kịch",
+          "name": "Chính kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí Ẩn",
-          "slug": "bi-an"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "zombiepura-2018-e9c074a7",
+      "source": "phimapi",
+      "slug": "khu-biet-giam-xac-song",
+      "name": "Khu Biệt Giam Xác Sống",
+      "originName": "Zombiepura",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/57b1ed2da8e68d2e15cc25d959acb589.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/e136f67c77bc3729cfc83e992e6c8f8b.jpg",
+      "year": 2018,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Singapore",
+          "slug": "singapore"
         }
       ]
     },
@@ -100,158 +207,43 @@
       ]
     },
     {
-      "id": "forgotten-night-of-memor-2017-5844050a",
+      "id": "danganronpa-season-2-2016-4f7bf713",
       "source": "phimapi",
-      "slug": "dem-ky-uc",
-      "name": "Đêm Ký Ức",
-      "originName": "Forgotten (Night Of Memory)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/542b9a7b66249bc0b48f74b74921ef27.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/91bdda93b45b1674a7a5f210feb61507.jpg",
-      "year": 2017,
-      "type": "single",
+      "slug": "hoc-vien-hi-vong-va-hoc-sinh-tuyet-vong-phan-2",
+      "name": "Học Viện Hi Vọng và Học Sinh Tuyệt Vọng (Phần 2)",
+      "originName": "Danganronpa (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/607ea73567fa311166a4fea77c6820c3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/edca2c7bf3a9839d2d0d827f8e986bd3.jpg",
+      "year": 2016,
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Bí Ẩn",
           "slug": "bi-an"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "magi-adventure-of-sinbad-2016-c618ea28",
-      "source": "phimapi",
-      "slug": "magi-sinbad-phieu-luu-ky",
-      "name": "Magi: Sinbad Phiêu Lưu Ký",
-      "originName": "Magi: Adventure Of Sinbad",
-      "posterUrl": "https://phimimg.com/upload/vod/20260619-1/ce460bf96093e4603a3503c5935e7fd8.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/84f2b15a71ea1c6e0f22c5cc86a85be2.jpg",
-      "year": 2016,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
           "name": "Tâm Lý",
           "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-devil-s-candy-2016-45e17b96",
-      "source": "phimapi",
-      "slug": "nha-quy-keo-cua-quy",
-      "name": "Nhà Quỷ (Kẹo của Quỷ)",
-      "originName": "The Devil's Candy",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/8a4dfce48f2e769cee599b0f57d7d742.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/a8d2eec3cece6c70b309aeec672fdaa9.jpg",
-      "year": 2016,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Anh",
-          "slug": "anh"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-5-2015-b321dc19",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-5",
-      "name": "Bầu Trời Sụp Đổ (Phần 5)",
-      "originName": "Falling Skies (Season 5)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-5-thumb.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
         }
       ]
     },
@@ -285,121 +277,35 @@
       ]
     },
     {
-      "id": "falling-skies-season-4-2014-920db729",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-4",
-      "name": "Bầu Trời Sụp Đổ (Phần 4)",
-      "originName": "Falling Skies (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-4-thumb.jpg",
+      "id": "olive-kitteridge-2014-9950b99e",
+      "source": "phimapi",
+      "slug": "olive-kitteridge",
+      "name": "Olive Kitteridge",
+      "originName": "Olive Kitteridge",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/894207b627ba2bd438c4139901d30277.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/8204c22a0238324bbb2b9914a4c9837f.jpg",
       "year": 2014,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
-      "id": "leviathan-2014-9e76a751",
-      "source": "phimapi",
-      "slug": "leviathan",
-      "name": "Leviathan",
-      "originName": "Leviathan",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/32e8f7041e33b957a86e16fb85cffc93.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/5b5a633a3c23c6f3a5765c3e1a422879.jpg",
-      "year": 2014,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (4/4)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nga",
-          "slug": "nga"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-3-2013-c17ea498",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-3",
-      "name": "Bầu Trời Sụp Đổ (Phần 3)",
-      "originName": "Falling Skies (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-3-thumb.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
         }
       ]
     },
@@ -462,47 +368,43 @@
       ]
     },
     {
-      "id": "falling-skies-season-2-2012-fdd699fb",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-2",
-      "name": "Bầu Trời Sụp Đổ (Phần 2)",
-      "originName": "Falling Skies (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-thumb.jpg",
-      "year": 2012,
-      "type": "series",
+      "id": "danganronpa-season-1-2013-0af9d274",
+      "source": "phimapi",
+      "slug": "hoc-vien-hi-vong-va-hoc-sinh-tuyet-vong-phan-1",
+      "name": "Học Viện Hi Vọng và Học Sinh Tuyệt Vọng (Phần 1)",
+      "originName": "Danganronpa (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/0f56c63e78c89f3d403e7b78e7b81f1b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/dc8f5edb24af318e23c82001cecbe3dd.jpg",
+      "year": 2013,
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
+      "episodeCurrent": "Hoàn Tất (13/13)",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -561,51 +463,6 @@
       ]
     },
     {
-      "id": "falling-skies-season-1-2011-3028d493",
-      "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-1",
-      "name": "Bầu Trời Sụp Đổ (Phần 1)",
-      "originName": "Falling Skies (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-thumb.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Canada",
-          "slug": "canada"
-        }
-      ]
-    },
-    {
       "id": "southland-season-3-2011-c8bc5933",
       "source": "ophim",
       "slug": "southland-phan-3",
@@ -621,68 +478,6 @@
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "high-kick-season-3-2011-919d1bb2",
-      "source": "phimapi",
-      "slug": "gia-dinh-la-so-1-phan-3",
-      "name": "Gia Đình Là Số 1 (Phần 3)",
-      "originName": "High Kick (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240829-1/a0cd73eac83d6f6c967485b05a0f84b8.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240829-1/05ea25e9f2011df44e92839c5973be05.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (123/123)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "mildred-pierce-2011-307ad709",
-      "source": "phimapi",
-      "slug": "mildred-pierce",
-      "name": "Mildred Pierce",
-      "originName": "Mildred Pierce",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/f2559a3a5f8a95f5394cc34d7004dd9f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/6ec1db548023760cdc80a653d00d2994.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (5/5)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
         }
       ],
       "countries": [
@@ -743,6 +538,35 @@
       ]
     },
     {
+      "id": "running-man-2010-ca3391d1",
+      "source": "phimapi",
+      "slug": "thu-thach-than-tuong",
+      "name": "Thử Thách Thần Tượng",
+      "originName": "Running Man",
+      "posterUrl": "https://phimimg.com/upload/vod/20241017-1/8ce53643bb316f8fb8dc3dddd955f2ce.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20241017-1/65a22ab2e96e79bfedf8ae96d955f72a.jpg",
+      "year": 2010,
+      "type": "tvshow",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 808",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "southland-season-1-2009-89e605b6",
       "source": "ophim",
       "slug": "southland-phan-1",
@@ -768,21 +592,104 @@
       ]
     },
     {
-      "id": "messengers-2-the-scarecr-2009-48e6e301",
-      "source": "phimapi",
-      "slug": "nhung-nguoi-dua-tin-2",
-      "name": "Những Người Đưa Tin 2",
-      "originName": "Messengers 2: The Scarecrow",
-      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1d09fca9ff29e7bc0251e41bd72af6ba.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/e38991cd422bc5e0a3f30a579afb9a75.jpg",
-      "year": 2009,
+      "id": "er-season-15-2008-13f886c5",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-15",
+      "name": "ER: Phòng Cấp Cứu (Phần 15)",
+      "originName": "ER (Season 15)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-15-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-15-thumb.jpg",
+      "year": 2008,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "after-sex-2007-51bd0e9b",
+      "source": "ophim",
+      "slug": "du-am-sau-cuoc-yeu",
+      "name": "Dư Âm Sau Cuộc Yêu",
+      "originName": "After Sex",
+      "posterUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-thumb.jpg",
+      "year": 2007,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "er-season-14-2007-f54505d5",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-14",
+      "name": "ER: Phòng Cấp Cứu (Phần 14)",
+      "originName": "ER (Season 14)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-14-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-14-thumb.jpg",
+      "year": 2007,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "rome-season-2-2007-ac2fad41",
+      "source": "phimapi",
+      "slug": "mau-lua-thanh-rome-phan-2",
+      "name": "Máu Lửa Thành Rome (Phần 2)",
+      "originName": "Rome (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/14de7615168853b8a8166e41551fae28.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/91e46d6f77105ca9a7e1ce0dab8d3639.jpg",
+      "year": 2007,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Chính Kịch",
@@ -795,12 +702,41 @@
       ],
       "countries": [
         {
+          "name": "Ý",
+          "slug": "y"
+        },
+        {
           "name": "Âu Mỹ",
           "slug": "au-my"
         },
         {
-          "name": "Bulgaria",
-          "slug": "bulgaria"
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "er-season-13-2006-c3513d1d",
+      "source": "ophim",
+      "slug": "er-phong-cap-cuu-phan-13",
+      "name": "ER: Phòng Cấp Cứu (Phần 13)",
+      "originName": "ER (Season 13)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-13-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/er-phong-cap-cuu-phan-13-thumb.jpg",
+      "year": 2006,
+      "type": "series",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

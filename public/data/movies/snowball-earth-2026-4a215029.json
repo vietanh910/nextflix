@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/trai-dat-dong-bang-thumb.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (13/13)",
   "categories": [
     {
       "name": "Hành Động",
@@ -135,6 +135,14 @@
       "m3u8Url": "https://vip.opstream90.com/20260620/35272_12660391/index.m3u8"
     },
     {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5f4d4b4da67c9adec00590be5904256e",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35683_5f4d4b4d/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -229,19 +237,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/vocIo6ko/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260619/vocIo6ko/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/zSkNAN4l/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/zSkNAN4l/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "trai-dat-dong-bang",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "snowball-earth-trai-dat-dong-bang",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

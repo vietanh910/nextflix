@@ -11,10 +11,6 @@
   "status": "unknown",
   "categories": [
     {
-      "name": "Action",
-      "slug": "action"
-    },
-    {
       "name": "Mecha",
       "slug": "mecha"
     },
@@ -25,6 +21,10 @@
     {
       "name": "Comedy",
       "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
     }
   ],
   "countries": [],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Hài Hước",
@@ -79,6 +79,22 @@
       "m3u8Url": "https://vip.opstream10.com/20260618/33932_c53e0964/index.m3u8"
     },
     {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/f8decd07ac3bcdb30bc816319f3287de",
+      "m3u8Url": "https://vip.opstream10.com/20260625/33948_f8decd07/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/36b4d177a19e927d87aee12201d43153",
+      "m3u8Url": "https://vip.opstream10.com/20260626/33949_36b4d177/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -125,19 +141,27 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/0DiO2QQw/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260618/0DiO2QQw/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/kLZ1PSiN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/kLZ1PSiN/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "bac-si-dao-hoang",
-      "episodeCount": 6,
+      "episodeCount": 8,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "bac-si-dao-hoang",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

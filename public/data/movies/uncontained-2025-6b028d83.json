@@ -1,0 +1,51 @@
+{
+  "id": "uncontained-2025-6b028d83",
+  "source": "phimapi",
+  "slug": "vung-dich-khong-loi-thoat-mat-kiem-soat",
+  "name": "Vùng Dịch Không Lối Thoát (Mất Kiểm Soát)",
+  "originName": "Uncontained",
+  "posterUrl": "https://phimimg.com/upload/vod/20260624-1/38bd315373df223c237c7057daeacaff.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260624-1/91c77f5e50498490335d2bf3f0d850d4.jpg",
+  "year": 2025,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Giữa những khu rừng mùa đông ở Bắc Mỹ, một kẻ lang bạt bí ẩn chật vật bảo vệ một cậu bé bị bỏ rơi và em gái nhỏ của cậu khỏi một loại dịch bệnh biến con người thành những sinh vật hoang dại.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/I4XRKypk/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/I4XRKypk/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "vung-dich-khong-loi-thoat-mat-kiem-soat",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

@@ -1,0 +1,59 @@
+{
+  "id": "007-spectre-2015-353a6cd1",
+  "source": "ophim",
+  "slug": "diep-vien-007-bong-ma",
+  "name": "Điệp Viên 007: Bóng Ma",
+  "originName": "007: SPECTRE",
+  "posterUrl": "https://img.ophim.live/uploads/movies/diep-vien-007-bong-ma-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/diep-vien-007-bong-ma-thumb.jpg",
+  "year": 2015,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>'Spectre' đưa người xem vào chuyến phiêu lưu của mới nhất của chàng điệp viên James Bond, với những bí mật được che giấu từ 'Skyfall' và những nhân vật mới đầy bí ẩn. Sau MI6 không thay đổi được chỉ huy Bond nhận được một thông điệp bí ẩn về sự tồn tại của Spectre tên của tổ chức ngân hàng nhóm xã hội đen, bí ẩn trên hành tinh này. Và một lần nữa, Bond đã bị ép buộc tham gia vào nguy hiểm để tìm ra và cuộc điều tra các hoạt động trong tổ chức kì bí...</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/67967c07b2e94e8b169717ade98b5b2b",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35522_67967c07/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "diep-vien-007-bong-ma",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

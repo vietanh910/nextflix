@@ -9,7 +9,14 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "Based two classic \"Toei Manga Matsuri\" films, Great Mazinger tai Getter Robo (Great Mazinger Vs. Getter Robo) and Great Mazinger tai Getter Robo G - Kuuchuu Dai-Gekitotsu (Great Mazinger Vs. Getter Robo G - The Great Space Encounter).",
   "episodes": [],
   "sources": [
     {

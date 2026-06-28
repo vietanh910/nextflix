@@ -223,8 +223,8 @@
       "slug": "tap-24",
       "serverName": "#Hà Nội (Vietsub)",
       "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/VNfcGfpq/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260617/VNfcGfpq/index.m3u8"
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/zz9KAygB/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/zz9KAygB/index.m3u8"
     },
     {
       "name": "Tập 01",
@@ -601,13 +601,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/5f0f52c0bdb94435e26c6b504e7513ea",
       "m3u8Url": "https://vip.opstream90.com/20260620/35303_5f0f52c0/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/852ff0553e01f89cfcf4efc730e6ba0d",
+      "m3u8Url": "https://vip.opstream90.com/20260621/35379_852ff055/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "kieu-so",
-      "episodeCount": 23,
+      "episodeCount": 24,
       "priority": 0
     },
     {

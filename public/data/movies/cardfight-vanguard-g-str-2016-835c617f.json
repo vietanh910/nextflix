@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "Team TRY3: Chrono, Shion, and Tokoha, managed to win the championship of Generation Quest. In the mean time, however, Ryuzu Myōjin has a secret plan: summoning Zodiac Time Beasts of Gear Chronicle clan to Earth. Chrono and Kouji want to stop Ryuzu, but they are confronted by a mysterious group of cardfighters known as \"Company\" who share Ryuzu's ideology.<br><br>(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

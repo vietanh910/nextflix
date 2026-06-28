@@ -9,7 +9,30 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "countries": [],
+  "description": "The show takes place in Ogikubo, which is the name of the specially designated area in space in the Milky Way where Earthlings and aliens can live together. Luluco is a female middle school student who lives with her father, and no matter where she is, Luluco is a common, \"super normal\" girl. As she is living her normal life, one day the mysterious transfer student ΑΩ Nova abruptly appears before her. That meeting will change Luluco's fate.<br>\n<br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

@@ -5,169 +5,33 @@
   "totalPages": 5,
   "items": [
     {
-      "id": "love-o2o-2016-aea04552",
+      "id": "danganronpa-season-2-2016-4f7bf713",
       "source": "phimapi",
-      "slug": "yeu-em-tu-cai-nhin-dau-tien-2016",
-      "name": "Yêu Em Từ Cái Nhìn Đầu Tiên",
-      "originName": "Love O2O",
-      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/79818be642a47693926f2b33e9084cf7.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/b7e6198f60a3d69b19bcf7f6d20feb7d.jpg",
+      "slug": "hoc-vien-hi-vong-va-hoc-sinh-tuyet-vong-phan-2",
+      "name": "Học Viện Hi Vọng và Học Sinh Tuyệt Vọng (Phần 2)",
+      "originName": "Danganronpa (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/607ea73567fa311166a4fea77c6820c3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/edca2c7bf3a9839d2d0d827f8e986bd3.jpg",
       "year": 2016,
-      "type": "series",
+      "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (30/30)",
+      "episodeCurrent": "Hoàn Tất (24/24)",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        },
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "best-get-going-2015-55d4dc2c",
-      "source": "phimapi",
-      "slug": "co-len-thuc-tap-sinh",
-      "name": "Cố lên Thực Tập Sinh",
-      "originName": "Best Get Going",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/929e774e706e90c8f5cbb8334fbffd14.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/5e0dbd0b4f0c410b040a65f45bf46678.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (35/35)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "against-the-tide-2014-3c06a711",
-      "source": "phimapi",
-      "slug": "danh-mat-luong-tri",
-      "name": "Đánh Mất Lương Tri",
-      "originName": "Against The Tide",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/40edcedab429ba921a7d943d3d7d880d.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/721b508bb03606b09c7c1ca9ad614ec5.jpg",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Singapore",
-          "slug": "singapore"
-        }
-      ]
-    },
-    {
-      "id": "hold-my-hand-2013-d4c168fe",
-      "source": "phimapi",
-      "slug": "hay-nam-tay-anh",
-      "name": "Hãy Nắm Tay Anh",
-      "originName": "Hold My Hand",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/b30c13455dd5d7867d663ebb43d64976.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/7cb48cbcfed5b0b4c75fd8ae51c462c0.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (65/65)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "rich-man-poor-woman-2012-06db3cc7",
-      "source": "phimapi",
-      "slug": "chang-giau-nang-ngheo",
-      "name": "Chàng Giàu, Nàng Nghèo",
-      "originName": "Rich Man, Poor Woman",
-      "posterUrl": "https://phimimg.com/upload/vod/20260611-1/d2928cbd9d8e6d311a3dba432d0eef03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260611-1/62b11f710eaaa00a4df2a73882c16673.jpg",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -182,103 +46,25 @@
       ]
     },
     {
-      "id": "justice-bao-arbiter-of-l-2010-fe2daa7e",
+      "id": "olive-kitteridge-2014-9950b99e",
       "source": "phimapi",
-      "slug": "bao-thanh-thien-bich-huyet-tam-dan",
-      "name": "Bao Thanh Thiên: Bích Huyết Tâm Đan",
-      "originName": "Justice Bao: Arbiter Of Loyalty Unto Death",
-      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/6385ca6cf86d31424d71f6a3bfeeac07.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/0ca5678b6c8f50cb44b32f3f3cd34592.jpg",
-      "year": 2010,
+      "slug": "olive-kitteridge",
+      "name": "Olive Kitteridge",
+      "originName": "Olive Kitteridge",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/894207b627ba2bd438c4139901d30277.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/8204c22a0238324bbb2b9914a4c9837f.jpg",
+      "year": 2014,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
+      "episodeCurrent": "Hoàn Tất (4/4)",
       "categories": [
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
         },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "justice-bao-the-seven-he-2009-b07fedd2",
-      "source": "phimapi",
-      "slug": "bao-thanh-thien-that-hiep-ngu-nghia",
-      "name": "Bao Thanh Thiên: Thất Hiệp Ngũ Nghĩa",
-      "originName": "Justice Bao: The Seven Heroes And Five Gallants",
-      "posterUrl": "https://phimimg.com/upload/vod/20260612-1/79942cb29045b8c29a891eeacb81584f.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260612-1/814f8c000f1baf3611d66caa646f73d6.jpg",
-      "year": 2009,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (40/40)",
-      "categories": [
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Cổ Trang",
-          "slug": "co-trang"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-big-bang-theory-seas-2008-2fc545e5",
-      "source": "phimapi",
-      "slug": "vu-no-lon-phan-2",
-      "name": "Vụ Nổ Lớn (Phần 2)",
-      "originName": "The Big Bang Theory (Season 2)",
-      "posterUrl": "https://phimimg.com/upload/vod/20231219-1/6394b26efa8160867196567317881607.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20231219-1/656663b16c410dd04c9d0cf0b6f66633.jpg",
-      "year": 2008,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (23/23)",
-      "categories": [
         {
           "name": "Tình Cảm",
           "slug": "tinh-cam"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
         },
         {
           "name": "Tâm Lý",
@@ -293,6 +79,92 @@
       ]
     },
     {
+      "id": "danganronpa-season-1-2013-0af9d274",
+      "source": "phimapi",
+      "slug": "hoc-vien-hi-vong-va-hoc-sinh-tuyet-vong-phan-1",
+      "name": "Học Viện Hi Vọng và Học Sinh Tuyệt Vọng (Phần 1)",
+      "originName": "Danganronpa (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/0f56c63e78c89f3d403e7b78e7b81f1b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/dc8f5edb24af318e23c82001cecbe3dd.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "rome-season-2-2007-ac2fad41",
+      "source": "phimapi",
+      "slug": "mau-lua-thanh-rome-phan-2",
+      "name": "Máu Lửa Thành Rome (Phần 2)",
+      "originName": "Rome (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/14de7615168853b8a8166e41551fae28.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/91e46d6f77105ca9a7e1ce0dab8d3639.jpg",
+      "year": 2007,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
       "id": "detective-conan-2005-98e12589",
       "source": "ophim",
       "slug": "tham-tu-lung-danh-conan",
@@ -303,7 +175,7 @@
       "year": 2005,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1201",
+      "episodeCurrent": "Tập 1203",
       "categories": [
         {
           "name": "Hành Động",
@@ -330,21 +202,25 @@
       ]
     },
     {
-      "id": "friends-season-7-2000-2c5da024",
+      "id": "rome-season-1-2005-4a6406b5",
       "source": "phimapi",
-      "slug": "nhung-nguoi-ban-phan-7",
-      "name": "Những Người Bạn (Phần 7)",
-      "originName": "Friends (Season 7)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240126-1/0ccecdb927fcbe7b456f32d6ce786eba.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240126-1/75bd3ffea8ab2634c39f694b0ce4d90f.jpg",
-      "year": 2000,
+      "slug": "mau-lua-thanh-rome-phan-1",
+      "name": "Máu Lửa Thành Rome (Phần 1)",
+      "originName": "Rome (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/adfd800e602ef9c9050a1661d4404367.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/758b67848bf966356083483c2a43d76d.jpg",
+      "year": 2005,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (24/24)",
+      "episodeCurrent": "Hoàn Tất (12/12)",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Chính Kịch",
@@ -357,45 +233,16 @@
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "ice-cream-man-1995-23101682",
-      "source": "phimapi",
-      "slug": "nguoi-ban-kem",
-      "name": "Người Bán Kem",
-      "originName": "Ice Cream Man",
-      "posterUrl": "https://phimimg.com/upload/vod/20260610-1/d17814fcb40adb9acb566432a668aa03.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260610-1/ad712538346a0403506ca70f517d7b9c.jpg",
-      "year": 1995,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Ý",
+          "slug": "y"
         },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     }

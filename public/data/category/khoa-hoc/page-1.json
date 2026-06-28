@@ -56,7 +56,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 10",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -85,7 +85,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -400,35 +400,43 @@
       ]
     },
     {
-      "id": "the-classroom-of-a-black-2026-e204e89d",
+      "id": "house-of-the-dragon-seas-2026-cdfb13d3",
       "source": "ophim",
-      "slug": "hac-mieu-va-lop-hoc-phu-thuy",
-      "name": "Hắc Miêu Và Lớp Học Phù Thủy",
-      "originName": "The Classroom of a Black Cat and a Witch",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hac-mieu-va-lop-hoc-phu-thuy-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hac-mieu-va-lop-hoc-phu-thuy-thumb.jpg",
+      "slug": "gia-toc-rong-phan-3",
+      "name": "Gia Tộc Rồng (Phần 3)",
+      "originName": "House of the Dragon (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/gia-toc-rong-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-toc-rong-phan-3-thumb.jpg",
       "year": 2026,
-      "type": "anime",
+      "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 1",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
           "name": "Khoa Học",
           "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -540,17 +548,17 @@
       ]
     },
     {
-      "id": "my-royal-nemesis-2026-6f078c9f",
+      "id": "the-legend-of-kitchen-so-2026-f6b1f175",
       "source": "ophim",
-      "slug": "ke-thu-hoang-gia-cua-toi",
-      "name": "Kẻ Thù Hoàng Gia Của Tôi",
-      "originName": "My Royal Nemesis",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ke-thu-hoang-gia-cua-toi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ke-thu-hoang-gia-cua-toi-thumb.jpg",
+      "slug": "huyen-thoai-linh-bep",
+      "name": "Huyền Thoại Lính Bếp",
+      "originName": "The Legend of Kitchen Soldier",
+      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-linh-bep-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-thoai-linh-bep-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (14/14)",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -610,6 +618,47 @@
       ]
     },
     {
+      "id": "that-time-i-got-reincarn-2026-cd773733",
+      "source": "ophim",
+      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+      "originName": "That Time I Got Reincarnated as a Slime (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "always-meet-again-2026-9be5c5bc",
       "source": "ophim",
       "slug": "luc-nao-ta-cung-se-gap-lai",
@@ -643,17 +692,17 @@
       ]
     },
     {
-      "id": "the-vampire-lestat-2026-69df5a94",
+      "id": "the-vampire-lestat-inter-2026-cb134e5f",
       "source": "ophim",
       "slug": "ma-ca-rong-lestat-de-lioncourt",
       "name": "Ma Cà Rồng: Lestat de Lioncourt",
-      "originName": "The Vampire Lestat",
+      "originName": "The Vampire Lestat (Interview with the Vampire Season 3)",
       "posterUrl": "https://img.ophim.live/uploads/movies/ma-ca-rong-lestat-de-lioncourt-poster.jpg",
       "thumbUrl": "https://img.ophim.live/uploads/movies/ma-ca-rong-lestat-de-lioncourt-thumb.jpg",
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -760,7 +809,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -779,43 +828,6 @@
         {
           "name": "Đài Loan",
           "slug": "dai-loan"
-        }
-      ]
-    },
-    {
-      "id": "outlander-season-8-2026-f346aa79",
-      "source": "ophim",
-      "slug": "nguoi-ngoai-toc-phan-8",
-      "name": "Người Ngoại Tộc (Phần 8)",
-      "originName": "Outlander (Season 8)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-ngoai-toc-phan-8-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-ngoai-toc-phan-8-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
         }
       ]
     },

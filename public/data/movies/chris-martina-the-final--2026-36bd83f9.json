@@ -1,0 +1,47 @@
+{
+  "id": "chris-martina-the-final--2026-36bd83f9",
+  "source": "phimapi",
+  "slug": "chris-va-martina-set-dau-cuoi-cung",
+  "name": "Chris Và Martina: Set Đấu Cuối Cùng",
+  "originName": "Chris & Martina: The Final Set",
+  "posterUrl": "https://phimimg.com/upload/vod/20260627-1/f9aa87eeec9d73b8fcbd780c92b49e93.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260627-1/1275e94e7f271091a8a91e4c36ad1fd7.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Hai huyền thoại quần vợt Chris Evert và Martina Navratilova cùng nhìn lại những hành trình song hành của họ để vươn tới đỉnh cao vinh quang thể thao, đồng thời đào sâu vào mối quan hệ vừa là kình địch vừa là tri kỷ giữa hai người, đặc biệt là cách họ tiếp tục đồng hành và nâng đỡ nhau vượt qua giai đoạn cùng điều trị căn bệnh ung thư.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/GBn1tSDl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/GBn1tSDl/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "chris-va-martina-set-dau-cuoi-cung",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

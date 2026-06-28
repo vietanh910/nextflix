@@ -9,7 +9,34 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "The story is set in the human realm (Tokyo's Shibuya ward) and the bakemono realm (\"Shibutenmachi\"). In these two worlds which must not intersect, there lives a lonely boy and a lonely bakemono. One day, the boy gets lost in the bakemono world, becomes the disciple of the bakemono Kumatetsu, and is renamed Kyuuta.<br>\n<br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

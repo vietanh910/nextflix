@@ -1,0 +1,97 @@
+{
+  "id": "slay-the-gods-season-2-2026-103e9653",
+  "source": "ophim",
+  "slug": "tram-than-pham-tran-than-vuc-phan-2",
+  "name": "Trảm Thần: Phàm Trần Thần Vực (Phần 2)",
+  "originName": "Slay the Gods (Season 2)",
+  "posterUrl": "https://img.ophim.live/uploads/movies/tram-than-pham-tran-than-vuc-phan-2-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/tram-than-pham-tran-than-vuc-phan-2-thumb.jpg",
+  "year": 2026,
+  "type": "anime",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Trung Quốc",
+      "slug": "trung-quoc"
+    }
+  ],
+  "description": "<p>\"Như ảm đêm cuối cùng lâm, ta tất đứng ở vạn vạn người trước, hoành đao hướng uyên, máu nhuộm thiên khung!\" Ngươi là có hay không nghĩ tới, tại nghê hồng óng ánh đô thị phía dưới, ẩn giấu đến từ xưa lão thần lời nói quái vật? Ngươi là có hay không nghĩ tới, tại kia treo cao tại thế đầu người đỉnh trên mặt trăng, đứng lặng lấy canh gác nhân gian thần minh? Ngươi là có hay không nghĩ tới, tại biển người mãnh liệt hiện đại trong thành thị, tồn tại thay thế thần minh hành tẩu nhân gian siêu phàm người?</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e52da5a31de788599378924f0e639557",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35737_e52da5a3/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fd97bb50e4b07a520a0f4844554bdd4a",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35738_fd97bb50/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/2a081587c87c2f361a44876167336224",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35739_2a081587/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/391tkh5m/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/391tkh5m/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/C2mZ8bsV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/C2mZ8bsV/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/XNRXcuDp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/XNRXcuDp/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tram-than-pham-tran-than-vuc-phan-2",
+      "episodeCount": 3,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tram-than-pham-tran-than-vuc-phan-2",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

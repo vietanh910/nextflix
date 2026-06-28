@@ -5,21 +5,107 @@
   "totalPages": 6,
   "items": [
     {
-      "id": "magi-season-2-the-kingdo-2013-2e59c719",
+      "id": "a-record-of-a-mortal-s-j-2020-5011a3b3",
       "source": "phimapi",
-      "slug": "vuong-quoc-ma-thuat-phan-2",
-      "name": "Vương Quốc Ma Thuật (Phần 2)",
-      "originName": "Magi (Season 2) (The Kingdom Of Magic)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260111-1/227f938f194029f46c03654af6c6aa92.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/5b3698cbbc2f4d0772de95b6c8b08c50.jpg",
-      "year": 2013,
+      "slug": "pham-nhan-tu-tien",
+      "name": "Phàm Nhân Tu Tiên",
+      "originName": "A Record of a Mortal's Journey to Immortality",
+      "posterUrl": "https://phimimg.com/upload/vod/20240715-1/ed827a6e5d8f7c41aa0728403665cd87.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240715-1/fe09a10062768cca301682eba6c8245b.jpg",
+      "year": 2020,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
+      "episodeCurrent": "Tập 180",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Thần Thoại",
+          "slug": "than-thoai"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-the-defenders-2017-f39fcd11",
+      "source": "phimapi",
+      "slug": "ho-ve-sieu-anh-hung-nhung-nguoi-bao-ve",
+      "name": "Hộ Vệ Siêu Anh Hùng (Những Người Bảo Vệ)",
+      "originName": "Marvel's The Defenders",
+      "posterUrl": "https://phimimg.com/upload/vod/20260624-1/e328eed8220a16e02d6057128de7e55c.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260624-1/4a65941bf8a1168ebd96b57cc0e59ca5.jpg",
+      "year": 2017,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "re-zero-starting-life-in-2016-c5e25030",
+      "source": "ophim",
+      "slug": "rezero-bat-dau-o-the-gioi-khac-phan-4",
+      "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác (Phần 4)",
+      "originName": "Re:ZERO -Starting Life in Another World- Season 4",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rezero-−-bat-dau-o-the-gioi-khac-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rezero-−-bat-dau-o-the-gioi-khac-phan-4-thumb.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
         },
         {
           "name": "Phiêu Lưu",
@@ -30,8 +116,45 @@
           "slug": "khoa-hoc"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "danganronpa-season-2-2016-4f7bf713",
+      "source": "phimapi",
+      "slug": "hoc-vien-hi-vong-va-hoc-sinh-tuyet-vong-phan-2",
+      "name": "Học Viện Hi Vọng và Học Sinh Tuyệt Vọng (Phần 2)",
+      "originName": "Danganronpa (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/607ea73567fa311166a4fea77c6820c3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/edca2c7bf3a9839d2d0d827f8e986bd3.jpg",
+      "year": 2016,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (24/24)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
         },
         {
           "name": "Tâm Lý",
@@ -46,33 +169,58 @@
       ]
     },
     {
-      "id": "falling-skies-season-2-2012-fdd699fb",
+      "id": "007-spectre-2015-353a6cd1",
       "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-2",
-      "name": "Bầu Trời Sụp Đổ (Phần 2)",
-      "originName": "Falling Skies (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-2-thumb.jpg",
-      "year": 2012,
-      "type": "series",
+      "slug": "diep-vien-007-bong-ma",
+      "name": "Điệp Viên 007: Bóng Ma",
+      "originName": "007: SPECTRE",
+      "posterUrl": "https://img.ophim.live/uploads/movies/diep-vien-007-bong-ma-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/diep-vien-007-bong-ma-thumb.jpg",
+      "year": 2015,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         },
         {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "empire-state-2013-a29a49fa",
+      "source": "ophim",
+      "slug": "empire-state",
+      "name": "Empire State",
+      "originName": "Empire State",
+      "posterUrl": "https://img.ophim.live/uploads/movies/empire-state-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/empire-state-thumb.jpg",
+      "year": 2013,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
           "name": "Chính kịch",
@@ -85,8 +233,49 @@
           "slug": "au-my"
         },
         {
-          "name": "Canada",
-          "slug": "canada"
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "danganronpa-season-1-2013-0af9d274",
+      "source": "phimapi",
+      "slug": "hoc-vien-hi-vong-va-hoc-sinh-tuyet-vong-phan-1",
+      "name": "Học Viện Hi Vọng và Học Sinh Tuyệt Vọng (Phần 1)",
+      "originName": "Danganronpa (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/0f56c63e78c89f3d403e7b78e7b81f1b.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/dc8f5edb24af318e23c82001cecbe3dd.jpg",
+      "year": 2013,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (13/13)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí Ẩn",
+          "slug": "bi-an"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -120,78 +309,25 @@
       ]
     },
     {
-      "id": "magi-season-1-the-labyri-2012-364fe780",
-      "source": "phimapi",
-      "slug": "vuong-quoc-ma-thuat-phan-1",
-      "name": "Vương Quốc Ma Thuật (Phần 1)",
-      "originName": "Magi (Season 1) (The Labyrinth Of Magic)",
-      "posterUrl": "https://phimimg.com/upload/vod/20260111-1/d526855ddade086247a0f26fb2fc9557.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260111-1/a71642f227da46c19ff1d4fd77f25a5a.jpg",
-      "year": 2012,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (25/25)",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "falling-skies-season-1-2011-3028d493",
+      "id": "skyfall-2012-6f71d025",
       "source": "ophim",
-      "slug": "bau-troi-sup-do-phan-1",
-      "name": "Bầu Trời Sụp Đổ (Phần 1)",
-      "originName": "Falling Skies (Season 1)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bau-troi-sup-do-phan-1-thumb.jpg",
-      "year": 2011,
-      "type": "series",
+      "slug": "skyfall",
+      "name": "Điệp Viên 007: Tử Địa Skyfall",
+      "originName": "Skyfall",
+      "posterUrl": "https://img.ophim.live/uploads/movies/skyfall-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/skyfall-thumb.jpg",
+      "year": 2012,
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
+      "episodeCurrent": "Full",
       "categories": [
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
         },
         {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
         }
       ],
       "countries": [
@@ -200,23 +336,60 @@
           "slug": "au-my"
         },
         {
-          "name": "Canada",
-          "slug": "canada"
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Thổ Nhĩ Kỳ",
+          "slug": "tho-nhi-ky"
         }
       ]
     },
     {
-      "id": "the-contractor-2007-99e33475",
-      "source": "phimapi",
-      "slug": "hop-dong-doat-mang",
-      "name": "Hợp đồng đoạt mạng",
-      "originName": "The Contractor",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/4b3bb1dfc9ee38c2d773ba540a476038.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/075712b0c464cddd5011d3dbc96469e6.jpg",
-      "year": 2007,
+      "id": "quantum-of-solace-2008-2ad198fa",
+      "source": "ophim",
+      "slug": "dinh-muc-khuay-khoa",
+      "name": "Định Mức Khuây Khỏa",
+      "originName": "Quantum of Solace",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dinh-muc-khuay-khoa-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dinh-muc-khuay-khoa-thumb.jpg",
+      "year": 2008,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "rome-season-2-2007-ac2fad41",
+      "source": "phimapi",
+      "slug": "mau-lua-thanh-rome-phan-2",
+      "name": "Máu Lửa Thành Rome (Phần 2)",
+      "originName": "Rome (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/14de7615168853b8a8166e41551fae28.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/91e46d6f77105ca9a7e1ce0dab8d3639.jpg",
+      "year": 2007,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
       "categories": [
         {
           "name": "Hành Động",
@@ -237,12 +410,53 @@
       ],
       "countries": [
         {
-          "name": "Anh",
-          "slug": "anh"
+          "name": "Ý",
+          "slug": "y"
         },
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "casino-royale-2006-db36bd24",
+      "source": "ophim",
+      "slug": "song-bac-hoang-gia",
+      "name": "Sòng Bạc Hoàng Gia",
+      "originName": "Casino Royale",
+      "posterUrl": "https://img.ophim.live/uploads/movies/song-bac-hoang-gia-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/song-bac-hoang-gia-thumb.jpg",
+      "year": 2006,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "name": "Đức",
+          "slug": "duc"
         }
       ]
     },
@@ -284,6 +498,51 @@
       ]
     },
     {
+      "id": "rome-season-1-2005-4a6406b5",
+      "source": "phimapi",
+      "slug": "mau-lua-thanh-rome-phan-1",
+      "name": "Máu Lửa Thành Rome (Phần 1)",
+      "originName": "Rome (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/adfd800e602ef9c9050a1661d4404367.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/758b67848bf966356083483c2a43d76d.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (12/12)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ý",
+          "slug": "y"
+        },
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
+        }
+      ]
+    },
+    {
       "id": "one-piece-luffy-1999-ea35662f",
       "source": "ophim",
       "slug": "one-piece",
@@ -294,7 +553,7 @@
       "year": 1999,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 1166",
+      "episodeCurrent": "Tập 1167",
       "categories": [
         {
           "name": "Hành Động",
@@ -317,25 +576,25 @@
       ]
     },
     {
-      "id": "mr-nice-guy-1997-6ac8d8c4",
+      "id": "one-piece-1999-09306878",
       "source": "phimapi",
-      "slug": "chang-trai-tot-bung",
-      "name": "Chàng Trai Tốt Bụng",
-      "originName": "Mr. Nice Guy",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/c459b8d66cf20811c99d201b1bb6b14e.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/e5059ad62c0b14af24a8c8587e44392d.jpg",
-      "year": 1997,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
+      "slug": "dao-hai-tac",
+      "name": "Đảo Hải Tặc",
+      "originName": "One Piece",
+      "posterUrl": "https://phimimg.com/upload/vod/20240310-1/31e6c244a0673838a46732d3b4f0b190.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240310-1/d61250d0c1670917fd783a1b48cbb29c.jpg",
+      "year": 1999,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1167",
       "categories": [
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
         {
           "name": "Hành Động",
           "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Hài Hước",
@@ -344,12 +603,8 @@
       ],
       "countries": [
         {
-          "name": "Hồng Kông",
-          "slug": "hong-kong"
-        },
-        {
-          "name": "Úc",
-          "slug": "uc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -375,6 +630,43 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "swallowed-star-1976-5313b0e2",
+      "source": "phimapi",
+      "slug": "thon-phe-tinh-khong",
+      "name": "Thôn Phệ Tinh Không",
+      "originName": "Swallowed Star",
+      "posterUrl": "https://phimimg.com/upload/vod/20240821-1/a651652396e9f53c09cd88d28700d5c4.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20240821-1/22c49ba9590b0e5f3d126696c0bfbecf.jpg",
+      "year": 1976,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 229",
+      "categories": [
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     }

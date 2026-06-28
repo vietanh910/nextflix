@@ -5,6 +5,201 @@
   "totalPages": 14,
   "items": [
     {
+      "id": "missing-2026-6643e9e9",
+      "source": "ophim",
+      "slug": "mat-trai-cua-mat-tich-ban-thai",
+      "name": "Mặt Trái Của Mất Tích (Bản Thái)",
+      "originName": "Missing",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mat-trai-cua-mat-tich-ban-thai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mat-trai-cua-mat-tich-ban-thai-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
+      "id": "mesdames-thanh-sac-2026-a9bb270f",
+      "source": "ophim",
+      "slug": "mesdames-thanh-sac",
+      "name": "Mesdames Thanh Sắc",
+      "originName": "Mesdames Thanh Sắc",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mesdames-thanh-sac-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mesdames-thanh-sac-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Việt Nam",
+          "slug": "viet-nam"
+        }
+      ]
+    },
+    {
+      "id": "michael-2026-c36b2da5",
+      "source": "ophim",
+      "slug": "michael",
+      "name": "Michael",
+      "originName": "Michael",
+      "posterUrl": "https://img.ophim.live/uploads/movies/michael-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/michael-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "sweet-magnolias-season-5-2026-f5f1f470",
+      "source": "ophim",
+      "slug": "moc-lan-ngot-ngao-phan-5",
+      "name": "Mộc lan ngọt ngào (Phần 5)",
+      "originName": "Sweet Magnolias (Season 5)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/moc-lan-ngot-ngao-phan-5-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/moc-lan-ngot-ngao-phan-5-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (10/10)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "mulan-light-a-fire-2026-d2abf5ae",
+      "source": "ophim",
+      "slug": "moc-lan-huyet-nhan",
+      "name": "Mộc Lan: Huyết Nhẫn",
+      "originName": "Mulan: Light A fire",
+      "posterUrl": "https://img.ophim.live/uploads/movies/moc-lan-huyet-nhan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/moc-lan-huyet-nhan-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-found-family-2026-1b7a843b",
+      "source": "ophim",
+      "slug": "moi-gioi-dai-cat",
+      "name": "Môi Giới Đại Cát",
+      "originName": "The Found Family",
+      "posterUrl": "https://img.ophim.live/uploads/movies/moi-gioi-dai-cat-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/moi-gioi-dai-cat-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 6",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-gift-2026-808d190d",
+      "source": "ophim",
+      "slug": "mon-qua-cua-kluay",
+      "name": "Món Quà Của Kluay",
+      "originName": "The Gift",
+      "posterUrl": "https://img.ophim.live/uploads/movies/mon-qua-cua-kluay-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/mon-qua-cua-kluay-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (34/34)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
       "id": "mother-mary-2026-5ff218d6",
       "source": "ophim",
       "slug": "mother-mary-hao-quang-don-doc",
@@ -34,56 +229,6 @@
         {
           "name": "Phần Lan",
           "slug": "phan-lan"
-        }
-      ]
-    },
-    {
-      "id": "changzhou-never-quits-2026-faa6efda",
-      "source": "ophim",
-      "slug": "mua-he-cua-thuong-bao",
-      "name": "Mùa Hè Của Thường Bảo",
-      "originName": "Changzhou Never Quits",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mua-he-cua-thuong-bao-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mua-he-cua-thuong-bao-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "never-ending-summer-2026-b0a07043",
-      "source": "ophim",
-      "slug": "mua-he-nong-nhiet",
-      "name": "Mùa Hè Nồng Nhiệt",
-      "originName": "Never-Ending Summer",
-      "posterUrl": "https://img.ophim.live/uploads/movies/mua-he-nong-nhiet-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/mua-he-nong-nhiet-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     },
@@ -123,7 +268,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 17",
+      "episodeCurrent": "Tập 23",
       "categories": [
         {
           "name": "Chính kịch",
@@ -148,7 +293,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -192,68 +337,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "outlander-season-8-2026-f346aa79",
-      "source": "ophim",
-      "slug": "nguoi-ngoai-toc-phan-8",
-      "name": "Người Ngoại Tộc (Phần 8)",
-      "originName": "Outlander (Season 8)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-ngoai-toc-phan-8-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-ngoai-toc-phan-8-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (10/10)",
-      "categories": [
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        },
-        {
-          "name": "Anh",
-          "slug": "anh"
-        }
-      ]
-    },
-    {
-      "id": "the-loved-one-2026-44fde657",
-      "source": "ophim",
-      "slug": "nguoi-than-yeu",
-      "name": "Người thân yêu",
-      "originName": "The Loved One",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nguoi-than-yeu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nguoi-than-yeu-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Philippines",
-          "slug": "philippines"
         }
       ]
     },
@@ -428,31 +511,6 @@
       ]
     },
     {
-      "id": "the-first-sight-of-nanya-2026-8e8a0227",
-      "source": "ophim",
-      "slug": "nhat-kien-nam-kieu",
-      "name": "Nhất Kiến Nam Kiều",
-      "originName": "The First Sight of Nanyang Overseas Chinese",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nhat-kien-nam-kieu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nhat-kien-nam-kieu-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (25/25)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
       "id": "journal-with-witch-2026-f996c77b",
       "source": "ophim",
       "slug": "nhat-ky-noi-xu-la",
@@ -488,7 +546,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 20",
       "categories": [
         {
           "name": "Hành Động",
@@ -521,7 +579,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Chính kịch",
@@ -565,6 +623,35 @@
       ]
     },
     {
+      "id": "notes-from-the-last-row-2026-08bc4e68",
+      "source": "ophim",
+      "slug": "nhung-ghi-chu-o-hang-cuoi",
+      "name": "Những ghi chú ở hàng cuối",
+      "originName": "Notes from the Last Row",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nhung-ghi-chu-o-hang-cuoi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nhung-ghi-chu-o-hang-cuoi-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (6/6)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
       "id": "our-happy-days-2026-90db6740",
       "source": "ophim",
       "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
@@ -590,81 +677,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "she-fought-2026-79556b8c",
-      "source": "ophim",
-      "slug": "nu-chien",
-      "name": "Nữ Chiến",
-      "originName": "She Fought",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nu-chien-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-chien-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-lady-painter-2026-7e0593df",
-      "source": "ophim",
-      "slug": "nu-hoa-su",
-      "name": "Nữ Họa Sư",
-      "originName": "The Lady Painter",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nu-hoa-su-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-hoa-su-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (16/16)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "my-destiny-2026-275615e6",
-      "source": "ophim",
-      "slug": "nui-va-bien-cua-toi",
-      "name": "Núi Và Biển Của Tôi",
-      "originName": "My Destiny",
-      "posterUrl": "https://img.ophim.live/uploads/movies/nui-va-bien-cua-toi-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/nui-va-bien-cua-toi-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (30/30)",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
         }
       ]
     }

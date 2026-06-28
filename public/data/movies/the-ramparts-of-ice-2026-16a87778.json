@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/buc-tuong-bang-thumb.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "completed",
-  "episodeCurrent": "Hoàn tất (12/12)",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 13",
   "categories": [
     {
       "name": "Hài Hước",
@@ -127,114 +127,20 @@
       "m3u8Url": "https://vip.opstream90.com/20260619/35209_0fc857ff/index.m3u8"
     },
     {
-      "name": "Tập 01",
-      "slug": "tap-01",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260404/fCLAMeGK/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260404/fCLAMeGK/index.m3u8"
-    },
-    {
-      "name": "Tập 02",
-      "slug": "tap-02",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260410/hHSnLIQ0/index.m3u8",
-      "m3u8Url": "https://s6.kkphimplayer6.com/20260410/hHSnLIQ0/index.m3u8"
-    },
-    {
-      "name": "Tập 03",
-      "slug": "tap-03",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260418/YX80UvcB/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260418/YX80UvcB/index.m3u8"
-    },
-    {
-      "name": "Tập 04",
-      "slug": "tap-04",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260424/weOKxsdz/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260424/weOKxsdz/index.m3u8"
-    },
-    {
-      "name": "Tập 05",
-      "slug": "tap-05",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260503/OiTSDJ1N/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260503/OiTSDJ1N/index.m3u8"
-    },
-    {
-      "name": "Tập 06",
-      "slug": "tap-06",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260508/B5VGPo6M/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260508/B5VGPo6M/index.m3u8"
-    },
-    {
-      "name": "Tập 07",
-      "slug": "tap-07",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260514/9yO2ucYw/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260514/9yO2ucYw/index.m3u8"
-    },
-    {
-      "name": "Tập 08",
-      "slug": "tap-08",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260524/r3P95RWF/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260524/r3P95RWF/index.m3u8"
-    },
-    {
-      "name": "Tập 09",
-      "slug": "tap-09",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260528/yQkhfqHc/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260528/yQkhfqHc/index.m3u8"
-    },
-    {
-      "name": "Tập 10",
-      "slug": "tap-10",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260605/mde6yIwK/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260605/mde6yIwK/index.m3u8"
-    },
-    {
-      "name": "Tập 11",
-      "slug": "tap-11",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260611/pSyp5kCF/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260611/pSyp5kCF/index.m3u8"
-    },
-    {
-      "name": "Tập 12",
-      "slug": "tap-12",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/KHNzspoC/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/KHNzspoC/index.m3u8"
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dd31058a4e2ad163eb0c08c07dea8dfb",
+      "m3u8Url": "https://vip.opstream90.com/20260626/35626_dd31058a/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "buc-tuong-bang",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "buc-tuong-bang",
-      "episodeCount": 12,
-      "priority": 1
     }
   ],
   "_priority": 0

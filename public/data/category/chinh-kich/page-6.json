@@ -5,6 +5,106 @@
   "totalPages": 14,
   "items": [
     {
+      "id": "she-fought-2026-79556b8c",
+      "source": "ophim",
+      "slug": "nu-chien",
+      "name": "Nữ Chiến",
+      "originName": "She Fought",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nu-chien-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-chien-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-lady-painter-2026-7e0593df",
+      "source": "ophim",
+      "slug": "nu-hoa-su",
+      "name": "Nữ Họa Sư",
+      "originName": "The Lady Painter",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nu-hoa-su-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-hoa-su-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (16/16)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "the-ladies-of-chang-an-2026-e6b30e17",
+      "source": "ophim",
+      "slug": "nu-tu-truong-an",
+      "name": "Nữ Tử Trường An",
+      "originName": "The Ladies of Chang'an",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nu-tu-truong-an-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nu-tu-truong-an-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "my-destiny-2026-275615e6",
+      "source": "ophim",
+      "slug": "nui-va-bien-cua-toi",
+      "name": "Núi Và Biển Của Tôi",
+      "originName": "My Destiny",
+      "posterUrl": "https://img.ophim.live/uploads/movies/nui-va-bien-cua-toi-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/nui-va-bien-cua-toi-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (30/30)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
       "id": "oasis-2026-4c9e29cf",
       "source": "ophim",
       "slug": "oasis-2026",
@@ -48,7 +148,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 3",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hình Sự",
@@ -84,8 +184,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/phi-thang-giua-ban-ngay-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 21",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (23/23)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -96,35 +196,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "perfect-crown-2026-96b5576a",
-      "source": "ophim",
-      "slug": "phu-nhan-dai-quan-the-ky-21",
-      "name": "Phu Nhân Đại Quân Thế Kỷ 21",
-      "originName": "Perfect Crown",
-      "posterUrl": "https://img.ophim.live/uploads/movies/phu-nhan-dai-quan-the-ky-21-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/phu-nhan-dai-quan-the-ky-21-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     },
@@ -168,7 +239,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 2",
+      "episodeCurrent": "Tập 3",
       "categories": [
         {
           "name": "Hình Sự",
@@ -187,35 +258,6 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "privileges-2026-32f5cf8b",
-      "source": "ophim",
-      "slug": "privileges",
-      "name": "Privilèges",
-      "originName": "Privileges",
-      "posterUrl": "https://img.ophim.live/uploads/movies/privileges-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/privileges-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 5",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Pháp",
-          "slug": "phap"
         }
       ]
     },
@@ -241,6 +283,39 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "king-keaw-2026-a8cfc6ec",
+      "source": "ophim",
+      "slug": "quy-du-tu-luyen-nguc",
+      "name": "Quỷ Dữ Từ Luyện Ngục",
+      "originName": "King Keaw",
+      "posterUrl": "https://img.ophim.live/uploads/movies/quy-du-tu-luyen-nguc-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/quy-du-tu-luyen-nguc-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
         }
       ]
     },
@@ -310,6 +385,31 @@
       "type": "series",
       "status": "completed",
       "episodeCurrent": "Hoàn tất (30/30)",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "information-2026-f88c6bd4",
+      "source": "ophim",
+      "slug": "rung-dong-cap-do-he-thong",
+      "name": "Rung Động Cấp Độ Hệ Thống",
+      "originName": "Information",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rung-dong-cap-do-he-thong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rung-dong-cap-do-he-thong-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -411,6 +511,31 @@
       ]
     },
     {
+      "id": "lost-to-light-2026-b02cd77d",
+      "source": "ophim",
+      "slug": "sieu-sao-hay-sieu-xit",
+      "name": "Siêu Sao Hay Siêu Xịt",
+      "originName": "Lost to Light",
+      "posterUrl": "https://img.ophim.live/uploads/movies/sieu-sao-hay-sieu-xit-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/sieu-sao-hay-sieu-xit-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thái Lan",
+          "slug": "thai-lan"
+        }
+      ]
+    },
+    {
       "id": "mountain-deity-2026-e91eb8da",
       "source": "ophim",
       "slug": "son-than",
@@ -470,8 +595,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/su-gia-bon-mua-vu-dieu-mua-xuan-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (14/14)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -504,7 +629,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "episodeCurrent": "Tập 19",
       "categories": [
         {
           "name": "Chính kịch",
@@ -515,31 +640,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-scammer-games-2026-861f38b3",
-      "source": "ophim",
-      "slug": "tam-tay-lua-dao",
-      "name": "Tám Tay Lừa Đảo",
-      "originName": "The Scammer Games",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tam-tay-lua-dao-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tam-tay-lua-dao-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
         }
       ]
     },
@@ -565,118 +665,6 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "tayuan-2-2026-e3bc4332",
-      "source": "ophim",
-      "slug": "tayuan-2",
-      "name": "Tayuan 2",
-      "originName": "Tayuan 2",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tayuan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tayuan-2-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
-        }
-      ]
-    },
-    {
-      "id": "motherhood-of-taihang-2026-5e462824",
-      "source": "ophim",
-      "slug": "thai-hanh-dao",
-      "name": "Thái Hành Dao",
-      "originName": "Motherhood of Taihang",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thai-hanh-dao-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thai-hanh-dao-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 10",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "r-j-decker-2026-6aa80687",
-      "source": "ophim",
-      "slug": "rj-decker",
-      "name": "Thám Tử R.J. Decker",
-      "originName": "R.J. Decker",
-      "posterUrl": "https://img.ophim.live/uploads/movies/rj-decker-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/rj-decker-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "sugar-season-2-2026-cc7d7873",
-      "source": "ophim",
-      "slug": "tham-tu-sugar-phan-2",
-      "name": "Thám Tử Sugar (Phần 2)",
-      "originName": "Sugar (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/tham-tu-sugar-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/tham-tu-sugar-phan-2-thumb.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 1",
-      "categories": [
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     }

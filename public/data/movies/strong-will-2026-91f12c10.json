@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 2",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính kịch",
@@ -43,6 +43,46 @@
       "m3u8Url": "https://vip.opstream90.com/20260620/35275_2db559a9/index.m3u8"
     },
     {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b0c01f1f6d5e54fbd6a1bfff163acb60",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35694_b0c01f1f/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/cc11d15b3f413bf76897f2b8cff222fa",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35695_cc11d15b/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1e60bf71283dac0b8777b83250813e56",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35696_1e60bf71/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/714a591255dd62d5f82b849a12edafa8",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35697_714a5912/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1f7fedf89596a9bad6359ce43c8ad352",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35698_1f7fedf8/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -57,19 +97,59 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/sEHomcC8/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260619/sEHomcC8/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/kszWzUzH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/kszWzUzH/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/iCiOyjAY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260623/iCiOyjAY/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/BfUbvkx0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/BfUbvkx0/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/78mMEiUp/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/78mMEiUp/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/DNTP73bP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/DNTP73bP/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "y-chi-kim-cuong",
-      "episodeCount": 2,
+      "episodeCount": 7,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "y-chi-kim-cuong",
-      "episodeCount": 2,
+      "episodeCount": 7,
       "priority": 1
     }
   ],

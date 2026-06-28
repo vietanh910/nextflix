@@ -2,7 +2,7 @@
   "slug": "vien-tuong",
   "name": "Viễn Tưởng",
   "page": 2,
-  "totalPages": 5,
+  "totalPages": 6,
   "items": [
     {
       "id": "spider-man-brand-new-day-2026-3abbfdf9",
@@ -96,8 +96,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -196,7 +196,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hành Động",
@@ -273,8 +273,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/su-gia-bon-mua-vu-dieu-mua-xuan-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 13",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (14/14)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -410,7 +410,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 8",
+      "episodeCurrent": "Tập 9",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -516,8 +516,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/trai-dat-dong-bang-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (13/13)",
       "categories": [
         {
           "name": "Hành Động",
@@ -581,6 +581,35 @@
         {
           "name": "Anh",
           "slug": "anh"
+        }
+      ]
+    },
+    {
+      "id": "slay-the-gods-season-2-2026-103e9653",
+      "source": "ophim",
+      "slug": "tram-than-pham-tran-than-vuc-phan-2",
+      "name": "Trảm Thần: Phàm Trần Thần Vực (Phần 2)",
+      "originName": "Slay the Gods (Season 2)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tram-than-pham-tran-than-vuc-phan-2-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tram-than-pham-tran-than-vuc-phan-2-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 3",
+      "categories": [
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
         }
       ]
     },
@@ -665,7 +694,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Hài Hước",
@@ -731,7 +760,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 11",
       "categories": [
         {
           "name": "Hành Động",
@@ -768,7 +797,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -808,8 +837,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/xuong-phep-thuat-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (13/13)",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -828,43 +857,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "mui-fei-muifei-the-mediu-2026-fb7862d1",
-      "source": "phimapi",
-      "slug": "ba-dong-muifei-muoi-phi",
-      "name": "Bà Đồng Muifei (Muội Phi)",
-      "originName": "Mui Fei / Muifei The Medium",
-      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 2",
-      "categories": [
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        },
-        {
-          "name": "Kinh Dị",
-          "slug": "kinh-di"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Thái Lan",
-          "slug": "thai-lan"
         }
       ]
     }

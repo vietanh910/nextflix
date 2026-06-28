@@ -33,14 +33,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/c8caec337df345589c23aa47ea6bb43b",
       "m3u8Url": "https://vip.opstream90.com/20260619/35260_c8caec33/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/1uXpOSfJ/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/1uXpOSfJ/index.m3u8"
     }
   ],
   "sources": [
@@ -49,12 +41,6 @@
       "slug": "thu-thoai-cua-isabelle",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "thu-thoai-cua-isabelle-thu-thoai-cho-isabelle",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

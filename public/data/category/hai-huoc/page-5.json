@@ -5,6 +5,43 @@
   "totalPages": 6,
   "items": [
     {
+      "id": "chickenhare-and-the-secr-2025-998b218e",
+      "source": "ophim",
+      "slug": "chickenhare-and-the-secret-of-the-groundhog",
+      "name": "Chickenhare and the Secret of the Groundhog",
+      "originName": "Chickenhare and the Secret of the Groundhog",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chickenhare-and-the-secret-of-the-groundhog-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chickenhare-and-the-secret-of-the-groundhog-thumb.jpg",
+      "year": 2025,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (1/1)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Pháp",
+          "slug": "phap"
+        },
+        {
+          "name": "Bỉ",
+          "slug": "bi"
+        }
+      ]
+    },
+    {
       "id": "fourever-you-season-2-2025-1c684aec",
       "source": "ophim",
       "slug": "fourever-you-phan-2",
@@ -34,47 +71,6 @@
       ]
     },
     {
-      "id": "kamen-rider-zeztz-2025-c0138e3c",
-      "source": "ophim",
-      "slug": "hiep-si-mat-na-zeztz",
-      "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
-      "originName": "Kamen Rider ZEZTZ",
-      "posterUrl": "https://img.ophim.live/uploads/movies/hiep-si-mat-na-zeztz-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/hiep-si-mat-na-zeztz-thumb.jpg",
-      "year": 2025,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 38",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Nhật Bản",
-          "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
       "id": "dr-stone-season-4-2025-701dc79b",
       "source": "ophim",
       "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
@@ -85,7 +81,7 @@
       "year": 2025,
       "type": "anime",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (36/36)",
+      "episodeCurrent": "Hoàn tất (37/37)",
       "categories": [
         {
           "name": "Hành Động",
@@ -126,7 +122,7 @@
       "year": 2025,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 20",
       "categories": [
         {
           "name": "Hài Hước",
@@ -170,25 +166,25 @@
       ]
     },
     {
-      "id": "the-amazing-digital-circ-2025-9d1f0a2d",
+      "id": "kamen-rider-zeztz-2025-c2ebc58d",
       "source": "phimapi",
-      "slug": "rap-xiec-ky-thuat-so-dieu-ky",
-      "name": "Rạp xiếc kỹ thuật số diệu kỳ",
-      "originName": "The Amazing Digital Circus",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/5aac7c57024bace529557fbcd556ef87.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/691aafc31fc039e281883d4a21ccaf72.jpg",
+      "slug": "hiep-si-mat-na-zeztz",
+      "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
+      "originName": "Kamen Rider ZEZTZ",
+      "posterUrl": "https://phimimg.com/upload/vod/20250909-1/f24410500ec5132d041c94af7243ade3.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20250909-1/9687569eb69eb6084238e0c46149fbc0.jpg",
       "year": 2025,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (9/9)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 40",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
         },
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
         },
         {
           "name": "Khoa Học",
@@ -197,12 +193,20 @@
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Úc",
-          "slug": "uc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -232,6 +236,43 @@
       ]
     },
     {
+      "id": "the-amazing-digital-circ-2023-ec1aa098",
+      "source": "ophim",
+      "slug": "rap-xiec-ky-thuat-so-dieu-ky",
+      "name": "Rạp xiếc kỹ thuật số diệu kỳ",
+      "originName": "The Amazing Digital Circus",
+      "posterUrl": "https://img.ophim.live/uploads/movies/rap-xiec-ky-thuat-so-dieu-ky-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/rap-xiec-ky-thuat-so-dieu-ky-thumb.jpg",
+      "year": 2023,
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (9/9)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Úc",
+          "slug": "uc"
+        }
+      ]
+    },
+    {
       "id": "my-senior-brother-is-too-2023-38bed200",
       "source": "phimapi",
       "slug": "su-huynh-a-su-huynh",
@@ -242,7 +283,7 @@
       "year": 2023,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 146",
+      "episodeCurrent": "Tập 147",
       "categories": [
         {
           "name": "Hài Hước",
@@ -365,160 +406,72 @@
       ]
     },
     {
-      "id": "the-middle-season-9-2017-2c6d6c66",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-9",
-      "name": "Gia đình Heck (Phần 9)",
-      "originName": "The Middle (Season 9)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-9-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-9-thumb.jpg",
-      "year": 2017,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-8-2016-fa5c055c",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-8",
-      "name": "Gia đình Heck (Phần 8)",
-      "originName": "The Middle (Season 8)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-8-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-8-thumb.jpg",
-      "year": 2016,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (23/23)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-7-2015-60223bcb",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-7",
-      "name": "Gia đình Heck (Phần 7)",
-      "originName": "The Middle (Season 7)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-7-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-7-thumb.jpg",
-      "year": 2015,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "patchwork-2015-d26d7f21",
+      "id": "her-private-life-2019-ff49364c",
       "source": "phimapi",
-      "slug": "chap-va",
-      "name": "Chắp vá",
-      "originName": "Patchwork",
-      "posterUrl": "https://phimimg.com/upload/vod/20260617-1/0e203e9629517feaf171e2617c8236ba.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260617-1/9873be484ea3511a4d1314dad2bf0562.jpg",
-      "year": 2015,
+      "slug": "bi-mat-nang-fangirl",
+      "name": "Bí Mật Nàng Fangirl",
+      "originName": "Her Private Life",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/c8300af3e9d088c5a8a2b386fd83a28a.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/91bda7d8a80f291603977f92c1106e02.jpg",
+      "year": 2019,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (16/16)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "id": "zombiepura-2018-e9c074a7",
+      "source": "phimapi",
+      "slug": "khu-biet-giam-xac-song",
+      "name": "Khu Biệt Giam Xác Sống",
+      "originName": "Zombiepura",
+      "posterUrl": "https://phimimg.com/upload/vod/20260622-1/57b1ed2da8e68d2e15cc25d959acb589.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260622-1/e136f67c77bc3729cfc83e992e6c8f8b.jpg",
+      "year": 2018,
       "type": "single",
       "status": "completed",
       "episodeCurrent": "Full",
       "categories": [
         {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
           "name": "Kinh Dị",
           "slug": "kinh-di"
         },
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Canada",
-          "slug": "canada"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         },
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-6-2014-576f2213",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-6",
-      "name": "Gia đình Heck (Phần 6)",
-      "originName": "The Middle (Season 6)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-6-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-6-thumb.jpg",
-      "year": 2014,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-5-2013-ff4e4e25",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-5",
-      "name": "Gia đình Heck (Phần 5)",
-      "originName": "The Middle (Season 5)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-5-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-5-thumb.jpg",
-      "year": 2013,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Singapore",
+          "slug": "singapore"
         }
       ]
     },
@@ -552,67 +505,17 @@
       ]
     },
     {
-      "id": "the-middle-season-4-2012-654252aa",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-4",
-      "name": "Gia đình Heck (Phần 4)",
-      "originName": "The Middle (Season 4)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-4-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-4-thumb.jpg",
-      "year": 2012,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "the-middle-season-3-2011-3e60db03",
-      "source": "ophim",
-      "slug": "gia-dinh-heck-phan-3",
-      "name": "Gia đình Heck (Phần 3)",
-      "originName": "The Middle (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-3-thumb.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "high-kick-season-3-2011-919d1bb2",
+      "id": "running-man-2010-ca3391d1",
       "source": "phimapi",
-      "slug": "gia-dinh-la-so-1-phan-3",
-      "name": "Gia Đình Là Số 1 (Phần 3)",
-      "originName": "High Kick (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240829-1/a0cd73eac83d6f6c967485b05a0f84b8.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240829-1/05ea25e9f2011df44e92839c5973be05.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (123/123)",
+      "slug": "thu-thach-than-tuong",
+      "name": "Thử Thách Thần Tượng",
+      "originName": "Running Man",
+      "posterUrl": "https://phimimg.com/upload/vod/20241017-1/8ce53643bb316f8fb8dc3dddd955f2ce.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20241017-1/65a22ab2e96e79bfedf8ae96d955f72a.jpg",
+      "year": 2010,
+      "type": "tvshow",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 808",
       "categories": [
         {
           "name": "Hài Hước",
@@ -621,10 +524,6 @@
         {
           "name": "Chính Kịch",
           "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
         }
       ],
       "countries": [
@@ -635,17 +534,46 @@
       ]
     },
     {
-      "id": "the-middle-season-2-2010-abadcab0",
+      "id": "after-sex-2007-51bd0e9b",
       "source": "ophim",
-      "slug": "gia-dinh-heck-phan-2",
-      "name": "Gia đình Heck (Phần 2)",
-      "originName": "The Middle (Season 2)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-dinh-heck-phan-2-thumb.jpg",
-      "year": 2010,
+      "slug": "du-am-sau-cuoc-yeu",
+      "name": "Dư Âm Sau Cuộc Yêu",
+      "originName": "After Sex",
+      "posterUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/du-am-sau-cuoc-yeu-thumb.jpg",
+      "year": 2007,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2006-965d7cbd",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-9",
+      "name": "The King of Queens (Phần 9)",
+      "originName": "The King of Queens (Season 9)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-9-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-9-thumb.jpg",
+      "year": 2006,
       "type": "series",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (24/24)",
+      "episodeCurrent": "Hoàn tất (13/13)",
       "categories": [
         {
           "name": "Hài Hước",
@@ -660,31 +588,139 @@
       ]
     },
     {
-      "id": "running-man-2010-6c95665c",
+      "id": "detective-conan-2005-98e12589",
       "source": "ophim",
-      "slug": "thu-thach-than-tuong",
-      "name": "Thử Thách Thần Tượng",
-      "originName": "RUNNING MAN",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thu-thach-than-tuong-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thu-thach-than-tuong-thumb.jpg",
-      "year": 2010,
-      "type": "tvshow",
+      "slug": "tham-tu-lung-danh-conan",
+      "name": "Thám Tử Lừng Danh Conan",
+      "originName": "Detective Conan",
+      "posterUrl": "https://img.ophim.live/uploads/movies/tham-tu-lung-danh-conan-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/tham-tu-lung-danh-conan-thumb.jpg",
+      "year": 2005,
+      "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 804",
+      "episodeCurrent": "Tập 1203",
       "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
         {
           "name": "Hài Hước",
           "slug": "hai-huoc"
         },
         {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2005-e45aa195",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-8",
+      "name": "The King of Queens (Phần 8)",
+      "originName": "The King of Queens (Season 8)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-8-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-8-thumb.jpg",
+      "year": 2005,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (23/23)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2004-17de8174",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-7",
+      "name": "The King of Queens (Phần 7)",
+      "originName": "The King of Queens (Season 7)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-7-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-7-thumb.jpg",
+      "year": 2004,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (22/22)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ready-steady-charlie-2003-62e16271",
+      "source": "ophim",
+      "slug": "achtung-fertig-charlie",
+      "name": "Achtung, Fertig, Charlie!",
+      "originName": "Ready, Steady, Charlie!",
+      "posterUrl": "https://img.ophim.live/uploads/movies/achtung-fertig-charlie-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/achtung-fertig-charlie-thumb.jpg",
+      "year": 2003,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Thụy Sĩ",
+          "slug": "thuy-si"
+        }
+      ]
+    },
+    {
+      "id": "the-king-of-queens-seaso-2003-66b58bc3",
+      "source": "ophim",
+      "slug": "the-king-of-queens-phan-6",
+      "name": "The King of Queens (Phần 6)",
+      "originName": "The King of Queens (Season 6)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-6-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/the-king-of-queens-phan-6-thumb.jpg",
+      "year": 2003,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (24/24)",
+      "categories": [
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     }

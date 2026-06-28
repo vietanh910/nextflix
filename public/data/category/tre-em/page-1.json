@@ -5,17 +5,17 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "digimon-beatbreak-2025-d92f228c",
+      "id": "star-detective-precure-2026-99cb3f38",
       "source": "phimapi",
-      "slug": "digimon-beatbreak",
-      "name": "DIGIMON BEATBREAK",
-      "originName": "Digimon Beatbreak",
-      "posterUrl": "https://phimimg.com/upload/vod/20251111-1/0db4abb38dc3193efe0ac7c3d7d4753b.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251111-1/b9d5ee4209289a3e9ba05a7b002f8e0c.jpg",
-      "year": 2025,
+      "slug": "meitantei-precure",
+      "name": "Meitantei Precure!",
+      "originName": "Star Detective Precure!",
+      "posterUrl": "https://phimimg.com/upload/vod/20260607-1/0d46f3ca0500b986fda2df9d94ab9efa.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260607-1/9369fb0b1a0db1c015470c105d065ba0.jpg",
+      "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 35",
+      "episodeCurrent": "Tập 21",
       "categories": [
         {
           "name": "Trẻ Em",
@@ -28,6 +28,10 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
         },
         {
           "name": "Khoa Học",
@@ -46,35 +50,47 @@
       ]
     },
     {
-      "id": "happily-ever-after-fairy-1995-2984d78f",
+      "id": "super-space-sheriff-gava-2026-18655e2c",
       "source": "phimapi",
-      "slug": "song-hanh-phuc-mai-mai-truyen-co-tich-cho-moi-dua-tre",
-      "name": "Sống Hạnh Phúc Mãi Mãi: Truyện Cổ Tích Cho Mọi Đứa Trẻ",
-      "originName": "Happily Ever After: Fairy Tales for Every Child",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/0de2d47e52fc82f6ff59bcd9aaf6f396.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/faa03bfd68f330b0fb77ef8f83c8ae57.jpg",
-      "year": 1995,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (13/13)",
+      "slug": "sieu-canh-sat-vu-tru-gavan-infinity",
+      "name": "Siêu Cảnh Sát Vũ Trụ Gavan Infinity",
+      "originName": "Super Space Sheriff Gavan Infinity",
+      "posterUrl": "https://phimimg.com/upload/vod/20260228-1/880269004d7c97f22c21b9073695eae9.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260228-1/5b3b0a72ea5e8d9f8bc9d0d276bca3b3.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 19",
       "categories": [
         {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
         },
         {
           "name": "Viễn Tưởng",
           "slug": "vien-tuong"
         },
         {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
           "name": "Trẻ Em",
           "slug": "tre-em"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     }

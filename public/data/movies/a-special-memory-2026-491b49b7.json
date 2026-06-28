@@ -1,0 +1,47 @@
+{
+  "id": "a-special-memory-2026-491b49b7",
+  "source": "ophim",
+  "slug": "manh-ky-uc-dac-biet",
+  "name": "Mảnh Ký Ức Đặc Biệt",
+  "originName": "A Special Memory",
+  "posterUrl": "https://img.ophim.live/uploads/movies/manh-ky-uc-dac-biet-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/manh-ky-uc-dac-biet-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Philippines",
+      "slug": "philippines"
+    }
+  ],
+  "description": "<p>Sau khi tìm thấy tình yêu ngoài mong đợi, cặp đôi nọ nhận được chẩn đoán mắc bệnh Alzheimer đầy đau đớn, khiến giấc mơ về tương lai bên nhau đứng trước nguy cơ tan vỡ.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4a875e76606323d2f7573b7a86b656fd",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35744_4a875e76/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "manh-ky-uc-dac-biet",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

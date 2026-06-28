@@ -9,7 +9,18 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "Umaru is a renowned beautiful 16-year-old girl, living with her elder brother Taihei. She's a perfect little sister: Popular, smart, kind-hearted, everybody admires her. So who would believe Umaru keeps a certain secret? Sleeping, gaming, watching TV, eating junk food, drinking cola… that's almost all she does at home, leaving all the housework to her brother.\n<br><br>\n(Source: Crunchyroll, edited)",
   "episodes": [],
   "sources": [
     {

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "episodeCurrent": "Tập 10",
   "categories": [
     {
       "name": "Hành Động",
@@ -109,14 +109,108 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/2bd19fb4009ffc10edd430e6191f8421",
       "m3u8Url": "https://vip.opstream10.com/20260621/33938_2bd19fb4/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/e007b88b177b521a6879cfcc807ac91b",
+      "m3u8Url": "https://vip.opstream10.com/20260621/33941_e007b88b/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/qMQihkEm/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/qMQihkEm/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/goqNZmHx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/goqNZmHx/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/r0QWubp7/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/r0QWubp7/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/92nYL54j/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/92nYL54j/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/lq0nxZnX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/lq0nxZnX/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/VayQ0tQP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/VayQ0tQP/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/SZGNVS9Z/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/SZGNVS9Z/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/JPttHu9u/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/JPttHu9u/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/8ETvtwEL/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/8ETvtwEL/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/DBDmX5qi/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/DBDmX5qi/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chuyen-gia-tuoi-trung-nien",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "nua-co-hoi-song-chuyen-gia-tuoi-trung-nien",
+      "episodeCount": 10,
+      "priority": 1
     }
   ],
   "_priority": 0

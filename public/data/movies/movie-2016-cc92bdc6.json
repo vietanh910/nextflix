@@ -9,7 +9,16 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
   "episodes": [],
   "sources": [
     {
@@ -85,5 +94,6 @@
       "priority": 3
     }
   ],
-  "_priority": 3
+  "_priority": 3,
+  "description": "Aikatsu Stars! features the protagonist Yume Nijino. Yume aims to become a top idol, and she enrolls in the Yotsuboshi Gakuen. This academy has a special group called the S4, who are the top four active idols in the school. Yume and the other first-year students aim to become a part of the S4.<br><br>(Source: Anime News Network, edited)"
 }

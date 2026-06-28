@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "Specials featuring super-deformed characters, bundled with the Blu-ray and DVD volumes of <i>Overlord</i>.<br>\n<br><i>Note: Began airing after episode 5 of Overlord - each episode was available on the official site for a short period afterwards.",
   "episodes": [],
   "sources": [
     {

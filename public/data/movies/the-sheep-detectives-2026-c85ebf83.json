@@ -1,0 +1,77 @@
+{
+  "id": "the-sheep-detectives-2026-c85ebf83",
+  "source": "ophim",
+  "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
+  "name": "Đội Thám Tử Cừu: Án Mạng Lúc Nửa Đêm",
+  "originName": "The Sheep Detectives",
+  "posterUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    },
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Gia Đình",
+      "slug": "gia-dinh"
+    },
+    {
+      "name": "Bí ẩn",
+      "slug": "bi-an"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<blockquote><p>George là một người chăn cừu, mỗi đêm anh đều đọc tiểu thuyết trinh thám cho đàn cừu yêu quý của mình nghe, vì anh cho rằng chúng không thể nào hiểu được. Nhưng khi một sự cố bí ẩn làm xáo trộn cuộc sống ở trang trại, đàn cừu nhận ra rằng chúng phải trở thành thám tử. Khi lần theo manh mối và điều tra những nghi phạm là con người, chúng chứng minh rằng ngay cả cừu cũng có thể là những nhà phá án tài ba.</p></blockquote>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b06ee722e5efe10c6852d6dc07b84616",
+      "m3u8Url": "https://vip.opstream90.com/20260625/35571_b06ee722/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/BHc7HRGY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/BHc7HRGY/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

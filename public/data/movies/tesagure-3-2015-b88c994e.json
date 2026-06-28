@@ -9,7 +9,18 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "The third season of Tesagure! Bukatsu-min which is also a collaboration anime with the Minarai Megami: Puru Purun Sharumu manga",
   "episodes": [],
   "sources": [
     {

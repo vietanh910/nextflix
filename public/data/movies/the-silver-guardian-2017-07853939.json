@@ -9,7 +9,26 @@
   "year": 2017,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "Suigin and Rei both play the MMORPG Dungeon Century. But after adventuring together for weeks, the game’s servers shut down to make way for the latest world-altering title. Grave Buster—a video game proclaiming “reality beyond reality” hits the shelves, and Rei is pulled into it by forces unknown. Now it’s up to Suigin to rescue her from the virtual world, no matter the cost.<br>\n<br>\n(Source: Funimation)",
   "episodes": [],
   "sources": [
     {

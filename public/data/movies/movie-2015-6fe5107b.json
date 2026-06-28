@@ -9,7 +9,12 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
   "episodes": [],
   "sources": [
     {
@@ -79,5 +84,6 @@
       "priority": 3
     }
   ],
-  "_priority": 3
+  "_priority": 3,
+  "description": "Bundled with the Blu-ray/DVD Volumes of Arslan Senki."
 }

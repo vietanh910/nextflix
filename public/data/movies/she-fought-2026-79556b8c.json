@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/nu-chien-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "unknown",
-  "episodeCurrent": "Trailer",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 8",
   "categories": [
     {
       "name": "Chính kịch",
@@ -27,16 +27,75 @@
   "lang": "Vietsub",
   "episodes": [
     {
-      "name": "",
+      "name": "1",
+      "slug": "1",
       "serverName": "Vietsub #1",
-      "source": "ophim"
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/0383bd4aa37e8dd109be3864bc703eda",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35500_0383bd4a/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/67b291530eb3c8b5bcbbe0d931a59a87",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35501_67b29153/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/04e85c80a49b7b5a54537facf38a28b8",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35502_04e85c80/index.m3u8"
+    },
+    {
+      "name": "4",
+      "slug": "4",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/5094a17b216782f9ac33129c50981303",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35503_5094a17b/index.m3u8"
+    },
+    {
+      "name": "5",
+      "slug": "5",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bece6e36fc962fe02279d161feb42d04",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35504_bece6e36/index.m3u8"
+    },
+    {
+      "name": "6",
+      "slug": "6",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c319b80e19fefc69d451ad9eae7efdb4",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35507_c319b80e/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dc08c39e669ed03db179f83b5df6ef3d",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35505_dc08c39e/index.m3u8"
+    },
+    {
+      "name": "8",
+      "slug": "8",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/3fa8502ffeb11e407c06cee72b58398f",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35506_3fa8502f/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "nu-chien",
-      "episodeCount": 1,
+      "episodeCount": 8,
       "priority": 0
     }
   ],

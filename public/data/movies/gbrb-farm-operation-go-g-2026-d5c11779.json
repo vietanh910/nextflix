@@ -1,0 +1,55 @@
+{
+  "id": "gbrb-farm-operation-go-g-2026-d5c11779",
+  "source": "ophim",
+  "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
+  "name": "Gieo Gì Gặt nấy - Nông Trại Thẳng Tiến",
+  "originName": "GBRB: Farm Operation - Go Go Farm",
+  "posterUrl": "https://img.ophim.live/uploads/movies/gieo-gi-gat-nay-nong-trai-thang-tien-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/gieo-gi-gat-nay-nong-trai-thang-tien-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Hàn Quốc",
+      "slug": "han-quoc"
+    }
+  ],
+  "description": "<p>Tạm gác công việc trồng trọt, các bác \"nông dân\" Lee Kwang Soo, Doh Kyung Soo và Kim Woo Bin thẳng tiến đến đảo Jeju thầu ngay một trang trại chăn nuôi. Liệu cuộc sống ở nông trại với đồng cỏ xanh và những chú bò sữa có thực sự yên bình như họ tưởng tượng?</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9f8e4b84f731020330443ee756a01dc4",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35749_9f8e4b84/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a6cae5623d9d6b8ab35132faf5e02bc1",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35748_a6cae562/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

@@ -9,7 +9,7 @@
   "year": 2021,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 524",
+  "episodeCurrent": "Tập 526",
   "categories": [
     {
       "name": "Hành Động",
@@ -4185,13 +4185,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/XYoicEyp/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260619/XYoicEyp/index.m3u8"
+    },
+    {
+      "name": "Tập 525",
+      "slug": "tap-525",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/NSbcnBPl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/NSbcnBPl/index.m3u8"
+    },
+    {
+      "name": "Tập 526",
+      "slug": "tap-526",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/eTdnupjM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/eTdnupjM/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "nghich-thien-chi-ton",
-      "episodeCount": 519,
+      "episodeCount": 521,
       "priority": 1
     }
   ],

@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/tagusari-bros-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 9",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (10/10)",
   "categories": [
     {
       "name": "Hình Sự",
@@ -101,14 +101,108 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/599430bd25e315dd79020a112a1593da",
       "m3u8Url": "https://vip.opstream90.com/20260615/34803_599430bd/index.m3u8"
+    },
+    {
+      "name": "10",
+      "slug": "10",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9580d8d23af7f51eda1073b791a8c9cf",
+      "m3u8Url": "https://vip.opstream90.com/20260621/35382_9580d8d2/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260421/wCdQGTZM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260421/wCdQGTZM/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260427/pr6KnGVO/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260427/pr6KnGVO/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260503/kzs2ssit/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260503/kzs2ssit/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260510/ZNDs5gy5/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260510/ZNDs5gy5/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260518/gfW7iAxd/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260518/gfW7iAxd/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260524/1SDIvZkV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260524/1SDIvZkV/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260531/rwBlSrdF/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260531/rwBlSrdF/index.m3u8"
+    },
+    {
+      "name": "Tập 08",
+      "slug": "tap-08",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260607/NUufiAzy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260607/NUufiAzy/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260615/p51pdv3z/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260615/p51pdv3z/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/MxPahCdc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/MxPahCdc/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "tagusari-bros",
-      "episodeCount": 9,
+      "episodeCount": 10,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "anh-em-nha-tagusari",
+      "episodeCount": 10,
+      "priority": 1
     }
   ],
   "_priority": 0

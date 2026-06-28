@@ -1,0 +1,67 @@
+{
+  "id": "orphan-black-echoes-2024-7348cf4d",
+  "source": "ophim",
+  "slug": "goc-toi-nhan-ban",
+  "name": "Góc Tối Nhân Bản",
+  "originName": "Orphan Black: Echoes",
+  "posterUrl": "https://img.ophim.live/uploads/movies/goc-toi-nhan-ban-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/goc-toi-nhan-ban-thumb.jpg",
+  "year": 2024,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 2",
+  "categories": [
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Canada",
+      "slug": "canada"
+    }
+  ],
+  "description": "<p>Orphan Black: Echoes là series khoa học viễn tưởng – ly kỳ lấy bối cảnh cùng vũ trụ với series gốc Orphan Black, nhưng diễn ra vào năm 2052, khoảng 37 năm sau các sự kiện của loạt phim gốc. Câu chuyện bắt đầu khi Lucy thức dậy sau một thí nghiệm bí ẩn và phát hiện mình có liên hệ với một công nghệ tạo ra con người nhân tạo cực kỳ tiên tiến. Trong quá trình tìm lại ký ức, cô gặp Jules - một cô gái trẻ có ngoại hình giống hệt mình - và dần khám phá một âm mưu liên quan đến việc sao chép, in sinh học con người và thao túng bản sắc cá nhân. Cùng lúc đó, Kira Manning (con gái của Sarah Manning trong loạt phim gốc) đang nghiên cứu các giới hạn đạo đức của công nghệ sinh học và bị cuốn vào bí mật tàn bạo đằng sau sự tồn tại của Lucy.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/4dee181ba969be8fd9df9c8d3eefb650",
+      "m3u8Url": "https://vip.opstream10.com/20260623/33944_4dee181b/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/fcd8fefbf2b5dd996ad37e6ffc99234a",
+      "m3u8Url": "https://vip.opstream10.com/20260625/33947_fcd8fefb/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "goc-toi-nhan-ban",
+      "episodeCount": 2,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

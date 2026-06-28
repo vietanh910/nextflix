@@ -40,7 +40,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hài Hước",
@@ -68,8 +68,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/bach-da-am-anh-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (29/29)",
       "categories": [
         {
           "name": "Hình Sự",
@@ -262,18 +262,22 @@
       ]
     },
     {
-      "id": "the-crow-princess-of-for-2026-d6d355d2",
+      "id": "tuner-2026-36f9e534",
       "source": "ophim",
-      "slug": "bon-huyen-nha-la-phuc-tinh",
-      "name": "Bổn Huyền Nha Là Phúc Tinh",
-      "originName": "The Crow Princess of Fortune",
-      "posterUrl": "https://img.ophim.live/uploads/movies/bon-huyen-nha-la-phuc-tinh-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/bon-huyen-nha-la-phuc-tinh-thumb.jpg",
+      "slug": "bo-chinh-am-2025",
+      "name": "Bộ chỉnh âm",
+      "originName": "Tuner",
+      "posterUrl": "https://img.ophim.live/uploads/movies/bo-chinh-am-2025-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/bo-chinh-am-2025-thumb.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (27/27)",
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
       "categories": [
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
         {
           "name": "Chính kịch",
           "slug": "chinh-kich"
@@ -281,8 +285,12 @@
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
         }
       ]
     },
@@ -354,8 +362,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/buc-tuong-bang-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (12/12)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 13",
       "categories": [
         {
           "name": "Hài Hước",
@@ -413,7 +421,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 5",
+      "episodeCurrent": "Tập 6",
       "categories": [
         {
           "name": "Viễn Tưởng",
@@ -557,8 +565,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 15",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (16/16)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -652,8 +660,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/chi-bang-gap-nhau-mot-lan-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 12",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (24/24)",
       "categories": [
         {
           "name": "Chính kịch",
@@ -668,17 +676,17 @@
       ]
     },
     {
-      "id": "sharp-harmonica-2026-f646845a",
+      "id": "camellias-2026-e0c89a04",
       "source": "ophim",
-      "slug": "chiec-ken-harmonica-sac-ben",
-      "name": "Chiếc Kèn Harmonica Sắc Bén",
-      "originName": "Sharp Harmonica",
-      "posterUrl": "https://img.ophim.live/uploads/movies/chiec-ken-harmonica-sac-ben-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/chiec-ken-harmonica-sac-ben-thumb.jpg",
+      "slug": "chieu-dien-hoa-khai",
+      "name": "Chiếu Điện Hoa Khai",
+      "originName": "Camellias",
+      "posterUrl": "https://img.ophim.live/uploads/movies/chieu-dien-hoa-khai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/chieu-dien-hoa-khai-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (16/16)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 14",
       "categories": [
         {
           "name": "Chính kịch",

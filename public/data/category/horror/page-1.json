@@ -5,21 +5,98 @@
   "totalPages": 1,
   "items": [
     {
-      "id": "the-lost-village-2016-a84c6a05",
+      "id": "terra-formars-revenge-2016-b974853b",
       "source": "animapper",
-      "slug": "21567",
-      "name": "Mayoiga",
-      "originName": "The Lost Village",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21567-G0fAjdtoCsZz.jpg",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21567-YmjhOlLo1dzm.jpg",
+      "slug": "21300",
+      "name": "Terra Formars: Revenge",
+      "originName": "Terra Formars: Revenge",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21300-zetpWksKrHJv.png",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21300-eSZJSTLfEMzQ.jpg",
       "year": 2016,
       "type": "anime",
       "status": "unknown",
       "categories": [
         {
+          "name": "Sci-Fi",
+          "slug": "sci-fi"
+        },
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
           "name": "Horror",
           "slug": "horror"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "pinto-2015-eaaea100",
+      "source": "animapper",
+      "slug": "21326",
+      "name": "Tokyo Ghoul: [PINTO]",
+      "originName": "東京喰種トーキョーグール【PINTO】",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21326-Vmunxqzj1umc.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21326-frrcFf02l5kt.jpg",
+      "year": 2015,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Drama",
+          "slug": "drama"
         },
+        {
+          "name": "Supernatural",
+          "slug": "supernatural"
+        },
+        {
+          "name": "Horror",
+          "slug": "horror"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "gegege-no-kitarou-2007-2007-47bb68c0",
+      "source": "animapper",
+      "slug": "2165",
+      "name": "Gegege no Kitarou (2007)",
+      "originName": "Gegege no Kitarou (2007)",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2165.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2165.jpg",
+      "year": 2007,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
+        {
+          "name": "Comedy",
+          "slug": "comedy"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Horror",
+          "slug": "horror"
+        }
+      ],
+      "countries": []
+    },
+    {
+      "id": "princess-resurrection-2007-5ebef400",
+      "source": "animapper",
+      "slug": "2130",
+      "name": "Kaibutsu Oujo",
+      "originName": "Princess Resurrection",
+      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2130.jpg",
+      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2130-5ko6JFFPycGT.jpg",
+      "year": 2007,
+      "type": "anime",
+      "status": "unknown",
+      "categories": [
         {
           "name": "Supernatural",
           "slug": "supernatural"
@@ -29,43 +106,12 @@
           "slug": "comedy"
         },
         {
-          "name": "Mystery",
-          "slug": "mystery"
-        },
-        {
-          "name": "Drama",
-          "slug": "drama"
-        }
-      ],
-      "countries": []
-    },
-    {
-      "id": "alice-in-borderland-2014-cfcdf04b",
-      "source": "animapper",
-      "slug": "20952",
-      "name": "Imawa no Kuni no Alice",
-      "originName": "Alice in Borderland",
-      "posterUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20952-nDvmOvA3qDJ2.png",
-      "thumbUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20952-nDvmOvA3qDJ2.png",
-      "year": 2014,
-      "type": "anime",
-      "status": "unknown",
-      "categories": [
-        {
           "name": "Action",
           "slug": "action"
         },
         {
           "name": "Horror",
           "slug": "horror"
-        },
-        {
-          "name": "Supernatural",
-          "slug": "supernatural"
-        },
-        {
-          "name": "Psychological",
-          "slug": "psychological"
         }
       ],
       "countries": []

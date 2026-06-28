@@ -8,61 +8,61 @@
   {
     "slug": "chinh-kich",
     "name": "Chính kịch",
-    "count": 334,
+    "count": 327,
     "totalPages": 14
-  },
-  {
-    "slug": "hai-huoc",
-    "name": "Hài Hước",
-    "count": 137,
-    "totalPages": 6
   },
   {
     "slug": "hanh-dong",
     "name": "Hành Động",
-    "count": 130,
+    "count": 138,
+    "totalPages": 6
+  },
+  {
+    "slug": "hai-huoc",
+    "name": "Hài Hước",
+    "count": 129,
     "totalPages": 6
   },
   {
     "slug": "vien-tuong",
     "name": "Viễn Tưởng",
-    "count": 111,
-    "totalPages": 5
+    "count": 127,
+    "totalPages": 6
   },
   {
     "slug": "phieu-luu",
     "name": "Phiêu Lưu",
-    "count": 111,
+    "count": 118,
     "totalPages": 5
   },
   {
     "slug": "khoa-hoc",
     "name": "Khoa Học",
-    "count": 98,
+    "count": 113,
     "totalPages": 5
   },
   {
     "slug": "tam-ly",
     "name": "Tâm Lý",
-    "count": 96,
-    "totalPages": 4
+    "count": 102,
+    "totalPages": 5
   },
   {
     "slug": "hinh-su",
     "name": "Hình Sự",
-    "count": 72,
-    "totalPages": 3
-  },
-  {
-    "slug": "bi-an",
-    "name": "Bí ẩn",
-    "count": 50,
+    "count": 67,
     "totalPages": 3
   },
   {
     "slug": "comedy",
     "name": "Comedy",
-    "count": 46,
+    "count": 61,
+    "totalPages": 3
+  },
+  {
+    "slug": "bi-an",
+    "name": "Bí ẩn",
+    "count": 47,
     "totalPages": 2
   },
   {
@@ -72,21 +72,15 @@
     "totalPages": 2
   },
   {
-    "slug": "kinh-di",
-    "name": "Kinh Dị",
-    "count": 33,
-    "totalPages": 2
-  },
-  {
     "slug": "action",
     "name": "Action",
-    "count": 31,
+    "count": 37,
     "totalPages": 2
   },
   {
-    "slug": "gia-dinh",
-    "name": "Gia Đình",
-    "count": 25,
+    "slug": "kinh-di",
+    "name": "Kinh Dị",
+    "count": 27,
     "totalPages": 2
   },
   {
@@ -96,57 +90,63 @@
     "totalPages": 2
   },
   {
-    "slug": "tai-lieu",
-    "name": "Tài Liệu",
+    "slug": "slice-of-life",
+    "name": "Slice of Life",
+    "count": 25,
+    "totalPages": 2
+  },
+  {
+    "slug": "gia-dinh",
+    "name": "Gia Đình",
     "count": 23,
     "totalPages": 1
   },
   {
-    "slug": "sci-fi",
-    "name": "Sci-Fi",
+    "slug": "tai-lieu",
+    "name": "Tài Liệu",
     "count": 21,
     "totalPages": 1
   },
   {
-    "slug": "slice-of-life",
-    "name": "Slice of Life",
+    "slug": "supernatural",
+    "name": "Supernatural",
     "count": 20,
-    "totalPages": 1
-  },
-  {
-    "slug": "drama",
-    "name": "Drama",
-    "count": 19,
     "totalPages": 1
   },
   {
     "slug": "romance",
     "name": "Romance",
+    "count": 17,
+    "totalPages": 1
+  },
+  {
+    "slug": "drama",
+    "name": "Drama",
     "count": 15,
     "totalPages": 1
   },
   {
     "slug": "adventure",
     "name": "Adventure",
-    "count": 15,
+    "count": 14,
     "totalPages": 1
   },
   {
-    "slug": "supernatural",
-    "name": "Supernatural",
+    "slug": "sci-fi",
+    "name": "Sci-Fi",
+    "count": 14,
+    "totalPages": 1
+  },
+  {
+    "slug": "ecchi",
+    "name": "Ecchi",
     "count": 14,
     "totalPages": 1
   },
   {
     "slug": "co-trang",
     "name": "Cổ Trang",
-    "count": 11,
-    "totalPages": 1
-  },
-  {
-    "slug": "ecchi",
-    "name": "Ecchi",
-    "count": 11,
+    "count": 12,
     "totalPages": 1
   },
   {
@@ -158,61 +158,49 @@
   {
     "slug": "music",
     "name": "Music",
-    "count": 10,
-    "totalPages": 1
-  },
-  {
-    "slug": "mecha",
-    "name": "Mecha",
-    "count": 9,
+    "count": 8,
     "totalPages": 1
   },
   {
     "slug": "short-drama",
     "name": "Short Drama",
-    "count": 8,
+    "count": 7,
     "totalPages": 1
   },
   {
     "slug": "mystery",
     "name": "Mystery",
-    "count": 8,
-    "totalPages": 1
-  },
-  {
-    "slug": "chien-tranh",
-    "name": "Chiến Tranh",
-    "count": 6,
-    "totalPages": 1
-  },
-  {
-    "slug": "psychological",
-    "name": "Psychological",
-    "count": 5,
+    "count": 7,
     "totalPages": 1
   },
   {
     "slug": "sports",
     "name": "Sports",
+    "count": 6,
+    "totalPages": 1
+  },
+  {
+    "slug": "chien-tranh",
+    "name": "Chiến Tranh",
+    "count": 5,
+    "totalPages": 1
+  },
+  {
+    "slug": "horror",
+    "name": "Horror",
+    "count": 4,
+    "totalPages": 1
+  },
+  {
+    "slug": "mecha",
+    "name": "Mecha",
     "count": 3,
     "totalPages": 1
   },
   {
-    "slug": "am-nhac",
-    "name": "Âm Nhạc",
-    "count": 2,
-    "totalPages": 1
-  },
-  {
-    "slug": "the-thao",
-    "name": "Thể Thao",
-    "count": 2,
-    "totalPages": 1
-  },
-  {
-    "slug": "lich-su",
-    "name": "Lịch Sử",
-    "count": 2,
+    "slug": "mahou-shoujo",
+    "name": "Mahou Shoujo",
+    "count": 3,
     "totalPages": 1
   },
   {
@@ -222,20 +210,32 @@
     "totalPages": 1
   },
   {
-    "slug": "horror",
-    "name": "Horror",
+    "slug": "than-thoai",
+    "name": "Thần Thoại",
     "count": 2,
     "totalPages": 1
   },
   {
-    "slug": "than-thoai",
-    "name": "Thần Thoại",
+    "slug": "am-nhac",
+    "name": "Âm Nhạc",
     "count": 1,
     "totalPages": 1
   },
   {
-    "slug": "mahou-shoujo",
-    "name": "Mahou Shoujo",
+    "slug": "the-thao",
+    "name": "Thể Thao",
+    "count": 1,
+    "totalPages": 1
+  },
+  {
+    "slug": "psychological",
+    "name": "Psychological",
+    "count": 1,
+    "totalPages": 1
+  },
+  {
+    "slug": "thriller",
+    "name": "Thriller",
     "count": 1,
     "totalPages": 1
   }

@@ -1,0 +1,63 @@
+{
+  "id": "the-root-of-the-game-2026-2fa221b6",
+  "source": "phimapi",
+  "slug": "varzea-cai-noi-cua-bong-da-varzea-onde-nasce-o-futebol",
+  "name": "Várzea:  Cái Nôi Của Bóng Đá (Várzea: Onde Nasce o Futebol)",
+  "originName": "The Root Of The Game",
+  "posterUrl": "https://phimimg.com/upload/vod/20260625-1/b23427e4418f9239a08199a87ba792cf.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260625-1/1f75410f479e6e4b820c67a3fc6ed81b.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (3/3)",
+  "categories": [
+    {
+      "name": "Tài Liệu",
+      "slug": "tai-lieu"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Brazil",
+      "slug": "brazil"
+    }
+  ],
+  "description": "Brazil sống, thở và xuất khẩu &quot;várzea&quot; — thứ bóng đá phong trào hoang dã và thuần khiết nhất. Loạt phim này đi sâu vào những câu chuyện phía sau &quot;trò chơi đẹp&quot;, nơi trái bóng tròn mang trong mình sức mạnh diệu kỳ để thay đổi hoàn toàn những số phận.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/0pImP4SI/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/0pImP4SI/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/GpAs5N3S/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/GpAs5N3S/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/xljHmikh/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/xljHmikh/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "varzea-cai-noi-cua-bong-da-varzea-onde-nasce-o-futebol",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

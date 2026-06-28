@@ -9,7 +9,22 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "countries": [],
+  "description": "The second season of <i>Terra Formars</i>.<br>\n<br>\nIn Terra Formars Revenge, the crew members of the Annex I continue to fight against Terraformars—the large humanoid cockroaches that evolved from the ones sent to Mars centuries ago. However, far from discovering the cure for the lethal Alien Engine Virus that has been plaguing Earth, the Annex I team have learned that some squadrons have agendas from their own countries. Now, the squadrons must not only fight against the Terraformars for their survival, but also each other in the never-ending battle for international dominance.\n",
   "episodes": [],
   "sources": [
     {

@@ -1,0 +1,77 @@
+{
+  "id": "in-the-hand-of-dante-2026-1f56a698",
+  "source": "ophim",
+  "slug": "trong-ban-tay-cua-dante",
+  "name": "Trong Bàn Tay Của Dante",
+  "originName": "In the Hand of Dante",
+  "posterUrl": "https://img.ophim.live/uploads/movies/trong-ban-tay-cua-dante-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/trong-ban-tay-cua-dante-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hình Sự",
+      "slug": "hinh-su"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Ý",
+      "slug": "y"
+    },
+    {
+      "name": "Chile",
+      "slug": "chile"
+    }
+  ],
+  "description": "<p>Nhà văn nọ giúp một ông trùm mafia đánh cắp nguyên bản của \"Thần khúc\" của Dante, trong khi một mạch truyện song song theo chân vị thi sĩ thế kỷ 14 này khi ông sáng tác kiệt tác.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a617a439d2705ff5bec9814c3b887f45",
+      "m3u8Url": "https://vip.opstream90.com/20260625/35587_a617a439/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/zbmxZI5Z/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/zbmxZI5Z/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "trong-ban-tay-cua-dante",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "trong-ban-tay-cua-dante",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

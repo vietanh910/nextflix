@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 146",
+  "episodeCurrent": "Tập 147",
   "categories": [
     {
       "name": "Hài Hước",
@@ -1201,13 +1201,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260617/xSjLqkul/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260617/xSjLqkul/index.m3u8"
+    },
+    {
+      "name": "Tập 147",
+      "slug": "tap-147",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/fULmtKXs/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/fULmtKXs/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "su-huynh-a-su-huynh",
-      "episodeCount": 146,
+      "episodeCount": 147,
       "priority": 1
     }
   ],

@@ -41,14 +41,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/7eb38c169d0faad77374895a8bdc24c5",
       "m3u8Url": "https://vip.opstream90.com/20260619/35247_7eb38c16/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/8p4hOuqB/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/8p4hOuqB/index.m3u8"
     }
   ],
   "sources": [
@@ -57,12 +49,6 @@
       "slug": "ke-hoach-gau-truc-2-bo-toc-ky-dieu",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "ke-hoach-gau-truc-2-bo-toc-ky-dieu",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

@@ -184,7 +184,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 9",
+      "episodeCurrent": "Tập 10",
       "categories": [
         {
           "name": "Hành Động",
@@ -384,6 +384,43 @@
         {
           "name": "Âu Mỹ",
           "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "agent-kim-reactivated-2026-72ad79cb",
+      "source": "ophim",
+      "slug": "dac-vu-kim-tai-khoi-dong",
+      "name": "Đặc Vụ Kim Tái Khởi Động",
+      "originName": "Agent Kim Reactivated",
+      "posterUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/dac-vu-kim-tai-khoi-dong-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 2",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
         }
       ]
     },
@@ -594,6 +631,47 @@
       ]
     },
     {
+      "id": "house-of-the-dragon-seas-2026-cdfb13d3",
+      "source": "ophim",
+      "slug": "gia-toc-rong-phan-3",
+      "name": "Gia Tộc Rồng (Phần 3)",
+      "originName": "House of the Dragon (Season 3)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/gia-toc-rong-phan-3-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/gia-toc-rong-phan-3-thumb.jpg",
+      "year": 2026,
+      "type": "series",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 1",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
       "id": "the-air-2026-29e90145",
       "source": "ophim",
       "slug": "gio-thoang-tinh-theo",
@@ -604,7 +682,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 6",
+      "episodeCurrent": "Tập 7",
       "categories": [
         {
           "name": "Hành Động",
@@ -656,17 +734,17 @@
       ]
     },
     {
-      "id": "archives-the-nanyang-mys-2026-69875541",
+      "id": "baki-dou-the-invincible--2026-2d9dd4fa",
       "source": "ophim",
-      "slug": "ho-so-nam-bo",
-      "name": "Hồ Sơ Nam Bộ",
-      "originName": "Archives: The Nanyang Mystery",
-      "posterUrl": "https://img.ophim.live/uploads/movies/ho-so-nam-bo-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/ho-so-nam-bo-thumb.jpg",
+      "slug": "hanh-trinh-cua-baki-samurai-bat-bai",
+      "name": "Hành trình của Baki: Samurai bất bại",
+      "originName": "BAKI-DOU: The Invincible Samurai",
+      "posterUrl": "https://img.ophim.live/uploads/movies/hanh-trinh-cua-baki-samurai-bat-bai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/hanh-trinh-cua-baki-samurai-bat-bai-thumb.jpg",
       "year": 2026,
-      "type": "series",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 24",
+      "type": "anime",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (25/25)",
       "categories": [
         {
           "name": "Hành Động",
@@ -675,16 +753,12 @@
         {
           "name": "Phiêu Lưu",
           "slug": "phieu-luu"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -751,68 +825,6 @@
         {
           "name": "Nhật Bản",
           "slug": "nhat-ban"
-        }
-      ]
-    },
-    {
-      "id": "the-final-battle-2026-d3b7640b",
-      "source": "ophim",
-      "slug": "huyen-chien-thanh-long-trai",
-      "name": "Huyến Chiến Thanh Long Trại",
-      "originName": "The Final Battle",
-      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "karuppu-2026-8475b044",
-      "source": "ophim",
-      "slug": "karuppu",
-      "name": "Karuppu",
-      "originName": "Karuppu",
-      "posterUrl": "https://img.ophim.live/uploads/movies/karuppu-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/karuppu-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "unknown",
-      "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Chính kịch",
-          "slug": "chinh-kich"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Ấn Độ",
-          "slug": "an-do"
         }
       ]
     }

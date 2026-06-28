@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/chi-bang-gap-nhau-mot-lan-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (24/24)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -123,6 +123,102 @@
       "m3u8Url": "https://vip.opstream90.com/20260621/35327_4c1ed2fa/index.m3u8"
     },
     {
+      "name": "13",
+      "slug": "13",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b0a86041b9e3d8fa343441e899557fd7",
+      "m3u8Url": "https://vip.opstream90.com/20260622/35398_b0a86041/index.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1067186e81115b17ee94a90f1a4c124c",
+      "m3u8Url": "https://vip.opstream90.com/20260622/35399_1067186e/index.m3u8"
+    },
+    {
+      "name": "15",
+      "slug": "15",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1e22c83cb2934dd73c22c293f4befe83",
+      "m3u8Url": "https://vip.opstream90.com/20260622/35400_1e22c83c/index.m3u8"
+    },
+    {
+      "name": "16",
+      "slug": "16",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/94302fbe2968597131a0ae606df3f5e4",
+      "m3u8Url": "https://vip.opstream90.com/20260622/35401_94302fbe/index.m3u8"
+    },
+    {
+      "name": "17",
+      "slug": "17",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/51c8a2a1dffa372556506579fcb41a1d",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35424_51c8a2a1/index.m3u8"
+    },
+    {
+      "name": "18",
+      "slug": "18",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f7e47cabc89aa734c3c9aec9aa9692c0",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35425_f7e47cab/index.m3u8"
+    },
+    {
+      "name": "19",
+      "slug": "19",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/fa520d9c2a0ed06a90e3ebc59df2a0d4",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35426_fa520d9c/index.m3u8"
+    },
+    {
+      "name": "20",
+      "slug": "20",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/cf4bc646dd5d0bc48d3f63b68a6f5926",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35428_cf4bc646/index.m3u8"
+    },
+    {
+      "name": "21",
+      "slug": "21",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/80bbfe43002d9ec3acd60ccf1d0a89e3",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35515_80bbfe43/index.m3u8"
+    },
+    {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7aef8f65418a2077e96f0c12d1b34205",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35516_7aef8f65/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/843bc605d7d16b355c3ea9da87b64e81",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35517_843bc605/index.m3u8"
+    },
+    {
+      "name": "24",
+      "slug": "24",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/1d7c99424b5382bc1fe49a7efc74a5b6",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35518_1d7c9942/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -185,19 +281,147 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/7C919b2H/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260620/7C919b2H/index.m3u8"
+    },
+    {
+      "name": "Tập 09",
+      "slug": "tap-09",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/K6a2xuCo/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/K6a2xuCo/index.m3u8"
+    },
+    {
+      "name": "Tập 10",
+      "slug": "tap-10",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/Br46l5lU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/Br46l5lU/index.m3u8"
+    },
+    {
+      "name": "Tập 11",
+      "slug": "tap-11",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/bb67YEJx/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/bb67YEJx/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/9Ickeym8/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/9Ickeym8/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/hhohmS6G/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/hhohmS6G/index.m3u8"
+    },
+    {
+      "name": "Tập 14",
+      "slug": "tap-14",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/gBISW9JX/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/gBISW9JX/index.m3u8"
+    },
+    {
+      "name": "Tập 15",
+      "slug": "tap-15",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/QVfvDVAc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/QVfvDVAc/index.m3u8"
+    },
+    {
+      "name": "Tập 16",
+      "slug": "tap-16",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/OiAzxfrQ/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/OiAzxfrQ/index.m3u8"
+    },
+    {
+      "name": "Tập 17",
+      "slug": "tap-17",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/0j4yc5Ga/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260623/0j4yc5Ga/index.m3u8"
+    },
+    {
+      "name": "Tập 18",
+      "slug": "tap-18",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/MnF4EHDz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260623/MnF4EHDz/index.m3u8"
+    },
+    {
+      "name": "Tập 19",
+      "slug": "tap-19",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/H7vlxEi0/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260623/H7vlxEi0/index.m3u8"
+    },
+    {
+      "name": "Tập 20",
+      "slug": "tap-20",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/madSFyRl/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260623/madSFyRl/index.m3u8"
+    },
+    {
+      "name": "Tập 21",
+      "slug": "tap-21",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/RCBWekSc/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/RCBWekSc/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/LqAU13pU/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/LqAU13pU/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/uKopiVec/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/uKopiVec/index.m3u8"
+    },
+    {
+      "name": "Tập 24",
+      "slug": "tap-24",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/fRAOTlgA/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/fRAOTlgA/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chi-bang-gap-nhau-mot-lan",
-      "episodeCount": 12,
+      "episodeCount": 24,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "chi-bang-gap-nhau-mot-lan",
-      "episodeCount": 8,
+      "episodeCount": 24,
       "priority": 1
     }
   ],

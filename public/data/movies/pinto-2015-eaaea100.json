@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "countries": [],
+  "description": "A prequel to Tokyo Ghoul that follows how Shuu Tsukiyama and Chie Hori met.",
   "episodes": [],
   "sources": [
     {

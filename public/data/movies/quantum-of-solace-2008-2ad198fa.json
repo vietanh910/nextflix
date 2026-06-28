@@ -1,0 +1,55 @@
+{
+  "id": "quantum-of-solace-2008-2ad198fa",
+  "source": "ophim",
+  "slug": "dinh-muc-khuay-khoa",
+  "name": "Định Mức Khuây Khỏa",
+  "originName": "Quantum of Solace",
+  "posterUrl": "https://img.ophim.live/uploads/movies/dinh-muc-khuay-khoa-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/dinh-muc-khuay-khoa-thumb.jpg",
+  "year": 2008,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    }
+  ],
+  "description": "<p>James Bond bước vào bí ẩn khi anh ta cố gắng ngăn chặn một tổ chức bí ẩn loại bỏ tài nguyên có giá trị nhất của một quốc gia.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/f64053caa298ce3743d8852cb8510f55",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35519_f64053ca/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "dinh-muc-khuay-khoa",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

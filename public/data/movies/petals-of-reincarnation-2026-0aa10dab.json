@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260404-1/fcf47b00f03e8c0c4b609351c7e80d21.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 12",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (13/13)",
   "categories": [
     {
       "name": "Hành Động",
@@ -137,13 +137,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/uVoI4E7Z/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260618/uVoI4E7Z/index.m3u8"
+    },
+    {
+      "name": "Tập 13",
+      "slug": "tap-13",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/iAq9zvns/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/iAq9zvns/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "canh-hoa-luan-hoi",
-      "episodeCount": 12,
+      "episodeCount": 13,
       "priority": 1
     }
   ],

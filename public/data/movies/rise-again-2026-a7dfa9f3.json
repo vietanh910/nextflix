@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/phi-thang-giua-ban-ngay-thumb.jpg",
   "year": 2026,
   "type": "series",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 21",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (23/23)",
   "categories": [
     {
       "name": "Chính kịch",
@@ -195,6 +195,22 @@
       "m3u8Url": "https://vip.opstream90.com/20260620/35297_ec4f1bd6/index.m3u8"
     },
     {
+      "name": "22",
+      "slug": "22",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/c24de509a2932ca70c2474f44802a76e",
+      "m3u8Url": "https://vip.opstream90.com/20260621/35359_c24de509/index.m3u8"
+    },
+    {
+      "name": "23",
+      "slug": "23",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/7d54b4aa7cf58b91cfdeb51b235739b2",
+      "m3u8Url": "https://vip.opstream90.com/20260622/35410_7d54b4aa/index.m3u8"
+    },
+    {
       "name": "Tập 01",
       "slug": "tap-01",
       "serverName": "#Hà Nội (Vietsub)",
@@ -361,19 +377,35 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260620/TurYfUaf/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260620/TurYfUaf/index.m3u8"
+    },
+    {
+      "name": "Tập 22",
+      "slug": "tap-22",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/z8HHLTrH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/z8HHLTrH/index.m3u8"
+    },
+    {
+      "name": "Tập 23",
+      "slug": "tap-23",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/Lnrlhrca/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/Lnrlhrca/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "phi-thang-giua-ban-ngay",
-      "episodeCount": 21,
+      "episodeCount": 23,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "phi-thang-giua-ban-ngay",
-      "episodeCount": 21,
+      "episodeCount": 23,
       "priority": 1
     }
   ],

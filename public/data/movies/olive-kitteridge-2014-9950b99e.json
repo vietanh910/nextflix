@@ -1,0 +1,79 @@
+{
+  "id": "olive-kitteridge-2014-9950b99e",
+  "source": "phimapi",
+  "slug": "olive-kitteridge",
+  "name": "Olive Kitteridge",
+  "originName": "Olive Kitteridge",
+  "posterUrl": "https://phimimg.com/upload/vod/20260626-1/894207b627ba2bd438c4139901d30277.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/8204c22a0238324bbb2b9914a4c9837f.jpg",
+  "year": 2014,
+  "type": "series",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (4/4)",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    },
+    {
+      "name": "Tình Cảm",
+      "slug": "tinh-cam"
+    },
+    {
+      "name": "Tâm Lý",
+      "slug": "tam-ly"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Bộ phim là góc nhìn cận cảnh về một thị trấn vùng New England có vẻ ngoài yên bình nhưng bên trong lại đầy rẫy những mối quan hệ bất chính, tội ác và bi kịch. Tất cả được kể qua lăng kính của Olive, một người phụ nữ sở hữu trí tuệ sắc sảo nhưng cay nghiệt, cùng vẻ ngoài khắc nghiệt che giấu một trái tim ấm áp đầy tổn thương và một nguyên tắc đạo đức kiên định. Câu chuyện trải dài suốt 25 năm, xoay quanh mối quan hệ giữa Olive với chồng cô, Henry, một dược sĩ tốt bụng, hiền lành của thị trấn; người con trai Christopher luôn oán hận cách nuôi dạy con của mẹ; cùng các thành viên khác trong cộng đồng.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/zDJhh4hH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/zDJhh4hH/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/I5UM8UZN/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/I5UM8UZN/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/ueA5PYvb/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/ueA5PYvb/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260614/oCCmE18d/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260614/oCCmE18d/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "olive-kitteridge",
+      "episodeCount": 4,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

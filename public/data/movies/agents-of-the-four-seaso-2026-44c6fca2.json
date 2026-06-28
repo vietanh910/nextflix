@@ -8,8 +8,8 @@
   "thumbUrl": "https://img.ophim.live/uploads/movies/su-gia-bon-mua-vu-dieu-mua-xuan-thumb.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 13",
+  "status": "completed",
+  "episodeCurrent": "Hoàn tất (14/14)",
   "categories": [
     {
       "name": "Viễn Tưởng",
@@ -137,13 +137,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/ac3485ecf4fcd5d56323ed2373fd7e32",
       "m3u8Url": "https://vip.opstream90.com/20260621/35339_ac3485ec/index.m3u8"
+    },
+    {
+      "name": "14",
+      "slug": "14",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/22ab54f07ab77a9bfffd6bbeae5ac19d",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35766_22ab54f0/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
-      "episodeCount": 13,
+      "episodeCount": 14,
       "priority": 0
     }
   ],

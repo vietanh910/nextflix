@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 85",
+  "episodeCurrent": "Tập 87",
   "categories": [
     {
       "name": "Hành Động",
@@ -725,13 +725,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/d8585cb93fef89c4cf932574e6554c9c",
       "m3u8Url": "https://vip.opstream90.com/20260609/34324_d8585cb9/index.m3u8"
+    },
+    {
+      "name": "86",
+      "slug": "86",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/e84cb7cbad2a4a01372580399d53816e",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35466_e84cb7cb/index.m3u8"
+    },
+    {
+      "name": "87",
+      "slug": "87",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/dba1f3f1753db3b8a2921d97d6f4b86b",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35467_dba1f3f1/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "muc-than-ky",
-      "episodeCount": 86,
+      "episodeCount": 88,
       "priority": 0
     }
   ],

@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 6",
+  "episodeCurrent": "Tập 7",
   "categories": [
     {
       "name": "Chính kịch",
@@ -73,14 +73,84 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/47928638e0167f68b16389775b44aebd",
       "m3u8Url": "https://vip.opstream90.com/20260619/35208_47928638/index.m3u8"
+    },
+    {
+      "name": "7",
+      "slug": "7",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/8ba15caa35c7c7b77c15297ac0d39330",
+      "m3u8Url": "https://vip.opstream90.com/20260626/35658_8ba15caa/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260512/qbO4gr2n/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260512/qbO4gr2n/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260515/mTxW9O3Z/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260515/mTxW9O3Z/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260524/7VPbme5p/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260524/7VPbme5p/index.m3u8"
+    },
+    {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260603/WqvpfeUP/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260603/WqvpfeUP/index.m3u8"
+    },
+    {
+      "name": "Tập 05",
+      "slug": "tap-05",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260608/rN6zDfJ3/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260608/rN6zDfJ3/index.m3u8"
+    },
+    {
+      "name": "Tập 06",
+      "slug": "tap-06",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/eKFFqg2v/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260616/eKFFqg2v/index.m3u8"
+    },
+    {
+      "name": "Tập 07",
+      "slug": "tap-07",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/NVGa36i9/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/NVGa36i9/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "good-boys-go-to-heaven",
-      "episodeCount": 6,
+      "episodeCount": 7,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "trai-ngoan-len-thien-duong",
+      "episodeCount": 7,
+      "priority": 1
     }
   ],
   "_priority": 0

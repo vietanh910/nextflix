@@ -8,8 +8,8 @@
   "thumbUrl": "https://phimimg.com/upload/vod/20260410-1/52ef46e081a42e896c7501a782266244.jpg",
   "year": 2026,
   "type": "anime",
-  "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "status": "completed",
+  "episodeCurrent": "Hoàn Tất (12/12)",
   "categories": [
     {
       "name": "Hài Hước",
@@ -125,13 +125,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/mv1mbKdd/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260618/mv1mbKdd/index.m3u8"
+    },
+    {
+      "name": "Tập 12",
+      "slug": "tap-12",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/sPo8sd1w/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/sPo8sd1w/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "kujima-hot-ca-nha-veo-von-kujima-utaeba-ie-hororo",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 1
     }
   ],

@@ -1,0 +1,59 @@
+{
+  "id": "skyfall-2012-6f71d025",
+  "source": "ophim",
+  "slug": "skyfall",
+  "name": "Điệp Viên 007: Tử Địa Skyfall",
+  "originName": "Skyfall",
+  "posterUrl": "https://img.ophim.live/uploads/movies/skyfall-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/skyfall-thumb.jpg",
+  "year": 2012,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    },
+    {
+      "name": "Anh",
+      "slug": "anh"
+    },
+    {
+      "name": "Thổ Nhĩ Kỳ",
+      "slug": "tho-nhi-ky"
+    }
+  ],
+  "description": "<p>Khi nhiệm vụ mới nhất của James Bond (Daniel Craig) diễn ra nghiêm trọng và các đại lý trên khắp thế giới được tiếp xúc, Mi6 bị tấn công, buộc (M Dame Judi Dench) để di dời cơ quan. Những sự kiện này khiến quyền lực và vị trí của cô bị thách thức bởi Gareth Mallory (Ralph Fiennes), Chủ tịch mới của Ủy ban Tình báo và An ninh. Với Mi6 bây giờ bị xâm phạm từ cả trong và ngoài, M còn lại với một đồng minh, cô ấy có thể tin tưởng: trái phiếu. 007 Đưa đến bóng tối, chỉ được hỗ trợ bởi đại lý thực địa, Miss Eve Moneypenny (Naomie Harris), sau một con đường mòn đến Tiago Rodriguez bí ẩn, A.K.A. Raoul Silva (Javier Bardem), người có động cơ gây chết người và ẩn giấu vẫn chưa tiết lộ chính mình</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/6a1daa960984b0d1b4f1b644e9e6917e",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35531_6a1daa96/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "skyfall",
+      "episodeCount": 1,
+      "priority": 0
+    }
+  ],
+  "_priority": 0
+}

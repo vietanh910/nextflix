@@ -1,0 +1,61 @@
+{
+  "id": "little-brother-2026-cbf93013",
+  "source": "ophim",
+  "slug": "em-trai",
+  "name": "Em trai",
+  "originName": "Little Brother",
+  "posterUrl": "https://img.ophim.live/uploads/movies/em-trai-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/em-trai-thumb.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Hài Hước",
+      "slug": "hai-huoc"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>Thế giới được sắp đặt tỉ mỉ của một nhà môi giới bất động sản nổi tiếng bị đảo lộn khi người em trai lập dị của anh ta bất ngờ xuất hiện trở lại.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/266c29a5d874af62d87413456e07d700",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35690_266c29a5/index.m3u8"
+    },
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/DoqgMUaR/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/DoqgMUaR/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "em-trai",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "em-trai-2026",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

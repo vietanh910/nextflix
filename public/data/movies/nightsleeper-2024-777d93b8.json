@@ -9,7 +9,7 @@
   "year": 2024,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 1",
+  "episodeCurrent": "Tập 3",
   "categories": [
     {
       "name": "Hành Động",
@@ -45,14 +45,52 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream10.com/share/6c9ca5f434f0fec54a8cb4073a3e2938",
       "m3u8Url": "https://vip.opstream10.com/20260621/33939_6c9ca5f4/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/a1677f67c9e0342b5dd4dd69762a0c43",
+      "m3u8Url": "https://vip.opstream10.com/20260624/33945_a1677f67/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Subteam #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream10.com/share/c9509ee01ad2ea5510724dd43d2ea4c5",
+      "m3u8Url": "https://vip.opstream10.com/20260626/33950_c9509ee0/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260621/BS0JH2Vv/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260621/BS0JH2Vv/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/dNFl7aPM/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/dNFl7aPM/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chuyen-tau-dem-kinh-hoang",
-      "episodeCount": 1,
+      "episodeCount": 3,
       "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "chuyen-tau-dem-kinh-hoang",
+      "episodeCount": 2,
+      "priority": 1
     }
   ],
   "_priority": 0

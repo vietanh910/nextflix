@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "Fuuka is an amnesiac. As she wanders through the unfamiliar town, she realizes that she's being chased. It's one of the mafia families running the town - the Oz family - that saves her. In a town where friendship and fighting exist together, Fuuka must decide who's hand to accept. And then there's the question: why doesn't she remember anything?<br>\n<br>\n(Source: Crunchyroll)",
   "episodes": [],
   "sources": [
     {

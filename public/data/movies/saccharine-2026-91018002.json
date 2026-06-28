@@ -1,0 +1,55 @@
+{
+  "id": "saccharine-2026-91018002",
+  "source": "phimapi",
+  "slug": "vi-ngot-chet-choc",
+  "name": "Vị Ngọt Chết Chóc",
+  "originName": "Saccharine",
+  "posterUrl": "https://phimimg.com/upload/vod/20260625-1/94607ac38b959728ff688b9de0470999.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260625-1/f8c3668b3c20ebdbcb6cc3254bea2695.jpg",
+  "year": 2026,
+  "type": "single",
+  "status": "completed",
+  "episodeCurrent": "Full",
+  "categories": [
+    {
+      "name": "Kinh Dị",
+      "slug": "kinh-di"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Úc",
+      "slug": "uc"
+    },
+    {
+      "name": "Phần Lan",
+      "slug": "phan-lan"
+    },
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "Sau khi lao vào một trào lưu giảm cân kỳ quái liên quan đến việc ăn tro cốt người chết, nữ sinh y khoa Hana đang tuyệt vọng vì tình bắt đầu bị ám bởi linh hồn của chính người mà cô đã ăn.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Full",
+      "slug": "full",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/yYZT4WmD/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/yYZT4WmD/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "phimapi",
+      "slug": "vi-ngot-chet-choc",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 1
+}

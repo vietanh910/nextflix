@@ -9,7 +9,22 @@
   "year": 2014,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "Episode 0 of the Ansatsu Kyoushitsu TV series screened at the Jump Festa 2014 events. Later included as an extra in volume 1 of the Blu-ray and DVD release.<br>\n<br>\nKoro-sensei reminisces about his first meeting with Karasuma, where they first butted heads and fought against each other, ultimately coming to respect one another. However, Karasuma eventually points out their actual meeting wasn't nearly as eventful.<br>\n<br>\n(Source: IMDb)",
   "episodes": [],
   "sources": [
     {

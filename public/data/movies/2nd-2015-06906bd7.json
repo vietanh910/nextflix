@@ -9,7 +9,22 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "In season two of PriPara the story continues with Laala and her friends Mirei and Sophy, who are part of the \"SoLaMi♡SMILE\" PriPara idol unit, which is rising in popularity. In the PriPara amusement park, a new zone called \"Dream Theater\" has opened, and it's said that when a fateful five-man team filled with charm that performs there, a new event called the \"PriPara Dream Parade\" will be held. However, it is not known which five people make up this team, and the PriPara idols scramble give the greatest performance in the new zone.<br>\n<br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

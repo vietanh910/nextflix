@@ -9,7 +9,7 @@
   "year": 2020,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 656",
+  "episodeCurrent": "Tập 658",
   "categories": [
     {
       "name": "Hành Động",
@@ -5285,13 +5285,29 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/3530af42dc880d61af906cf5b3c9bde1",
       "m3u8Url": "https://vip.opstream90.com/20260621/35357_3530af42/index.m3u8"
+    },
+    {
+      "name": "657",
+      "slug": "657",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/bc2ed059241324f16bb08d020e634321",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35448_bc2ed059/index.m3u8"
+    },
+    {
+      "name": "658",
+      "slug": "658",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/79eeb8ca96eec65fecbd9603c2b07a48",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35761_79eeb8ca/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "vo-than-chua-te",
-      "episodeCount": 656,
+      "episodeCount": 658,
       "priority": 0
     }
   ],

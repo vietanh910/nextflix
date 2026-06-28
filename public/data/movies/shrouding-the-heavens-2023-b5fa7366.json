@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 167",
+  "episodeCurrent": "Tập 168",
   "categories": [
     {
       "name": "Võ Thuật",
@@ -1373,13 +1373,21 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260616/kCUNHqwA/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260616/kCUNHqwA/index.m3u8"
+    },
+    {
+      "name": "Tập 168",
+      "slug": "tap-168",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/hiLOxIHG/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260623/hiLOxIHG/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "gia-thien",
-      "episodeCount": 167,
+      "episodeCount": 168,
       "priority": 1
     }
   ],

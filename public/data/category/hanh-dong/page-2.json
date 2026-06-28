@@ -5,6 +5,68 @@
   "totalPages": 6,
   "items": [
     {
+      "id": "the-final-battle-2026-d3b7640b",
+      "source": "ophim",
+      "slug": "huyen-chien-thanh-long-trai",
+      "name": "Huyến Chiến Thanh Long Trại",
+      "originName": "The Final Battle",
+      "posterUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/huyen-chien-thanh-long-trai-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "completed",
+      "episodeCurrent": "Full",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chiến Tranh",
+          "slug": "chien-tranh"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "karuppu-2026-8475b044",
+      "source": "ophim",
+      "slug": "karuppu",
+      "name": "Karuppu",
+      "originName": "Karuppu",
+      "posterUrl": "https://img.ophim.live/uploads/movies/karuppu-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/karuppu-thumb.jpg",
+      "year": 2026,
+      "type": "single",
+      "status": "unknown",
+      "episodeCurrent": "Trailer",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Ấn Độ",
+          "slug": "an-do"
+        }
+      ]
+    },
+    {
       "id": "panda-plan-2-the-magical-2026-837e1140",
       "source": "ophim",
       "slug": "ke-hoach-gau-truc-2-bo-toc-ky-dieu",
@@ -76,8 +138,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/khuc-ca-linh-hon-shinsengumi-thumb.jpg",
       "year": 2026,
       "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (6/6)",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 8",
       "categories": [
         {
           "name": "Hành Động",
@@ -109,8 +171,8 @@
       "thumbUrl": "https://img.ophim.live/uploads/movies/kill-blue-thumb.jpg",
       "year": 2026,
       "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "status": "completed",
+      "episodeCurrent": "Hoàn tất (12/12)",
       "categories": [
         {
           "name": "Hành Động",
@@ -166,6 +228,47 @@
       ]
     },
     {
+      "id": "that-time-i-got-reincarn-2026-cd773733",
+      "source": "ophim",
+      "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+      "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+      "originName": "That Time I Got Reincarnated as a Slime (Season 4)",
+      "posterUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 12",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
       "id": "marriage-toxin-2026-27040d41",
       "source": "ophim",
       "slug": "mai-moi-cho-doc-su",
@@ -176,7 +279,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 11",
+      "episodeCurrent": "Tập 12",
       "categories": [
         {
           "name": "Hành Động",
@@ -265,6 +368,35 @@
         {
           "name": "Trung Quốc",
           "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "id": "monster-eater-2026-367bf32b",
+      "source": "ophim",
+      "slug": "monster-eater",
+      "name": "Monster Eater",
+      "originName": "Monster Eater",
+      "posterUrl": "https://img.ophim.live/uploads/movies/monster-eater-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/monster-eater-thumb-1775895614969.jpg",
+      "year": 2026,
+      "type": "anime",
+      "status": "ongoing",
+      "episodeCurrent": "Tập 11",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
         }
       ]
     },
@@ -361,7 +493,7 @@
       "year": 2026,
       "type": "series",
       "status": "ongoing",
-      "episodeCurrent": "Tập 7",
+      "episodeCurrent": "Tập 20",
       "categories": [
         {
           "name": "Hành Động",
@@ -456,7 +588,7 @@
       "year": 2026,
       "type": "anime",
       "status": "ongoing",
-      "episodeCurrent": "Tập 4",
+      "episodeCurrent": "Tập 5",
       "categories": [
         {
           "name": "Hành Động",
@@ -659,134 +791,6 @@
       "type": "single",
       "status": "unknown",
       "episodeCurrent": "Trailer",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Viễn Tưởng",
-          "slug": "vien-tuong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Khoa Học",
-          "slug": "khoa-hoc"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "in-search-of-gods-2026-a0ac057b",
-      "source": "ophim",
-      "slug": "suu-than-ky",
-      "name": "Sưu Thần Ký",
-      "originName": "In Search of Gods",
-      "posterUrl": "https://img.ophim.live/uploads/movies/suu-than-ky-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/suu-than-ky-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 15",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "detective-chen-2-2026-f015ef45",
-      "source": "ophim",
-      "slug": "than-tham-nam-vung-2",
-      "name": "Thần Thám Nằm Vùng 2",
-      "originName": "Detective Chen 2",
-      "posterUrl": "https://img.ophim.live/uploads/movies/than-tham-nam-vung-2-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/than-tham-nam-vung-2-thumb.jpg",
-      "year": 2026,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        },
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Hình Sự",
-          "slug": "hinh-su"
-        },
-        {
-          "name": "Bí ẩn",
-          "slug": "bi-an"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "chenghuang-2026-db4cf080",
-      "source": "ophim",
-      "slug": "thanh-hoang-luc-2026",
-      "name": "Thành Hoàng Lục",
-      "originName": "CHENGHUANG",
-      "posterUrl": "https://img.ophim.live/uploads/movies/thanh-hoang-luc-2026-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/thanh-hoang-luc-2026-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "ongoing",
-      "episodeCurrent": "Tập 2",
-      "categories": [
-        {
-          "name": "Hành Động",
-          "slug": "hanh-dong"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Trung Quốc",
-          "slug": "trung-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-boys-season-5-2026-9589e13c",
-      "source": "ophim",
-      "slug": "the-boys-phan-5",
-      "name": "The Boys (Phần 5)",
-      "originName": "The Boys (Season 5)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/the-boys-phan-5-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/the-boys-phan-5-thumb-1775624659696.jpg",
-      "year": 2026,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (8/8)",
       "categories": [
         {
           "name": "Hành Động",

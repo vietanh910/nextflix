@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "series",
   "status": "ongoing",
-  "episodeCurrent": "Tập 3",
+  "episodeCurrent": "Tập 4",
   "categories": [
     {
       "name": "Chính Kịch",
@@ -59,6 +59,14 @@
       "m3u8Url": "https://v7.kkphimplayer7.com/20260620/aKN2jvAz/index.m3u8"
     },
     {
+      "name": "Tập 04",
+      "slug": "tap-04",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260627/oDajGiKa/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260627/oDajGiKa/index.m3u8"
+    },
+    {
       "name": "1",
       "slug": "1",
       "serverName": "Vietsub #1",
@@ -73,19 +81,27 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/67df5043df46850b16169492fc1ab2af",
       "m3u8Url": "https://vip.opstream90.com/20260616/34895_67df5043/index.m3u8"
+    },
+    {
+      "name": "3",
+      "slug": "3",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/db077222fb86870f6fa0583f80e2c6c0",
+      "m3u8Url": "https://vip.opstream90.com/20260627/35692_db077222/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "chasing-love",
-      "episodeCount": 2,
+      "episodeCount": 3,
       "priority": 0
     },
     {
       "source": "phimapi",
       "slug": "theo-duoi-tinh-yeu-2026",
-      "episodeCount": 3,
+      "episodeCount": 4,
       "priority": 1
     }
   ],

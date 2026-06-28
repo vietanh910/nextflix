@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 37",
+  "episodeCurrent": "Tập 39",
   "categories": [
     {
       "name": "Hành Động",
@@ -345,13 +345,29 @@
       "source": "phimapi",
       "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/9AJL5zbc/index.m3u8",
       "m3u8Url": "https://v7.kkphimplayer7.com/20260618/9AJL5zbc/index.m3u8"
+    },
+    {
+      "name": "Tập 38",
+      "slug": "tap-38",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260623/KLGC2Pyy/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260623/KLGC2Pyy/index.m3u8"
+    },
+    {
+      "name": "Tập 39",
+      "slug": "tap-39",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260625/yylXnUIV/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260625/yylXnUIV/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "phimapi",
       "slug": "dao-yeu-hanh",
-      "episodeCount": 37,
+      "episodeCount": 39,
       "priority": 1
     }
   ],

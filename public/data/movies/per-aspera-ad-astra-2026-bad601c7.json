@@ -45,14 +45,6 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/fc2b7a8a346f15fe5c587c6e1242038d",
       "m3u8Url": "https://vip.opstream90.com/20260618/35161_fc2b7a8a/index.m3u8"
-    },
-    {
-      "name": "Full",
-      "slug": "full",
-      "serverName": "#Hà Nội (Vietsub)",
-      "source": "phimapi",
-      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260618/PbBWCQoT/index.m3u8",
-      "m3u8Url": "https://v7.kkphimplayer7.com/20260618/PbBWCQoT/index.m3u8"
     }
   ],
   "sources": [
@@ -61,12 +53,6 @@
       "slug": "tinh-ha-nhap-mong",
       "episodeCount": 1,
       "priority": 0
-    },
-    {
-      "source": "phimapi",
-      "slug": "tinh-ha-nhap-mong",
-      "episodeCount": 1,
-      "priority": 1
     }
   ],
   "_priority": 0

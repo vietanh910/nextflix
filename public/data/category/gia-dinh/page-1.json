@@ -2,7 +2,7 @@
   "slug": "gia-dinh",
   "name": "Gia Đình",
   "page": 1,
-  "totalPages": 2,
+  "totalPages": 1,
   "items": [
     {
       "id": "toy-story-5-2026-aff042da",
@@ -199,31 +199,43 @@
       ]
     },
     {
-      "id": "fresh-off-the-sea-season-2026-4ffb2f07",
+      "id": "the-sheep-detectives-2026-c85ebf83",
       "source": "ophim",
-      "slug": "huong-vi-cua-bien-phan-3",
-      "name": "Hương Vị Của Biển (Phần 3)",
-      "originName": "Fresh off the Sea (Season 3)",
-      "posterUrl": "https://img.ophim.live/uploads/movies/huong-vi-cua-bien-phan-3-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/huong-vi-cua-bien-phan-3-thumb.jpg",
+      "slug": "doi-tham-tu-cuu-an-mang-luc-nua-dem",
+      "name": "Đội Thám Tử Cừu: Án Mạng Lúc Nửa Đêm",
+      "originName": "The Sheep Detectives",
+      "posterUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-poster.jpg",
+      "thumbUrl": "https://img.ophim.live/uploads/movies/doi-tham-tu-cuu-an-mang-luc-nua-dem-thumb.jpg",
       "year": 2026,
-      "type": "series",
+      "type": "single",
       "status": "completed",
-      "episodeCurrent": "Hoàn tất (5/5)",
+      "episodeCurrent": "Full",
       "categories": [
         {
-          "name": "Tài Liệu",
-          "slug": "tai-lieu"
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "name": "Hình Sự",
+          "slug": "hinh-su"
         },
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
+        },
+        {
+          "name": "Bí ẩn",
+          "slug": "bi-an"
         }
       ],
       "countries": [
         {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        },
+        {
+          "name": "Anh",
+          "slug": "anh"
         }
       ]
     },
@@ -352,31 +364,6 @@
       ]
     },
     {
-      "id": "pinecone-2026-bc6f2b72",
-      "source": "ophim",
-      "slug": "pinecone",
-      "name": "Pinecone",
-      "originName": "Pinecone",
-      "posterUrl": "https://img.ophim.live/uploads/movies/pinecone-poster.jpg",
-      "thumbUrl": "https://img.ophim.live/uploads/movies/pinecone-thumb.jpg",
-      "year": 2026,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Hoàn tất (1/1)",
-      "categories": [
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
       "id": "animal-farm-2026-99d693c7",
       "source": "ophim",
       "slug": "trai-suc-vat",
@@ -418,35 +405,51 @@
       ]
     },
     {
-      "id": "a-gift-from-heaven-2026-147f1a11",
+      "id": "avatar-the-last-airbende-2026-d453dc93",
       "source": "phimapi",
-      "slug": "bau-vat-troi-cho",
-      "name": "Báu vật trời cho",
-      "originName": "A Gift From Heaven",
-      "posterUrl": "https://phimimg.com/upload/vod/20260618-1/e2e53013ccd1944bf8570ee9dbc233f2.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260618-1/4344fce68030e677b52a8da8e6eb2c81.jpg",
+      "slug": "the-than-ngu-khi-su-cuoi-cung-phan-2",
+      "name": "Thế Thần: Ngự Khí Sư Cuối Cùng (Phần 2)",
+      "originName": "Avatar The Last Airbender (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260625-1/3fc3c3144a3cf7dbc9cab49f185f1843.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260625-1/4139d25ef979c60d748dfd598c0a416a.jpg",
       "year": 2026,
-      "type": "single",
+      "type": "series",
       "status": "completed",
-      "episodeCurrent": "Full",
+      "episodeCurrent": "Hoàn Tất (7/7)",
       "categories": [
         {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
         },
         {
           "name": "Gia Đình",
           "slug": "gia-dinh"
         },
         {
-          "name": "Tình Cảm",
-          "slug": "tinh-cam"
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
         }
       ],
       "countries": [
         {
-          "name": "Việt Nam",
-          "slug": "viet-nam"
+          "name": "Âu Mỹ",
+          "slug": "au-my"
         }
       ]
     },
@@ -612,6 +615,129 @@
       ]
     },
     {
+      "id": "avatar-the-last-airbende-2024-d42886d8",
+      "source": "phimapi",
+      "slug": "the-than-ngu-khi-su-cuoi-cung-phan-1",
+      "name": "Thế Thần: Ngự Khí Sư Cuối Cùng (Phần 1)",
+      "originName": "Avatar The Last Airbender (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260625-1/b586a0fda67a399ce7af066af9b039a8.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260625-1/dbedab78e6e47594f531ac02b31facdd.jpg",
+      "year": 2024,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (8/8)",
+      "categories": [
+        {
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "name": "Chính Kịch",
+          "slug": "chinh-kich"
+        },
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "id": "ruby-and-the-well-season-2022-e3cf9a63",
+      "source": "phimapi",
+      "slug": "ruby-va-gieng-than-phan-1",
+      "name": "Ruby Và Giếng Thần (Phần 1)",
+      "originName": "Ruby And The Well (Season 1)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/a94083490a599e1002ac71b6d0c49675.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/9f5d2d8d119996ebb9e3260f65ac7ed0.jpg",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
+      "id": "ruby-and-the-well-season-2022-35503ca0",
+      "source": "phimapi",
+      "slug": "ruby-va-gieng-than-phan-2",
+      "name": "Ruby Và Giếng Thần (Phần 2)",
+      "originName": "Ruby And The Well (Season 2)",
+      "posterUrl": "https://phimimg.com/upload/vod/20260626-1/0d2376c2ff2e81b65d7e927cfa2a2f9d.jpg",
+      "thumbUrl": "https://phimimg.com/upload/vod/20260626-1/f2260fcf3142a267f4b772cc89ce61a9.jpg",
+      "year": 2022,
+      "type": "series",
+      "status": "completed",
+      "episodeCurrent": "Hoàn Tất (10/10)",
+      "categories": [
+        {
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        },
+        {
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        },
+        {
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Canada",
+          "slug": "canada"
+        }
+      ]
+    },
+    {
       "id": "i-live-alone-2020-79d527b4",
       "source": "ophim",
       "slug": "toi-song-mot-minh",
@@ -633,84 +759,6 @@
         {
           "name": "Hàn Quốc",
           "slug": "han-quoc"
-        }
-      ]
-    },
-    {
-      "id": "the-call-of-the-wild-2020-2c96089c",
-      "source": "phimapi",
-      "slug": "tieng-goi-noi-hoang-da-2020",
-      "name": "Tiếng Gọi Nơi Hoang Dã",
-      "originName": "The Call Of The Wild",
-      "posterUrl": "https://phimimg.com/upload/vod/20251214-1/91d87b1b502c1cae0f67eadca5343319.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20251214-1/ec27062ebf6c092f4d6b1ce099df4fbc.jpg",
-      "year": 2020,
-      "type": "single",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
-        }
-      ]
-    },
-    {
-      "id": "sgt-stubby-an-american-h-2018-57c277ac",
-      "source": "phimapi",
-      "slug": "chu-cho-anh-hung",
-      "name": "Chú Chó Anh Hùng",
-      "originName": "Sgt. Stubby: An American Hero",
-      "posterUrl": "https://phimimg.com/upload/vod/20260620-1/ab9583aaefd36e872e2af6f8f0b3a159.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20260620-1/4e95ec94de00a1e3b2405df5bef56928.jpg",
-      "year": 2018,
-      "type": "anime",
-      "status": "completed",
-      "episodeCurrent": "Full",
-      "categories": [
-        {
-          "name": "Phiêu Lưu",
-          "slug": "phieu-luu"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        },
-        {
-          "name": "Lịch Sử",
-          "slug": "lich-su"
-        },
-        {
-          "name": "Chiến Tranh",
-          "slug": "chien-tranh"
-        },
-        {
-          "name": "Tâm Lý",
-          "slug": "tam-ly"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Âu Mỹ",
-          "slug": "au-my"
         }
       ]
     },
@@ -740,39 +788,6 @@
         {
           "name": "Việt Nam",
           "slug": "viet-nam"
-        }
-      ]
-    },
-    {
-      "id": "high-kick-season-3-2011-919d1bb2",
-      "source": "phimapi",
-      "slug": "gia-dinh-la-so-1-phan-3",
-      "name": "Gia Đình Là Số 1 (Phần 3)",
-      "originName": "High Kick (Season 3)",
-      "posterUrl": "https://phimimg.com/upload/vod/20240829-1/a0cd73eac83d6f6c967485b05a0f84b8.jpg",
-      "thumbUrl": "https://phimimg.com/upload/vod/20240829-1/05ea25e9f2011df44e92839c5973be05.jpg",
-      "year": 2011,
-      "type": "series",
-      "status": "completed",
-      "episodeCurrent": "Hoàn Tất (123/123)",
-      "categories": [
-        {
-          "name": "Hài Hước",
-          "slug": "hai-huoc"
-        },
-        {
-          "name": "Chính Kịch",
-          "slug": "chinh-kich"
-        },
-        {
-          "name": "Gia Đình",
-          "slug": "gia-dinh"
-        }
-      ],
-      "countries": [
-        {
-          "name": "Hàn Quốc",
-          "slug": "han-quoc"
         }
       ]
     }

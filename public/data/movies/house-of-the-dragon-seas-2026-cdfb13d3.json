@@ -1,0 +1,77 @@
+{
+  "id": "house-of-the-dragon-seas-2026-cdfb13d3",
+  "source": "ophim",
+  "slug": "gia-toc-rong-phan-3",
+  "name": "Gia Tộc Rồng (Phần 3)",
+  "originName": "House of the Dragon (Season 3)",
+  "posterUrl": "https://img.ophim.live/uploads/movies/gia-toc-rong-phan-3-poster.jpg",
+  "thumbUrl": "https://img.ophim.live/uploads/movies/gia-toc-rong-phan-3-thumb.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 1",
+  "categories": [
+    {
+      "name": "Hành Động",
+      "slug": "hanh-dong"
+    },
+    {
+      "name": "Viễn Tưởng",
+      "slug": "vien-tuong"
+    },
+    {
+      "name": "Phiêu Lưu",
+      "slug": "phieu-luu"
+    },
+    {
+      "name": "Khoa Học",
+      "slug": "khoa-hoc"
+    },
+    {
+      "name": "Chính kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Âu Mỹ",
+      "slug": "au-my"
+    }
+  ],
+  "description": "<p>The Black and Green factions lock into an all-out, relentless struggle for the Iron Throne. As dragons and armies clash across the realm, Westeros witnesses the devastating consequences of total war.</p>",
+  "quality": "HD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/4360d878e132d5e4f3a622d5edae7d34",
+      "m3u8Url": "https://vip.opstream90.com/20260623/35482_4360d878/index.m3u8"
+    },
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260622/trJXGtSz/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260622/trJXGtSz/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "gia-toc-rong-phan-3",
+      "episodeCount": 1,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "gia-toc-rong-phan-3",
+      "episodeCount": 1,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

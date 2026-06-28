@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "Chihiro Komiya is an energetic elementary school student who was living with his mom. Chihiro is very good at doing housework and chores, and his mother's motto is \"No work, no food.\" After his mother suddenly dies, a man named Madoka Taketori who claims to be his uncle shows up, and asks Chihiro to come live with him. Chihiro initially refuses, but when seeing the horribly dirty state of Madoka's rich home, he decides to start cleaning it. Then Madoka makes another offer to Chihiro: that he comes to live with him, but in exchange Chihiro will do the housework. Chihiro accepts this deal, but suddenly finds himself in a maid uniform.<br><br>(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

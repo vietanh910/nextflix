@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "The 4koma centers around Minami, an airheaded girl who is starting high school and who loves eating bread for breakfast. Baked goods bring happiness everyday to her and her classmates — the reliable Yuu, the pastry-baking Fuyumi, and the independent Noa.\n<br><br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

@@ -9,7 +9,14 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Music",
+      "slug": "music"
+    }
+  ],
+  "countries": [],
+  "description": "The fourth season of Aikatsu! continues on from season 3 with an introduction a brand-new idol unit from Hokkaido.",
   "episodes": [],
   "sources": [
     {

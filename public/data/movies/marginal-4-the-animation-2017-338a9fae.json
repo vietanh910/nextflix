@@ -9,7 +9,22 @@
   "year": 2017,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life"
+    }
+  ],
+  "countries": [],
+  "description": "The anime follows the Marginal#4 idol unit, who made their debut at Pythagoras Production on February 13. The members give their all for their fans in their idol activities, but they are also normal high school students. The anime will follow both their everyday lives as high school students and their lives as idols.\n<br><br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

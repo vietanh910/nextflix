@@ -1,0 +1,85 @@
+{
+  "id": "the-scammer-games-2026-3ec2a5bd",
+  "source": "phimapi",
+  "slug": "tam-tay-lua-dao",
+  "name": "Tám Tay Lừa Đảo",
+  "originName": "The Scammer Games",
+  "posterUrl": "https://phimimg.com/upload/vod/20260619-1/7bf09bb914fb8f8ac58f4b3c47425048.jpg",
+  "thumbUrl": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
+  "year": 2026,
+  "type": "series",
+  "status": "ongoing",
+  "episodeCurrent": "Tập 3",
+  "categories": [
+    {
+      "name": "Chính Kịch",
+      "slug": "chinh-kich"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Thái Lan",
+      "slug": "thai-lan"
+    }
+  ],
+  "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ.",
+  "quality": "FHD",
+  "lang": "Vietsub",
+  "episodes": [
+    {
+      "name": "Tập 01",
+      "slug": "tap-01",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260619/7qHx4hpY/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260619/7qHx4hpY/index.m3u8"
+    },
+    {
+      "name": "Tập 02",
+      "slug": "tap-02",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260624/qJ2zN2PH/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260624/qJ2zN2PH/index.m3u8"
+    },
+    {
+      "name": "Tập 03",
+      "slug": "tap-03",
+      "serverName": "#Hà Nội (Vietsub)",
+      "source": "phimapi",
+      "embedUrl": "https://player.phimapi.com/player/?url=https://v7.kkphimplayer7.com/20260626/fSypCDav/index.m3u8",
+      "m3u8Url": "https://v7.kkphimplayer7.com/20260626/fSypCDav/index.m3u8"
+    },
+    {
+      "name": "1",
+      "slug": "1",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/a104a04b5de4c7bffa5bf69d204be1e7",
+      "m3u8Url": "https://vip.opstream90.com/20260619/35210_a104a04b/index.m3u8"
+    },
+    {
+      "name": "2",
+      "slug": "2",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/9e92c56b07777926189cdffe9110dffd",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35555_9e92c56b/index.m3u8"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ophim",
+      "slug": "tam-tay-lua-dao",
+      "episodeCount": 2,
+      "priority": 0
+    },
+    {
+      "source": "phimapi",
+      "slug": "tam-tay-lua-dao",
+      "episodeCount": 3,
+      "priority": 1
+    }
+  ],
+  "_priority": 0
+}

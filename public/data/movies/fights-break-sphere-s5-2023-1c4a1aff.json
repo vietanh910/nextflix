@@ -9,7 +9,7 @@
   "year": 2023,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 204",
+  "episodeCurrent": "Tập 205",
   "categories": [
     {
       "name": "Hành Động",
@@ -1669,13 +1669,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/eda01615e3059a5471c9ff1a01559f40",
       "m3u8Url": "https://vip.opstream90.com/20260621/35356_eda01615/index.m3u8"
+    },
+    {
+      "name": "205",
+      "slug": "205",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/b8e84f9489fe4b25c50e7dd450e4be5d",
+      "m3u8Url": "https://vip.opstream90.com/20260628/35760_b8e84f94/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "dau-pha-thuong-khung-ngoai-truyen",
-      "episodeCount": 204,
+      "episodeCount": 205,
       "priority": 0
     }
   ],

@@ -9,7 +9,26 @@
   "year": 2007,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Ecchi",
+      "slug": "ecchi"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "countries": [],
+  "description": "In 2007, the Punishment of Sexual Perversions Law came into effect. The city is surrounded by a squadron wearing protective suits and they begin to arrest any who look like perversions. No wonder that Inukami Master Keita and Inukami Yoko are wanted for Class A perversions. What will happen to Keita, Yoko, Kaoru's Inukami, and the other lovely perversions? What about Karina?<br><br>\n(Source: AniDB)",
   "episodes": [],
   "sources": [
     {

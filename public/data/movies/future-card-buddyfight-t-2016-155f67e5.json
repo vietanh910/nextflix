@@ -9,7 +9,18 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Action",
+      "slug": "action"
+    }
+  ],
+  "countries": [],
+  "description": "Gao Mikado, a 6th year student of the Aibo Academy Elementary Division, is partnered with Dragon of the Sun, Bal Dragon, a monster born from a mysterious egg. To earn the coveted title as the strongest fighter in the world, Gao and Bal team up to challenge other fighters in the \"World Buddy Cup\". The two will have to battle others in a card game called Buddyfight, which allows monsters to fight alongside humans as buddies. Their rivals include ex-Buddy Police Tasuku Ryuenji, and the self-proclaimed strongest combination, Gaito Kurouzu and his buddy monster Black Death Dragon, Abygale.",
   "episodes": [],
   "sources": [
     {

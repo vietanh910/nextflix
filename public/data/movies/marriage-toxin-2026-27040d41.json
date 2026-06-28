@@ -9,7 +9,7 @@
   "year": 2026,
   "type": "anime",
   "status": "ongoing",
-  "episodeCurrent": "Tập 11",
+  "episodeCurrent": "Tập 12",
   "categories": [
     {
       "name": "Hành Động",
@@ -121,13 +121,21 @@
       "source": "ophim",
       "embedUrl": "https://vip.opstream90.com/share/1b56cc9502e48c2d42cbb7262dab2f8c",
       "m3u8Url": "https://vip.opstream90.com/20260616/34937_1b56cc95/index.m3u8"
+    },
+    {
+      "name": "12",
+      "slug": "12",
+      "serverName": "Vietsub #1",
+      "source": "ophim",
+      "embedUrl": "https://vip.opstream90.com/share/03e3ae4dc11a6abfcd5683caea151a40",
+      "m3u8Url": "https://vip.opstream90.com/20260624/35491_03e3ae4d/index.m3u8"
     }
   ],
   "sources": [
     {
       "source": "ophim",
       "slug": "mai-moi-cho-doc-su",
-      "episodeCount": 11,
+      "episodeCount": 12,
       "priority": 0
     }
   ],

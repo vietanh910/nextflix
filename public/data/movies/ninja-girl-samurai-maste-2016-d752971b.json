@@ -9,7 +9,14 @@
   "year": 2016,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "The gag manga centers on a young female ninja named Chidori, whose dream is to help the Warring States-era warlord Oda Nobunaga to achieve his goals.\n<br><br>\n(Source: Anime News Network)",
   "episodes": [],
   "sources": [
     {

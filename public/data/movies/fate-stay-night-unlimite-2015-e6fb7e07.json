@@ -9,7 +9,18 @@
   "year": 2015,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    }
+  ],
+  "countries": [],
+  "description": "As the Fifth Holy Grail War reaches its conclusion, Saber repeats her final duty from the previous war in order to end the vicious cycle once and for all. With the decisive blow draining her remaining mana reserves, Saber's body begins to dissipate. She utters a tearful farewell—but Rin Tohsaka reaches out to her at the last moment.<br>\n<br>\nThe future has been changed, and a new beginning awaits.",
   "episodes": [],
   "sources": [
     {

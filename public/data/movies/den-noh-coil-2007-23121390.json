@@ -9,7 +9,30 @@
   "year": 2007,
   "type": "anime",
   "status": "unknown",
-  "categories": [],
+  "categories": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    }
+  ],
+  "countries": [],
+  "description": "Imagine if the internet was 'projected' over the living world and you interacted with it using a portable device - glasses and visors which connect you to an augmented reality. In 2026, this technology becomes reality...<br>\n<br>\nYuuko Okonogi moves with her family to Daikoku, home of an ever expanding tech network which makes up the interactive virtual world. Her grandmother runs an agency to investigate missing children who appear to have vanished from the 'real' world and entered the city's Dennou - literally meaning \"electric brain\" - a term used to differentiate between the virtual and 'real.'<br>\n<br>\nA hacker culture is emerging amongst the children of the city. Yasako is soon introduced to Isako, whose powers for hunting computer viruses known as 'illegals' belie an agenda that might have sinister motives.<br>\n<br>\n(Source: Siren Visual)",
   "episodes": [],
   "sources": [
     {
